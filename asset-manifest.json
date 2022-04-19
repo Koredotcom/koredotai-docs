@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/koredotai-docs/static/css/main.073c9b0a.css",
+    "main.js": "/koredotai-docs/static/js/main.fb2060b1.js",
+    "static/js/619.2900fbe2.chunk.js": "/koredotai-docs/static/js/619.2900fbe2.chunk.js",
+    "static/js/356.5767d75e.chunk.js": "/koredotai-docs/static/js/356.5767d75e.chunk.js",
+    "static/js/220.45343afd.chunk.js": "/koredotai-docs/static/js/220.45343afd.chunk.js",
+    "static/js/463.1c76e599.chunk.js": "/koredotai-docs/static/js/463.1c76e599.chunk.js",
+    "static/js/751.0eda848c.chunk.js": "/koredotai-docs/static/js/751.0eda848c.chunk.js",
+    "static/js/477.3badba35.chunk.js": "/koredotai-docs/static/js/477.3badba35.chunk.js",
+    "static/js/787.45fd2308.chunk.js": "/koredotai-docs/static/js/787.45fd2308.chunk.js",
+    "index.html": "/koredotai-docs/index.html",
+    "main.073c9b0a.css.map": "/koredotai-docs/static/css/main.073c9b0a.css.map",
+    "main.fb2060b1.js.map": "/koredotai-docs/static/js/main.fb2060b1.js.map",
+    "787.45fd2308.chunk.js.map": "/koredotai-docs/static/js/787.45fd2308.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.fb2060b1.js"
+  ]
+}
