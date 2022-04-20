@@ -1,20 +1,20 @@
 {
     "info":{
-        "title":"Topic Guide",
-        "description":"Short topic guide description"
+        "title":"FR_Topic Guide",
+        "description":"FR_Short topic guide description"
     },
     "accordianActiveKey":1,
     "data": [
 
         {
-            "title": "Introduction",
+            "title": "FR_Introduction",
             "subHeading":"Introduction to dialog tasks",
             "media":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "description":"Introduction description",
             "type":"introduction"
         },
          {
-            "title": "FAQs",
+            "title": "FR_FAQs",
             "type":"faqs",
             "list": [
                 {
@@ -28,7 +28,7 @@
             ]
         },
         {
-            "title":"Videos",
+            "title":"FR_Videos",
             "type":"videos",
             "list":[
                 {
