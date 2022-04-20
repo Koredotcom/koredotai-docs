@@ -1,13 +1,21 @@
 {
-    "data": {
-        "introduction": {
+    "info":{
+        "title":"Topic Guide",
+        "description":"Short topic guide description"
+    },
+    "accordianActiveKey":1,
+    "data": [
+
+        {
             "title": "Introduction",
             "subHeading":"Introduction to dialog tasks",
-            "media":"",
-            "description":"Introduction description"
+            "media":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "description":"Introduction description",
+            "type":"introduction"
         },
-        "faq": {
+         {
             "title": "FAQs",
+            "type":"faqs",
             "list": [
                 {
                     "question": "How to analyze bot's asdf?",
@@ -19,15 +27,36 @@
                 }
             ]
         },
-        "videos": {
+        {
             "title":"Videos",
+            "type":"videos",
             "list":[
                 {
                     "title":"Dialog creation",
                     "subTitle":"Explain dialog creation",
-                    "media":""
+                    "description":"Short info",
+                    "media":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+                },
+                {
+                    "title":"Dialog creation-1",
+                    "subTitle":"Explain dialog creation-2",
+                    "description":"Short info",
+                    "media":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
                 }
             ]
+        },
+        {
+            "type":"files",
+            "title":"Attachments",
+            "list":[
+                {
+                "title":"My words doc",
+                "type":"doc",
+                "subtitle":"Sub title",
+                "description":"Description about doc",
+                "icon":"",
+                "link":"https://academy.kore.ai/"
+            }]
         }
-    }
+    ]
 }
