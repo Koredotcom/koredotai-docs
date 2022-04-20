@@ -13,8 +13,9 @@ function App() {
   let version = queryParams.get('version') || 'latest';
   let task = queryParams.get('task') || 'storyboard';
   let lang = queryParams.get('lang') || 'en';
-
-  const pathMod = `topic-guide/data/${version}/${task}/lang/${lang}`;
+  let pathBuild = window.location.href;
+  let skipBuild = pathBuild.split('build')[0];
+  const pathMod = skipBuild + `/data/${version}/${task}/lang/${lang}`;
 
   useEffect(() => {
     fetch(pathMod+".json?"+new Date().getMilliseconds()).then((resp)=>{
