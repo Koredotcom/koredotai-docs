@@ -27,9 +27,9 @@ function App() {
 
   return (
     <div className="App">
-      <h3>{introInfo.title}</h3>
+      <h3>{introInfo && introInfo.title}</h3>
       <div>
-        <p>{introInfo.description}</p>
+        <p>{introInfo && introInfo.description}</p>
       </div>
       {activeAccordianKey && <Accordion defaultActiveKey={activeAccordianKey - 1}>
         {taskData && taskData.map((data, index) => {
