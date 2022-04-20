@@ -1,6 +1,9 @@
+import React, { useState, useEffect } from 'react';
 import Accordion from 'react-bootstrap/Accordion';
 import ListGroup from 'react-bootstrap/ListGroup';
-import Card from 'react-bootstrap/Card'
+import Card from 'react-bootstrap/Card';
+import Modal from 'react-bootstrap/Modal';
+
 
 const numberTransFormTwoDegit = (n) => {
     return n > 9 ? "" + n : "0" + n;
@@ -16,17 +19,43 @@ const accordionItem = (template, data, index) => {
 
 }
 
+
+
+function VideoDialog({ data }) {
+    const [show, setShow] = useState(false);
+
+    const handleClose = () => setShow(false);
+    const handleShow = () => setShow(true);
+    return (
+        <>
+            <Card onClick={handleShow} style={{ width: '18rem' }}>
+                <Card.Img variant="top" src={data.thumbnail} />
+                <Card.Body>
+                    <Card.Title>{data.subTitle}</Card.Title>
+                    <Card.Text>
+                        {data.description}
+                    </Card.Text>
+                </Card.Body>
+            </Card>
+            <Modal show={show} onHide={handleClose}>
+                <Modal.Header closeButton>
+                    <Modal.Title>{data.title}</Modal.Title>
+                </Modal.Header>
+                <Modal.Body><video width="400" controls>
+                    <source src={data.media} type="video/mp4" />
+                </video>
+                    <h4>{data.subTitle}</h4>
+                    <p>{data.description}</p></Modal.Body>
+
+            </Modal></>)
+}
+
+
 export const templates = {
     introduction: (data, index) => {
         return (
             <>  {accordionItem(
-                <div>
-                    <video width="400" controls>
-                        <source src={data.media} type="video/mp4" />
-                    </video>
-                    <h4>{data.subHeading}</h4>
-                    <p>{data.description}</p>
-                </div>,
+                <VideoDialog data={data} />,
                 data, index)}
             </>
         )
@@ -42,15 +71,11 @@ export const templates = {
         </>);
     },
     videos: (data, index) => {
+
         const videosList = data.list.map(res => {
             return (
-                <div>
-                    <video width="400" controls>
-                        <source src={res.media} type="video/mp4" />
-                    </video>
-                    <h4>{res.subTitle}</h4>
-                    <p>{res.description}</p>
-                </div>
+
+                <VideoDialog data={res} />
             )
         });
 
