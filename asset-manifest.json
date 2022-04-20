@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/koredotai-docs/static/css/main.073c9b0a.css",
-    "main.js": "/koredotai-docs/static/js/main.fb2060b1.js",
-    "static/js/619.2900fbe2.chunk.js": "/koredotai-docs/static/js/619.2900fbe2.chunk.js",
-    "static/js/356.5767d75e.chunk.js": "/koredotai-docs/static/js/356.5767d75e.chunk.js",
-    "static/js/220.45343afd.chunk.js": "/koredotai-docs/static/js/220.45343afd.chunk.js",
+    "main.css": "/koredotai-docs/static/css/main.0b4e74b4.css",
+    "main.js": "/koredotai-docs/static/js/main.b822dd3a.js",
+    "static/js/619.13983cb7.chunk.js": "/koredotai-docs/static/js/619.13983cb7.chunk.js",
+    "static/js/356.6e32c0f1.chunk.js": "/koredotai-docs/static/js/356.6e32c0f1.chunk.js",
+    "static/js/220.29c5110a.chunk.js": "/koredotai-docs/static/js/220.29c5110a.chunk.js",
     "static/js/463.1c76e599.chunk.js": "/koredotai-docs/static/js/463.1c76e599.chunk.js",
-    "static/js/751.0eda848c.chunk.js": "/koredotai-docs/static/js/751.0eda848c.chunk.js",
+    "static/js/751.c21c1cb6.chunk.js": "/koredotai-docs/static/js/751.c21c1cb6.chunk.js",
     "static/js/477.3badba35.chunk.js": "/koredotai-docs/static/js/477.3badba35.chunk.js",
     "static/js/787.45fd2308.chunk.js": "/koredotai-docs/static/js/787.45fd2308.chunk.js",
     "index.html": "/koredotai-docs/index.html",
-    "main.073c9b0a.css.map": "/koredotai-docs/static/css/main.073c9b0a.css.map",
-    "main.fb2060b1.js.map": "/koredotai-docs/static/js/main.fb2060b1.js.map",
+    "main.0b4e74b4.css.map": "/koredotai-docs/static/css/main.0b4e74b4.css.map",
+    "main.b822dd3a.js.map": "/koredotai-docs/static/js/main.b822dd3a.js.map",
     "787.45fd2308.chunk.js.map": "/koredotai-docs/static/js/787.45fd2308.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.fb2060b1.js"
+    "static/css/main.0b4e74b4.css",
+    "static/js/main.b822dd3a.js"
   ]
 }
