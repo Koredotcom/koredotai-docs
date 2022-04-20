@@ -14,8 +14,8 @@ function App() {
   let task = queryParams.get('task') || 'storyboard';
   let lang = queryParams.get('lang') || 'en';
   let pathBuild = window.location.href;
-  let skipBuild = pathBuild.split('build')[0];
-  const pathMod = skipBuild + `/data/${version}/${task}/lang/${lang}`;
+  let skipBuild = (pathBuild.indexOf('localhost') >=0) ? 'http://localhost:8080' : pathBuild.split('build')[0] +'/data';
+  const pathMod = skipBuild + `/${version}/${task}/lang/${lang}`;
 
   useEffect(() => {
     fetch(pathMod+".json?"+new Date().getMilliseconds()).then((resp)=>{
@@ -27,10 +27,7 @@ function App() {
       setTaskData(data);
       setActiveAccordianKey(accordianActiveKey);
       setIntroInfo(info);
-    })
-    // import(pathMod + '.json').then((res) => {
-     
-    // });
+    });
   }, []);
 
   return (
