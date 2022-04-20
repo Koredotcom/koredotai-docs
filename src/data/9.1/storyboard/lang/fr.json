@@ -3,12 +3,13 @@
         "title":"FR_Topic Guide",
         "description":"FR_Short topic guide description"
     },
-    "accordianActiveKey":1,
+    "accordianActiveKey":3,
     "data": [
 
         {
             "title": "FR_Introduction",
-            "subHeading":"Introduction to dialog tasks",
+            "subTitle":"FR_Introduction to dialog tasks",
+            "thumbnail":"https://d33v4339jhl8k0.cloudfront.net/docs/assets/591c8a010428634b4a33375c/images/5ab4866b2c7d3a56d8873f4c/file-MrylO8jADD.png",
             "media":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
             "description":"Introduction description",
             "type":"introduction"
@@ -32,15 +33,17 @@
             "type":"videos",
             "list":[
                 {
-                    "title":"Dialog creation",
+                    "title":"FR_Dialog creation",
                     "subTitle":"Explain dialog creation",
                     "description":"Short info",
+                    "thumbnail":"https://d33v4339jhl8k0.cloudfront.net/docs/assets/591c8a010428634b4a33375c/images/5ab4866b2c7d3a56d8873f4c/file-MrylO8jADD.png",
                     "media":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
                 },
                 {
                     "title":"Dialog creation-1",
                     "subTitle":"Explain dialog creation-2",
                     "description":"Short info",
+                    "thumbnail":"https://d33v4339jhl8k0.cloudfront.net/docs/assets/591c8a010428634b4a33375c/images/5ab4866b2c7d3a56d8873f4c/file-MrylO8jADD.png",
                     "media":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
                 }
             ]
