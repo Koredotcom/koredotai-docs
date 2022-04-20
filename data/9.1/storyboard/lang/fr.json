@@ -1,0 +1,65 @@
+{
+    "info":{
+        "title":"FR_Topic Guide",
+        "description":"FR_Short topic guide description"
+    },
+    "accordianActiveKey":3,
+    "data": [
+
+        {
+            "title": "FR_Introduction",
+            "subTitle":"FR_Introduction to dialog tasks",
+            "thumbnail":"https://d33v4339jhl8k0.cloudfront.net/docs/assets/591c8a010428634b4a33375c/images/5ab4866b2c7d3a56d8873f4c/file-MrylO8jADD.png",
+            "media":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "description":"Introduction description",
+            "type":"introduction"
+        },
+         {
+            "title": "FR_FAQs",
+            "type":"faqs",
+            "list": [
+                {
+                    "question": "How to analyze bot's asdf?",
+                    "link": "https://developer.kore.ai/docs/bots/bot-builder-tool/analyzing-your-bot/analyzing-your-bot/"
+                },
+                {
+                    "question": "How to analyze bot's performance?",
+                    "link": "https://developer.kore.ai/docs/bots/bot-builder-tool/analyzing-your-bot/analyzing-your-bot/"
+                }
+            ]
+        },
+        {
+            "title":"FR_Videos",
+            "type":"videos",
+            "list":[
+                {
+                    "title":"FR_Dialog creation",
+                    "subTitle":"Explain dialog creation",
+                    "description":"Short info",
+                    "thumbnail":"https://d33v4339jhl8k0.cloudfront.net/docs/assets/591c8a010428634b4a33375c/images/5ab4866b2c7d3a56d8873f4c/file-MrylO8jADD.png",
+                    "media":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+                },
+                {
+                    "title":"Dialog creation-1",
+                    "subTitle":"Explain dialog creation-2",
+                    "description":"Short info",
+                    "thumbnail":"https://d33v4339jhl8k0.cloudfront.net/docs/assets/591c8a010428634b4a33375c/images/5ab4866b2c7d3a56d8873f4c/file-MrylO8jADD.png",
+                    "media":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+                }
+            ]
+        },
+        {
+            "type":"files",
+            "title":"Attachments",
+            "list":[
+                {
+                "title":"My words doc",
+                "type":"doc",
+                "subtitle":"Sub title",
+                "description":"Description about doc",
+                "icon":"",
+                "link":"https://academy.kore.ai/"
+            }]
+        }
+    ]
+}

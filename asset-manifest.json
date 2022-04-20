@@ -1,21 +1,15 @@
 {
   "files": {
-    "main.css": "/koredotai-docs/static/css/main.0b4e74b4.css",
-    "main.js": "/koredotai-docs/static/js/main.2dafa781.js",
-    "static/js/619.465f14aa.chunk.js": "/koredotai-docs/static/js/619.465f14aa.chunk.js",
-    "static/js/356.752acf5d.chunk.js": "/koredotai-docs/static/js/356.752acf5d.chunk.js",
-    "static/js/220.3dd491ce.chunk.js": "/koredotai-docs/static/js/220.3dd491ce.chunk.js",
-    "static/js/463.9a638079.chunk.js": "/koredotai-docs/static/js/463.9a638079.chunk.js",
-    "static/js/751.54e35de4.chunk.js": "/koredotai-docs/static/js/751.54e35de4.chunk.js",
-    "static/js/477.82403e2f.chunk.js": "/koredotai-docs/static/js/477.82403e2f.chunk.js",
-    "static/js/787.45fd2308.chunk.js": "/koredotai-docs/static/js/787.45fd2308.chunk.js",
-    "index.html": "/koredotai-docs/index.html",
-    "main.0b4e74b4.css.map": "/koredotai-docs/static/css/main.0b4e74b4.css.map",
-    "main.2dafa781.js.map": "/koredotai-docs/static/js/main.2dafa781.js.map",
-    "787.45fd2308.chunk.js.map": "/koredotai-docs/static/js/787.45fd2308.chunk.js.map"
+    "main.css": "/koredotai-docs/topic-guide/static/css/main.0b4e74b4.css",
+    "main.js": "/koredotai-docs/topic-guide/static/js/main.f72fdab7.js",
+    "static/js/787.45fd2308.chunk.js": "/koredotai-docs/topic-guide/static/js/787.45fd2308.chunk.js",
+    "index.html": "/koredotai-docs/topic-guide/index.html",
+    "main.0b4e74b4.css.map": "/koredotai-docs/topic-guide/static/css/main.0b4e74b4.css.map",
+    "main.f72fdab7.js.map": "/koredotai-docs/topic-guide/static/js/main.f72fdab7.js.map",
+    "787.45fd2308.chunk.js.map": "/koredotai-docs/topic-guide/static/js/787.45fd2308.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b4e74b4.css",
-    "static/js/main.2dafa781.js"
+    "static/js/main.f72fdab7.js"
   ]
 }
