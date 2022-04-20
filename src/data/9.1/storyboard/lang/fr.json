@@ -1,14 +1,33 @@
 {
     "data": {
-        "faq": [
-            {
-                "question": "How to analyze bot's asdf?",
-                "link": "https://developer.kore.ai/docs/bots/bot-builder-tool/analyzing-your-bot/analyzing-your-bot/"
-            },
-            {
-                "question": "How to analyze bot's performance?",
-                "link": "https://developer.kore.ai/docs/bots/bot-builder-tool/analyzing-your-bot/analyzing-your-bot/"
-            }
-        ]
+        "introduction": {
+            "title": "FR_Introduction",
+            "subHeading":"FR_Introduction to dialog tasks",
+            "media":"",
+            "description":"FR_Introduction description"
+        },
+        "faq": {
+            "title": "FR_FAQs",
+            "list": [
+                {
+                    "question": "How to analyze bot's asdf?",
+                    "link": "https://developer.kore.ai/docs/bots/bot-builder-tool/analyzing-your-bot/analyzing-your-bot/"
+                },
+                {
+                    "question": "How to analyze bot's performance?",
+                    "link": "https://developer.kore.ai/docs/bots/bot-builder-tool/analyzing-your-bot/analyzing-your-bot/"
+                }
+            ]
+        },
+        "videos": {
+            "title":"FR_Videos",
+            "list":[
+                {
+                    "title":"Dialog creation",
+                    "subTitle":"Explain dialog creation",
+                    "media":""
+                }
+            ]
+        }
     }
 }

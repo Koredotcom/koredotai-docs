@@ -1,35 +1,45 @@
-import React , { useState, useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
+import Accordion from 'react-bootstrap/Accordion';
+import { templates } from './templates/template';
+
 import './App.css';
 
 function App() {
 
   const queryParams = new URLSearchParams(window.location.search);
-  const [taskData, setTaskData ] = useState(null);
-  const pathMod = `./data/${queryParams.get('version')}/${queryParams.get('task')}/lang/${queryParams.get('lang')}`;
- 
-  useEffect(()=>{
-    import(pathMod+'.json').then((res)=>{
-     let { data } = res;
-     setTaskData(data);
+  const [taskData, setTaskData] = useState(null);
+  const [activeAccordianKey, setActiveAccordianKey] = useState(null);
+  const [introInfo, setIntroInfo] = useState(null);
+  let version = queryParams.get('version') || '9.1';
+  let task = queryParams.get('task') || 'storyboard';
+  let lang = queryParams.get('lang') || 'en';
+
+  const pathMod = `./data/${version}/${task}/lang/${lang}`;
+
+  useEffect(() => {
+    import(pathMod + '.json').then((res) => {
+      let { data, accordianActiveKey, info } = res;
+      setTaskData(data);
+      setActiveAccordianKey(accordianActiveKey);
+      setIntroInfo(info);
     });
   }, []);
 
-
-function prepareQuestions(){
-    if(!taskData){
-      return "";
-    }
- return taskData.faq.map((faq)=>{
-    return (<a target="_blank" href={faq.link} ><li> {faq.question}</li></a>)
-  })
-}
-
-
   return (
     <div className="App">
-        <ul>
-          {taskData && prepareQuestions()}
-        </ul>
+      <h3>{introInfo.title}</h3>
+      <div>
+        <p>{introInfo.description}</p>
+      </div>
+      {activeAccordianKey && <Accordion defaultActiveKey={activeAccordianKey - 1}>
+        {taskData && taskData.map((data, index) => {
+          return templates[data.type] && templates[data.type](data, index);
+        })
+        }
+
+      </Accordion>
+      }
+
     </div>
   );
 }
