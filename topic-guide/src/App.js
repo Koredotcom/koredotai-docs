@@ -10,19 +10,26 @@ function App() {
   const [taskData, setTaskData] = useState(null);
   const [activeAccordianKey, setActiveAccordianKey] = useState(null);
   const [introInfo, setIntroInfo] = useState(null);
-  let version = queryParams.get('version') || '9.1';
+  let version = queryParams.get('version') || 'latest';
   let task = queryParams.get('task') || 'storyboard';
   let lang = queryParams.get('lang') || 'en';
 
-  const pathMod = `./data/${version}/${task}/lang/${lang}`;
+  const pathMod = `topic-guide/data/${version}/${task}/lang/${lang}`;
 
   useEffect(() => {
-    import(pathMod + '.json').then((res) => {
+    fetch(pathMod+".json?"+new Date().getMilliseconds()).then((resp)=>{
+     return resp.json()
+
+    }).then(res=>{
+      console.log(res);
       let { data, accordianActiveKey, info } = res;
       setTaskData(data);
       setActiveAccordianKey(accordianActiveKey);
       setIntroInfo(info);
-    });
+    })
+    // import(pathMod + '.json').then((res) => {
+     
+    // });
   }, []);
 
   return (
