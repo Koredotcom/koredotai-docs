@@ -54,7 +54,7 @@ function VideoDialog({ data }) {
 export const templates = {
     introduction: (data, index) => {
         return (
-            <>  {!data.hide && accordionItem(
+            <>  {accordionItem(
                 <VideoDialog data={data} />,
                 data, index)}
             </>
@@ -62,7 +62,7 @@ export const templates = {
     },
     faqs: (data, index) => {
         return (<>
-            {!data.hide && accordionItem(
+            { accordionItem(
                 <ListGroup>
                     {data.list.map(res => {
                         if(res.hide){
@@ -86,12 +86,12 @@ export const templates = {
         });
 
         return (<>
-            {!data.hide && accordionItem(videosList, data, index)}
+            {accordionItem(videosList, data, index)}
         </>);
     },
     link: (data) => {
         return (<>
-            {!data.hide && <Card style={{ width: '18rem' }}>
+            {<Card style={{ width: '18rem' }}>
                         <Card.Img variant="top" src={data.icon} />
                         <Card.Body>
                             <Card.Title>{data.title}</Card.Title>

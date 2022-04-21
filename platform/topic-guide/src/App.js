@@ -38,7 +38,7 @@ function App() {
       </div>
       {activeAccordianKey && <Accordion defaultActiveKey={activeAccordianKey - 1}>
         {taskData && taskData.map((data, index) => {
-          return templates[data.type] && templates[data.type](data, index);
+          return !data.hide && templates[data.type] && templates[data.type](data, index);
         })
         }
 
