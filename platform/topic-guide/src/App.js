@@ -11,10 +11,10 @@ function App() {
   const [activeAccordianKey, setActiveAccordianKey] = useState(null);
   const [introInfo, setIntroInfo] = useState(null);
   let version = queryParams.get('version') || 'latest';
-  let task = queryParams.get('task') || 'storyboard';
+  let task = queryParams.get('task') || 'Storyboard';
   let lang = queryParams.get('lang') || 'en';
   let pathBuild = window.location.href;
-  let skipBuild = (pathBuild.indexOf('localhost') >=0) ? 'http://localhost:8080' : pathBuild.split('build')[0] +'/data';
+  let skipBuild = (pathBuild.indexOf('localhost') >=0 || pathBuild.indexOf('127.0.0.1') >=0) ? 'http://localhost:8080' : pathBuild.split('build')[0] +'/data';
   const pathMod = skipBuild + `/${version}/${task}/lang/${lang}`;
 
   useEffect(() => {

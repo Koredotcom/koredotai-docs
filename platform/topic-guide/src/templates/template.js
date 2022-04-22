@@ -29,7 +29,7 @@ function VideoDialog({ data }) {
     return (
         <>
             <Card onClick={handleShow} style={{ width: '18rem' }}>
-               { data.media && <Card.Img variant="top" src={data.media.thumbnail} /> }
+                {data.media && <Card.Img variant="top" src={data.media.thumbnail} />}
                 <Card.Body>
                     <Card.Title>{data.subTitle}</Card.Title>
                     <Card.Text>
@@ -56,35 +56,49 @@ export const templates = {
         return (
             <>  {accordionItem(
                 <VideoDialog data={data} />,
-                {title:data.title}, index)}
+                { title: data.title }, index)}
             </>
         )
     },
     faqs: (data, index) => {
-        return (<>
-            { accordionItem(
-                <Accordion>
-                    {data.list.map((res, index) => {
-                        if(res.hide){
-                            return "";
-                        }
-                        
-                        return accordionItem(res.markup && res.markup.map((mark, index)=>{
-                            if(mark[0] == "ul"){
-                                return React.createElement(mark[0], mark[2][0], mark[1].map(ls=>{
-                                    return React.createElement("li", null, ls);
-                                }) )
+        if (data.view == "list") {
+            return accordionItem(<ListGroup>
+                {data.list.map(res => {
+                    if (res.hide) {
+                        return "";
+                    }
+                    return (<ListGroup.Item><a href={res.link}> {res.question} </a></ListGroup.Item>);
+                })}
+            </ListGroup>, { title: data.title, listCount: data.list.length }, index);
+        } else if (data.view == "accordian") {
+            return (<>
+                {accordionItem(
+                    <Accordion>
+                        {data.list.map((res, index) => {
+                            if (res.hide) {
+                                return "";
                             }
-                            return React.createElement(mark[0], mark[2] && mark[2][0], mark[1]);
-                        }), {title:res.question}, index);
-                    })}
-                </Accordion>, {title:data.title, listCount:data.list.length}, index)}
-        </>);
+                            if (!res.markup || !res.markup.length) {
+                                return (<ListGroup.Item><a href={res.link}> {res.question} </a></ListGroup.Item>)
+                            }
+
+                            return accordionItem(res.markup && res.markup.map((mark, index) => {
+                                if (mark[0] == "ul") {
+                                    return React.createElement(mark[0], mark[2][0], mark[1].map(ls => {
+                                        return React.createElement("li", null, ls);
+                                    }))
+                                }
+                                return React.createElement(mark[0], mark[2] && mark[2][0], mark[1]);
+                            }), { title: res.question }, index);
+                        })}
+                    </Accordion>, { title: data.title, listCount: data.list.length }, index)}
+            </>);
+        }
     },
     videos: (data, index) => {
 
         const videosList = data.list.map(res => {
-            if(res.hide){
+            if (res.hide) {
                 return "";
             }
             return (
@@ -94,20 +108,20 @@ export const templates = {
         });
 
         return (<>
-            {accordionItem(videosList, {title:data.title, listCount:data.list.length}, index)}
+            {accordionItem(videosList, { title: data.title, listCount: data.list.length }, index)}
         </>);
     },
     link: (data) => {
         return (<>
             {<Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={data.icon} />
-                        <Card.Body>
-                            <Card.Title>{data.title}</Card.Title>
-                            <Card.Text>
-                                {data.description}
-                            </Card.Text>
-                        </Card.Body>
-                    </Card>}
+                <Card.Img variant="top" src={data.icon} />
+                <Card.Body>
+                    <Card.Title>{data.title}</Card.Title>
+                    <Card.Text>
+                        {data.description}
+                    </Card.Text>
+                </Card.Body>
+            </Card>}
         </>)
     }
 }
