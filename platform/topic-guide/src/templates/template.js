@@ -11,7 +11,7 @@ const numberTransFormTwoDegit = (n) => {
 
 const accordionItem = (template, data, index) => {
     return <Accordion.Item eventKey={index}>
-        <Accordion.Header>{data.title}{data.list && <span>({numberTransFormTwoDegit(data.list.length)})</span>}</Accordion.Header>
+        <Accordion.Header>{data.title}{data.listCount && <span>({numberTransFormTwoDegit(data.listCount)})</span>}</Accordion.Header>
         <Accordion.Body>
             {template}
         </Accordion.Body>
@@ -29,7 +29,7 @@ function VideoDialog({ data }) {
     return (
         <>
             <Card onClick={handleShow} style={{ width: '18rem' }}>
-               { data.media && <Card.Img variant="top" src={data.thumbnail} /> }
+               { data.media && <Card.Img variant="top" src={data.media.thumbnail} /> }
                 <Card.Body>
                     <Card.Title>{data.subTitle}</Card.Title>
                     <Card.Text>
@@ -42,7 +42,7 @@ function VideoDialog({ data }) {
                     <Modal.Title>{data.title}</Modal.Title>
                 </Modal.Header>
                 <Modal.Body><video width="400" controls>
-                    <source src={data.media} type="video/mp4" />
+                    <source src={data.media.url} type="video/mp4" />
                 </video>
                     <h4>{data.subTitle}</h4>
                     <p>{data.description}</p></Modal.Body>
@@ -56,21 +56,29 @@ export const templates = {
         return (
             <>  {accordionItem(
                 <VideoDialog data={data} />,
-                data, index)}
+                {title:data.title}, index)}
             </>
         )
     },
     faqs: (data, index) => {
         return (<>
             { accordionItem(
-                <ListGroup>
-                    {data.list.map(res => {
+                <Accordion>
+                    {data.list.map((res, index) => {
                         if(res.hide){
                             return "";
                         }
-                        return (<ListGroup.Item><a href={res.link}> {res.question} </a></ListGroup.Item>)
+                        
+                        return accordionItem(res.markup && res.markup.map((mark, index)=>{
+                            if(mark[0] == "ul"){
+                                return React.createElement(mark[0], mark[2][0], mark[1].map(ls=>{
+                                    return React.createElement("li", null, ls);
+                                }) )
+                            }
+                            return React.createElement(mark[0], mark[2] && mark[2][0], mark[1]);
+                        }), {title:res.question}, index);
                     })}
-                </ListGroup>, data, index)}
+                </Accordion>, {title:data.title, listCount:data.list.length}, index)}
         </>);
     },
     videos: (data, index) => {
@@ -86,7 +94,7 @@ export const templates = {
         });
 
         return (<>
-            {accordionItem(videosList, data, index)}
+            {accordionItem(videosList, {title:data.title, listCount:data.list.length}, index)}
         </>);
     },
     link: (data) => {
