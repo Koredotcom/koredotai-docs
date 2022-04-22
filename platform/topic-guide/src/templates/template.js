@@ -62,14 +62,14 @@ export const templates = {
     },
     faqs: (data, index) => {
         if (data.view == "list") {
-            return <ListGroup>
+            return accordionItem(<ListGroup>
                 {data.list.map(res => {
                     if (res.hide) {
                         return "";
                     }
                     return (<ListGroup.Item><a href={res.link}> {res.question} </a></ListGroup.Item>);
                 })}
-            </ListGroup>
+            </ListGroup>, { title: data.title, listCount: data.list.length }, index);
         } else if (data.view == "accordian") {
             return (<>
                 {accordionItem(
@@ -78,7 +78,7 @@ export const templates = {
                             if (res.hide) {
                                 return "";
                             }
-                            if(!res.markup || !res.markup.length) {
+                            if (!res.markup || !res.markup.length) {
                                 return (<ListGroup.Item><a href={res.link}> {res.question} </a></ListGroup.Item>)
                             }
 
