@@ -31,17 +31,16 @@ function App() {
   }, []);
 
   return (
-    <div className="App">
-      <h3>{introInfo && introInfo.title}</h3>
-      <div>
-        <p>{introInfo && introInfo.description}</p>
+    <div className="topicGuide">
+      <div className="tgHeader">
+        <h3 className="tgTitle">{introInfo && introInfo.title}</h3>
+        <p className="tgDesc">{introInfo && introInfo.description}</p>
       </div>
       {activeAccordianKey && <Accordion defaultActiveKey={activeAccordianKey - 1}>
         {taskData && taskData.map((data, index) => {
           return !data.hide && templates[data.type] && templates[data.type](data, index);
         })
         }
-
       </Accordion>
       }
 

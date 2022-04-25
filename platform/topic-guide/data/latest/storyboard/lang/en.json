@@ -16,7 +16,7 @@
                 "subtitles": "",
                 "autoplay": false,
                 "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-                "thumbnail": "https://d33v4339jhl8k0.cloudfront.net/docs/assets/591c8a010428634b4a33375c/images/5ab4866b2c7d3a56d8873f4c/file-MrylO8jADD.png"
+                "thumbnail": "../topic-guide/public/images/video-icon.svg"
             }
         },
         {
@@ -99,7 +99,7 @@
                         "subtitles": "",
                         "autoplay": false,
                         "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-                        "thumbnail": "https://d33v4339jhl8k0.cloudfront.net/docs/assets/591c8a010428634b4a33375c/images/5ab4866b2c7d3a56d8873f4c/file-MrylO8jADD.png"
+                        "thumbnail": "../topic-guide/public/images/video-icon.svg"
                     }
                 },
                 {
@@ -112,7 +112,7 @@
                         "subtitles": "",
                         "autoplay": false,
                         "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-                        "thumbnail": "https://d33v4339jhl8k0.cloudfront.net/docs/assets/591c8a010428634b4a33375c/images/5ab4866b2c7d3a56d8873f4c/file-MrylO8jADD.png"
+                        "thumbnail": "../topic-guide/public/images/video-icon.svg"
                     }
                 }
             ]

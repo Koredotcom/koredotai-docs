@@ -11,3 +11,90 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.topicGuide {
+  padding: 33px 16px;
+}
+.topicGuide .tgHeader{
+   text-align: left;
+}
+.topicGuide .tgHeader .tgTitle{
+  font-weight: 600;
+  font-size: 16px;
+  color: #202124;
+  padding-bottom: 20px;
+}
+.topicGuide .tgHeader .tgDesc{
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 18px;
+  color: #202124;
+  padding-bottom: 20px;
+} 
+.topicGuide .accordion .accordion-item{
+  border: 1px solid #E4E5E7;
+  border-radius: 5px;
+  margin-bottom: 5px;
+}
+.topicGuide .accordion .accordion-item .accordion-header .accordion-button.collapsed{
+  background: #FFFFFF;
+   padding: 12px 10px;
+   font-weight: 500;
+  font-size: 14px;
+  color: #202124 !important;
+  box-shadow: none;
+}
+.topicGuide .accordion .accordion-item .accordion-header .accordion-button{
+  background: #F8F9FA;
+  box-shadow: none;
+  color: #202124 !important;
+}
+.topicGuide .accordion .accordion-item .accordion-header .accordion-button .faqsCount{
+  color: #9AA0A6;
+  display: inline-block;
+  padding-left: 10px;
+}
+.topicGuide .accordion .accordion-item .accordion-collapse.show{
+  background: #F8F9FA
+}
+.topicGuide .accordion .accordion-item .accordion-collapse.show .card .card-body .card-title{
+  font-weight: 500;
+  font-size: 14px;
+  color: #202124;
+  padding-bottom: 5px;
+  margin: 0;
+}
+.topicGuide .accordion .accordion-item .accordion-collapse.show .card .card-body .card-text{
+  font-weight: 500;
+  font-size: 13px;
+  color: #5F6368;
+  margin: 0;
+  /* padding-bottom: 5px; */
+}
+.topicGuide .accordion .accordion-item .accordion-collapse .accordion-body .vContainer{
+  display: table;
+}
+.topicGuide .accordion .accordion-item .accordion-collapse .accordion-body .vContainer .card{
+  background: #FFFFFF;
+  border: 1px solid #BDC1C6;
+  border-radius: 3px;
+  width: 160.5px;
+  height: 120px;
+  margin: 0 15px 15px 0;
+  float: left;
+}
+.topicGuide .accordion .accordion-item .accordion-collapse .accordion-body .vContainer .card:nth-child(2n) {
+  margin-right: 0;
+}
+.topicGuide .accordion .accordion-item .accordion-collapse .accordion-body .vContainer .card .card-body .card-title{
+  padding-bottom: 0;
+  /* width: 225px; */
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.topicGuide .accordion .accordion-item .accordion-collapse .accordion-body .vContainer .card .card-body .card-text{
+  /* width: 225px; */
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}

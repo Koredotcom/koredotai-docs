@@ -11,7 +11,7 @@ const numberTransFormTwoDegit = (n) => {
 
 const accordionItem = (template, data, index) => {
     return <Accordion.Item eventKey={index}>
-        <Accordion.Header>{data.title}{data.listCount && <span>({numberTransFormTwoDegit(data.listCount)})</span>}</Accordion.Header>
+        <Accordion.Header>{data.title}{data.listCount && <span className="faqsCount">({numberTransFormTwoDegit(data.listCount)})</span>}</Accordion.Header>
         <Accordion.Body>
             {template}
         </Accordion.Body>
@@ -28,7 +28,7 @@ function VideoDialog({ data }) {
     const handleShow = () => setShow(true);
     return (
         <>
-            <Card onClick={handleShow} style={{ width: '18rem' }}>
+            <Card onClick={handleShow}  >
                 {data.media && <Card.Img variant="top" src={data.media.thumbnail} />}
                 <Card.Body>
                     <Card.Title>{data.subTitle}</Card.Title>
@@ -108,7 +108,7 @@ export const templates = {
         });
 
         return (<>
-            {accordionItem(videosList, { title: data.title, listCount: data.list.length }, index)}
+            {accordionItem(<div className="vContainer">{videosList}</div>, { title: data.title, listCount: data.list.length }, index)}
         </>);
     },
     link: (data) => {
