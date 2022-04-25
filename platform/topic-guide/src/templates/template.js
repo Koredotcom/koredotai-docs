@@ -67,7 +67,7 @@ export const templates = {
                     if (res.hide) {
                         return "";
                     }
-                    return (<ListGroup.Item><a href={res.link}> <span className="faqQ">{res.question}</span> <img src="/koredotai-docs/platform/topic-guide/build/images/external-link.svg" className="external-link"/></a></ListGroup.Item>);
+                    return (<ListGroup.Item><a href={res.link}> <span className="faqQ">{res.question}</span> <img src="/koredotai-docs/platform/topic-guide/build/assets/images/external-link.svg" className="external-link"/></a></ListGroup.Item>);
                 })}
             </ListGroup>, { title: data.title, listCount: data.list.length }, index);
         } else if (data.view == "accordian") {
@@ -115,14 +115,14 @@ export const templates = {
         return (<>
             {<Card className="docsCard">
                 <Card.Body>
-                    <div className="docIcon"><img src="/koredotai-docs/platform/topic-guide/build/images/docIcon.svg" className="docIcon"/></div>
+                    <div className="docIcon"><img src="/koredotai-docs/platform/topic-guide/build/assets/images/docIcon.svg" className="docIcon"/></div>
                     <div className="descTitle">
                     <Card.Title>{data.title}</Card.Title>
                     <Card.Text>
                         {data.description}
                     </Card.Text>
                     </div>
-                    <div className="ext-icon"><img src="/koredotai-docs/platform/topic-guide/build/images/external-link.svg" className="external-link"/></div>
+                    <div className="ext-icon"><img src="/koredotai-docs/platform/topic-guide/build/assets/images/external-link.svg" className="external-link"/></div>
                    
                 </Card.Body>
             </Card>}
