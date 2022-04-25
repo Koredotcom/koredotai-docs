@@ -64,6 +64,9 @@ code {
 .topicGuide .accordion .accordion-item .accordion-collapse.show{
   background: #F8F9FA
 }
+.topicGuide .accordion .accordion-item .accordion-collapse.show .accordion-body{
+  padding: 11px;
+}
 .topicGuide .accordion .accordion-item .accordion-collapse .accordion-body .list-group .list-group-item{
   background-color: transparent;
     border: 0px solid rgba(0,0,0,.125);
