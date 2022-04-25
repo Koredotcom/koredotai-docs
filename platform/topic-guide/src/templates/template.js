@@ -28,8 +28,8 @@ function VideoDialog({ data }) {
     const handleShow = () => setShow(true);
     return (
         <>
-            <Card onClick={handleShow}  >
-                {data.media && <Card.Img variant="top" src={data.media.thumbnail} />}
+            <Card onClick={handleShow}  className="vidoCard">
+            <div className="vidioIcon"> {data.media && <Card.Img variant="top" src={data.media.thumbnail} />}</div> 
                 <Card.Body>
                     <Card.Title>{data.subTitle}</Card.Title>
                     <Card.Text>
@@ -67,7 +67,7 @@ export const templates = {
                     if (res.hide) {
                         return "";
                     }
-                    return (<ListGroup.Item><a href={res.link}> {res.question} </a></ListGroup.Item>);
+                    return (<ListGroup.Item><a href={res.link}> <span className="faqQ">{res.question}</span> <img src="/koredotai-docs/platform/topic-guide/build/images/external-link.svg" className="external-link"/></a></ListGroup.Item>);
                 })}
             </ListGroup>, { title: data.title, listCount: data.list.length }, index);
         } else if (data.view == "accordian") {
@@ -113,13 +113,17 @@ export const templates = {
     },
     link: (data) => {
         return (<>
-            {<Card style={{ width: '18rem' }}>
-                <Card.Img variant="top" src={data.icon} />
+            {<Card className="docsCard">
                 <Card.Body>
+                    <div className="docIcon"><img src="/koredotai-docs/platform/topic-guide/build/images/docIcon.svg" className="docIcon"/></div>
+                    <div className="descTitle">
                     <Card.Title>{data.title}</Card.Title>
                     <Card.Text>
                         {data.description}
                     </Card.Text>
+                    </div>
+                    <div className="ext-icon"><img src="/koredotai-docs/platform/topic-guide/build/images/external-link.svg" className="external-link"/></div>
+                   
                 </Card.Body>
             </Card>}
         </>)

@@ -16,7 +16,7 @@
                 "subtitles": "",
                 "autoplay": false,
                 "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-                "thumbnail": "../topic-guide/public/images/video-icon.svg"
+                "thumbnail": "/koredotai-docs/platform/topic-guide/build/images/video-icon.svg"
             }
         },
         {
@@ -99,7 +99,7 @@
                         "subtitles": "",
                         "autoplay": false,
                         "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-                        "thumbnail": "../topic-guide/public/images/video-icon.svg"
+                        "thumbnail": "/koredotai-docs/platform/topic-guide/build/images/video-icon.svg"
                     }
                 },
                 {
@@ -112,7 +112,7 @@
                         "subtitles": "",
                         "autoplay": false,
                         "url": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-                        "thumbnail": "../topic-guide/public/images/video-icon.svg"
+                        "thumbnail": "/koredotai-docs/platform/topic-guide/build/images/video-icon.svg"
                     }
                 }
             ]

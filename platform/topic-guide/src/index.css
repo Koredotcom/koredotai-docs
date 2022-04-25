@@ -35,6 +35,9 @@ code {
   border-radius: 5px;
   margin-bottom: 5px;
 }
+.topicGuide .accordion .accordion-item .accordion-header .accordion-button.collapsed:hover{
+  background: #F8F9FA;
+}
 .topicGuide .accordion .accordion-item .accordion-header .accordion-button.collapsed{
   background: #FFFFFF;
    padding: 12px 10px;
@@ -56,6 +59,31 @@ code {
 .topicGuide .accordion .accordion-item .accordion-collapse.show{
   background: #F8F9FA
 }
+.topicGuide .accordion .accordion-item .accordion-collapse .accordion-body .list-group .list-group-item{
+  background-color: transparent;
+    border: 0px solid rgba(0,0,0,.125);
+    padding: 12px 0;
+    box-shadow: inset 0px -1px 0px #E4E5E7;
+    border-radius: 0;
+}
+.topicGuide .accordion .accordion-item .accordion-collapse .accordion-body .list-group .list-group-item a{
+  font-weight: 400;
+font-size: 14px;
+color: #202124;
+display: flex;
+align-items: center;
+text-decoration: none;
+}
+.topicGuide .accordion .accordion-item .accordion-collapse .accordion-body .list-group .list-group-item a .faqQ{
+  width: 100%;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.topicGuide .accordion .accordion-item .accordion-collapse .accordion-body .list-group .list-group-item a .external-link{
+  width: 14px;
+  flex-shrink: 0;
+} 
 .topicGuide .accordion .accordion-item .accordion-collapse.show .card .card-body .card-title{
   font-weight: 500;
   font-size: 14px;
@@ -64,26 +92,64 @@ code {
   margin: 0;
 }
 .topicGuide .accordion .accordion-item .accordion-collapse.show .card .card-body .card-text{
-  font-weight: 500;
+  font-weight: 400;
   font-size: 13px;
   color: #5F6368;
   margin: 0;
   /* padding-bottom: 5px; */
 }
+.topicGuide .accordion .accordion-item .accordion-collapse .accordion-body .vidoCard {
+  background: transparent;
+  border: 0;
+  width: 100%;
+  height: 208px;
+}
+.topicGuide .accordion .accordion-item .accordion-collapse .accordion-body .vidoCard .vidioIcon{
+  min-height: 140px;
+  background: #FFFFFF;
+  border: 1px solid #BDC1C6;
+  border-radius: 3px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.topicGuide .accordion .accordion-item .accordion-collapse .accordion-body .vidoCard .card-body{
+  padding: 10px 0 0 0;
+}
+.topicGuide .accordion .accordion-item .accordion-collapse .accordion-body .vidoCard .vidioIcon .card-img-top{
+  width: 36px;
+  height: 36px;
+}
 .topicGuide .accordion .accordion-item .accordion-collapse .accordion-body .vContainer{
   display: table;
 }
 .topicGuide .accordion .accordion-item .accordion-collapse .accordion-body .vContainer .card{
-  background: #FFFFFF;
-  border: 1px solid #BDC1C6;
-  border-radius: 3px;
+  background: transparent;
+  border: 0;
   width: 160.5px;
-  height: 120px;
+  height: auto;
   margin: 0 15px 15px 0;
   float: left;
 }
+.topicGuide .accordion .accordion-item .accordion-collapse .accordion-body .vContainer .card .vidioIcon {
+  background: #FFFFFF;
+  border: 1px solid #BDC1C6;
+  border-radius: 3px;
+  height: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.topicGuide .accordion .accordion-item .accordion-collapse .accordion-body .vContainer .card .vidioIcon .card-img-top{
+  width: 36px;
+  height: 36px;
+}
 .topicGuide .accordion .accordion-item .accordion-collapse .accordion-body .vContainer .card:nth-child(2n) {
   margin-right: 0;
+}
+.topicGuide .accordion .accordion-item .accordion-collapse .accordion-body .vContainer .card .card-body{
+  padding: 10px 0 0 0;
 }
 .topicGuide .accordion .accordion-item .accordion-collapse .accordion-body .vContainer .card .card-body .card-title{
   padding-bottom: 0;
@@ -97,4 +163,51 @@ code {
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
+}
+
+.topicGuide .accordion .docsCard{
+  background: #FFFFFF;
+  border: 1px solid #E4E5E7;
+  border-radius: 5px;
+  /* padding: 15px 12px; */
+  margin-bottom: 5px;
+  cursor: pointer;
+}
+.topicGuide .accordion .docsCard:hover{
+  background: #F8F9FA;
+}
+.topicGuide .accordion .docsCard .card-body{
+  display: flex;
+  align-items: center;
+  padding: 15px 12px;
+  margin-bottom: 5px;
+}
+.topicGuide .accordion .docsCard .card-body .docIcon{
+  width: 78px;
+  height:  78px;
+  flex-shrink: 0;
+}
+.topicGuide .accordion .docsCard .card-body .descTitle{
+  /* display: flex;
+  align-items: center; */
+  padding: 0 15px;
+  width: 100%;
+}
+.topicGuide .accordion .docsCard .card-body .descTitle .card-title {
+  font-weight: 500;
+  font-size: 14px;
+  color: #202124;
+  padding-bottom: 3px;
+  margin-bottom: 0;
+}
+.topicGuide .accordion .docsCard .card-body .descTitle .card-text {
+  font-weight: 400;
+  font-size: 13px;
+  color: #5F6368;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+.topicGuide .accordion .docsCard .card-body .ext-icon{
+ width: 14px;
+ flex-shrink: 0;
 }
