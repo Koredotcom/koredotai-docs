@@ -29,6 +29,10 @@ code {
   padding-bottom: 20px;
   margin: 0;
 }
+.accordion-button:not(.collapsed):after{
+  right: -10px;
+    position: relative;
+}
 .topicGuide .tgHeader .tgDesc{
   font-weight: 400;
   font-size: 13px;
@@ -65,6 +69,7 @@ code {
   background: #F8F9FA;
   box-shadow: none;
   color: #202124 !important;
+  padding: 12px 10px;
 }
 .topicGuide .accordion .accordion-item .accordion-header .accordion-button .faqsCount{
   color: #9AA0A6;

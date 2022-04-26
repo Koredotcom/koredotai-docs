@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/koredotai-docs/platform/topic-guide/build/static/css/main.1afcb019.css",
+    "main.css": "/koredotai-docs/platform/topic-guide/build/static/css/main.a0b777f4.css",
     "main.js": "/koredotai-docs/platform/topic-guide/build/static/js/main.78e61ab7.js",
     "static/js/787.45fd2308.chunk.js": "/koredotai-docs/platform/topic-guide/build/static/js/787.45fd2308.chunk.js",
     "index.html": "/koredotai-docs/platform/topic-guide/build/index.html",
-    "main.1afcb019.css.map": "/koredotai-docs/platform/topic-guide/build/static/css/main.1afcb019.css.map",
+    "main.a0b777f4.css.map": "/koredotai-docs/platform/topic-guide/build/static/css/main.a0b777f4.css.map",
     "main.78e61ab7.js.map": "/koredotai-docs/platform/topic-guide/build/static/js/main.78e61ab7.js.map",
     "787.45fd2308.chunk.js.map": "/koredotai-docs/platform/topic-guide/build/static/js/787.45fd2308.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1afcb019.css",
+    "static/css/main.a0b777f4.css",
     "static/js/main.78e61ab7.js"
   ]
 }
