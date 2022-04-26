@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import Accordion from 'react-bootstrap/Accordion';
 import { templates } from './templates/template';
-
+import { Scrollbars } from 'react-custom-scrollbars';
 import './App.css';
 
 function App() {
@@ -30,8 +30,9 @@ function App() {
     });
   }, []);
 
+
   return (
-    <div className="topicGuide">
+    <Scrollbars className="topicGuide" >
       <div className="tgHeader">
         <h3 className="tgTitle">{introInfo && introInfo.title}</h3>
         <p className="tgDesc">{introInfo && introInfo.description}</p>
@@ -44,7 +45,7 @@ function App() {
       </Accordion>
       }
 
-    </div>
+    </Scrollbars>
   );
 }
 

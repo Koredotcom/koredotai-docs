@@ -1,16 +1,22 @@
-body {
+html, body {
   margin: 0;
   font-family: 'Inter';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  height: 100%;
 }
-
+#root{
+  height: 100%;
+}
 code {
   font-family: 'Inter';
 }
 .topicGuide {
   font-family: 'Inter';
   padding: 33px 16px;
+}
+.topicGuide div:nth-last-child(1){
+  z-index: 9;
 }
 .topicGuide .tgHeader{
    text-align: left;
