@@ -1,0 +1,35 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Jekyll Doc Theme
+  version: 6.0
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Topic guide
+    output: web, pdf
+    folderitems:
+
+    - title: Storyboard
+      url: platform/topic-guide/latest/storyboard
+      output: web, pdf
+      type: homepage
+
+    - title: Summary
+      url: platform/topic-guide/latest/summary
+      output: web, pdf
+
+ 
