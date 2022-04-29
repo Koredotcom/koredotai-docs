@@ -19,6 +19,13 @@
                 $("#tg-sb-icon").toggleClass('fa-toggle-on');
                 $("#tg-sb-icon").toggleClass('fa-toggle-off');
             });
+            $('.introduction-video a').on('click',function(e){
+                console.log(e.currentTarget.href)
+            });
+
+               $('details-video a').on('click',function(e){
+                console.log(e.currentTarget.href)
+            });
         });
     </script>
     {% if page.datatable == true %}

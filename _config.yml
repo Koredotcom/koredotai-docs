@@ -7,6 +7,7 @@ topnav_title: Jekyll Documentation Theme
 # this appears on the top navigation bar next to the home button
 
 site_title: Jekyll theme for documentation
+baseUrl: https://koredotcom.github.io/koredotai-docs/
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 company_name: Copyright 2021 Google LLC
