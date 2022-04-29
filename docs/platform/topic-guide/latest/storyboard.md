@@ -1,23 +1,140 @@
 ---
 title: Storyboard-MD
-last_updated: July 16, 2016
-summary: "This theme primarily uses pages. You need to make sure your pages have the appropriate frontmatter. One frontmatter tag your users might find helpful is the summary tag. This functions similar in purpose to the shortdesc element in DITA."
-sidebar: mydoc_sidebar
-hide_sidebar: true
+
 permalink: platform/topic-guide/latest/storyboard
-folder: lang
+
 ---
+#### Topic guide
+
+   Introduction short description goes here!
+    
+<details class="introduction-video">
+  <summary>Introduction
+  </summary>
+  
+   [![Introduction alternative text goes here](../../../../images/video-icon.svg)](https://youtu.be/-RJFfV-uEFQ)
+
+  ##### Introduction to dialog tasks
+   Introduction short description goes here!
+
+</details>
 
 <details>
-  <summary>Item one
+  <summary>FAQs
   </summary>
 
-  ## Heading
-  1. First number
-  2. list
-     * With some
-     * Sub bullets
+<a class="doc-link" href="https://youtu.be/-RJFfV-uEFQ">
+ 
+  Document short info-2
+
+</a>
+  
+<details class="nested-details">
+  <summary>How to analyse the bot ?
+  </summary>
+
+     
+- Bot description one
+- Bot description two
+- Bot description three
+
+
+
 </details>
+
+<details class="nested-details">
+  <summary>Analyse bot performance?
+  </summary>
+
+     
+ 
+ ###### Test performance
+  * Testing performance software
+  * Analyse the bot
+</details>
+
+</details>
+
+<details >
+  <summary>Videos
+  </summary>
+
+   <details-video>
+   
+   [![Introduction alternative text goes here](../../../../images/video-icon.svg)](https://youtu.be/-RJFfV-uEFQ)
+
+  ##### Introduction to dialog tasks-1
+   Introduction short description goes here!
+
+   </details-video>
+
+  
+<details-video>
+
+ [![Introduction alternative text goes here](../../../../images/video-icon.svg)](https://youtu.be/-RJFfV-uEFQ)
+
+  ##### Introduction to dialog tasks-2
+   Introduction short description goes here!
+
+   </details-video>
+
+<details-video>
+
+  [![Introduction alternative text goes here](../../../../images/video-icon.svg)](https://youtu.be/-RJFfV-uEFQ)
+
+  ##### Introduction to dialog tasks-3
+   Introduction short description goes here!
+
+   </details-video>
+
+</details>
+
+<a class="doc-link" href="https://youtu.be/-RJFfV-uEFQ">
+ 
+ 
+   ![alt text](images/docIcon.svg "tets") 
+
+ #### Topic guide docs
+
+  Document short info-1
+
+</a>
+
+<a class="doc-link" href="https://youtu.be/-RJFfV-uEFQ">
+ 
+  ![alt text](images/docIcon.svg "Title")
+
+ #### Topic guide docs
+
+  Document short info-2
+
+</a>
+
+
+<a class="doc-link" href="https://youtu.be/-RJFfV-uEFQ">
+ 
+  ![alt text](images/docIcon.svg "Title")
+
+ #### Topic guide docs
+
+  Document short info-2
+
+</a>
+
+
+
+<a class="doc-link" href="https://youtu.be/-RJFfV-uEFQ">
+ 
+  ![alt text](images/docIcon.svg "Title")
+
+ #### Topic guide docs
+
+  Document short info-2
+
+</a>
+
+ 
+
 
 ## Where to author content
 My Content--90909 Use a text editor such as Sublime Text, WebStorm, IntelliJ, Visual Studio Code or Atom to create pages. Atom is recommended because it's created by Github, which is driving some of the Jekyll development through Github Pages.

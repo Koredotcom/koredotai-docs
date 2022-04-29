@@ -57,26 +57,15 @@ commonmark:
 
 # filter used to process markdown. note that kramdown differs from github-flavored markdown in some subtle ways
 
-collections:
-  tooltips:
-    output: false
-  page:
-    permalink: /:collection/:path/
-    output: true  
 # collections are declared here. this renders the content in _tooltips and processes it, but doesn't output it as actual files in the output unless you change output to true
 
 defaults:
   -
     scope:
-      path: "docs"
-      type: "docs"
+      path: "docs/platform/topic-guide"
     values:
-      layout: "page"
-      comments: true
-      # if you don't want to use Commento.io and just hide comments, change true to false wherever you see the comments property
-      search: true
-      sidebar: home_sidebar
-      topnav: topnav
+      layout: "topic"
+
 
 # these are defaults used for the frontmatter for these file types
 

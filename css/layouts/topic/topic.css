@@ -1,0 +1,199 @@
+
+details summary{
+    cursor: pointer;
+}
+.topic-container{
+    padding-top: 25px; 
+    padding-bottom: 25px; 
+}
+
+details summary, details:not([open]).nested-details summary{
+    border: 1px solid #E4E5E7;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    background-color: #fff;
+    padding: 12px 10px;
+    font-weight: 500;
+    font-size: 14px;
+    color: #202124 !important;
+    box-shadow: none;
+}
+details[open] summary, details[open].nested-details summary{
+    background: #F8F9FA;
+    box-shadow: none;
+    color: #202124 !important;
+    padding: 12px 10px;
+    margin-bottom: 0;
+    border-bottom: 0;
+    border-top: 0;
+}
+details[open]{
+    border: 1px solid #E4E5E7;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    background: #F8F9FA;
+    padding-bottom: 15px;
+}
+
+details h1, 
+details h2,
+details h3,
+details h4,
+details h5,
+details h6,
+details ol, details ol li,
+details ul,details ul li,
+details div, details.video+ *:not(summary), details.video + *:not(p:first-child){
+    /* padding-left: 25px; */
+    /* padding-right: 25px; */
+    /* position: relative;
+    left: 15px; */
+
+}
+
+details.introduction-video img{
+    height: 120px;
+}
+details.introduction-video img, details details-video p:first-child{
+    width: 100%;
+    border: 1px solid #e3d8d8;
+    background: #fff;
+    padding: 15px;
+}
+
+details.introduction-video a::after{
+    content:''
+}
+details.introduction-video *:nth-child(n+3) {
+    padding-left: 5px;
+}
+
+details h5{
+    font-weight: 500;
+    font-size: 14px;
+    color: #202124;
+    padding-bottom: 5px;
+    margin: 0;
+}
+details p {
+    font-weight: 400;
+    font-size: 13px;
+    color: #5F6368;
+    margin: 0;
+}
+
+details[open] summary::after,
+details[open].nested-details summary::after{
+    content: "";
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+    margin-top: 8px;
+    /* background-color: red; */
+    margin-right: 10px;
+    transform: rotate(-135deg);
+    -webkit-transform: rotate(-135deg);
+    float: right;
+}
+details summary::after, 
+details.nested-details summary::after{
+
+    content: "";
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+    margin-top: 8px;
+    /* background-color: red; */
+    margin-right: 10px;
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+
+    float: right;
+ 
+}
+details details-video{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 10px;
+    width: 310px;
+    /* border: 1px solid #dad3d3; */
+}
+
+
+details details-video p :not():last-child{
+    background: transparent;
+    border: 0;
+    width: 160.5px;
+    height: 100px;
+    margin: 0 15px 15px 0;
+    /* float: left; */
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 0.25rem;
+    background-color: #fff;
+}
+details details-video  p a::after{
+    content: ''  !important;
+}
+details details-video p img{
+    width: 100%;
+    height: 200px;
+    padding: 45px;
+}
+details  details-video  p a{
+    left: 10px;
+    top: 10px;
+}
+
+
+a[href^="http://"]:after, a[href^="https://"]:after {
+    float: right;
+    padding-right: 28px;
+}
+
+a.doc-link p img {
+    height: 72px;
+    
+}
+a.doc-link{
+    border: 1px solid #d6d1d1;
+    display: block;
+    margin-bottom: 5px;
+    line-height: 21px;
+}
+ details a.doc-link {
+    position: relative;
+    height: 35px;
+    border: 1px solid #d5d0d0;
+    padding: 10px;
+    background: #fff;
+    margin-bottom: 4px;
+}
+details a.doc-link::after{
+    top:-2px;
+}
+a.doc-link :not(p:first-child) {
+   top:5px;
+}
+
+a.doc-link p:first-child{
+    position: relative;
+    float: left;
+    clear: left;
+    margin: 0;
+    padding-right: 10px;
+}
+/* a.doc-link *:nth-child(n+2) {
+    padding-left: 20px;
+} */
+a.doc-link::after{
+    top: -45px;
+    position: relative;
+}
