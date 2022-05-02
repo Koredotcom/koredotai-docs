@@ -220,29 +220,30 @@ a.doc-link table{
     padding: 10px;
     background: #fff;
     margin-bottom: 4px;
+    padding: 15px 12px;
 }
 a.doc-link table thead{
     display: none;
 }
 a.doc-link table thead tbody tr{
     background-color:#fff ;
+    display: flex;
+    align-items: center;
 }
- a.doc-link h4{
-    font-weight: 500;
-font-size: 14px;
-color: #202124;
-}
-a.doc-link p:nth-child(1){
-    margin-bottom: 0;
-    float: left;
-    padding-right: 10px;
-}
- a.doc-link p{
+a.doc-link table thead tbody tr td{
     font-weight: 400;
     font-size: 13px;
     color: #5F6368;
-    margin-bottom: 0;
+    padding: 0;
+    border: 0;
 }
+a.doc-link table thead tbody tr td strong{
+    font-weight: 500;
+    font-size: 14px;
+    color: #202124;
+}
+
+
 a.doc-link::after{
     content: "" !important;
     height: 34px;
