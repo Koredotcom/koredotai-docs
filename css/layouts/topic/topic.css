@@ -205,7 +205,14 @@ a.doc-link{
     padding-right: 40px;
     position: relative;
 }
-
+a.doc-link table{
+    margin: 0;
+    border: 0;
+    background: #fff;
+    width: 100%;
+    max-width: 100%;
+    display: flex;
+}
  details a.doc-link {
     position: relative;
     height: 35px;
@@ -213,6 +220,12 @@ a.doc-link{
     padding: 10px;
     background: #fff;
     margin-bottom: 4px;
+}
+a.doc-link table thead{
+    display: none;
+}
+a.doc-link table thead tbody tr{
+    background-color:#fff ;
 }
  a.doc-link h4{
     font-weight: 500;
