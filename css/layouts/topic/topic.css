@@ -159,7 +159,7 @@ details details-video{
     margin-top: 25px; */
     /* border: 1px solid #dad3d3; */
     width: 160px;
-    height: 168px;
+    /* height: 168px; */
     margin: 0 15px 15px 0;
 }
 details details-video:nth-child(2n){
@@ -237,12 +237,19 @@ a.doc-link table{
 }
  details a.doc-link {
     position: relative;
-    height: 35px;
+    /* height: 35px; */
     border: 1px solid #d5d0d0;
     padding: 10px;
     background: #fff;
     margin-bottom: 4px;
-    padding: 15px 12px;
+    padding: 12px 10px;
+    text-decoration: none;
+}
+details a.doc-link p{
+   
+    font-weight: 500;
+    font-size: 14px;
+    color: #202124 !important;
 }
 a.doc-link table thead{
     display: none;
@@ -301,7 +308,7 @@ a.doc-link::after{
     margin: 0;
     font-style: normal;
 }
-#tg-sb-content p:nth-child(1){
+#tg-sb-content p:nth-child(2){
     font-weight: 400;
     font-size: 13px;
     line-height: 18px;
