@@ -242,11 +242,10 @@ a.doc-link table{
     padding: 10px;
     background: #fff;
     margin-bottom: 4px;
-    padding: 12px 10px;
+    padding: 12px 12px;
     text-decoration: none;
 }
 details a.doc-link p{
-   
     font-weight: 500;
     font-size: 14px;
     color: #202124 !important;
