@@ -49,22 +49,11 @@ details div, details.video+ *:not(summary), details.video + *:not(p:first-child)
     left: 15px; */
 
 }
-
-details.introduction-video img{
-    height: 120px;
+.introduction-video{
+    padding: 0 10px;
 }
-details.introduction-video img, details details-video p:first-child{
-    width: 100%;
-    border: 1px solid #e3d8d8;
-    background: #fff;
-    /* padding: 15px;    */
-}
-
-details.introduction-video a::after{
-    content:''
-}
-details.introduction-video *:nth-child(n+3) {
-    padding-left: 5px;
+.introduction-video summary{
+    padding: 12px 0 15px;
 }
 
 details h5{
