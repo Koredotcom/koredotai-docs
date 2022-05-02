@@ -258,6 +258,10 @@ details .nested-details summary{
     text-decoration: none;
     margin: 0 !important;
     background-color: transparent !important;
+    font-weight: 400 !important;
+}
+details .nested-details[open] summary{
+    box-shadow: none !important;
 }
 details a.doc-link p{
     padding-right: 21px;
