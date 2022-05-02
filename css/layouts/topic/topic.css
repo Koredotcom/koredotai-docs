@@ -117,9 +117,7 @@ details details-video p {
     white-space: nowrap;
     text-overflow: ellipsis;
 }
-details[open].nested-details {
-    margin: 0 10px;
-}
+
 details[open] summary::after,
 details[open].nested-details summary::after{
     content: "";
@@ -159,7 +157,7 @@ details details-video{
     margin-top: 25px; */
     /* border: 1px solid #dad3d3; */
     width: 160px;
-    /* height: 168px; */
+    height: 168px;
     margin: 0 15px 15px 0;
 }
 details details-video:nth-child(2n){
