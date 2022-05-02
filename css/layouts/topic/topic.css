@@ -58,7 +58,7 @@ details.introduction-video img, details details-video p:first-child{
     width: 100%;
     border: 1px solid #e3d8d8;
     background: #fff;
-    padding: 15px;
+    /* padding: 15px;    */
 }
 
 details.introduction-video a::after{
@@ -133,14 +133,15 @@ details details-video  p{
 }
 
 details details-video  p a::after{
-    content: ”;
-height: 30px;
-width: 30px;
-background: url(/koredotai-docs/images/video-icon.svg) no-repeat;
-position: absolute;
-margin-left: -10px;
-background-size: 21px;
-margin-top: 6px;
+    content: "";
+    height: 30px;
+    width: 30px;
+    background: url(/koredotai-docs/images/video-icon.svg) no-repeat;
+    position: absolute;
+    margin-left: -10px;
+    background-size: 21px;
+    margin-top: 6px;
+    position: absolute;
 }
 details details-video p img{
     width: 100%;
@@ -148,8 +149,9 @@ details details-video p img{
     padding: 45px; */
 }
 details  details-video  p a{
-    left: 10px;
-    top: 10px;
+    position: relative;
+    /* display: flex;
+    align-items: center; */
 }
 
 
