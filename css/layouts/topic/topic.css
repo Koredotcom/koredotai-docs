@@ -273,3 +273,18 @@ a.doc-link::after{
     left: auto;
     top: 40%;
 }
+#topic-guide{
+    font-weight: 600;
+    font-size: 16px;
+    color: #202124;
+    margin: 0;
+    font-style: normal;
+}
+#tg-sb-content p:nth-child(1){
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 18px;
+    color: #202124;
+    padding: 20px 0;
+    font-style: normal;
+}
