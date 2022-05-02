@@ -233,6 +233,7 @@ a.doc-link{
     position: relative;
     cursor: pointer;
     border-radius: 4px;
+    text-decoration: none !important;
     
 }
 a.doc-link:hover{
@@ -241,7 +242,7 @@ a.doc-link:hover{
 a.doc-link table{
     margin: 0;
     border: 0;
-    background: #fff;
+    /* background: #fff; */
     width: 100%;
     max-width: 100%;
     display: flex;
