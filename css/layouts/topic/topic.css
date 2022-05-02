@@ -226,6 +226,9 @@ a.doc-link table{
 a.doc-link table thead{
     display: none;
 }
+a.doc-link table  tbody{
+    width: 100%;
+}
 a.doc-link table  tbody tr{
     background-color:#fff ;
     display: flex;
@@ -248,8 +251,8 @@ a.doc-link table  tbody tr td:nth-child(1){
 }
 a.doc-link table  tbody tr td:nth-child(2){
     width: 100%;
-    background: #E7F1FF;
-    border-radius: 3px;
+    padding-left: 15px;
+    padding-right: 20px;
 }
 a.doc-link table  tbody tr td strong{
     font-weight: 500;
@@ -266,5 +269,7 @@ a.doc-link::after{
     background-size: 14px;
     position: absolute;
     padding: 0 !important;
-
+    right: 14px;
+    left: auto;
+    top: 40%;
 }
