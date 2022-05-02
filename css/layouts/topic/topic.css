@@ -3,8 +3,7 @@ details summary{
     cursor: pointer;
 }
 .topic-container{
-    padding-top: 25px; 
-    padding-bottom: 25px; 
+   padding: 25px 16px;
 }
 
 details summary, details:not([open]).nested-details summary{
@@ -32,7 +31,7 @@ details[open]{
     border-radius: 5px;
     margin-bottom: 5px;
     background: #F8F9FA;
-    padding-bottom: 15px;
+    /* padding-bottom: 15px; */
 }
 
 details h1, 
@@ -58,7 +57,7 @@ details.introduction-video img, details details-video p:first-child{
     width: 100%;
     border: 1px solid #e3d8d8;
     background: #fff;
-    padding: 15px;
+    /* padding: 15px;    */
 }
 
 details.introduction-video a::after{
@@ -80,6 +79,26 @@ details p {
     font-size: 13px;
     color: #5F6368;
     margin: 0;
+}
+details details-video h5{
+    font-weight: 500;
+    font-size: 14px;
+    color: #202124;
+    padding-bottom: 0;
+    margin: 0;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    padding-top: 10px;
+} 
+details details-video p {
+    font-weight: 400;
+    font-size: 13px;
+    color: #5F6368;
+    margin: 0;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
 }
 
 details[open] summary::after,
@@ -116,47 +135,63 @@ details.nested-details summary::after{
 details details-video{
     display: inline-block;
     vertical-align: top;
-    margin-left: 10px;
+    /* margin-left: 10px;
     width: 310px;
-    margin-top: 25px;
+    margin-top: 25px; */
     /* border: 1px solid #dad3d3; */
-}
-
-
-details details-video p :not():last-child{
-    background: transparent;
-    border: 0;
-    width: 160.5px;
-    height: 100px;
+    width: 160px;
+    height: 168px;
     margin: 0 15px 15px 0;
-    /* float: left; */
-    position: relative;
-    display: flex;
-    flex-direction: column;
-    min-width: 0;
-    word-wrap: break-word;
-    background-clip: border-box;
-    border: 1px solid rgba(0,0,0,.125);
-    border-radius: 0.25rem;
-    background-color: #fff;
 }
+details details-video:nth-child(2n){
+    margin-left: 10px;
+}
+details details-video:nth-child(2n+1){
+    margin-right: 0px;
+}
+details details-video  p{
+    padding: 0;
+    margin: 0;
+}
+details details-video  p:nth-child(1){
+  padding-top: 5px;
+}
+
 details details-video  p a::after{
-    content: ''  !important;
+    content: "" !important;
+    height: 34px;
+    width: 34px;
+    background: url(/koredotai-docs/images/video-icon.svg) no-repeat;
+    background-size: 34px;
+    position: absolute;
+    padding: 0 !important;
+    left: 38%;
+    top: 35%;
 }
 details details-video p img{
     width: 100%;
-    height: 200px;
-    padding: 45px;
+    /* height: 200px;
+    padding: 45px; */
 }
 details  details-video  p a{
-    left: 10px;
-    top: 10px;
+    position: relative;
+    display: block;
+    width: 160px;
+    height: 120px;
 }
 
 
 a[href^="http://"]:after, a[href^="https://"]:after {
-    float: right;
-    padding-right: 28px;
+    content: "" !important;
+    height: 34px;
+    width: 34px;
+    background: url(/koredotai-docs/images/video-icon.svg) no-repeat;
+
+    background-size: 34px;
+    position: absolute;
+    padding: 0 !important;
+    left: 38%;
+    top: 35%;
 }
 
 a.doc-link p img {
@@ -167,8 +202,10 @@ a.doc-link{
     border: 1px solid #d6d1d1;
     display: block;
     margin-bottom: 5px;
-    line-height: 21px;
+    padding-right: 40px;
+    position: relative;
 }
+
  details a.doc-link {
     position: relative;
     height: 35px;
@@ -177,24 +214,31 @@ a.doc-link{
     background: #fff;
     margin-bottom: 4px;
 }
-details a.doc-link::after{
-    top:-2px;
+ a.doc-link h4{
+    font-weight: 500;
+font-size: 14px;
+color: #202124;
 }
-a.doc-link :not(p:first-child) {
-   top:5px;
-}
-
-a.doc-link p:first-child{
-    position: relative;
+a.doc-link p:nth-child(1){
+    margin-bottom: 0;
     float: left;
-    clear: left;
-    margin: 0;
     padding-right: 10px;
 }
-/* a.doc-link *:nth-child(n+2) {
-    padding-left: 20px;
-} */
+ a.doc-link p{
+    font-weight: 400;
+    font-size: 13px;
+    color: #5F6368;
+    margin-bottom: 0;
+}
 a.doc-link::after{
-    top: -45px;
-    position: relative;
+    content: "" !important;
+    height: 34px;
+    width: 34px;
+    background: url(/koredotai-docs/images/externalLink.svg) no-repeat;
+
+    background-size: 34px;
+    position: absolute;
+    padding: 0 !important;
+    left: 38%;
+    top: 35%;
 }
