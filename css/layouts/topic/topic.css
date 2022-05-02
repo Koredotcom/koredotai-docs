@@ -204,6 +204,7 @@ a.doc-link{
     margin-bottom: 5px;
     padding-right: 40px;
     position: relative;
+    cursor: pointer;
 }
 a.doc-link table{
     margin: 0;
@@ -225,19 +226,19 @@ a.doc-link table{
 a.doc-link table thead{
     display: none;
 }
-a.doc-link table thead tbody tr{
+a.doc-link table  tbody tr{
     background-color:#fff ;
     display: flex;
     align-items: center;
 }
-a.doc-link table thead tbody tr td{
+a.doc-link table  tbody tr td{
     font-weight: 400;
     font-size: 13px;
     color: #5F6368;
     padding: 0;
     border: 0;
 }
-a.doc-link table thead tbody tr td strong{
+a.doc-link table  tbody tr td strong{
     font-weight: 500;
     font-size: 14px;
     color: #202124;
@@ -246,13 +247,11 @@ a.doc-link table thead tbody tr td strong{
 
 a.doc-link::after{
     content: "" !important;
-    height: 34px;
-    width: 34px;
+    height: 14px;
+    width: 14px;
     background: url(/koredotai-docs/images/externalLink.svg) no-repeat;
-
-    background-size: 34px;
+    background-size: 14px;
     position: absolute;
     padding: 0 !important;
-    left: 38%;
-    top: 35%;
+
 }
