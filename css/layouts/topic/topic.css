@@ -3,8 +3,7 @@ details summary{
     cursor: pointer;
 }
 .topic-container{
-    padding-top: 25px; 
-    padding-bottom: 25px; 
+   padding: 25px 16px;
 }
 
 details summary, details:not([open]).nested-details summary{
@@ -32,7 +31,7 @@ details[open]{
     border-radius: 5px;
     margin-bottom: 5px;
     background: #F8F9FA;
-    padding-bottom: 15px;
+    /* padding-bottom: 15px; */
 }
 
 details h1, 
@@ -152,8 +151,9 @@ details details-video:nth-child(2n+1){
 details details-video  p{
     padding: 0;
     margin: 0;
-    width: 160px;
-    height: 120px;
+}
+details details-video  p:nth-child(1){
+  padding-top: 5px;
 }
 
 details details-video  p a::after{
@@ -175,7 +175,8 @@ details details-video p img{
 details  details-video  p a{
     position: relative;
     display: block;
-    height: 100%;
+    width: 160px;
+    height: 120px;
 }
 
 
