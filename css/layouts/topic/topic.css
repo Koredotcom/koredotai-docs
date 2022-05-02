@@ -213,13 +213,17 @@ a.doc-link{
     background: #fff;
     margin-bottom: 4px;
 }
-details a.doc-link h2{
+ a.doc-link h4{
     font-weight: 500;
 font-size: 14px;
 color: #202124;
 }
-
-details a.doc-link p{
+a.doc-link p:nth-child(1){
+    margin-bottom: 0;
+    float: left;
+    padding-right: 10px;
+}
+ a.doc-link p{
     font-weight: 400;
     font-size: 13px;
     color: #5F6368;

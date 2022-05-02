@@ -130,11 +130,11 @@ permalink: platform/topic-guide/latest/storyboard
 <a class="doc-link" href="https://youtu.be/-RJFfV-uEFQ">
  
   ![alt text](images/docIcon.svg "Title")
-
+<div>
  #### Topic guide docs
 
   Document short info-2
-
+</div>
 </a>
 
 
