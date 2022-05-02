@@ -81,6 +81,25 @@ details p {
     color: #5F6368;
     margin: 0;
 }
+details details-video h5{
+    font-weight: 500;
+    font-size: 14px;
+    color: #202124;
+    padding-bottom: 5px;
+    margin: 0;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+} 
+details details-video p {
+    font-weight: 400;
+    font-size: 13px;
+    color: #5F6368;
+    margin: 0;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
 
 details[open] summary::after,
 details[open].nested-details summary::after{
@@ -125,7 +144,10 @@ details details-video{
     margin: 0 15px 15px 0;
 }
 details details-video:nth-child(2n){
-    margin-right: 0;
+    margin-left: 10px;
+}
+details details-video:nth-child(2n+1){
+    margin-right: 0px;
 }
 details details-video  p{
     padding: 0;
@@ -133,15 +155,15 @@ details details-video  p{
 }
 
 details details-video  p a::after{
-    content: "";
-    height: 30px;
-    width: 30px;
+    content: "" !important;
+    height: 34px;
+    width: 34px;
     background: url(/koredotai-docs/images/video-icon.svg) no-repeat;
+    background-size: 34px;
     position: absolute;
-    margin-left: -10px;
-    background-size: 21px;
-    margin-top: 6px;
-    position: absolute;
+    padding: 0 !important;
+    left: 40%;
+    top: -10px;
 }
 details details-video p img{
     width: 100%;
