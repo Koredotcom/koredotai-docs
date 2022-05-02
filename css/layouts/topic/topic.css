@@ -186,6 +186,7 @@ a[href^="http://"]:after, a[href^="https://"]:after {
     height: 34px;
     width: 34px;
     background: url(/koredotai-docs/images/video-icon.svg) no-repeat;
+
     background-size: 34px;
     position: absolute;
     padding: 0 !important;
@@ -234,6 +235,7 @@ a.doc-link::after{
     height: 34px;
     width: 34px;
     background: url(/koredotai-docs/images/externalLink.svg) no-repeat;
+
     background-size: 34px;
     position: absolute;
     padding: 0 !important;
