@@ -241,30 +241,23 @@ a.doc-link table{
 }
  details a.doc-link {
     position: relative;
-    /* height: 35px; */
     border: 0;
     box-shadow: inset 0px -1px 0px #E4E5E7;
-    padding: 10px;
-    /* background: #fff;
-    margin-bottom: 4px; */
     padding: 12px 10px;
     text-decoration: none;
     margin: 0 10px;
 }
 details .nested-details{
-    margin: 0 10px 5px;
+    margin: 0 10px;
 }
 details .nested-details summary{
     position: relative;
-    /* height: 35px; */
-    border: 0;
-    box-shadow: inset 0px -1px 0px #E4E5E7;
-    padding: 10px;
-    /* background: #fff;
-    margin-bottom: 4px; */
+    border: 0 !important;
+    box-shadow: inset 0px -1px 0px #E4E5E7 !important;
     padding: 12px 10px;
     text-decoration: none;
-    margin: 0 10px;
+    margin: 0 !important;
+    background-color: transparent !important;
 }
 details a.doc-link p{
     padding-right: 21px;
