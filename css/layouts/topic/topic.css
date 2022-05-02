@@ -49,14 +49,26 @@ details div, details.video+ *:not(summary), details.video + *:not(p:first-child)
     left: 15px; */
 
 }
-.introduction-video{
-    padding: 0 10px;
+
+
+details.introduction-video p:nth-child(1){
+    padding: 0 10px 10px;
 }
-.introduction-video summary{
-    padding: 12px 0 15px;
-}
-details.introduction-video img{
+details.introduction-video p a{
     height: 120px;
+    width: 100%;
+    border: 1px solid #e3d8d8;
+    background: #fff;
+    position: relative;
+}
+details.introduction-video p a:after{
+    left:45%;
+}
+details.introduction-video h5{
+    font-weight: 500;
+font-size: 14px;
+color: #202124;
+padding: 0 10px !important;
 }
 details.introduction-video img, details details-video p:first-child{
     width: 100%;
@@ -69,9 +81,9 @@ details.introduction-video a::after{
     content:''
 }
 details.introduction-video *:nth-child(n+3) {
-    padding-left: 5px;
+    padding: 0 10px 10px;
 }
-
+details doc-link
 details h5{
     font-weight: 500;
     font-size: 14px;
@@ -105,12 +117,14 @@ details details-video p {
     white-space: nowrap;
     text-overflow: ellipsis;
 }
-
+details[open].nested-details {
+    margin: 0 10px;
+}
 details[open] summary::after,
 details[open].nested-details summary::after{
     content: "";
-    border: solid black;
-    border-width: 0 3px 3px 0;
+    border: solid #202124;
+    border-width: 0 1px 1px 0;
     display: inline-block;
     padding: 3px;
     margin-top: 8px;
@@ -124,8 +138,8 @@ details summary::after,
 details.nested-details summary::after{
 
     content: "";
-    border: solid black;
-    border-width: 0 3px 3px 0;
+    border: solid #202124;
+    border-width: 0 1px 1px 0;
     display: inline-block;
     padding: 3px;
     margin-top: 8px;
@@ -145,7 +159,7 @@ details details-video{
     margin-top: 25px; */
     /* border: 1px solid #dad3d3; */
     width: 160px;
-    height: 168px;
+    /* height: 168px; */
     margin: 0 15px 15px 0;
 }
 details details-video:nth-child(2n){
@@ -210,6 +224,7 @@ a.doc-link{
     padding: 15px 12px;
     position: relative;
     cursor: pointer;
+    text-decoration: none !important;
 }
 a.doc-link table{
     margin: 0;
