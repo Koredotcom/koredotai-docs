@@ -1,4 +1,8 @@
 
+details:hover{
+    background: #F8F9FA;
+}
+
 details summary{
     cursor: pointer;
 }
@@ -230,6 +234,9 @@ a.doc-link{
     cursor: pointer;
     border-radius: 4px;
     
+}
+a.doc-link:hover{
+    background: #F8F9FA;
 }
 a.doc-link table{
     margin: 0;
