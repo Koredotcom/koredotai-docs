@@ -49,14 +49,28 @@ details div, details.video+ *:not(summary), details.video + *:not(p:first-child)
     left: 15px; */
 
 }
-.introduction-video{
-    padding: 0 10px;
+
+
+details.introduction-video p{
+    padding: 0 10px 10px;
 }
-.introduction-video summary{
-    padding: 12px 0 15px;
-}
-details.introduction-video img{
+details.introduction-video p a{
     height: 120px;
+    width: 100%;
+    border: 1px solid #e3d8d8;
+    background: #fff;
+    position: relative;
+    display: block;
+}
+details.introduction-video p a:after{
+    left:45%;
+}
+details.introduction-video h5{
+    font-weight: 500;
+    font-size: 14px;
+    color: #202124;
+    padding: 10px 10px 0 !important;
+    margin: 0;
 }
 details.introduction-video img, details details-video p:first-child{
     width: 100%;
@@ -69,9 +83,9 @@ details.introduction-video a::after{
     content:''
 }
 details.introduction-video *:nth-child(n+3) {
-    padding-left: 5px;
+    padding: 0 10px 10px;
 }
-
+details doc-link
 details h5{
     font-weight: 500;
     font-size: 14px;
@@ -109,8 +123,8 @@ details details-video p {
 details[open] summary::after,
 details[open].nested-details summary::after{
     content: "";
-    border: solid black;
-    border-width: 0 3px 3px 0;
+    border: solid #202124;
+    border-width: 0 1px 1px 0;
     display: inline-block;
     padding: 3px;
     margin-top: 8px;
@@ -124,8 +138,8 @@ details summary::after,
 details.nested-details summary::after{
 
     content: "";
-    border: solid black;
-    border-width: 0 3px 3px 0;
+    border: solid #202124;
+    border-width: 0 1px 1px 0;
     display: inline-block;
     padding: 3px;
     margin-top: 8px;
@@ -145,7 +159,7 @@ details details-video{
     margin-top: 25px; */
     /* border: 1px solid #dad3d3; */
     width: 160px;
-    height: 168px;
+    /* height: 168px; */
     margin: 0 15px 15px 0;
 }
 details details-video:nth-child(2n){
@@ -204,12 +218,14 @@ a.doc-link p img {
     
 }
 a.doc-link{
-    border: 1px solid #d6d1d1;
+    border: 1px solid #E4E5E7;
     display: block;
     margin-bottom: 5px;
     padding: 15px 12px;
     position: relative;
     cursor: pointer;
+    border-radius: 4px;
+    
 }
 a.doc-link table{
     margin: 0;
@@ -221,12 +237,19 @@ a.doc-link table{
 }
  details a.doc-link {
     position: relative;
-    height: 35px;
+    /* height: 35px; */
     border: 1px solid #d5d0d0;
     padding: 10px;
     background: #fff;
     margin-bottom: 4px;
-    padding: 15px 12px;
+    padding: 12px 10px;
+    text-decoration: none;
+}
+details a.doc-link p{
+   
+    font-weight: 500;
+    font-size: 14px;
+    color: #202124 !important;
 }
 a.doc-link table thead{
     display: none;
@@ -285,7 +308,7 @@ a.doc-link::after{
     margin: 0;
     font-style: normal;
 }
-#tg-sb-content p:nth-child(1){
+#tg-sb-content p:nth-child(2){
     font-weight: 400;
     font-size: 13px;
     line-height: 18px;
