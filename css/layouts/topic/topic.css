@@ -116,37 +116,36 @@ details.nested-details summary::after{
 details details-video{
     display: inline-block;
     vertical-align: top;
-    margin-left: 10px;
+    /* margin-left: 10px;
     width: 310px;
-    margin-top: 25px;
+    margin-top: 25px; */
     /* border: 1px solid #dad3d3; */
-}
-
-
-details details-video p :not():last-child{
-    background: transparent;
-    border: 0;
-    width: 160.5px;
-    height: 100px;
+    width: 160px;
+    height: 168px;
     margin: 0 15px 15px 0;
-    /* float: left; */
-    position: relative;
-    display: flex;
-    flex-direction: column;
-    min-width: 0;
-    word-wrap: break-word;
-    background-clip: border-box;
-    border: 1px solid rgba(0,0,0,.125);
-    border-radius: 0.25rem;
-    background-color: #fff;
 }
+details details-video:nth-child(2n){
+    margin-right: 0;
+}
+details details-video  p{
+    padding: 0;
+    margin: 0;
+}
+
 details details-video  p a::after{
-    content: ''  !important;
+    content: ”;
+height: 30px;
+width: 30px;
+background: url(/koredotai-docs/images/video-icon.svg) no-repeat;
+position: absolute;
+margin-left: -10px;
+background-size: 21px;
+margin-top: 6px;
 }
 details details-video p img{
     width: 100%;
-    height: 200px;
-    padding: 45px;
+    /* height: 200px;
+    padding: 45px; */
 }
 details  details-video  p a{
     left: 10px;
