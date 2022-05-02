@@ -1,5 +1,5 @@
 
-details:hover{
+details:hover summary{
     background: #F8F9FA;
 }
 
@@ -251,7 +251,7 @@ a.doc-link table{
     border: 0;
     box-shadow: inset 0px -1px 0px #E4E5E7;
     padding: 12px 10px;
-    text-decoration: none;
+    text-decoration: none !important;
     margin: 0 10px;
 }
 details .nested-details{
@@ -283,7 +283,7 @@ a.doc-link table  tbody{
     width: 100%;
 }
 a.doc-link table  tbody tr{
-    background-color:#fff ;
+    background-color:transparent;
     display: flex;
     align-items: center;
 }
