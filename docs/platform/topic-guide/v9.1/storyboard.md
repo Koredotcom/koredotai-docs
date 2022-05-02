@@ -71,7 +71,7 @@ permalink: platform/topic-guide/latest/storyboard
   
 <details-video>
 
-  [![Introduction alternative text goes here](https://i.vimeocdn.com/video/873029368-78a366b9407757e066a37718d766be53d3cb90d7f27708590ca16a1400e95b89-d?mw=1300&mh=975&q=70)](https://player.vimeo.com/video/403530213)
+ [![Introduction alternative text goes here](../../../../images/video-icon.svg)](https://youtu.be/-RJFfV-uEFQ)
 
   ##### Introduction to dialog tasks-2
    Introduction short description goes here!
@@ -80,34 +80,7 @@ permalink: platform/topic-guide/latest/storyboard
 
 <details-video>
 
-  [![Introduction alternative text goes here](https://i.vimeocdn.com/video/873029368-78a366b9407757e066a37718d766be53d3cb90d7f27708590ca16a1400e95b89-d?mw=1300&mh=975&q=70)](https://player.vimeo.com/video/403530213)
-
-  ##### Introduction to dialog tasks-3
-   Introduction short description goes here!
-
-   </details-video>
-
-   <details-video>
-
-  [![Introduction alternative text goes here](https://i.vimeocdn.com/video/873029368-78a366b9407757e066a37718d766be53d3cb90d7f27708590ca16a1400e95b89-d?mw=1300&mh=975&q=70)](https://player.vimeo.com/video/403530213)
-
-  ##### Introduction to dialog tasks-3
-   Introduction short description goes here!
-
-   </details-video>
-
-   <details-video>
-
-  [![Introduction alternative text goes here](https://i.vimeocdn.com/video/873029368-78a366b9407757e066a37718d766be53d3cb90d7f27708590ca16a1400e95b89-d?mw=1300&mh=975&q=70)](https://player.vimeo.com/video/403530213)
-
-  ##### Introduction to dialog tasks-3
-   Introduction short description goes here!
-
-   </details-video>
-
-   <details-video>
-
-  [![Introduction alternative text goes here](https://i.vimeocdn.com/video/873029368-78a366b9407757e066a37718d766be53d3cb90d7f27708590ca16a1400e95b89-d?mw=1300&mh=975&q=70)](https://player.vimeo.com/video/403530213)
+  [![Introduction alternative text goes here](../../../../images/video-icon.svg)](https://youtu.be/-RJFfV-uEFQ)
 
   ##### Introduction to dialog tasks-3
    Introduction short description goes here!
@@ -118,15 +91,12 @@ permalink: platform/topic-guide/latest/storyboard
 
 <a class="doc-link" href="https://youtu.be/-RJFfV-uEFQ">
  
-
-
-
-
  
-| Frontmatter | Required? |
-|-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Title**  <br /> Desription content | 
+   ![alt text](images/docIcon.svg "tets") 
 
+ #### Topic guide docs
+
+  Document short info-1
 
 </a>
 
@@ -134,7 +104,9 @@ permalink: platform/topic-guide/latest/storyboard
  
   ![alt text](images/docIcon.svg "Title")
 
+ #### Topic guide docs
 
+  Document short info-2
 
 </a>
 
