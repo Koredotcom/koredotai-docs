@@ -244,6 +244,10 @@ a.doc-link table{
     margin-bottom: 4px;
     padding: 12px 12px;
     text-decoration: none;
+    margin: 0 10px 5px;
+}
+details .nested-details{
+    margin: 0 10px 5px;
 }
 details a.doc-link p{
     font-weight: 500;
