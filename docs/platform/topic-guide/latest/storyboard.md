@@ -6,16 +6,16 @@ permalink: platform/topic-guide/latest/storyboard
 ---
 #### Topic guide
 
-   Introduction short description goes here!
+   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Storyboard
     
 <details class="introduction-video">
   <summary>Introduction
   </summary>
   
-   [![Introduction alternative text goes here](../../../../images/video-icon.svg)](https://youtu.be/-RJFfV-uEFQ)
+   [![Introduction to Storyboard](../../../../images/video-icon.svg)](https://drive.google.com/file/d/1ICMkN5MYkXrZ44SGaXgU9srWdFUBKU8I/preview)
 
-  ##### Introduction to dialog tasks
-   Introduction short description goes here!
+  ##### Introduction to Storyboard
+  Watch this short video on how to use Storyboard to build mock conversations
 
 </details>
 
@@ -23,35 +23,32 @@ permalink: platform/topic-guide/latest/storyboard
   <summary>FAQs
   </summary>
 
-<a class="doc-link" href="https://youtu.be/-RJFfV-uEFQ">
+  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/bot-creation/storyboard/">
  
-  Document short info-2
+  What is a Storyboard?
 
 </a>
-  
-<details class="nested-details">
-  <summary>How to analyse the bot ?
-  </summary>
 
-     
-- Bot description one
-- Bot description two
-- Bot description three
-
-
-
-</details>
-
-<details class="nested-details">
-  <summary>Analyse bot performance?
-  </summary>
-
-     
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/bot-creation/storyboard/#Scenes">
  
- ###### Test performance
-  * Testing performance software
-  * Analyse the bot
-</details>
+  What are Scenes?
+
+</a>
+
+
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/bot-creation/storyboard/#Bot_Messages_Templates">
+ 
+  What are the various message templates that can be used in storyboard scene?
+
+</a>
+
+
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/bot-creation/storyboard/#Scene_Options">
+
+  How to get feedback on scenes?
+
+</a>
+
 
 </details>
 
@@ -61,75 +58,32 @@ permalink: platform/topic-guide/latest/storyboard
 
    <details-video>
    
-   [![Introduction alternative text goes here](https://i.vimeocdn.com/video/873029368-78a366b9407757e066a37718d766be53d3cb90d7f27708590ca16a1400e95b89-d?mw=1300&mh=975&q=70)](https://player.vimeo.com/video/403530213)
+   [![Introduction to storyboard](https://i.vimeocdn.com/video/873029368-78a366b9407757e066a37718d766be53d3cb90d7f27708590ca16a1400e95b89-d?mw=1300&mh=975&q=70)](https://drive.google.com/file/d/1ICMkN5MYkXrZ44SGaXgU9srWdFUBKU8I/preview)
 
-  ##### Introduction to dialog tasks-1
-   Introduction short description goes here!
-
+  ##### Introduction to Storyboard
+  Watch this short video on how to use Storyboard to build mock conversations
    </details-video>
 
   
-<details-video>
-
- [![Introduction alternative text goes here](../../../../images/video-icon.svg)](https://youtu.be/-RJFfV-uEFQ)
-
-  ##### Introduction to dialog tasks-2
-   Introduction short description goes here!
-
-   </details-video>
-
-<details-video>
-
-  [![Introduction alternative text goes here](../../../../images/video-icon.svg)](https://youtu.be/-RJFfV-uEFQ)
-
-  ##### Introduction to dialog tasks-3
-   Introduction short description goes here!
-
-   </details-video>
-
 </details>
 
-<a class="doc-link" href="https://youtu.be/-RJFfV-uEFQ">
+<a class="doc-link" href="https://academy.kore.ai/Public/?li=N3dvQXCloNC8PImlwXspgw%3d%3d">
  
- 
-   ![alt text](images/docIcon.svg "tets") 
 
- #### Topic guide docs
+| Frontmatter | Required? |
+|-------------|-------------|
+| ![alt text](images/docIcon.svg "Title") | **Academy**  <br /> Access the Kore Academy course 102A - Designing conversations with storyboards | 
 
-  Document short info-1
-
-</a>
-
-<a class="doc-link" href="https://youtu.be/-RJFfV-uEFQ">
- 
-  ![alt text](images/docIcon.svg "Title")
-
- #### Topic guide docs
-
-  Document short info-2
 
 </a>
 
 
-<a class="doc-link" href="https://youtu.be/-RJFfV-uEFQ">
+<a class="doc-link" href="https://developer.kore.ai/docs/bots/bot-builder-tool/bot-creation/storyboard/">
  
-  ![alt text](images/docIcon.svg "Title")
 
- #### Topic guide docs
+| Frontmatter | Required? |
+|-------------|-------------|
+| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Storyboard | 
 
-  Document short info-2
 
 </a>
-
-
-
-<a class="doc-link" href="https://youtu.be/-RJFfV-uEFQ">
- 
-  ![alt text](images/docIcon.svg "Title")
-
- #### Topic guide docs
-
-  Document short info-2
-
-</a>
-
