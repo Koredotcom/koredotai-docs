@@ -73,7 +73,7 @@ details.introduction-video h5{
     margin: 0;
 }
 details.introduction-video img, details details-video p:first-child{
-    width: 100%;
+    max-width: 100%;
     border: 1px solid #e3d8d8;
     background: #fff;
     /* padding: 15px;    */
