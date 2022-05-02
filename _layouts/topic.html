@@ -12,6 +12,11 @@
     </script>
     <script>
         $(document).ready(function() {
+            var payloadObj = {
+                    action: ''videoModal',
+                    selector: 'topicGuide',
+                    payload:{url:""}
+                    };
             $("#tg-sb-link").click(function() {
                 $("#tg-sb-sidebar").toggle();
                 $("#tg-sb-content").toggleClass('col-md-9');
@@ -19,13 +24,15 @@
                 $("#tg-sb-icon").toggleClass('fa-toggle-on');
                 $("#tg-sb-icon").toggleClass('fa-toggle-off');
             });
-            $('.introduction-video a').on('click',function(e){
-                console.log(e.currentTarget.href)
-            });
 
-               $('details-video a').on('click',function(e){
-                console.log(e.currentTarget.href)
-            });
+            function videoCallback(e){
+                payloadObj.payload.url = e.currentTarget.href;
+                window.parent.postMessage(payloadObj, '*');
+
+            }
+            $('.introduction-video a').on('click',videoCallback);
+
+            $('details-video a').on('click',videoCallback);
         });
     </script>
     {% if page.datatable == true %}
