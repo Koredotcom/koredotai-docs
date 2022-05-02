@@ -1,5 +1,5 @@
 ---
-title: Storyboard-MD
+title: Storyboard
 
 permalink: platform/topic-guide/latest/storyboard
 

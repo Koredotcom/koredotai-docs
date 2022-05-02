@@ -13,7 +13,7 @@
     <script>
         $(document).ready(function() {
             var payloadObj = {
-                    action: ''videoModal',
+                    action: 'videoModal',
                     selector: 'topicGuide',
                     payload:{url:""}
                     };
@@ -26,8 +26,10 @@
             });
 
             function videoCallback(e){
+                e.preventDefault();
                 payloadObj.payload.url = e.currentTarget.href;
                 window.parent.postMessage(payloadObj, '*');
+
 
             }
             $('.introduction-video a').on('click',videoCallback);
