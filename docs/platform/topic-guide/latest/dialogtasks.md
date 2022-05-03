@@ -97,7 +97,7 @@ How can we achieve contextual NLU using group node?
   
 </details>
 
-<a class="doc-link" href="https://academy.kore.ai/Public/?li=4w49d3WBc7Rte5V%2bXBWrKA%3d%3d">
+<a class="doc-link" target="_blank" href="https://academy.kore.ai/Public/?li=4w49d3WBc7Rte5V%2bXBWrKA%3d%3d">
  
 
 | Frontmatter | Required? |
@@ -108,7 +108,7 @@ How can we achieve contextual NLU using group node?
 </a>
 
 
-<a class="doc-link" href="https://developer.kore.ai/docs/bots/bot-builder-tool/dialog-task/dialog-tasks/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/dialog-task/dialog-tasks/">
  
 
 | Frontmatter | Required? |
