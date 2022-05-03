@@ -4,6 +4,7 @@ title: Help
 permalink: platform/topic-guide/latest/Help
 
 ---
+
 #### Topic guide
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Kore.ai Experience Optimization (XO) Platform.
