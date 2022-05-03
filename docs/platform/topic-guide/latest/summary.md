@@ -1,5 +1,5 @@
 ---
-title: Dialog Tasks
+title: Bot Summary
 
 permalink: platform/topic-guide/latest/Summary
 
