@@ -1,5 +1,5 @@
 ---
-title: Dialog Tasks
+title: Knowledge Graph
 
 permalink: platform/topic-guide/latest/Knowledge Graph
 
