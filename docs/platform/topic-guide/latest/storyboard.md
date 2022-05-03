@@ -67,7 +67,7 @@ permalink: platform/topic-guide/latest/Storyboard
   
 </details>
 
-<a class="doc-link" href="https://academy.kore.ai/Public/?li=N3dvQXCloNC8PImlwXspgw%3d%3d">
+<a class="doc-link" target="_blank" href="https://academy.kore.ai/Public/?li=N3dvQXCloNC8PImlwXspgw%3d%3d">
  
 
 | Frontmatter | Required? |
@@ -78,7 +78,7 @@ permalink: platform/topic-guide/latest/Storyboard
 </a>
 
 
-<a class="doc-link" href="https://developer.kore.ai/docs/bots/bot-builder-tool/bot-creation/storyboard/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/bot-creation/storyboard/">
  
 
 | Frontmatter | Required? |
