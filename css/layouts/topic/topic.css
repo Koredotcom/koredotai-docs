@@ -257,7 +257,7 @@ a.doc-link{
     
 }
 
-a.doc-link:before, a.nested-accordian-link{
+a.doc-link:before, a.nested-accordian-link:before{
     display: none !important;
 }
 a.doc-link:hover{
