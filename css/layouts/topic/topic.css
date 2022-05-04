@@ -70,9 +70,18 @@ details.introduction-video p a img{
     height: 140px;
     width: 340px;
 }
+details.introduction-video p a:before{
+    content: '';
+    display: inline-block;
+    background: black;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
 details.introduction-video p a:after{
     left:45%;
 }
+
 details.introduction-video h5{
     font-weight: 500;
     font-size: 14px;
@@ -363,7 +372,7 @@ details .doc-link.tour-guide:after{
     text-decoration: none !important;
 }
 .nested-accordian-link:after{
-    display: none;
+    display: none !important;
 }
 .nested-accordian-link .nested-details{
     border: 0;
