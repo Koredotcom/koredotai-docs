@@ -1,7 +1,7 @@
 ---
 title: Help
 
-permalink: platform/topic-guide/latest/Help
+permalink: platform/topic-guide/latest/Bots Home
 
 ---
 
