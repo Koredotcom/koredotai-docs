@@ -177,7 +177,7 @@ details details-video:nth-child(2n+1){
     margin-right: 0px;
 }
 details details-video  p{
-    padding: 0;
+    padding: 0 !important;
     margin: 0;
 }
 details details-video  p:nth-child(1){
@@ -343,10 +343,13 @@ a.doc-link::after{
     font-style: normal;
 }
 #tg-sb-content h6:nth-child(2){
-    font-weight: 400;
+    padding: 0;
+    font-weight: normal;
     font-size: 13px;
-    line-height: 18px;
-    color: #202124;
-    padding: 20px 0;
-    font-style: normal;
+    color: #5f6368;
+    margin: 0;
+}
+details .doc-link.tour-guide:after{
+    background: none !important;
+    content: "Guided tour" !important;
 }
