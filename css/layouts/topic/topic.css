@@ -334,7 +334,15 @@ a.doc-link::after{
     margin: 0;
     font-style: normal;
 }
-#tg-sb-content p:nth-child(2){
+#tg-sb-content p:nth-child(3){
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 18px;
+    color: #202124;
+    padding: 20px 0;
+    font-style: normal;
+}
+#tg-sb-content h6:nth-child(2){
     font-weight: 400;
     font-size: 13px;
     line-height: 18px;
