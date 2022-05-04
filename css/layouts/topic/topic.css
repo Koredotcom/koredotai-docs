@@ -371,7 +371,7 @@ a.doc-link::after{
     font-weight: normal;
     font-size: 13px;
     color: #5f6368;
-    margin: 0;
+    margin: 5px 0 0;
 }
 details .doc-link.tour-guide:after{
     background: none !important;
