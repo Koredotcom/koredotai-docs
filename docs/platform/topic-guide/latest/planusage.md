@@ -64,9 +64,9 @@ permalink: platform/topic-guide/latest/Plan & Usage
  
   <summary>What is a Support Plan?
   </summary>
-    
+
    Every paid bot comes with a default basic support plan. You can upgrade to get better assistance from the platform support team
-    
+
   </details>
  </a>
 
