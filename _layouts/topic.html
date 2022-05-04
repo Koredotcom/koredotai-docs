@@ -3,10 +3,10 @@
 <head>
 
     {% include head.html %}
-     <link rel="stylesheet" href="css/perfect-scrollbar.min.css">
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.perfect-scrollbar/1.5.5/css/perfect-scrollbar.min.css" />
     <link rel="stylesheet" href="css/layouts/topic/topic.css">
-     <script type="text/javascript"  src="js/jquery.mousewheel.js"></script>
-    <script type="text/javascript"  src="js/perfect-scrollbar.min.js"></script>
+   
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.perfect-scrollbar/1.5.5/perfect-scrollbar.min.js"></script>
     
     <script>
         $(function () {
@@ -15,6 +15,7 @@
     </script>
     <script>
         $(document).ready(function() {
+  
             var payloadObj = { 
                     action: 'videoModal',
                     selector: 'topicGuide',
@@ -48,11 +49,9 @@
                                       }, '*');
             });
 
-            setTimeout(function(){
-                const demo = document.querySelector('.topic-container'); 
-      const ps = new PerfectScrollbar(demo);
-            },500);
-           //$('#main').perfectScrollbar();
+  
+         //  $('body').perfectScrollbar();
+          //   new PerfectScrollbar('body');
         
         });
     </script>
