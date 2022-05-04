@@ -17,7 +17,7 @@ permalink: platform/topic-guide/latest/Plan & Usage
   What are my current plan details?
 
 </a>
-  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-forms/">
+  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-settings/plan-usage/plans-overview/#Billing_Units">
   <details class="nested-details">
  
   <summary>What is Allowed Sessions?
@@ -28,7 +28,7 @@ permalink: platform/topic-guide/latest/Plan & Usage
 
   </details>
  </a>
-<a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-forms/">
+<a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-settings/plan-usage/usage-plans/#Usage_Details">
   <details class="nested-details">
  
   <summary>What is the Usage Trend?
@@ -38,7 +38,7 @@ permalink: platform/topic-guide/latest/Plan & Usage
 
   </details>
  </a>
-<a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-forms/">
+<a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-settings/plan-usage/usage-plans/">
   <details class="nested-details">
  
   <summary>What does reload option do?
@@ -48,7 +48,7 @@ permalink: platform/topic-guide/latest/Plan & Usage
 
   </details>
  </a>
-  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-forms/">
+  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-settings/plan-usage/usage-plans/">
   <details class="nested-details">
  
   <summary>How do I know which plan to select?
@@ -59,7 +59,7 @@ permalink: platform/topic-guide/latest/Plan & Usage
   </details>
  </a>
   
-  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-forms/">
+  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-settings/plan-usage/plans-overview/#Support_Plans">
   <details class="nested-details">
  
   <summary>What is a Support Plan?
