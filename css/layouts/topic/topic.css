@@ -1,4 +1,7 @@
 
+html, body{
+    font-family: 'Inter' !important;
+}
 details:hover summary{
     background: #F8F9FA;
 }
@@ -8,6 +11,7 @@ details summary{
 }
 .topic-container{
    padding: 25px 16px;
+   font-family: 'Inter' !important;
 }
 
 details summary, details:not([open]).nested-details summary{
