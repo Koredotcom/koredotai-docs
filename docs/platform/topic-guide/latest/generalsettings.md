@@ -79,7 +79,7 @@ permalink: platform/topic-guide/latest/General Settings
 </details>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/category/docs/bots/bot-settings/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-settings/general-settings/">
  
 
 | Frontmatter | Required? |
