@@ -367,7 +367,7 @@ details .doc-link.tour-guide:after{
 }
 .nested-accordian-link .nested-details{
     border: 0;
-    border-bottom: 1px solid #E4E5E7;
+    /* border-bottom: 1px solid #E4E5E7; */
 }
 .nested-accordian-link .nested-details p {
     font-weight: 400;
