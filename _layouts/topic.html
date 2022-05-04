@@ -5,8 +5,9 @@
     {% include head.html %}
      <link rel="stylesheet" href="css/perfect-scrollbar.min.css">
     <link rel="stylesheet" href="css/layouts/topic/topic.css">
+     <script type="text/javascript"  src="js/jquery.mousewheel.js"></script>
     <script type="text/javascript"  src="js/perfect-scrollbar.min.js"></script>
-
+    
     <script>
         $(function () {
             $('[data-toggle="tooltip"]').tooltip()
@@ -48,7 +49,7 @@
             });
 
             setTimeout(function(){
-                const demo = document.querySelector('body'); 
+                const demo = document.querySelector('.topic-container'); 
       const ps = new PerfectScrollbar(demo);
             },500);
            //$('#main').perfectScrollbar();
