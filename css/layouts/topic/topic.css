@@ -352,4 +352,10 @@ a.doc-link::after{
 details .doc-link.tour-guide:after{
     background: none !important;
     content: "Guided tour" !important;
+    width: auto;
+    top: 10px;
+    text-decoration: underline;
+    font-size: 14px;
+    font-weight: normal;
+    color: #5F6368;
 }
