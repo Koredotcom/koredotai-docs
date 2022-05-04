@@ -35,7 +35,7 @@ permalink: platform/topic-guide/latest/Channels
 
 </details>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/nlp/advanced-nlp-configurations/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/channel-enablement/adding-channels-to-your-bot/">
  
 
 | Frontmatter | Required? |
