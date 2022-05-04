@@ -1,13 +1,14 @@
 
 ## Instructions to write topic guide documentation
 
-Any document need front matters  which shows the title and document link
+Document need front matters  which shows the title and document link.
+`permalink` is the actual link to access the document.
 
 <pre>
   ---
-title: Agent Transfer
+  title: <title>
 
-permalink: platform/topic-guide/latest/Agent Transfer
+  permalink: platform/topic-guide/<version>/<topic name>
 
 ---
 </pre?>
