@@ -252,6 +252,9 @@ a.doc-link{
     text-decoration: none !important;
     
 }
+a.doc-link:before{
+    display: none;
+}
 a.doc-link:hover{
     background: #F8F9FA;
 }
