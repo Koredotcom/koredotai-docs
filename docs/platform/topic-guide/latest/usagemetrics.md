@@ -42,7 +42,7 @@ permalink: platform/topic-guide/latest/Usage Metrics
  </a>
 
 
-<a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/dashboard/#Realtime_Status">
+<a class="nested-accordian-link" target="_blank" href="#">
  
   <details class="nested-details">
  
