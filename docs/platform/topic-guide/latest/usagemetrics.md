@@ -66,7 +66,7 @@ permalink: platform/topic-guide/latest/Usage Metrics
  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/dashboard/#Filter_Criteria">
  
  
-   How to filter the messages/conversations included in the analytics?
+   How to filter the messages / conversations included in the analytics?
 
 </a>
 
