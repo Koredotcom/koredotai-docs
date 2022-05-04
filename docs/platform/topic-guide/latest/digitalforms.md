@@ -22,12 +22,18 @@ permalink: platform/topic-guide/latest/Digital Forms
 <details>
   <summary>FAQs
   </summary>
-
-  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-forms/">
+ <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-forms/">
+  <details class="nested-details">
  
-  What are Digital Forms?
+  <summary>What are Digital Forms?
+  </summary>
 
-</a>
+ 
+   A Digital form is an interactive User Interface that can be used for easy and efficient capture of information from the end-users.
+
+  </details>
+ </a>
+
 
 <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-forms/#Form_Creation">
  
@@ -55,9 +61,19 @@ permalink: platform/topic-guide/latest/Digital Forms
 
 </a>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-forms/#From_Tasks">
+<a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-forms/#From_Tasks">
 
- Can I capture user input using Form as well as from conversation?
+<details class="nested-details">
+ 
+  <summary> Can I capture user input using Form as well as from conversation?
+
+  </summary>
+
+ 
+  Yes, you can use the same bot and choose the user experience as Form or Conversation based on the channel of execution.
+
+  </details>
+
 
 </a>
 
