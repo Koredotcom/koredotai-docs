@@ -409,4 +409,12 @@ details .doc-link.tour-guide:after{
 }
 .nested-accordian-link .nested-details summary:after{
     position: absolute;
+    left: 12px;
+    top: 10px;
+}
+.nested-accordian-link summary{
+    padding-left: 35px !important;
+}
+.doc-link p{
+    padding-left: 35px !important;
 }
