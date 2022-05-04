@@ -397,8 +397,9 @@ details .doc-link.tour-guide:after{
     font-weight: 400;
     font-size: 13px;
     color: #5F6368;
+    line-height: 20px;
     margin: 0;
-    padding-left: 12px;
+    padding-left: 35px;
     padding-bottom: 10px;
 }
 .nested-accordian-link .nested-details{
@@ -412,8 +413,45 @@ details .doc-link.tour-guide:after{
     left: 12px;
     top: 10px;
 }
+.nested-accordian-link .nested-details summary:before{
+    content: "" !important;
+    height: 14px;
+    width: 14px;
+    background: url(/koredotai-docs/images/externalLink.svg) no-repeat;
+    background-size: 14px;
+    position: absolute;
+    padding: 0 !important;
+    right: 14px;
+    left: auto;
+    top: 40%;
+}
 .nested-accordian-link summary{
     padding-left: 35px !important;
+}
+.nested-accordian-link .nested-details h6{
+    padding-left: 35px;
+    font-size: 12px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2;
+    letter-spacing: normal;
+    color: #202124;
+}
+.nested-accordian-link .nested-details ul{
+    list-style: none;
+    padding-left: 35px;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    /* line-height: 2; */
+    letter-spacing: normal;
+    color: #202124;
+    margin-bottom: 10px;
+}
+.nested-accordian-link .nested-details ul li{
+
 }
 .doc-link p{
     padding-left: 25px !important;
