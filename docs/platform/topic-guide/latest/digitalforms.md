@@ -90,7 +90,7 @@ permalink: platform/topic-guide/latest/Digital Forms
 
 | Frontmatter | Required? |
 |-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Academy**  <br /> Access the Kore Academy course 105 - Introduction to Alert Task | 
+| ![alt text](images/docIcon.svg "Title") | **Academy**  <br /> Access the Kore Academy course 105 - Introduction to Digital Forms | 
 
 
 </a>
