@@ -451,6 +451,7 @@ details .doc-link.tour-guide:after{
     margin-bottom: 10px;
 }
 .nested-accordian-link .nested-details ul li{
+    margin-bottom: 10px;
 
 }
 .doc-link p{
