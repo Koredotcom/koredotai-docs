@@ -5,6 +5,7 @@ permalink: platform/topic-guide/latest/Dialog Tasks
 
 ---
 #### Topic guide
+###### Dialog Tasks
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Dialog Tasks.
 
