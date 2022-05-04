@@ -5,6 +5,7 @@ permalink: platform/topic-guide/latest/Batch Testing
 
 ---
 #### Topic guide
+###### Batch Testing
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Batch testing.
 
