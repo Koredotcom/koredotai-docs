@@ -448,7 +448,7 @@ details .doc-link.tour-guide:after{
     /* line-height: 2; */
     letter-spacing: normal;
     color: #202124;
-    margin-bottom: 10px;
+    padding-bottom: 10px;
 }
 .nested-accordian-link .nested-details ul li{
     margin-bottom: 10px;
