@@ -3,7 +3,9 @@
 <head>
 
     {% include head.html %}
+     <link rel="stylesheet" href="css/perfect-scrollbar.min.css">
     <link rel="stylesheet" href="css/layouts/topic/topic.css">
+    <script type="text/javascript"  src="js/perfect-scrollbar.min.js"></script>
 
     <script>
         $(function () {
@@ -12,7 +14,7 @@
     </script>
     <script>
         $(document).ready(function() {
-            var payloadObj = {
+            var payloadObj = { 
                     action: 'videoModal',
                     selector: 'topicGuide',
                     payload:{url:""}
@@ -43,7 +45,14 @@
                                       selector: 'topicGuide',
                                        payload:{topicId:e.currentTarget.getAttribute('topic-id')}
                                       }, '*');
-            })
+            });
+
+            setTimeout(function(){
+                const demo = document.querySelector('body'); 
+      const ps = new PerfectScrollbar(demo);
+            },500);
+           //$('#main').perfectScrollbar();
+        
         });
     </script>
     {% if page.datatable == true %}
