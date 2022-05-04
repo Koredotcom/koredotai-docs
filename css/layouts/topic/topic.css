@@ -359,3 +359,21 @@ details .doc-link.tour-guide:after{
     font-weight: normal;
     color: #5F6368;
 }
+.nested-accordian-link{
+    text-decoration: none !important;
+}
+.nested-accordian-link:after{
+    display: none;
+}
+.nested-accordian-link .nested-details{
+    border: 0;
+    border-bottom: 1px solid #E4E5E7;
+}
+.nested-accordian-link .nested-details p {
+    font-weight: 400;
+    font-size: 13px;
+    color: #5F6368;
+    margin: 0;
+    padding-left: 12px;
+    padding-bottom: 10px;
+}
