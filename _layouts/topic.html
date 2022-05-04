@@ -32,6 +32,7 @@
             function videoCallback(e){
                 e.preventDefault();
                 payloadObj.payload.url = e.currentTarget.href;
+                payloadObj.payload.title = e.currentTarget.firstChild.getAttribute('alt');
                 window.parent.postMessage(payloadObj, '*');
 
 

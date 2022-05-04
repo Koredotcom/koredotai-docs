@@ -105,7 +105,7 @@ permalink: platform/topic-guide/latest/Conversations Dashboard
 
 | Frontmatter | Required? |
 |-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Authorization Profiles | 
+| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Conversations Dashboard | 
 
 
 </a>

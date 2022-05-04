@@ -144,7 +144,7 @@ You can aggregate the data to get summary information of a dataset. Aggregation 
 
 | Frontmatter | Required? |
 |-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Authorization Profiles | 
+| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Custom dashboards | 
 
 
 </a>
