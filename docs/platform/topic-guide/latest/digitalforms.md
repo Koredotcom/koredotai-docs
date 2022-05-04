@@ -5,6 +5,7 @@ permalink: platform/topic-guide/latest/Digital Forms
 
 ---
 #### Topic guide
+###### Digital Forms
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Digital forms.
 

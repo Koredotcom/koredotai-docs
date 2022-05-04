@@ -5,6 +5,7 @@ permalink: platform/topic-guide/latest/Standard Responses
 
 ---
 #### Topic guide
+###### Standard Responses
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Standard responses.
 

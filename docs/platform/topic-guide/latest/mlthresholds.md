@@ -6,6 +6,7 @@ permalink: platform/topic-guide/latest/Thresholds & Configurations
 ---
 
 #### Topic guide
+###### Thresholds & Configuration
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on ML Thresholds & Configurations.
 

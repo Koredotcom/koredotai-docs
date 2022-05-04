@@ -5,6 +5,7 @@ permalink: platform/topic-guide/latest/Storyboard
 
 ---
 #### Topic guide
+###### Storyboard
 
    Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Storyboard
     

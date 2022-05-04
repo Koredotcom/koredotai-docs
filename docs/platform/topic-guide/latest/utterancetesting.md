@@ -5,6 +5,8 @@ permalink: platform/topic-guide/latest/Utterance Testing
 
 ---
 #### Topic guide
+###### Utterance Testing
+
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Utterance testing.
 

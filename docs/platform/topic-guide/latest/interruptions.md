@@ -5,6 +5,7 @@ permalink: platform/topic-guide/latest/Manage Interruptions
 
 ---
 #### Topic guide
+###### Manage Interruptions
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Manage Interruptions.
 

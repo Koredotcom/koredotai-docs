@@ -5,6 +5,7 @@ permalink: platform/topic-guide/latest/Knowledge Graph
 
 ---
 #### Topic guide
+###### Knowledge Graph
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Knowledge Graph.
 

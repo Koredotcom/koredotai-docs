@@ -5,6 +5,7 @@ permalink: platform/topic-guide/latest/Small Talk
 
 ---
 #### Topic guide
+###### Small Talk
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Small Talk.
 

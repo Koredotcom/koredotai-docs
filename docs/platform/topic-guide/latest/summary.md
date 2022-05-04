@@ -5,6 +5,7 @@ permalink: platform/topic-guide/latest/Summary
 
 ---
 #### Topic guide
+###### Summary
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Bot Summary.
 

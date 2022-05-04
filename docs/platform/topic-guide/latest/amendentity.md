@@ -5,6 +5,7 @@ permalink: platform/topic-guide/latest/Amend Entity
 
 ---
 #### Topic guide
+###### Amend Entity
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Amend Entity.
 

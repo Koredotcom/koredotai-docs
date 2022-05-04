@@ -5,6 +5,7 @@ permalink: platform/topic-guide/latest/Digital Views
 
 ---
 #### Topic guide
+###### Digital Views
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Digital Views.
 

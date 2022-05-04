@@ -5,6 +5,7 @@ permalink: platform/topic-guide/latest/Alert Tasks
 
 ---
 #### Topic guide
+###### Alert Tasks
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Alert Tasks.
 
