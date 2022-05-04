@@ -1,6 +1,7 @@
 
 html, body{
     font-family: 'Inter' !important;
+    overflow: hidden;
 }
 details:hover summary{
     background: #F8F9FA;
