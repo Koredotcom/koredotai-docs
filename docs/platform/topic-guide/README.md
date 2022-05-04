@@ -15,7 +15,7 @@ Document need front matters  which shows the title and document link.
 </pre>
 
 
-Topic guide supports the follwing widgets to render the markdown with rich user interface: 
+Topic guide supports the following widgets to render the markdown with rich user interface: 
  - Links
  - Document links
  - Accordions
