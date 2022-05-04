@@ -8,7 +8,7 @@ Document need front matters  which shows the title and document link.
   ---
   title: <title>
 
-  permalink: platform/topic-guide/<version>/<topic name>
+  permalink: platform/topic-guide/< version >/< topic name >
 
 ---
 </pre?>
