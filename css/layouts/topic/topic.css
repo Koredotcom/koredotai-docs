@@ -73,6 +73,12 @@ details.introduction-video p a img{
 details.introduction-video p a:after{
     left:45%;
 }
+details.introduction-video p a:before{
+    background: black;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
 details.introduction-video h5{
     font-weight: 500;
     font-size: 14px;
@@ -363,7 +369,7 @@ details .doc-link.tour-guide:after{
     text-decoration: none !important;
 }
 .nested-accordian-link:after{
-    display: none;
+    display: none !important;
 }
 .nested-accordian-link .nested-details{
     border: 0;
