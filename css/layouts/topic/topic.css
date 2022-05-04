@@ -401,3 +401,12 @@ details .doc-link.tour-guide:after{
     padding-left: 12px;
     padding-bottom: 10px;
 }
+.nested-accordian-link .nested-details{
+    box-shadow: inset 0px -1px 0px #e4e5e7 !important;
+}
+.nested-accordian-link .nested-details summary{
+    box-shadow: none !important;
+}
+.nested-accordian-link .nested-details summary:after{
+    position: absolute;
+}
