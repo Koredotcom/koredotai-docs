@@ -35,6 +35,15 @@
             $('.introduction-video a').on('click',videoCallback);
 
             $('details-video a').on('click',videoCallback);
+
+            $('a.tour-guide[topic-id]').on('click', function(e){
+                 e.preventDefault();
+                  window.parent.postMessage({
+                                      action: 'guidedTour',
+                                      selector: 'topicGuide',
+                                       payload:{topicId:e.currentTarget.getAttribute('topic-id')}
+                                      }, '*');
+            })
         });
     </script>
     {% if page.datatable == true %}
