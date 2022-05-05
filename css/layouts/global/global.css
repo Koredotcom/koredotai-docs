@@ -12,14 +12,17 @@
     align-items: center;
     justify-content: center;
     height: 100%;
+    padding: 15px;
 }
 .page-not-found .row .not-found-content h1{
     font-weight: 500;
     font-size: 20px;
     color: #202124;
+    text-align: center;
 }
 .page-not-found .row .not-found-content p{
     font-weight: 400;
     font-size: 14px;
     color: #202124;
+    text-align: center;
 }
