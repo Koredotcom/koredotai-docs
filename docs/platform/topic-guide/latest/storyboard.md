@@ -13,7 +13,7 @@ permalink: platform/topic-guide/latest/Storyboard
   <summary>Introduction
   </summary>
   
-   [![Introduction to Storyboard](../../../../images/video-icon.svg)](https://drive.google.com/file/d/1ICMkN5MYkXrZ44SGaXgU9srWdFUBKU8I/preview)
+   [![Introduction to Storyboard](../../../../images/video-icon.svg)](https://www.youtube.com/watch?v=OsU0CGZoV8E)
 
   ##### Introduction to Storyboard
   Watch this short video on how to use Storyboard to build mock conversations
