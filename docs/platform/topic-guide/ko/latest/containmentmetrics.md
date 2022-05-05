@@ -42,7 +42,7 @@ permalink: platform/topic-guide/ko/latest/Containment Metrics
  </a>
 
 
-<a class="nested-accordian-link no-doc-ext-link" target="_blank" href="#">
+<a class="nested-accordian-link no-doc-ext-link"  >
  
   <details class="nested-details">
  
@@ -56,7 +56,7 @@ permalink: platform/topic-guide/ko/latest/Containment Metrics
   </details>
  </a>
   
-  <a class="nested-accordian-link no-doc-ext-link" target="_blank" href="#">
+  <a class="nested-accordian-link no-doc-ext-link"  >
  
   <details class="nested-details">
  
@@ -70,7 +70,7 @@ permalink: platform/topic-guide/ko/latest/Containment Metrics
   </details>
  </a>
   
-  <a class="nested-accordian-link no-doc-ext-link" target="_blank" href="#">
+  <a class="nested-accordian-link no-doc-ext-link"  >
  
   <details class="nested-details">
  
@@ -84,7 +84,7 @@ permalink: platform/topic-guide/ko/latest/Containment Metrics
   </details>
  </a>
   
-  <a class="nested-accordian-link no-doc-ext-link" target="_blank" href="#">
+  <a class="nested-accordian-link no-doc-ext-link"  >
  
   <details class="nested-details">
  
