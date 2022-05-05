@@ -2,7 +2,9 @@
 html, body{
     font-family: 'Inter' !important;
     overflow: hidden;
+    position: relative;
 }
+
 details:hover summary{
     background: #F8F9FA;
 }
