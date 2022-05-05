@@ -9,16 +9,6 @@ permalink: platform/topic-guide/latest/ALERTS_TASK_BASIC
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Alert Tasks.
 
-<details class="introduction-video">
-  <summary>Introduction
-  </summary>
-  
-   [![Introduction to Alert Task](https://i.vimeocdn.com/video/873029368-78a366b9407757e066a37718d766be53d3cb90d7f27708590ca16a1400e95b89-d?mw=1300&mh=975&q=70)](https://drive.google.com/file/d/1H_ftFzlqxafj0lRx-xxOIhm6kXyB8lbo/preview)
-
-  ##### Introduction to Alert Tasks
-  Watch this short video on the introduction to Alert Tasks
-
-</details>
 
 <details>
   <summary>FAQs
@@ -82,31 +72,6 @@ How to configure alert scheduling?
 
 
 </details>
-
-<details >
-  <summary>Videos
-  </summary>
-
-   <details-video>
-   
-   [![Introduction to Dialog Tasks](https://i.vimeocdn.com/video/873029368-78a366b9407757e066a37718d766be53d3cb90d7f27708590ca16a1400e95b89-d?mw=1300&mh=975&q=70)](https://drive.google.com/file/d/1H_ftFzlqxafj0lRx-xxOIhm6kXyB8lbo/preview)
-
-  ##### Introduction to Alert Task
- Watch this short video on the basics of creating Alert Task
-   </details-video>
-
-  
-</details>
-
-<a class="doc-link" target="_blank" href="https://academy.kore.ai/Public/?li=tcTzvhFfxJcyCjRjSuMUNA%3d%3d">
- 
-
-| Frontmatter | Required? |
-|-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Academy**  <br /> Access the Kore Academy course 105 - Introduction to Alert Task | 
-
-
-</a>
 
 
 <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/alert/notification-tasks/">
