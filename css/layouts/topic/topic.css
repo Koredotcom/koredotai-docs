@@ -427,6 +427,10 @@ details .doc-link.tour-guide:after{
     left: auto;
     top: 40%;
 }
+.nested-accordian-link.noExtIcon .nested-details summary:before{
+    display: none !important;
+}
+
 .nested-accordian-link summary{
     padding-left: 35px !important;
 }
