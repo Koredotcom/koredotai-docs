@@ -297,7 +297,7 @@ details .nested-details[open] summary{
     box-shadow: none !important;
 }
 details a.doc-link p{
-    padding-right: 21px;
+    padding-right: 25px;
     font-weight: 400;
     font-size: 14px;
     color: #202124 !important;
@@ -358,13 +358,19 @@ a.doc-link::after{
     color: #202124;
     margin: 0;
     font-style: normal;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    background: #fff;
+    z-index: 1;
+    padding-top: 25px;
 }
 #tg-sb-content p:nth-child(3){
     font-weight: 400;
     font-size: 13px;
     line-height: 18px;
     color: #202124;
-    padding: 20px 0;
+    padding: 55px 0 20px;
     font-style: normal;
 }
 #tg-sb-content h6:nth-child(2){
@@ -373,6 +379,13 @@ a.doc-link::after{
     font-size: 13px;
     color: #5f6368;
     margin: 5px 0 0;
+    position: fixed;
+    top: 43px;
+    width: 100%;
+    background: #fff;
+    z-index: 1;
+    padding-bottom: 10px;
+    padding-top: 2px;
 }
 details .doc-link.tour-guide:after{
     background: none !important;
