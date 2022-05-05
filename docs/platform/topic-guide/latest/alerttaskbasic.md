@@ -1,13 +1,14 @@
 ---
 title: Alert Tasks
 
-permalink: platform/topic-guide/latest/Alert Tasks
+permalink: platform/topic-guide/latest/ALERTS_TASK_BASIC
 
 ---
 #### Topic guide
 ###### Alert Tasks
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Alert Tasks.
+
 
 <details>
   <summary>FAQs
