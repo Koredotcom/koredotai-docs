@@ -1,1 +1,25 @@
 
+.page-not-found{
+    height: 100%;
+}
+.page-not-found .row{
+    height: 100%;
+    margin: 0;
+}
+.page-not-found .row .not-found-content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+.page-not-found .row .not-found-content h1{
+    font-weight: 500;
+    font-size: 20px;
+    color: #202124;
+}
+.page-not-found .row .not-found-content p{
+    font-weight: 400;
+    font-size: 14px;
+    color: #202124;
+}
