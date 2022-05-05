@@ -79,7 +79,7 @@ How do I transfer to an Human Agent?
 
 </a>
   
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/how-tos/intent-scoping-using-group-node/">
+<a class="doc-link tour-guide" topic-id="91737" target="_blank" href="https://developer.kore.ai/docs/bots/how-tos/intent-scoping-using-group-node/">
 
 Get Started with Conversation Driven Dialog Builder
 
@@ -114,7 +114,7 @@ Get Started with Conversation Driven Dialog Builder
 </a>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/dialog-task/dialog-tasks/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/chatbot-overview/using-the-dialog-builder-tool/#Dialog_Builder">
  
 
 | Frontmatter | Required? |

@@ -33,11 +33,19 @@
                 e.preventDefault();
                 payloadObj.payload.url = e.currentTarget.href;
                 payloadObj.payload.title = e.currentTarget.firstChild.getAttribute('alt');
-                window.parent.postMessage(payloadObj, '*');
+                 var description =  $(e.currentTarget).closest('details.introduction-video').find('p:last-child').text()
+                if(description){
+
+                payloadObj.payload.description  = description;
+                }else{
+                  payloadObj.payload.description  =  $(e.currentTarget).closest('details-video').find('p:last-child').text();
+                }
+                window.parent.postMessage(payloadObj, '*'); 
 
 
             }
             $('.introduction-video a').on('click',videoCallback);
+
 
             $('details-video a').on('click',videoCallback);
 
