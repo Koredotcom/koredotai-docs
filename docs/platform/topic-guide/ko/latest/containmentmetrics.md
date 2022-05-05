@@ -1,7 +1,7 @@
 ---
 title: Containment Metrics
 
-permalink: platform/topic-guide/latest/Containment Metrics
+permalink: platform/topic-guide/ko/latest/Containment Metrics
 
 ---
 

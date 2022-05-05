@@ -1,7 +1,7 @@
 ---
 title: Usage Metrics
 
-permalink: platform/topic-guide/latest/Usage Metrics
+permalink: platform/topic-guide/en/latest/Usage Metrics
 
 ---
 
