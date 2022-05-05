@@ -29,6 +29,16 @@
                 $("#tg-sb-icon").toggleClass('fa-toggle-off');
             });
 
+
+var span = document.querySelector('nested-details p');
+
+$('.nested-details summary').on('click', function (e) {
+    //console.log(e);
+    if ((e.offsetX > $(this).width())) {
+        $(e.currentTarget).closest('.nested-details').find('p').click();
+        e.preventDefault();
+    } 
+});
             function videoCallback(e){
                 e.preventDefault();
                 payloadObj.payload.url = e.currentTarget.href;
