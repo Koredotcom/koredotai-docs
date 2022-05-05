@@ -32,7 +32,7 @@ Every section is represented with accordion.
  - Heading
  - Short description
  
-Sample markup to rended the introduction section
+Sample markup to render the introduction section
 
 
 ```html
@@ -101,7 +101,7 @@ Second variant for the question is just to render the link.
 
  This sectionis to render the list of videos.
  
- Below is the markdow synax to render the videos
+ Markdow synax to render the videos
  
  ```html
 <details >
