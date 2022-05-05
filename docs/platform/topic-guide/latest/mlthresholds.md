@@ -9,6 +9,18 @@ permalink: platform/topic-guide/latest/Thresholds & Configurations
 ###### Thresholds & Configuration
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on ML Thresholds & Configurations.
+  
+  <details class="introduction-video">
+  <summary>Introduction
+  </summary>
+  
+   [![Introduction to Storyboard](../../../../images/video-icon.svg)](https://drive.google.com/file/d/1ICMkN5MYkXrZ44SGaXgU9srWdFUBKU8I/preview)
+
+  ##### Introduction to Storyboard
+  Watch this short video on how to use Storyboard to build mock conversations
+
+</details>
+
 
 <details>
   <summary>FAQs
@@ -54,12 +66,3 @@ permalink: platform/topic-guide/latest/Thresholds & Configurations
 
 </details>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/nlp/advanced-nlp-configurations/">
- 
-
-| Frontmatter | Required? |
-|-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on ML Thresholds & Configurations | 
-
-
-</a>
