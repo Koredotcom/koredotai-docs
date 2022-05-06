@@ -4,7 +4,7 @@ title: Batch Testing
 permalink: platform/topic-guide/en/latest/Batch Testing
 
 ---
-#### Topic guide
+#### Topic Guide
 ###### Batch Testing
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Batch testing.
@@ -13,7 +13,7 @@ permalink: platform/topic-guide/en/latest/Batch Testing
   <summary>Introduction
   </summary>
   
-   [![Introduction to Batch Testing](https://i.vimeocdn.com/video/873029368-78a366b9407757e066a37718d766be53d3cb90d7f27708590ca16a1400e95b89-d?mw=1300&mh=975&q=70)](https://drive.google.com/file/d/1Apn-NwmEtIFK0m9xLEvVQ--DxKxRNJ1m/preview)
+   [![Introduction to Batch Testing](images/VideoCoverImage.png)](https://drive.google.com/file/d/1Apn-NwmEtIFK0m9xLEvVQ--DxKxRNJ1m/preview)
 
   ##### Introduction to Batch testing
   What this short video on how to conduct batch testing
@@ -66,7 +66,7 @@ permalink: platform/topic-guide/en/latest/Batch Testing
 
 
 
-<a class="doc-link" target="_blank" href="https://academy.kore.ai/Public/?li=QiH22aB3qOd9Houzhg4Ymg%3d%3d">
+<a class="doc-link" target="_blank" href="https://academy.kore.ai/learningpath/course-122---batch-testing">
  
 
 | Frontmatter | Required? |
