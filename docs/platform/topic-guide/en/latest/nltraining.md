@@ -4,7 +4,7 @@ title: NL Training
 permalink: platform/topic-guide/en/latest/Training
 
 ---
-#### Topic guide
+#### Topic Guide
 ###### Training
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on NL Training.
@@ -13,7 +13,7 @@ permalink: platform/topic-guide/en/latest/Training
   <summary>Introduction
   </summary>
   
-   [![Introduction to NL Training](https://i.vimeocdn.com/video/873029368-78a366b9407757e066a37718d766be53d3cb90d7f27708590ca16a1400e95b89-d?mw=1300&mh=975&q=70)](https://drive.google.com/file/d/18Bmf8b2DOgdcinMn_OpYhKUgvVTbekys/preview)
+   [![Introduction to NL Training](images/VideoCoverImage.png)](https://drive.google.com/file/d/18Bmf8b2DOgdcinMn_OpYhKUgvVTbekys/preview)
 
   ##### Introduction to NLP framework
   Watch this short overview on the Kore.ai NLP framework
@@ -79,7 +79,7 @@ Get Started with Training
 
 
 
-<a class="doc-link" target="_blank" href="https://academy.kore.ai/Public/?li=5gh8v9t0PQhsf5Ql%2fpWfsg%3d%3d">
+<a class="doc-link" target="_blank" href="https://academy.kore.ai/learningpath/course-114---overview-of-koreai-nlp-framework">
  
 
 | Frontmatter | Required? |
