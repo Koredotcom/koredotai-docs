@@ -63,6 +63,7 @@ permalink: platform/topic-guide/latest/Storyboard
 
   ##### Introduction to Storyboard
   Watch this short video on how to use Storyboard to build mock conversations
+      
    </details-video>
    
     <details-video>
@@ -71,7 +72,9 @@ permalink: platform/topic-guide/latest/Storyboard
 
   ##### Introduction to Storyboard
   Watch this short video on how to use Storyboard to build mock conversations
+       
    </details-video>
+   
    
     <details-video>
    
@@ -79,6 +82,7 @@ permalink: platform/topic-guide/latest/Storyboard
 
   ##### Introduction to Storyboard
   Watch this short video on how to use Storyboard to build mock conversations
+       
    </details-video>
 
   
