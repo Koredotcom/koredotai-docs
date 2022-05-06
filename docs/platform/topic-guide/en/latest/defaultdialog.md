@@ -5,7 +5,7 @@ permalink: platform/topic-guide/en/latest/Default Dialog
 
 ---
 
-#### Topic guide
+#### Topic Guide
 ###### Default Dialog
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Default Dialog.
