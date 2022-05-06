@@ -4,7 +4,7 @@ title: Alert Tasks
 permalink: platform/topic-guide/en/latest/ALERTS_TASK_BASIC
 
 ---
-#### Topic guide
+#### Topic Guide
 ###### Alert Tasks
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Alert Tasks.
