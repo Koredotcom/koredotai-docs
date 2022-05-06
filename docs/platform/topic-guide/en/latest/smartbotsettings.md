@@ -5,7 +5,7 @@ permalink: platform/topic-guide/en/latest/Smart Bot Settings
 
 ---
 
-#### Topic guide
+#### Topic Guide
 ###### Smart Bot Settings
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Smart Bot Settings.
