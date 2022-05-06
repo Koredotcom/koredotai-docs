@@ -9,11 +9,11 @@ permalink: platform/topic-guide/ja/latest/Storyboard
 
    Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Storyboard
     
-<details class="introduction-video">
+<details class="introduction-video" open>
   <summary>Introduction
   </summary>
   
-   [![Introduction to Storyboard](../../../../images/video-icon.svg)](https://drive.google.com/file/d/1ICMkN5MYkXrZ44SGaXgU9srWdFUBKU8I/preview)
+   [![Introduction to Storyboard](images/video-icon.svg)](https://drive.google.com/file/d/1ICMkN5MYkXrZ44SGaXgU9srWdFUBKU8I/preview)
 
   ##### Introduction to Storyboard
   Watch this short video on how to use Storyboard to build mock conversations

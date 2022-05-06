@@ -9,7 +9,7 @@ permalink: platform/topic-guide/ja/latest/Dialog Tasks
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Dialog Tasks.
 
-<details class="introduction-video">
+<details class="introduction-video" open>
   <summary>Introduction
   </summary>
   

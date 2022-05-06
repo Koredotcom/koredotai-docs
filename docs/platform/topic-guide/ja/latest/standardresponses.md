@@ -9,7 +9,7 @@ permalink: platform/topic-guide/ja/latest/Standard Responses
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Standard responses.
 
-<details class="introduction-video">
+<details class="introduction-video" open>
   <summary>Introduction
   </summary>
   

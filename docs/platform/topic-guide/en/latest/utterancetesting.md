@@ -10,7 +10,7 @@ permalink: platform/topic-guide/en/latest/Utterance Testing
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Utterance testing.
 
-<details class="introduction-video">
+<details class="introduction-video" open>
   <summary>Introduction
   </summary>
   

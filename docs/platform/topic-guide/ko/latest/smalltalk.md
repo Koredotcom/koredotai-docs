@@ -9,7 +9,7 @@ permalink: platform/topic-guide/ko/latest/Small Talk
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Small Talk.
 
-<details class="introduction-video">
+<details class="introduction-video" open>
   <summary>Introduction
   </summary>
   

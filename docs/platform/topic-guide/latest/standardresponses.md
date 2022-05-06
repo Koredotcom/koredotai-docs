@@ -9,11 +9,11 @@ permalink: platform/topic-guide/latest/Standard Responses
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Standard responses.
 
-<details class="introduction-video">
+<details class="introduction-video" open>
   <summary>Introduction
   </summary>
   
-   [![Introduction to Standard Responses](../../../../images/video-icon.svg)](https://drive.google.com/file/d/1VYKdzJ7lrzimjfbvsDr6Tic4NmJFtbBy/preview)
+   [![Introduction to Standard Responses](images/video-icon.svg)](https://drive.google.com/file/d/1VYKdzJ7lrzimjfbvsDr6Tic4NmJFtbBy/preview)
 
   ##### Introduction to Standard Responses
   Watch this video on the standard responses when the assistant doesn't understand the user query
@@ -59,7 +59,7 @@ permalink: platform/topic-guide/latest/Standard Responses
 
    <details-video>
    
-   [![Introduction to Standard Responses](../../../../images/video-icon.svg)](https://drive.google.com/file/d/1VYKdzJ7lrzimjfbvsDr6Tic4NmJFtbBy/preview)
+   [![Introduction to Standard Responses](images/video-icon.svg)](https://drive.google.com/file/d/1VYKdzJ7lrzimjfbvsDr6Tic4NmJFtbBy/preview)
 
   ##### Introduction to Standard Responses
  Watch this video on the standard responses when the assistant doesn't understand the user query

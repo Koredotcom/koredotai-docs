@@ -8,11 +8,11 @@ permalink: platform/topic-guide/en/latest/storyboard
 
    Introduction short description goes here!
     
-<details class="introduction-video">
+<details class="introduction-video" open>
   <summary>Introduction
   </summary>
   
-   [![Introduction alternative text goes here](../../../../images/video-icon.svg)](https://youtu.be/-RJFfV-uEFQ)
+   [![Introduction alternative text goes here](images/video-icon.svg)](https://youtu.be/-RJFfV-uEFQ)
 
   ##### Introduction to dialog tasks
    Introduction short description goes here!
@@ -71,7 +71,7 @@ permalink: platform/topic-guide/en/latest/storyboard
   
 <details-video>
 
- [![Introduction alternative text goes here](../../../../images/video-icon.svg)](https://youtu.be/-RJFfV-uEFQ)
+ [![Introduction alternative text goes here](images/video-icon.svg)](https://youtu.be/-RJFfV-uEFQ)
 
   ##### Introduction to dialog tasks-2
    Introduction short description goes here!
@@ -80,7 +80,7 @@ permalink: platform/topic-guide/en/latest/storyboard
 
 <details-video>
 
-  [![Introduction alternative text goes here](../../../../images/video-icon.svg)](https://youtu.be/-RJFfV-uEFQ)
+  [![Introduction alternative text goes here](images/video-icon.svg)](https://youtu.be/-RJFfV-uEFQ)
 
   ##### Introduction to dialog tasks-3
    Introduction short description goes here!

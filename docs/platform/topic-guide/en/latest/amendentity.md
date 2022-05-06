@@ -9,7 +9,7 @@ permalink: platform/topic-guide/en/latest/Amend Entity
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Amend Entity.
 
-<details class="introduction-video">
+<details class="introduction-video" open>
   <summary>Introduction
   </summary>
   

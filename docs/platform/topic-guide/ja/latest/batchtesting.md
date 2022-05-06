@@ -9,7 +9,7 @@ permalink: platform/topic-guide/ja/latest/Batch Testing
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Batch testing.
 
-<details class="introduction-video">
+<details class="introduction-video" open>
   <summary>Introduction
   </summary>
   
