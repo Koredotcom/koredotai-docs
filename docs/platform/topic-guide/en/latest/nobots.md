@@ -5,7 +5,7 @@ permalink: platform/topic-guide/en/latest/No Bots Form
 
 ---
 
-#### Topic guide
+#### Topic Guide
 ###### Bots Home
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Kore.ai Experience Optimization (XO) Platform.
