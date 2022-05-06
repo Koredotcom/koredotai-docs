@@ -1,7 +1,7 @@
 ---
 title: Knowledge Graph
 
-permalink: platform/topic-guide/en/latest/Knowledge Graph
+permalink: platform/topic-guide/en/latest/Bot Ontology
 
 ---
 #### Topic guide
