@@ -4,7 +4,7 @@ title: Standard Responses
 permalink: platform/topic-guide/en/latest/Standard Responses
 
 ---
-#### Topic guide
+#### Topic Guide
 ###### Standard Responses
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Standard responses.
@@ -13,7 +13,7 @@ permalink: platform/topic-guide/en/latest/Standard Responses
   <summary>Introduction
   </summary>
   
-   [![Introduction to Standard Responses](images/video-icon.svg)](https://drive.google.com/file/d/1VYKdzJ7lrzimjfbvsDr6Tic4NmJFtbBy/preview)
+   [![Introduction to Standard Responses](images/VideoCoverImage.png)](https://drive.google.com/file/d/1VYKdzJ7lrzimjfbvsDr6Tic4NmJFtbBy/preview)
 
   ##### Introduction to Standard Responses
   Watch this video on the standard responses when the assistant doesn't understand the user query
@@ -55,7 +55,7 @@ permalink: platform/topic-guide/en/latest/Standard Responses
 
 
 
-<a class="doc-link" target="_blank" href="https://academy.kore.ai/Public/?li=scY4wv2zNZbqjUO7tciNiQ%3d%3d">
+<a class="doc-link" target="_blank" href="https://academy.kore.ai/learningpath/course-133---the-default-dialog---when-the-bot-doesnt-understand">
  
 
 | Frontmatter | Required? |
