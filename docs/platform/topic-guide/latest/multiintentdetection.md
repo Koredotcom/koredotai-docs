@@ -35,7 +35,7 @@ permalink: platform/topic-guide/latest/Multi intent Detection
 </details>
 
 
-<a class="doc-link" target="_blank" href="https://academy.kore.ai/Public/?li=6EhKJWdAKi0K5buZqq3fow%3d%3d">
+<a class="doc-link" target="_blank" href="https://academy.kore.ai/Public/?li=M9Er0qCHn1%2fCmpQZrSiwsQ%3d%3d">
  
 
 | Frontmatter | Required? |
