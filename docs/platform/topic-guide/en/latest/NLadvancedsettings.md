@@ -5,7 +5,7 @@ permalink: platform/topic-guide/en/latest/Advanced Settings
 
 ---
 
-#### Topic guide
+#### Topic Guide
 ###### NL Advanced Settings
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on NL Advanced Settings.
