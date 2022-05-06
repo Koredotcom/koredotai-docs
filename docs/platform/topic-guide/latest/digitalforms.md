@@ -13,7 +13,7 @@ permalink: platform/topic-guide/latest/Digital Forms
 <details>
   <summary>FAQs
   </summary>
- <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-forms/">
+ <a class="nested-accordian-link no-doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-forms/">
   <details class="nested-details">
  
   <summary>What are Digital Forms?
@@ -52,7 +52,7 @@ permalink: platform/topic-guide/latest/Digital Forms
 
 </a>
 
-<a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-forms/#From_Tasks">
+<a class="nested-accordian-link no-doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-forms/#From_Tasks">
 
 <details class="nested-details">
  
