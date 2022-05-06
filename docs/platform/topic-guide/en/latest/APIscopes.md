@@ -5,7 +5,7 @@ permalink: platform/topic-guide/en/latest/API Scopes
 
 ---
 
-#### Topic guide
+#### Topic Guide
 ###### API Scopes
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on API Scopes.
