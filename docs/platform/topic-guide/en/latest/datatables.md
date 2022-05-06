@@ -5,7 +5,7 @@ permalink: platform/topic-guide/en/latest/dataForm
 
 ---
 
-#### Topic guide
+#### Topic Guide
 ###### Data Tables
 
  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Data Tables.
