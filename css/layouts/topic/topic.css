@@ -129,19 +129,26 @@ details details-video h5{
     color: #202124;
     padding-bottom: 0;
     margin: 0;
+    -webkit-box-orient: vertical;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
     overflow: hidden;
-    white-space: nowrap;
     text-overflow: ellipsis;
+    white-space: normal;
     padding-top: 10px;
+    padding-bottom: 5px;
 } 
 details details-video p {
     font-weight: 400;
     font-size: 13px;
     color: #5F6368;
     margin: 0;
+    -webkit-box-orient: vertical;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
     overflow: hidden;
-    white-space: nowrap;
     text-overflow: ellipsis;
+    white-space: normal;
 }
 
 details[open] summary::after,
@@ -176,22 +183,24 @@ details.nested-details summary::after{
  
 }
 details details-video{
-    display: inline-block;
-    vertical-align: top;
+    /* display: inline-block;
+    vertical-align: top; */
     /* margin-left: 10px;
     width: 310px;
     margin-top: 25px; */
     /* border: 1px solid #dad3d3; */
-    width: 160px;
+    /* width: 160px; */
     /* height: 168px; */
-    margin: 0 15px 15px 0;
+    /* margin: 0 15px 15px 0; */
+    padding: 0px 10px 15px;
+    display: block;
 }
-details details-video:nth-child(2n){
+/* details details-video:nth-child(2n){
     margin-left: 10px;
-}
-details details-video:nth-child(2n+1){
+} */
+/* details details-video:nth-child(2n+1){
     margin-right: 0px;
-}
+} */
 details details-video  p{
     padding: 0 !important;
     margin: 0;
@@ -208,7 +217,7 @@ details details-video  p a::after{
     background-size: 34px;
     position: absolute;
     padding: 0 !important;
-    left: 38%;
+    left: 45%;
     top: 35%;
 }
 details details-video p img{
@@ -219,7 +228,7 @@ details details-video p img{
 details  details-video  p a{
     position: relative;
     display: block;
-    width: 160px;
+    /* width: 160px; */
     height: 120px;
 }
 a[href^="http://"]:before, a[href^="https://"]:before{
