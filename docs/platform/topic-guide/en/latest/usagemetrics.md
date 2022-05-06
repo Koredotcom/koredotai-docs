@@ -5,7 +5,7 @@ permalink: platform/topic-guide/en/latest/Usage Metrics
 
 ---
 
-#### Topic guide
+#### Topic Guide
 ###### Usage Metrics
 
  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Usage Metrics.
