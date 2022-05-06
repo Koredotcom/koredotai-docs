@@ -4,7 +4,7 @@ title: Information Task
 permalink: platform/topic-guide/en/latest/Information Task
 
 ---
-#### Topic guide
+#### Topic Guide
 ###### Information Task
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Information Task.
