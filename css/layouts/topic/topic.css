@@ -238,12 +238,12 @@ details.inline-video details-video{
     /* height: 168px; */
     margin: 0 15px 15px 0;
 }
-/* details details-video:nth-child(2n){
+details details-video:nth-child(2n){
     margin-left: 10px;
-} */
-/* details details-video:nth-child(2n+1){
+}
+details details-video:nth-child(2n+1){
     margin-right: 0px;
-} */
+}
 details details-video  p{
     padding: 0 !important;
     margin: 0;
