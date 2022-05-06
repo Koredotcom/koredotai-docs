@@ -5,7 +5,7 @@ permalink: platform/topic-guide/en/latest/Events
 
 ---
 
-#### Topic guide
+#### Topic Guide
 ###### Events
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Events.
