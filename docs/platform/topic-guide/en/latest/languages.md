@@ -4,7 +4,7 @@ title: Languages
 permalink: platform/topic-guide/en/latest/Languages
 
 ---
-#### Topic guide
+#### Topic Guide
 ###### Languages
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Languages.
