@@ -4,7 +4,7 @@ title: Knowledge Graph
 permalink: platform/topic-guide/en/latest/Bot Ontology
 
 ---
-#### Topic guide
+#### Topic Guide
 ###### Knowledge Graph
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Knowledge Graph.
