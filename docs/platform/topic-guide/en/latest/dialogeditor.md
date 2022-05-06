@@ -4,7 +4,7 @@ title: Dialog Editor
 permalink: platform/topic-guide/en/latest/Dialog Editor
 
 ---
-#### Topic guide
+#### Topic Guide
 ###### Dialog Tasks
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Dialog Tasks.
@@ -13,7 +13,7 @@ permalink: platform/topic-guide/en/latest/Dialog Editor
   <summary>Introduction
   </summary>
   
-   [![Introduction to Dialog Tasks](https://i.vimeocdn.com/video/873029368-78a366b9407757e066a37718d766be53d3cb90d7f27708590ca16a1400e95b89-d?mw=1300&mh=975&q=70)](https://drive.google.com/file/d/1H_ftFzlqxafj0lRx-xxOIhm6kXyB8lbo/preview)
+   [![Introduction to Dialog Tasks](images/VideoCoverImage.png)](https://drive.google.com/file/d/1H_ftFzlqxafj0lRx-xxOIhm6kXyB8lbo/preview)
 
   ##### Introduction to Dialog Tasks
   Watch this short video on the basics of building dialog tasks within a conversation flow
@@ -88,22 +88,8 @@ Get Started with Conversation Driven Dialog Builder
 
 </details>
 
-<details >
-  <summary>Videos
-  </summary>
 
-   <details-video>
-   
-   [![Introduction to Dialog Tasks](https://i.vimeocdn.com/video/873029368-78a366b9407757e066a37718d766be53d3cb90d7f27708590ca16a1400e95b89-d?mw=1300&mh=975&q=70)](https://drive.google.com/file/d/1H_ftFzlqxafj0lRx-xxOIhm6kXyB8lbo/preview)
-
-  ##### Introduction to Dialog Tasks
- Watch this short video on the basics of building dialog tasks within a conversation flow
-   </details-video>
-
-  
-</details>
-
-<a class="doc-link" target="_blank" href="https://academy.kore.ai/Public/?li=4w49d3WBc7Rte5V%2bXBWrKA%3d%3d">
+<a class="doc-link" target="_blank" href="https://academy.kore.ai/learningpath/course-102---designing-conversation-flows">
  
 
 | Frontmatter | Required? |
