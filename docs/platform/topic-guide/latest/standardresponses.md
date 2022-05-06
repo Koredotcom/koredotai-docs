@@ -13,7 +13,7 @@ permalink: platform/topic-guide/latest/Standard Responses
   <summary>Introduction
   </summary>
   
-   [![Introduction to Standard Responses](https://i.vimeocdn.com/video/873029368-78a366b9407757e066a37718d766be53d3cb90d7f27708590ca16a1400e95b89-d?mw=1300&mh=975&q=70)](https://drive.google.com/file/d/1VYKdzJ7lrzimjfbvsDr6Tic4NmJFtbBy/preview)
+   [![Introduction to Standard Responses](../../../../images/video-icon.svg)](https://drive.google.com/file/d/1VYKdzJ7lrzimjfbvsDr6Tic4NmJFtbBy/preview)
 
   ##### Introduction to Standard Responses
   Watch this video on the standard responses when the assistant doesn't understand the user query
@@ -59,7 +59,7 @@ permalink: platform/topic-guide/latest/Standard Responses
 
    <details-video>
    
-   [![Introduction to Standard Responses](https://i.vimeocdn.com/video/873029368-78a366b9407757e066a37718d766be53d3cb90d7f27708590ca16a1400e95b89-d?mw=1300&mh=975&q=70)](https://drive.google.com/file/d/1VYKdzJ7lrzimjfbvsDr6Tic4NmJFtbBy/preview)
+   [![Introduction to Standard Responses](../../../../images/video-icon.svg)](https://drive.google.com/file/d/1VYKdzJ7lrzimjfbvsDr6Tic4NmJFtbBy/preview)
 
   ##### Introduction to Standard Responses
  Watch this video on the standard responses when the assistant doesn't understand the user query
