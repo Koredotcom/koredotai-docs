@@ -5,7 +5,7 @@ permalink: platform/topic-guide/en/latest/Settings
 
 ---
 
-#### Topic guide
+#### Topic Guide
 ###### Settings
 
  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Settings.
