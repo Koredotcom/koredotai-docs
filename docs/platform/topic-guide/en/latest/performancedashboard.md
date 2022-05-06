@@ -5,7 +5,7 @@ permalink: platform/topic-guide/en/latest/Performance Dashboard
 
 ---
 
-#### Topic guide
+#### Topic Guide
 ###### Performance Dashboard
 
  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Performance Dashboard.
