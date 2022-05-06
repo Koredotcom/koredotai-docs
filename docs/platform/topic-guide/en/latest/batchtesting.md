@@ -64,20 +64,7 @@ permalink: platform/topic-guide/en/latest/Batch Testing
 
 </details>
 
-<details >
-  <summary>Videos
-  </summary>
 
-   <details-video>
-   
-   [![Introduction to Batch testing](https://i.vimeocdn.com/video/873029368-78a366b9407757e066a37718d766be53d3cb90d7f27708590ca16a1400e95b89-d?mw=1300&mh=975&q=70)](https://drive.google.com/file/d/1Apn-NwmEtIFK0m9xLEvVQ--DxKxRNJ1m/preview)
-
-  ##### Introduction to Batch testing
- What this short video on how to conduct batch testing
-   </details-video>
-
-  
-</details>
 
 <a class="doc-link" target="_blank" href="https://academy.kore.ai/Public/?li=QiH22aB3qOd9Houzhg4Ymg%3d%3d">
  

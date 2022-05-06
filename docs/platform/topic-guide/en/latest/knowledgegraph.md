@@ -94,20 +94,7 @@ What are the formats supports for extraction?
 
 </details>
 
-<details >
-  <summary>Videos
-  </summary>
 
-   <details-video>
-   
-   [![Introduction to Knowledge Graph](https://i.vimeocdn.com/video/873029368-78a366b9407757e066a37718d766be53d3cb90d7f27708590ca16a1400e95b89-d?mw=1300&mh=975&q=70)](https://drive.google.com/file/d/1H_ftFzlqxafj0lRx-xxOIhm6kXyB8lbo/preview)
-
-  ##### Introduction to Knowledge Graph
- Watch this short video on the basics of creating Knowledge Graph
-   </details-video>
-
-  
-</details>
 
 <a class="doc-link" target="_blank" href="https://academy.kore.ai/Public/?li=tcTzvhFfxJcyCjRjSuMUNA%3d%3d">
  

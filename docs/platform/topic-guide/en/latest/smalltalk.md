@@ -60,20 +60,7 @@ permalink: platform/topic-guide/en/latest/Small Talk
 
 </details>
 
-<details >
-  <summary>Videos
-  </summary>
 
-   <details-video>
-   
-   [![Introduction to Small Talk](images/video-icon.svg)](https://drive.google.com/file/d/1ohhg7dfgPL0pWVzr8i2kjKveUwO9qy_o/preview)
-
-  ##### Introduction to Small Talk
- Watch this short video on the basics of creating Small Talk
-   </details-video>
-
-  
-</details>
 
 <a class="doc-link" target="_blank" href="https://academy.kore.ai/Public/?li=4hCKcH0P60nwtxi3gc6H3g%3d%3d">
  

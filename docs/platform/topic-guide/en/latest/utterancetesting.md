@@ -65,20 +65,7 @@ permalink: platform/topic-guide/en/latest/Utterance Testing
 
 </details>
 
-<details >
-  <summary>Videos
-  </summary>
 
-   <details-video>
-   
-   [![Introduction to Utterance testing](https://i.vimeocdn.com/video/873029368-78a366b9407757e066a37718d766be53d3cb90d7f27708590ca16a1400e95b89-d?mw=1300&mh=975&q=70)](https://drive.google.com/file/d/1VYKdzJ7lrzimjfbvsDr6Tic4NmJFtbBy/preview)
-
-  ##### Introduction to Utterance testing
- Watch this short video on how to conduct utterance testing
-   </details-video>
-
-  
-</details>
 
 <a class="doc-link" target="_blank" href="https://academy.kore.ai/Public/?li=tA5uYKxgnDXbM3KqhNe1ZQ%3d%3d">
  

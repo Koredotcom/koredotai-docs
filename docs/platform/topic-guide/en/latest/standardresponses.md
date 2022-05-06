@@ -53,20 +53,7 @@ permalink: platform/topic-guide/en/latest/Standard Responses
 
 </details>
 
-<details >
-  <summary>Videos
-  </summary>
 
-   <details-video>
-   
-   [![Introduction to Standard Responses](images/video-icon.svg)](https://drive.google.com/file/d/1VYKdzJ7lrzimjfbvsDr6Tic4NmJFtbBy/preview)
-
-  ##### Introduction to Standard Responses
- Watch this video on the standard responses when the assistant doesn't understand the user query
-   </details-video>
-
-  
-</details>
 
 <a class="doc-link" target="_blank" href="https://academy.kore.ai/Public/?li=scY4wv2zNZbqjUO7tciNiQ%3d%3d">
  

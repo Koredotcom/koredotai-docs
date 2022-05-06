@@ -77,20 +77,7 @@ Get Started with Training
 
 </details>
 
-<details >
-  <summary>Videos
-  </summary>
 
-   <details-video>
-   
-   [![Introduction to NL Training](https://i.vimeocdn.com/video/873029368-78a366b9407757e066a37718d766be53d3cb90d7f27708590ca16a1400e95b89-d?mw=1300&mh=975&q=70)](https://drive.google.com/file/d/18Bmf8b2DOgdcinMn_OpYhKUgvVTbekys/preview)
-
-  ##### Introduction to NLP framework
- Watch this short overview on the Kore.ai NLP framework
-   </details-video>
-
-  
-</details>
 
 <a class="doc-link" target="_blank" href="https://academy.kore.ai/Public/?li=5gh8v9t0PQhsf5Ql%2fpWfsg%3d%3d">
  

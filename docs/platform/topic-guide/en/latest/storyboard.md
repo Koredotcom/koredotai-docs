@@ -53,40 +53,7 @@ permalink: platform/topic-guide/en/latest/Storyboard
 
 </details>
 
-<details >
-  <summary>Videos
-  </summary>
 
-   <details-video>
-   
-   [![Introduction to storyboard](https://i.vimeocdn.com/video/873029368-78a366b9407757e066a37718d766be53d3cb90d7f27708590ca16a1400e95b89-d?mw=1300&mh=975&q=70)](https://drive.google.com/file/d/1ICMkN5MYkXrZ44SGaXgU9srWdFUBKU8I/preview)
-
-  ##### Introduction to Storyboard
-  Watch this short video on how to use Storyboard to build mock conversations
-      
-   </details-video>
-   
-  <details-video>
-   
-   [![Introduction to storyboard](https://i.vimeocdn.com/video/873029368-78a366b9407757e066a37718d766be53d3cb90d7f27708590ca16a1400e95b89-d?mw=1300&mh=975&q=70)](https://drive.google.com/file/d/1ICMkN5MYkXrZ44SGaXgU9srWdFUBKU8I/preview)
-
-  ##### Introduction to Storyboard
-  Watch this short video on how to use Storyboard to build mock conversations
-       
-   </details-video>
-   
-   
-  <details-video>
-   
-   [![Introduction to storyboard](https://i.vimeocdn.com/video/873029368-78a366b9407757e066a37718d766be53d3cb90d7f27708590ca16a1400e95b89-d?mw=1300&mh=975&q=70)](https://drive.google.com/file/d/1ICMkN5MYkXrZ44SGaXgU9srWdFUBKU8I/preview)
-
-  ##### Introduction to Storyboard
-  Watch this short video on how to use Storyboard to build mock conversations
-       
-   </details-video>
-
-  
-</details>
 
 <a class="doc-link" target="_blank" href="https://academy.kore.ai/Public/?li=N3dvQXCloNC8PImlwXspgw%3d%3d">
  

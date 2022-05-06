@@ -65,20 +65,6 @@ permalink: platform/topic-guide/en/latest/Digital Views
 
 </details>
 
-<details >
-  <summary>Videos
-  </summary>
-
-   <details-video>
-   
-   [![Introduction to Digital Views](https://i.vimeocdn.com/video/873029368-78a366b9407757e066a37718d766be53d3cb90d7f27708590ca16a1400e95b89-d?mw=1300&mh=975&q=70)](https://drive.google.com/file/d/1bpT0lXUsxVCimzScgK2s3s3fPhhmKZcV/preview)
-
-  ##### Introduction to Digital Views
-  Watch this short video on creating and deploying display widgets within a chat window
-   </details-video>
-
-  
-</details>
 
 <a class="doc-link" target="_blank" href="https://academy.kore.ai/Public/?li=FbhvHvNt8rbR3tu2oN%2bIWQ%3d%3d">
  

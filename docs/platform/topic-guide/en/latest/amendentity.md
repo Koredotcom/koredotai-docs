@@ -45,20 +45,7 @@ permalink: platform/topic-guide/en/latest/Amend Entity
 
 </details>
 
-<details >
-  <summary>Videos
-  </summary>
 
-   <details-video>
-   
-   [![Introduction to Amend Entity](https://i.vimeocdn.com/video/873029368-78a366b9407757e066a37718d766be53d3cb90d7f27708590ca16a1400e95b89-d?mw=1300&mh=975&q=70)](https://drive.google.com/file/d/16iwJN53KlFx6NKHRGnD9q9XpaTLs7Eg-/preview)
-
-  ##### Introduction to Amend Entity
- Watch this short video on how to amend entities
-   </details-video>
-
-  
-</details>
 
 <a class="doc-link" target="_blank" href="https://academy.kore.ai/Public/?li=6EhKJWdAKi0K5buZqq3fow%3d%3d">
  
