@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="37px" viewBox="0 0 36 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>video-icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="video-icon" transform="translate(-1.000000, 0.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M18.6433,0.75 C8.91393,0.75 0.988281,8.77442 0.988281,18.625 C0.988281,28.4756 8.91393,36.5 18.6433,36.5 C28.3726,36.5 36.2983,28.4756 36.2983,18.625 C36.2983,8.77442 28.3726,0.75 18.6433,0.75 Z M18.6433,3.5 C26.9085,3.5 33.5821,10.2568 33.5821,18.625 C33.5821,26.9932 26.9085,33.75 18.6433,33.75 C10.3781,33.75 3.70443,26.9932 3.70443,18.625 C3.70443,10.2568 10.3781,3.5 18.6433,3.5 Z M11.8529,8.97852 L11.8529,28.2822 L28.3832,18.625 L11.8529,8.97852 Z M14.569,13.7266 L22.9509,18.625 L14.569,23.5234 L14.569,13.7266 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

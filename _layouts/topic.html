@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    {% include head.html %}
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.perfect-scrollbar/1.5.5/css/perfect-scrollbar.min.css" />
+    <link rel="stylesheet" href="css/layouts/topic/topic.css">
+   
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.perfect-scrollbar/1.5.5/perfect-scrollbar.min.js"></script>
+    
+    <script>
+        $(function () {
+            $('[data-toggle="tooltip"]').tooltip()
+        })
+    </script>
+    <script>
+        $(document).ready(function() {
+  
+            var payloadObj = { 
+                    action: 'videoModal',
+                    selector: 'topicGuide',
+                    payload:{url:""}
+                    };
+            $("#tg-sb-link").click(function() {
+                $("#tg-sb-sidebar").toggle();
+                $("#tg-sb-content").toggleClass('col-md-9');
+                $("#tg-sb-content").toggleClass('col-md-12');
+                $("#tg-sb-icon").toggleClass('fa-toggle-on');
+                $("#tg-sb-icon").toggleClass('fa-toggle-off');
+            });
+
+
+var span = document.querySelector('nested-details p');
+
+$('.nested-details summary').on('click', function (e) {
+    //console.log(e);
+    if ((e.offsetX > $(this).width())) {
+        $(e.currentTarget).closest('.nested-details').find('p').click();
+        e.preventDefault();
+    } 
+});
+            function videoCallback(e){
+                e.preventDefault();
+                payloadObj.payload.url = e.currentTarget.href;
+                payloadObj.payload.title = e.currentTarget.firstChild.getAttribute('alt');
+                 var description =  $(e.currentTarget).closest('details.introduction-video').find('p:last-child').text()
+                if(description){
+
+                payloadObj.payload.description  = description;
+                }else{
+                  payloadObj.payload.description  =  $(e.currentTarget).closest('details-video').find('p:last-child').text();
+                }
+                window.parent.postMessage(payloadObj, '*'); 
+
+
+            }
+            $('.introduction-video a').on('click',videoCallback);
+
+
+            $('details-video a').on('click',videoCallback);
+
+            $('a.tour-guide[topic-id]').on('click', function(e){
+                 e.preventDefault();
+                  window.parent.postMessage({
+                                      action: 'guidedTour',
+                                      selector: 'topicGuide',
+                                       payload:{topicId:e.currentTarget.getAttribute('topic-id')}
+                                      }, '*');
+            });
+
+  
+         //  $('body').perfectScrollbar();
+             new PerfectScrollbar('body');
+        
+        });
+    </script>
+    {% if page.datatable == true %}
+    <!-- Include the standard DataTables bits -->
+    <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.13/css/jquery.dataTables.css">
+    <script type="text/javascript" charset="utf8" src="//cdn.datatables.net/1.10.13/js/jquery.dataTables.js"></script>
+    <!-- First, this walks through the tables that occur between ...-begin
+         and ...-end and add the "datatable" class to them.
+         Then it invokes DataTable's standard initializer
+         Credit here: http://www.beardedhacker.com/blog/2015/08/28/add-class-attribute-to-markdown-table/
+      -->
+    <script>
+      $(document).ready(function(){
+          $('div.datatable-begin').nextUntil('div.datatable-end', 'table').addClass('display');
+          $('table.display').DataTable( {
+              paging: true,
+              stateSave: true,
+              searching: true
+          });
+       });
+    </script>
+    {% endif %}
+
+</head>
+<body>
+
+<!-- Page Content -->
+<div class="topic-container">
+  <div id="main">
+    <!-- Content Row -->
+    <div class="row">
+        {% assign content_col_size = "col-md-12" %}
+
+
+        <!-- Content Column -->
+        <div class="{{content_col_size}}" id="tg-sb-content">
+            {{content}}
+        </div>
+    <!-- /.row -->
+</div>
+<!-- /.container -->
+</div>
+<!-- /#main -->
+    </div>
+
+</body>
+
+</html>
+

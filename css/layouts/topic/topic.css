@@ -1,0 +1,481 @@
+
+html, body{
+    font-family: 'Inter' !important;
+    overflow: hidden;
+    position: relative;
+}
+
+details:hover summary{
+    background: #F8F9FA;
+}
+
+details summary{
+    cursor: pointer;
+}
+.topic-container{
+   padding: 25px 16px;
+   font-family: 'Inter' !important;
+}
+
+details summary, details:not([open]).nested-details summary{
+    border: 1px solid #E4E5E7;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    background-color: #fff;
+    padding: 12px 10px;
+    font-weight: 500;
+    font-size: 14px;
+    color: #202124 !important;
+    box-shadow: none;
+}
+details[open] summary, details[open].nested-details summary{
+    background: #F8F9FA;
+    box-shadow: none;
+    color: #202124 !important;
+    padding: 12px 10px;
+    margin-bottom: 0;
+    border-bottom: 0;
+    border-top: 0;
+}
+details[open]{
+    border: 1px solid #E4E5E7;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    background: #F8F9FA;
+    /* padding-bottom: 15px; */
+}
+
+details h1, 
+details h2,
+details h3,
+details h4,
+details h5,
+details h6,
+details ol, details ol li,
+details ul,details ul li,
+details div, details.video+ *:not(summary), details.video + *:not(p:first-child){
+    /* padding-left: 25px; */
+    /* padding-right: 25px; */
+    /* position: relative;
+    left: 15px; */
+
+}
+
+
+details.introduction-video p{
+    padding: 0 10px 10px !important; 
+}
+details.introduction-video p a{
+    height: 140px;
+    width: 340px;
+    border: 1px solid #e3d8d8;
+    background: #fff;
+    position: relative;
+    display: block;
+}
+details.introduction-video p a img{
+    height: 140px;
+    width: 340px;
+}
+details.introduction-video p a:before{
+    content: '';
+    display: inline-block;
+    background: rgb(0 0 0 / 22%);
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+details.introduction-video p a:after{
+    left:45%;
+}
+
+details.introduction-video h5{
+    font-weight: 500;
+    font-size: 14px;
+    color: #202124;
+    padding: 10px 10px 0 !important;
+    margin: 0;
+}
+details.introduction-video img, details details-video p:first-child{
+    width: 100%;
+    border: 1px solid #e3d8d8;
+    background: #fff;
+    /* padding: 15px;    */
+}
+
+details.introduction-video a::after{
+    content:''
+}
+details.introduction-video *:nth-child(n+3) {
+    padding: 0 10px 10px;
+}
+details doc-link
+details h5{
+    font-weight: 500;
+    font-size: 14px;
+    color: #202124;
+    padding-bottom: 5px;
+    margin: 0;
+}
+details p {
+    font-weight: 400;
+    font-size: 13px;
+    color: #5F6368;
+    margin: 0;
+}
+details details-video h5{
+    font-weight: 500;
+    font-size: 14px;
+    color: #202124;
+    padding-bottom: 0;
+    margin: 0;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    padding-top: 10px;
+} 
+details details-video p {
+    font-weight: 400;
+    font-size: 13px;
+    color: #5F6368;
+    margin: 0;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+details[open] summary::after,
+details[open].nested-details summary::after{
+    content: "";
+    border: solid #202124;
+    border-width: 0 1px 1px 0;
+    display: inline-block;
+    padding: 3px;
+    margin-top: 8px;
+    /* background-color: red; */
+    margin-right: 10px;
+    transform: rotate(-135deg);
+    -webkit-transform: rotate(-135deg);
+    float: right;
+}
+details summary::after, 
+details.nested-details summary::after{
+
+    content: "";
+    border: solid #202124;
+    border-width: 0 1px 1px 0;
+    display: inline-block;
+    padding: 3px;
+    margin-top: 8px;
+    /* background-color: red; */
+    margin-right: 10px;
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+
+    float: right;
+ 
+}
+details details-video{
+    display: inline-block;
+    vertical-align: top;
+    /* margin-left: 10px;
+    width: 310px;
+    margin-top: 25px; */
+    /* border: 1px solid #dad3d3; */
+    width: 160px;
+    /* height: 168px; */
+    margin: 0 15px 15px 0;
+}
+details details-video:nth-child(2n){
+    margin-left: 10px;
+}
+details details-video:nth-child(2n+1){
+    margin-right: 0px;
+}
+details details-video  p{
+    padding: 0 !important;
+    margin: 0;
+}
+details details-video  p:nth-child(1){
+  padding-top: 5px;
+}
+
+details details-video  p a::after{
+    content: "" !important;
+    height: 34px;
+    width: 34px;
+    background: url(/koredotai-docs/images/video-icon.svg) no-repeat;
+    background-size: 34px;
+    position: absolute;
+    padding: 0 !important;
+    left: 38%;
+    top: 35%;
+}
+details details-video p img{
+    width: 100%;
+    /* height: 200px;
+    padding: 45px; */
+}
+details  details-video  p a{
+    position: relative;
+    display: block;
+    width: 160px;
+    height: 120px;
+}
+a[href^="http://"]:before, a[href^="https://"]:before{
+    content: '';
+    display: inline-block;
+    background: rgb(0 0 0 / 22%);
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+a[href^="http://"]:after, a[href^="https://"]:after {
+    content: "" !important;
+    height: 34px;
+    width: 34px;
+    background: url(/koredotai-docs/images/video-icon.svg) no-repeat;
+
+    background-size: 34px;
+    position: absolute;
+    padding: 0 !important;
+    left: 38%;
+    top: 35%;
+}
+
+a.doc-link p img {
+    height: 72px;
+    
+}
+a.doc-link{
+    border: 1px solid #E4E5E7;
+    display: block;
+    margin-bottom: 5px;
+    padding: 15px 12px;
+    position: relative;
+    cursor: pointer;
+    border-radius: 4px;
+    text-decoration: none !important;
+    
+}
+
+a.doc-link:before, a.nested-accordian-link:before{
+    display: none !important;
+}
+a.doc-link:hover{
+    background: #F8F9FA;
+}
+a.doc-link table{
+    margin: 0;
+    border: 0;
+    /* background: #fff; */
+    width: 100%;
+    max-width: 100%;
+    display: flex;
+}
+ details a.doc-link {
+    position: relative;
+    border: 0;
+    box-shadow: inset 0px -1px 0px #E4E5E7;
+    padding: 12px 10px;
+    text-decoration: none !important;
+    margin: 0 10px;
+}
+details .nested-details{
+    margin: 0 10px;
+}
+details .nested-details summary{
+    position: relative;
+    border: 0 !important;
+    box-shadow: inset 0px -1px 0px #E4E5E7 !important;
+    padding: 12px 10px;
+    text-decoration: none;
+    margin: 0 !important;
+    background-color: transparent !important;
+    font-weight: 400 !important;
+}
+details .nested-details[open] summary{
+    box-shadow: none !important;
+}
+details a.doc-link p{
+    padding-right: 25px;
+    font-weight: 400;
+    font-size: 14px;
+    color: #202124 !important;
+}
+a.doc-link table thead{
+    display: none;
+}
+a.doc-link table  tbody{
+    width: 100%;
+}
+a.doc-link table  tbody tr{
+    background-color:transparent;
+    display: flex;
+    align-items: center;
+}
+a.doc-link table  tbody tr td{
+    font-weight: 400;
+    font-size: 13px;
+    color: #5F6368;
+    padding: 0;
+    border: 0;
+    line-height: 21px;
+}
+a.doc-link table  tbody tr td:nth-child(1){
+    width: 78px;
+    height: 77px;
+    background: #E7F1FF;
+    border-radius: 3px;
+    flex-shrink: 0;
+}
+a.doc-link table  tbody tr td:nth-child(2){
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 20px;
+}
+a.doc-link table  tbody tr td strong{
+    font-weight: 500;
+    font-size: 14px;
+    color: #202124;
+}
+
+
+a.doc-link::after{
+    content: "" !important;
+    height: 14px;
+    width: 14px;
+    background: url(/koredotai-docs/images/externalLink.svg) no-repeat;
+    background-size: 14px;
+    position: absolute;
+    padding: 0 !important;
+    right: 14px;
+    left: auto;
+    top: 40%;
+}
+#topic-guide{
+    font-weight: 600;
+    font-size: 16px;
+    color: #202124;
+    margin: 0;
+    font-style: normal;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    background: #fff;
+    z-index: 1;
+    padding-top: 25px;
+}
+#tg-sb-content p:nth-child(3){
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 18px;
+    color: #202124;
+    padding: 55px 0 20px;
+    font-style: normal;
+}
+#tg-sb-content h6:nth-child(2){
+    padding: 0;
+    font-weight: normal;
+    font-size: 13px;
+    color: #5f6368;
+    /* margin: 5px 0 0; */
+    margin: 0;
+    position: fixed;
+    top: 43px;
+    width: 100%;
+    background: #fff;
+    z-index: 1;
+    padding-bottom: 10px;
+    padding-top: 2px;
+}
+details .doc-link.tour-guide:after{
+    background: none !important;
+    content: "Guided tour" !important;
+    width: auto;
+    top: 10px;
+    text-decoration: underline;
+    font-size: 14px;
+    font-weight: normal;
+    color: #5F6368;
+}
+.nested-accordian-link{
+    text-decoration: none !important;
+}
+.nested-accordian-link:after{
+    display: none !important;
+}
+.nested-accordian-link .nested-details{
+    border: 0;
+    /* border-bottom: 1px solid #E4E5E7; */
+}
+.nested-accordian-link .nested-details p {
+    font-weight: 400;
+    font-size: 13px;
+    color: #5F6368;
+    line-height: 20px;
+    margin: 0;
+    padding-left: 35px;
+    padding-bottom: 10px;
+}
+.nested-accordian-link .nested-details{
+    box-shadow: inset 0px -1px 0px #e4e5e7 !important;
+}
+.nested-accordian-link .nested-details summary{
+    box-shadow: none !important;
+    padding-right: 35px !important;
+}
+.nested-accordian-link .nested-details summary:after{
+    position: absolute;
+    left: 12px;
+    top: 10px;
+}
+.nested-accordian-link .nested-details summary:before{
+    content: "" !important;
+    height: 14px;
+    width: 14px;
+    background: url(/koredotai-docs/images/externalLink.svg) no-repeat;
+    background-size: 14px;
+    position: absolute;
+    padding: 0 !important;
+    right: 14px;
+    left: auto;
+    top: 40%;
+}
+.nested-accordian-link.no-doc-ext-link .nested-details summary:before{
+    display: none !important;
+}
+
+.nested-accordian-link summary{
+    padding-left: 35px !important;
+}
+.nested-accordian-link .nested-details h6{
+    padding-left: 35px;
+    font-size: 12px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2;
+    letter-spacing: normal;
+    color: #202124;
+}
+.nested-accordian-link .nested-details ul{
+    list-style: none;
+    padding-left: 35px;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    /* line-height: 2; */
+    letter-spacing: normal;
+    color: #202124;
+    padding-bottom: 10px;
+}
+.nested-accordian-link .nested-details ul li{
+    margin-bottom: 10px;
+
+}
+.doc-link p{
+    padding-left: 25px !important;
+}
