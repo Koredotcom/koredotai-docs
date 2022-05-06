@@ -1,7 +1,7 @@
 ---
 title: Events
 
-permalink: platform/topic-guide/latest/Events
+permalink: platform/topic-guide/en/latest/Events
 
 ---
 

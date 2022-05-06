@@ -1,7 +1,7 @@
 ---
 title: Bot Versions
 
-permalink: platform/topic-guide/latest/Bot Versions
+permalink: platform/topic-guide/en/latest/Bot Versions
 
 ---
 

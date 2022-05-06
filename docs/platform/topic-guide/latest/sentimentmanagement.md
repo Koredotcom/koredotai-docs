@@ -1,7 +1,7 @@
 ---
 title: Sentiment Management
 
-permalink: platform/topic-guide/latest/Sentiment Management
+permalink: platform/topic-guide/en/latest/Sentiment Management
 
 ---
 #### Topic guide

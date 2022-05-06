@@ -1,7 +1,7 @@
 ---
 title: Bot Store Settings
 
-permalink: platform/topic-guide/latest/Bot Store Settings
+permalink: platform/topic-guide/en/latest/Bot Store Settings
 
 ---
 

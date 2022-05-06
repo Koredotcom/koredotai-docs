@@ -1,7 +1,7 @@
 ---
 title: Digital Views
 
-permalink: platform/topic-guide/latest/Digital Views
+permalink: platform/topic-guide/en/latest/Digital Views
 
 ---
 #### Topic guide

@@ -1,7 +1,7 @@
 ---
 title: Linked Bot Training
 
-permalink: platform/topic-guide/latest/Linked Bot Training
+permalink: platform/topic-guide/en/latest/Linked Bot Training
 
 ---
 

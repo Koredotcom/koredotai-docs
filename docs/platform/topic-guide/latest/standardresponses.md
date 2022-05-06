@@ -1,7 +1,7 @@
 ---
 title: Standard Responses
 
-permalink: platform/topic-guide/latest/Standard Responses
+permalink: platform/topic-guide/en/latest/Standard Responses
 
 ---
 #### Topic guide

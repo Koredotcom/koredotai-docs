@@ -1,7 +1,7 @@
 ---
 title: Alert Tasks
 
-permalink: platform/topic-guide/latest/Alert Tasks
+permalink: platform/topic-guide/en/latest/Alert Tasks
 
 ---
 #### Topic guide

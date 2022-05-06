@@ -1,7 +1,7 @@
 ---
 title: Smart Bot Settings
 
-permalink: platform/topic-guide/latest/Smart Bot Settings
+permalink: platform/topic-guide/en/latest/Smart Bot Settings
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Manage Sessions
 
-permalink: platform/topic-guide/latest/Manage Sessions
+permalink: platform/topic-guide/en/latest/Manage Sessions
 
 ---
 #### Topic guide

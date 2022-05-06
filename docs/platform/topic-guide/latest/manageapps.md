@@ -1,7 +1,7 @@
 ---
 title: Manage Apps
 
-permalink: platform/topic-guide/latest/Manage Apps
+permalink: platform/topic-guide/en/latest/Manage Apps
 
 ---
 

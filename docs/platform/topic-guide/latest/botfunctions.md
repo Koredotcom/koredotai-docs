@@ -1,7 +1,7 @@
 ---
 title: Bot Functions
 
-permalink: platform/topic-guide/latest/Bot Functions
+permalink: platform/topic-guide/en/latest/Bot Functions
 
 ---
 #### Topic guide

@@ -1,7 +1,7 @@
 ---
 title: Small Talk
 
-permalink: platform/topic-guide/latest/Small Talk
+permalink: platform/topic-guide/en/latest/Small Talk
 
 ---
 #### Topic guide

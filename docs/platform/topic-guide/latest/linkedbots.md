@@ -1,7 +1,7 @@
 ---
 title: Linked Bots
 
-permalink: platform/topic-guide/latest/Linked Bots
+permalink: platform/topic-guide/en/latest/Linked Bots
 
 ---
 

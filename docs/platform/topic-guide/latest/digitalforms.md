@@ -1,7 +1,7 @@
 ---
 title: Digital Forms
 
-permalink: platform/topic-guide/latest/Digital Forms
+permalink: platform/topic-guide/en/latest/Digital Forms
 
 ---
 #### Topic guide

@@ -1,7 +1,7 @@
 ---
 title: Invoices
 
-permalink: platform/topic-guide/latest/Invoices
+permalink: platform/topic-guide/en/latest/Invoices
 
 ---
 

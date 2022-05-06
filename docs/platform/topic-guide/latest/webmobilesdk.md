@@ -1,7 +1,7 @@
 ---
 title: Web/Mobile SDK
 
-permalink: platform/topic-guide/latest/Web Mobile SDK
+permalink: platform/topic-guide/en/latest/Web Mobile SDK
 
 ---
 

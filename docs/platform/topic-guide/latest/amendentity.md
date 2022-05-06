@@ -1,7 +1,7 @@
 ---
 title: Amend Entity
 
-permalink: platform/topic-guide/latest/Amend Entity
+permalink: platform/topic-guide/en/latest/Amend Entity
 
 ---
 #### Topic guide

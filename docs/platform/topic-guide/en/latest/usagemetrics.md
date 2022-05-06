@@ -42,7 +42,7 @@ permalink: platform/topic-guide/en/latest/Usage Metrics
  </a>
 
 
-<a class="nested-accordian-link no-doc-ext-link" >
+<a class="nested-accordian-link no-doc-ext-link"  >
  
   <details class="nested-details">
  

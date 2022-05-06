@@ -1,7 +1,7 @@
 ---
 title: Environment Variables
 
-permalink: platform/topic-guide/latest/Environment Variables
+permalink: platform/topic-guide/en/latest/Environment Variables
 
 ---
 #### Topic guide

@@ -1,7 +1,7 @@
 ---
 title: NL Training
 
-permalink: platform/topic-guide/latest/Training
+permalink: platform/topic-guide/en/latest/Training
 
 ---
 #### Topic guide

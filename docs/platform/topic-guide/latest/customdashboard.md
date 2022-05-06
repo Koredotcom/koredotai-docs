@@ -1,7 +1,7 @@
 ---
 title: Custom Dashboards
 
-permalink: platform/topic-guide/latest/Custom Dashboards
+permalink: platform/topic-guide/en/latest/Custom Dashboards
 
 ---
 

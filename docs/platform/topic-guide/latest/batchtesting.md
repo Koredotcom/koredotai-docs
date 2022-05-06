@@ -1,7 +1,7 @@
 ---
 title: Batch Testing
 
-permalink: platform/topic-guide/latest/Batch Testing
+permalink: platform/topic-guide/en/latest/Batch Testing
 
 ---
 #### Topic guide

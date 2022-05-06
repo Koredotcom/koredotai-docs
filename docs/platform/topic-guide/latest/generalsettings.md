@@ -1,7 +1,7 @@
 ---
 title: General Settings
 
-permalink: platform/topic-guide/latest/General Settings
+permalink: platform/topic-guide/en/latest/General Settings
 
 ---
 #### Topic guide

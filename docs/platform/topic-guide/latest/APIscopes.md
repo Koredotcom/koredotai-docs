@@ -1,7 +1,7 @@
 ---
 title: API Scopes
 
-permalink: platform/topic-guide/latest/API Scopes
+permalink: platform/topic-guide/en/latest/API Scopes
 
 ---
 

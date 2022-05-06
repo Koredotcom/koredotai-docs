@@ -1,7 +1,7 @@
 ---
 title: Storyboard
 
-permalink: platform/topic-guide/latest/Storyboard
+permalink: platform/topic-guide/en/latest/Storyboard
 
 ---
 #### Topic guide

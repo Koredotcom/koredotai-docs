@@ -1,7 +1,7 @@
 ---
 title: Conversation Testing
 
-permalink: platform/topic-guide/latest/Conversation Testing
+permalink: platform/topic-guide/en/latest/Conversation Testing
 
 ---
 #### Topic guide

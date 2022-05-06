@@ -1,7 +1,7 @@
 ---
 title: Authorization Profiles
 
-permalink: platform/topic-guide/latest/Authorization Profiles
+permalink: platform/topic-guide/en/latest/Authorization Profiles
 
 ---
 #### Topic guide

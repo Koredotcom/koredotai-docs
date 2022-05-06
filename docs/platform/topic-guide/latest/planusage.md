@@ -1,7 +1,7 @@
 ---
 title: Plan & Usage
 
-permalink: platform/topic-guide/latest/Plan & Usage
+permalink: platform/topic-guide/en/latest/Plan & Usage
 
 ---
 #### Topic guide

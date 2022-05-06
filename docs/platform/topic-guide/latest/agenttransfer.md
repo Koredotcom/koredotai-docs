@@ -1,7 +1,7 @@
 ---
 title: Agent Transfer
 
-permalink: platform/topic-guide/latest/Agent Transfer
+permalink: platform/topic-guide/en/latest/Agent Transfer
 
 ---
 

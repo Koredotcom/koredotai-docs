@@ -1,7 +1,7 @@
 ---
 title: Languages
 
-permalink: platform/topic-guide/latest/Languages
+permalink: platform/topic-guide/en/latest/Languages
 
 ---
 #### Topic guide

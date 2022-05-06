@@ -1,7 +1,7 @@
 ---
 title: Bot Summary
 
-permalink: platform/topic-guide/latest/Summary
+permalink: platform/topic-guide/en/latest/Summary
 
 ---
 #### Topic guide

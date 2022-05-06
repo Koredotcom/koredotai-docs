@@ -1,7 +1,7 @@
 ---
 title: Performance Dashboard
 
-permalink: platform/topic-guide/latest/Performance Dashboard
+permalink: platform/topic-guide/en/latest/Performance Dashboard
 
 ---
 

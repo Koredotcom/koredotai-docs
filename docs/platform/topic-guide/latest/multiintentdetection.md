@@ -1,7 +1,7 @@
 ---
 title: Multi Intent detection
 
-permalink: platform/topic-guide/latest/Multi intent Detection
+permalink: platform/topic-guide/en/latest/Multi intent Detection
 
 ---
 #### Topic guide

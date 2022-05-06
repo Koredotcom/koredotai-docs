@@ -1,7 +1,7 @@
 ---
 title: Dialog Editor
 
-permalink: platform/topic-guide/latest/Dialog Editor
+permalink: platform/topic-guide/en/latest/Dialog Editor
 
 ---
 #### Topic guide

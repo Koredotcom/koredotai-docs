@@ -1,7 +1,7 @@
 ---
 title: Import & Export
 
-permalink: platform/topic-guide/latest/Import & Export
+permalink: platform/topic-guide/en/latest/Import & Export
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Conversations Dashboard
 
-permalink: platform/topic-guide/latest/Conversations Dashboard
+permalink: platform/topic-guide/en/latest/Conversations Dashboard
 
 ---
 

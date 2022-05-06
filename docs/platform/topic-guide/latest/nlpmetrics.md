@@ -1,7 +1,7 @@
 ---
 title: NLP Metrics
 
-permalink: platform/topic-guide/latest/NLP Metrics
+permalink: platform/topic-guide/en/latest/NLP Metrics
 
 ---
 #### Topic guide

@@ -1,7 +1,7 @@
 ---
 title: Change Logs
 
-permalink: platform/topic-guide/latest/Change Logs
+permalink: platform/topic-guide/en/latest/Change Logs
 
 ---
 

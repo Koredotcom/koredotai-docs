@@ -1,7 +1,7 @@
 ---
 title: Team
 
-permalink: platform/topic-guide/latest/Team
+permalink: platform/topic-guide/en/latest/Team
 
 ---
 

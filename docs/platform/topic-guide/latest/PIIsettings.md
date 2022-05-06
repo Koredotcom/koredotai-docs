@@ -1,7 +1,7 @@
 ---
 title: PII Settings
 
-permalink: platform/topic-guide/latest/PII Settings
+permalink: platform/topic-guide/en/latest/PII Settings
 
 ---
 #### Topic guide

@@ -1,7 +1,7 @@
 ---
 title: Dialog Tasks
 
-permalink: platform/topic-guide/latest/Dialog Tasks
+permalink: platform/topic-guide/en/latest/Dialog Tasks
 
 ---
 #### Topic guide

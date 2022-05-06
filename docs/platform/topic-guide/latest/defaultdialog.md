@@ -1,7 +1,7 @@
 ---
 title: Default Dialog
 
-permalink: platform/topic-guide/latest/Default Dialog
+permalink: platform/topic-guide/en/latest/Default Dialog
 
 ---
 

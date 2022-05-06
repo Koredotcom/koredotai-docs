@@ -1,7 +1,7 @@
 ---
 title: Interruption Management
 
-permalink: platform/topic-guide/latest/Manage Interruptions
+permalink: platform/topic-guide/en/latest/Manage Interruptions
 
 ---
 #### Topic guide

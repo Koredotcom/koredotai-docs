@@ -1,7 +1,7 @@
 ---
 title: Publish
 
-permalink: platform/topic-guide/latest/Publish
+permalink: platform/topic-guide/en/latest/Publish
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: NL Advanced Settings
 
-permalink: platform/topic-guide/latest/Advanced Settings
+permalink: platform/topic-guide/en/latest/Advanced Settings
 
 ---
 

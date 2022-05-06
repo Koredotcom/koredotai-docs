@@ -1,7 +1,7 @@
 ---
 title: Content Variables
 
-permalink: platform/topic-guide/latest/Content Variables
+permalink: platform/topic-guide/en/latest/Content Variables
 
 ---
 #### Topic guide

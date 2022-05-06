@@ -1,7 +1,7 @@
 ---
 title: BotKit
 
-permalink: platform/topic-guide/latest/BotKit
+permalink: platform/topic-guide/en/latest/BotKit
 
 ---
 

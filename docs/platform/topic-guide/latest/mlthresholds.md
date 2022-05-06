@@ -1,7 +1,7 @@
 ---
 title: ML Thresholds & Configurations
 
-permalink: platform/topic-guide/latest/Thresholds & Configurations
+permalink: platform/topic-guide/en/latest/Thresholds & Configurations
 
 ---
 

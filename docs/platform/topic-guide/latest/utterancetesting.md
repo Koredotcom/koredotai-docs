@@ -1,7 +1,7 @@
 ---
 title: Utterance Testing
 
-permalink: platform/topic-guide/latest/Utterance Testing
+permalink: platform/topic-guide/en/latest/Utterance Testing
 
 ---
 #### Topic guide

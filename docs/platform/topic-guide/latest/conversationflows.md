@@ -1,7 +1,7 @@
 ---
 title: Conversation Flows
 
-permalink: platform/topic-guide/latest/Conversation Flows
+permalink: platform/topic-guide/en/latest/Conversation Flows
 
 ---
 #### Topic guide

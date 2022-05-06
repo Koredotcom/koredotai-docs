@@ -1,7 +1,7 @@
 ---
 title: Channels
 
-permalink: platform/topic-guide/latest/Channels
+permalink: platform/topic-guide/en/latest/Channels
 
 ---
 
