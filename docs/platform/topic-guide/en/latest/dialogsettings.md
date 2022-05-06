@@ -5,7 +5,7 @@ permalink: platform/topic-guide/en/latest/Dialog Settings
 
 ---
 
-#### Topic guide
+#### Topic Guide
 ###### Dialog Settings
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Dialog Settings.
