@@ -1,7 +1,7 @@
 ---
 title: Storyboard-MD
 
-permalink: platform/topic-guide/latest/storyboard
+permalink: platform/topic-guide/en/latest/storyboard
 
 ---
 #### Topic guide

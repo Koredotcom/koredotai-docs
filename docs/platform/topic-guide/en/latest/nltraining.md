@@ -68,7 +68,7 @@ permalink: platform/topic-guide/en/latest/Training
 
 </a>
 
-<a class="doc-link tour-guide" topic-id="9217" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/train-nlp-optimization/machine-learning/user-utterances/">
+<a class="doc-link tour-guide" topic-id="91617" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/train-nlp-optimization/machine-learning/user-utterances/">
 
 Get Started with Training
 
