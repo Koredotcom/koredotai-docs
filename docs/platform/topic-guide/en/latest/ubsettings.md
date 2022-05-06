@@ -6,7 +6,7 @@ permalink: platform/topic-guide/en/latest/Settings
 ---
 
 #### Topic guide
-###### Linked Bot Training
+###### Settings
 
  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Settings.
 
