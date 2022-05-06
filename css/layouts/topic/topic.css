@@ -253,14 +253,11 @@ details details-video  p:nth-child(1){
 }
 
 details details-video  p a::after{
-    content: "" !important;
-    height: 34px;
-    width: 34px;
-    background: url(/koredotai-docs/images/video-icon.svg) no-repeat;
-    background-size: 34px;
-    position: absolute;
-    padding: 0 !important;
-    left: 45%;
+    left: 45% !important;
+    top: 35%;
+}
+details.inline-video details-video  p a::after{
+    left: 35% !important;
     top: 35%;
 }
 details details-video p img{
