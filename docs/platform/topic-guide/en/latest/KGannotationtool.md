@@ -4,7 +4,7 @@ title: Annotate & Extract
 permalink: platform/topic-guide/en/latest/KG Annotation Tool
 
 ---
-#### Topic guide
+#### Topic Guide
 ###### Knowledge Annotation
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Knowledge Annotation & Extraction.
