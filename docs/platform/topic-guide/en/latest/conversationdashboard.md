@@ -10,7 +10,7 @@ permalink: platform/topic-guide/en/latest/Conversations Dashboard
 
  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Conversations Dashboard.
 
-<details>
+<details open>
   <summary>FAQs
   </summary>
  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/dashboard/#Realtime_Status">

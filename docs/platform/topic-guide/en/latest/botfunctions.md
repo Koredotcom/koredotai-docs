@@ -10,7 +10,7 @@ permalink: platform/topic-guide/en/latest/Bot Functions
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Bot Functions.
 
 
-<details>
+<details open>
   <summary>FAQs
   </summary>
 

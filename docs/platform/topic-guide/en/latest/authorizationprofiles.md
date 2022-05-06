@@ -10,7 +10,7 @@ permalink: platform/topic-guide/en/latest/Authorization Profiles
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Authorization Profiles.
 
 
-<details>
+<details open>
   <summary>FAQs
   </summary>
 

@@ -9,7 +9,7 @@ permalink: platform/topic-guide/en/latest/ACTIONS_TASK_BASIC
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Action Task.
 
-<details>
+<details open>
   <summary>FAQs
   </summary>
 

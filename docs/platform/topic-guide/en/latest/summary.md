@@ -9,7 +9,7 @@ permalink: platform/topic-guide/en/latest/Summary
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Bot Summary.
 
-<details>
+<details open>
   <summary>FAQs
   </summary>
 

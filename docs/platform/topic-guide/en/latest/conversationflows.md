@@ -11,7 +11,7 @@ permalink: platform/topic-guide/en/latest/Conversation Flows
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Conversation Flows.
 
 
-<details>
+<details open>
   <summary>FAQs
   </summary>
 

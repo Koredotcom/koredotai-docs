@@ -10,7 +10,7 @@ permalink: platform/topic-guide/en/latest/Custom Dashboards
 
  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Custom Dashboards.
 
-<details>
+<details open>
   <summary>FAQs
   </summary>
  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/custom-dashboard/#Analytics">

@@ -10,7 +10,7 @@ permalink: platform/topic-guide/en/latest/Bot Versions
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Bot Versions.
 
-<details>
+<details open>
   <summary>FAQs
   </summary>
 

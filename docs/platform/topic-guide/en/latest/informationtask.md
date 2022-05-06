@@ -9,7 +9,7 @@ permalink: platform/topic-guide/en/latest/Information Task
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Information Task.
 
-<details>
+<details open>
   <summary>FAQs
   </summary>
 

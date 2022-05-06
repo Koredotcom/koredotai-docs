@@ -10,7 +10,7 @@ permalink: platform/topic-guide/en/latest/Linked Bots
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Linked Bots.
 
-<details>
+<details open>
   <summary>FAQs
   </summary>
 

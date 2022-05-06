@@ -11,7 +11,7 @@ permalink: platform/topic-guide/en/latest/NLP Metrics
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on NLP Metrics.
 
 
-<details>
+<details open>
   <summary>FAQs
   </summary>
 

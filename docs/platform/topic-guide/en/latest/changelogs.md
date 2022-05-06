@@ -10,7 +10,7 @@ permalink: platform/topic-guide/en/latest/Change Logs
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Change Logs.
 
-<details>
+<details open>
   <summary>FAQs
   </summary>
 

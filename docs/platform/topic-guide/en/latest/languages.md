@@ -10,7 +10,7 @@ permalink: platform/topic-guide/en/latest/Languages
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Languages.
 
 
-<details>
+<details open>
   <summary>FAQs
   </summary>
 

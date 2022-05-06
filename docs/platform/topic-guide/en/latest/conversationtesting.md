@@ -10,7 +10,7 @@ permalink: platform/topic-guide/en/latest/Conversation Testing
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Conversation Testing.
 
 
-<details>
+<details open>
   <summary>FAQs
   </summary>
 

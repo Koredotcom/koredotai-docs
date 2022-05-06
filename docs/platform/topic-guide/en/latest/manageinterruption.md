@@ -10,7 +10,7 @@ permalink: platform/topic-guide/en/latest/Manage Interruption
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Manage Interruption.
 
-<details>
+<details open>
   <summary>FAQs
   </summary>
 

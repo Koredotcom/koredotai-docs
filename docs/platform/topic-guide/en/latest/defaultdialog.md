@@ -10,7 +10,7 @@ permalink: platform/topic-guide/en/latest/Default Dialog
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Default Dialog.
 
-<details>
+<details open>
   <summary>FAQs
   </summary>
 

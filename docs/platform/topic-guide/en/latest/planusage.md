@@ -9,7 +9,7 @@ permalink: platform/topic-guide/en/latest/Plan & Usage
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Plan & Usage.
 
-<details>
+<details open>
   <summary>FAQs
   </summary>
  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-settings/plan-usage/plans-overview/">

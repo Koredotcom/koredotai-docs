@@ -10,7 +10,7 @@ permalink: platform/topic-guide/en/latest/Manage Components
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Manage Dialog Components.
 
-<details>
+<details open>
   <summary>FAQs
   </summary>
 

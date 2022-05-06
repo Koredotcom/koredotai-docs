@@ -10,7 +10,7 @@ permalink: platform/topic-guide/en/latest/BotKit
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on BotKit.
 
-<details>
+<details open>
   <summary>FAQs
   </summary>
 

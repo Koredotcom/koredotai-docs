@@ -10,7 +10,7 @@ permalink: platform/topic-guide/en/latest/Advanced Settings
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on NL Advanced Settings.
 
-<details>
+<details open>
   <summary>FAQs
   </summary>
 

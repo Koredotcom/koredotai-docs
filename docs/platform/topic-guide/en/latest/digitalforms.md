@@ -10,7 +10,7 @@ permalink: platform/topic-guide/en/latest/Digital Forms
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Digital forms.
 
 
-<details>
+<details open>
   <summary>FAQs
   </summary>
  <a class="nested-accordian-link no-doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-forms/">
