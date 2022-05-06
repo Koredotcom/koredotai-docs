@@ -75,7 +75,7 @@ permalink: platform/topic-guide/en/latest/Settings
 
  </details>
 
- <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/advanced-topics/universal-bot/training-a-universal-bot/">
+ <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/advanced-topics/universal-bot/training-a-universal-bot/#Settings">
  
 
 | Frontmatter | Required? |
