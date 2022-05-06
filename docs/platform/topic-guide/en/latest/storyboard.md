@@ -4,10 +4,10 @@ title: Storyboard
 permalink: platform/topic-guide/en/latest/Storyboard
 
 ---
-#### Topic guide
+#### Topic Guide
 ###### Storyboard
 
-   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Storyboard
+   Check out our explanatory videos, FAQs, Kore.ai Academy courses and documentation links on Storyboard.
     
 <details class="introduction-video" open>
   <summary>Introduction
@@ -16,7 +16,7 @@ permalink: platform/topic-guide/en/latest/Storyboard
    [![Introduction to Storyboard](images/video-icon.svg)](https://drive.google.com/file/d/1ICMkN5MYkXrZ44SGaXgU9srWdFUBKU8I/preview)
 
   ##### Introduction to Storyboard
-  Watch this short video on how to use Storyboard to build mock conversations
+  Watch this short video on how to use Storyboard to build conversations. 
 
 </details>
 
@@ -55,7 +55,7 @@ permalink: platform/topic-guide/en/latest/Storyboard
 
 
 
-<a class="doc-link" target="_blank" href="https://academy.kore.ai/Public/?li=N3dvQXCloNC8PImlwXspgw%3d%3d">
+<a class="doc-link" target="_blank" href="https://academy.kore.ai/learningpath/course-102---designing-conversation-flows">
  
 
 | Frontmatter | Required? |
