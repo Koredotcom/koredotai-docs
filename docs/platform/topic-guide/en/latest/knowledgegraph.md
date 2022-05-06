@@ -4,7 +4,7 @@ title: Knowledge Graph
 permalink: platform/topic-guide/en/latest/Knowledge Graph
 
 ---
-#### Topic guide
+#### Topic Guide
 ###### Knowledge Graph
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Knowledge Graph.
@@ -96,7 +96,7 @@ What are the formats supports for extraction?
 
 
 
-<a class="doc-link" target="_blank" href="https://academy.kore.ai/Public/?li=tcTzvhFfxJcyCjRjSuMUNA%3d%3d">
+<a class="doc-link" target="_blank" href="https://academy.kore.ai/learningpath/course-105---introduction-to-knowledge-graph">
  
 
 | Frontmatter | Required? |
