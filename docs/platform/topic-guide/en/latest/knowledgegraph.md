@@ -13,7 +13,7 @@ permalink: platform/topic-guide/en/latest/Knowledge Graph
   <summary>Introduction
   </summary>
   
-   [![Introduction to Knowledge Graph](https://i.vimeocdn.com/video/873029368-78a366b9407757e066a37718d766be53d3cb90d7f27708590ca16a1400e95b89-d?mw=1300&mh=975&q=70)](https://drive.google.com/file/d/1H_ftFzlqxafj0lRx-xxOIhm6kXyB8lbo/preview)
+   [![Introduction to Knowledge Graph](images/VideoCoverImage.png)](https://drive.google.com/file/d/1EVa6dv6j2qfbF2pd7Rgo1fL-TxCqHBQ2/preview)
 
   ##### Introduction to Knowledge Graphs
   Watch this short video on the introduction to Knowledge Graphs
