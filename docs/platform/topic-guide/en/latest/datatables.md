@@ -10,7 +10,7 @@ permalink: platform/topic-guide/en/latest/dataForm
 
  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Data Tables.
 
-<details>
+<details open>
   <summary>FAQs
   </summary>
  <a class="nested-accordian-link open" target="_blank" href="https://developer.kore.ai/docs/bots/advanced-topics/data-as-a-service/">
