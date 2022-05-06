@@ -5,7 +5,7 @@ permalink: platform/topic-guide/en/latest/Linked Bot Training
 
 ---
 
-#### Topic guide
+#### Topic Guide
 ###### Linked Bot Training
 
  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Linked Bot Training.
