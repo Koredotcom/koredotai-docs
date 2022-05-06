@@ -13,7 +13,7 @@ permalink: platform/topic-guide/latest/Usage Metrics
 <details>
   <summary>FAQs
   </summary>
- <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/dashboard/#Realtime_Status">
+ <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/dashboard/#Usage_Metrics">
 
   <details class="nested-details">
  
