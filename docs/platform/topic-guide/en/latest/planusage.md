@@ -4,7 +4,7 @@ title: Plan & Usage
 permalink: platform/topic-guide/en/latest/Plan & Usage
 
 ---
-#### Topic guide
+#### Topic Guide
 ###### Plan & Usage
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Plan & Usage.
