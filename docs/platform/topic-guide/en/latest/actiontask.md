@@ -4,7 +4,7 @@ title: Action Task
 permalink: platform/topic-guide/en/latest/Action Task
 
 ---
-#### Topic guide
+#### Topic Guide
 ###### Action Task
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Action Task.
