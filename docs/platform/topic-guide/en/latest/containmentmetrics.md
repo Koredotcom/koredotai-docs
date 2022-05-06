@@ -17,7 +17,7 @@ permalink: platform/topic-guide/en/latest/Containment Metrics
 
   <details class="nested-details">
  
-  <summary>What is Reatltime Status?
+  <summary>What is Realtime Status?
   </summary>
 
  
