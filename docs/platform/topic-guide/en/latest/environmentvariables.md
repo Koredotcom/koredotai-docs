@@ -4,7 +4,7 @@ title: Environment Variables
 permalink: platform/topic-guide/en/latest/Environment Variables
 
 ---
-#### Topic guide
+#### Topic Guide
 ###### Environment Variables
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Environment Variables.
