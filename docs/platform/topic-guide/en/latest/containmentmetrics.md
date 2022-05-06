@@ -5,7 +5,7 @@ permalink: platform/topic-guide/en/latest/Containment Metrics
 
 ---
 
-#### Topic guide
+#### Topic Guide
 ###### Containment Metrics
 
  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Containment Metrics.
