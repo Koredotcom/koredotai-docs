@@ -4,7 +4,7 @@ title: Interruption Management
 permalink: platform/topic-guide/en/latest/Manage Interruptions
 
 ---
-#### Topic guide
+#### Topic Guide
 ###### Manage Interruptions
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Manage Interruptions.
@@ -13,7 +13,7 @@ permalink: platform/topic-guide/en/latest/Manage Interruptions
   <summary>Introduction
   </summary>
   
-   [![Introduction to Interruption Management](https://i.vimeocdn.com/video/873029368-78a366b9407757e066a37718d766be53d3cb90d7f27708590ca16a1400e95b89-d?mw=1300&mh=975&q=70)](https://drive.google.com/file/d/1kWjibI1pX86gAGM7KZxAOVjE_dU2pNYk/preview)
+   [![Introduction to Interruption Management](images/VideoCoverImage.png)](https://drive.google.com/file/d/1kWjibI1pX86gAGM7KZxAOVjE_dU2pNYk/preview)
 
   ##### Introduction to Interruption Management
   Watch this short video on handling interruption management
@@ -45,22 +45,7 @@ permalink: platform/topic-guide/en/latest/Manage Interruptions
 
 </details>
 
-<details >
-  <summary>Videos
-  </summary>
-
-   <details-video>
-   
-   [![Introduction to Interruption Management](https://i.vimeocdn.com/video/873029368-78a366b9407757e066a37718d766be53d3cb90d7f27708590ca16a1400e95b89-d?mw=1300&mh=975&q=70)](https://drive.google.com/file/d/1kWjibI1pX86gAGM7KZxAOVjE_dU2pNYk/preview)
-
-  ##### Introduction to Interruption Management
- Watch this short video on handling interruption management
-   </details-video>
-
-  
-</details>
-
-<a class="doc-link" target="_blank" href="https://academy.kore.ai/Public/?li=LbEp1OaAVnitp2UBkeYsZg%3d%3d">
+<a class="doc-link" target="_blank" href="https://academy.kore.ai/learningpath/course-251--interruption-management">
  
 
 | Frontmatter | Required? |
