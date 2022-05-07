@@ -37,20 +37,12 @@ permalink: platform/topic-guide/en/latest/Storyboard
 </a>
 <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/dialog-task/dialog-tasks/">
  
-  What are Dialog Tasks?
-
-</a>   
-   
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/dialog-task/dialog-tasks/">
- 
-  What are Mock Scenes?
-
-</a>      
+  What are Dialog Tasks?   
 
 
 <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/bot-creation/storyboard/#Scenes">
 
-  How to design conversations using Mock Scenes?
+  What are Mock Scenes?
 
 </a>
 
