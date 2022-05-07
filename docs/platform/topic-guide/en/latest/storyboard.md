@@ -26,27 +26,31 @@ permalink: platform/topic-guide/en/latest/Storyboard
 
   <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/bot-creation/storyboard/">
  
-  What is a Storyboard?
+  What is Storyboard?
 
 </a>
+
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/knowledge-task/knowledge-ontology/">
+ 
+  What are FAQs?
+
+</a>
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/dialog-task/dialog-tasks/">
+ 
+  What are Dialog Tasks?
+
+</a>   
+   
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/dialog-task/dialog-tasks/">
+ 
+  What are Mock Scenes?
+
+</a>      
+
 
 <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/bot-creation/storyboard/#Scenes">
- 
-  What are Scenes?
 
-</a>
-
-
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/bot-creation/storyboard/#Bot_Messages_Templates">
- 
-  What are the various message templates that can be used in storyboard scene?
-
-</a>
-
-
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/bot-creation/storyboard/#Scene_Options">
-
-  How to get feedback on scenes?
+  How to design conversations using Mock Scenes?
 
 </a>
 
