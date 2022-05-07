@@ -62,7 +62,7 @@ permalink: platform/topic-guide/en/latest/Small Talk
 
 
 
-<a class="doc-link" target="_blank" href="https://academy.kore.ai/Public/?li=4hCKcH0P60nwtxi3gc6H3g%3d%3d">
+<a class="doc-link" target="_blank" href="https://academy.kore.ai/learningpath/course-110---introduction-to-small-talk">
  
 
 | Frontmatter | Required? |
