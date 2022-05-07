@@ -32,16 +32,10 @@ permalink: platform/topic-guide/en/latest/Dialog Tasks
 
 <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/dialog-task/dialog-tasks/#creating-a-dialog-task">
  
-  How to create a Dialog task?
+  How to design and build Dialog Tasks?
 
 </a>
 
-
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/dialog-task/working-with-the-user-intent-node/">
- 
-  What are sub intents?
-
-</a>
 
 
 <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/dialog-task/managing-dialogs/">
@@ -52,9 +46,21 @@ permalink: platform/topic-guide/en/latest/Dialog Tasks
 
 <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/publish/publishing-bot/">
 
-  What is Dialog status?
+  How to publish a Dialog Task?
 
 </a>
+  
+  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/dialog-task/working-with-the-user-intent-node/">
+ 
+  What are sub intents?
+
+</a>
+  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/how-tos/intent-scoping-using-group-node/">
+
+How to manage contextual intents?
+
+</a>
+
 
 <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/train-nlp-optimization/bot-intelligence/interruption-handling-context-switching-intents/">
 
@@ -62,23 +68,8 @@ What are interruptions and how to manage them?
 
 </a>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/how-tos/intent-scoping-using-group-node/">
 
-  What is sub-intent scoping and how do I achieve it?
 
-</a>
-
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/dialog-task/grouping-nodes/">
-
-  What is the purpose of a Group node?
-
-</a>
-
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/how-tos/intent-scoping-using-group-node/">
-
-How can we achieve contextual NLU using group node?
-
-</a>
 
 
 </details>
