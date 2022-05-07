@@ -10,18 +10,9 @@ permalink: platform/topic-guide/en/latest/Utterance Testing
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Utterance testing.
 
-<details class="introduction-video" open>
-  <summary>Introduction
-  </summary>
-  
-   [![Introduction to Utterance Testing](images/VideoCoverImage.png)](https://drive.google.com/file/d/1VYKdzJ7lrzimjfbvsDr6Tic4NmJFtbBy/preview)
 
-  ##### Introduction to Utterance testing
-  Watch this short video on how to conduct utterance testing
 
-</details>
-
-<details>
+<details open>
   <summary>FAQs
   </summary>
 
