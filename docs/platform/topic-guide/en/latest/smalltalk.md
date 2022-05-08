@@ -30,32 +30,31 @@ permalink: platform/topic-guide/en/latest/Small Talk
 
 </a>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#Default_Small_Talk">
- 
-  What are greetings?
-
-</a>
-
-
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#Creation">
+ <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#Creation">
  
   How to create Small Talk?
 
 </a>
-
-
+ 
+  
 <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#Terminology">
 
-  What are groups?
+  What are Small Talk groups?
 
 </a>
+  
+  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#Default_Small_Talk">
+ 
+  What are the default greetings supported?
+
+</a>
+
 
 <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/nlp/additional-notes-nlp-settings-guidelines/#Patterns">
 
-  How to use patterns for defining queries?
+  What are the guidelines for defining patterns for Small Talk?
 
 </a>
-
 
 
 </details>
