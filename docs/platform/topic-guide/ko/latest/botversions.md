@@ -5,12 +5,12 @@ permalink: platform/topic-guide/ko/latest/Bot Versions
 
 ---
 
-#### Topic guide
+#### Topic Guide
 ###### Bot Versions
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Bot Versions.
 
-<details>
+<details open>
   <summary>FAQs
   </summary>
 

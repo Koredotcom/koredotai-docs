@@ -5,19 +5,19 @@ permalink: platform/topic-guide/ko/latest/Containment Metrics
 
 ---
 
-#### Topic guide
+#### Topic Guide
 ###### Containment Metrics
 
  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Containment Metrics.
 
-<details>
+<details open>
   <summary>FAQs
   </summary>
  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/dashboard/#Realtime_Status">
 
   <details class="nested-details">
  
-  <summary>What is Reatltime Status?
+  <summary>What is Realtime Status?
   </summary>
 
  

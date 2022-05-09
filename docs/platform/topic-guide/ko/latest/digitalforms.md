@@ -4,26 +4,16 @@ title: Digital Forms
 permalink: platform/topic-guide/ko/latest/Digital Forms
 
 ---
-#### Topic guide
+#### Topic Guide
 ###### Digital Forms
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Digital forms.
 
-<details class="introduction-video" open>
-  <summary>Introduction
-  </summary>
-  
-   [![Introduction to Digital forms](https://i.vimeocdn.com/video/873029368-78a366b9407757e066a37718d766be53d3cb90d7f27708590ca16a1400e95b89-d?mw=1300&mh=975&q=70)](https://drive.google.com/file/d/1H_ftFzlqxafj0lRx-xxOIhm6kXyB8lbo/preview)
 
-  ##### Introduction to Digital Forms
-  Watch this short video on the introduction to Digital Forms
-
-</details>
-
-<details>
+<details open>
   <summary>FAQs
   </summary>
- <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-forms/">
+ <a class="nested-accordian-link no-doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-forms/">
   <details class="nested-details">
  
   <summary>What are Digital Forms?
@@ -62,7 +52,7 @@ permalink: platform/topic-guide/ko/latest/Digital Forms
 
 </a>
 
-<a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-forms/#From_Tasks">
+<a class="nested-accordian-link no-doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-forms/#From_Tasks">
 
 <details class="nested-details">
  
@@ -87,30 +77,41 @@ permalink: platform/topic-guide/ko/latest/Digital Forms
 
 </details>
 
+
 <details >
-  <summary>Videos
-  </summary>
 
-   <details-video>
-   
-   [![Introduction to Digital Forms](https://i.vimeocdn.com/video/873029368-78a366b9407757e066a37718d766be53d3cb90d7f27708590ca16a1400e95b89-d?mw=1300&mh=975&q=70)](https://drive.google.com/file/d/1H_ftFzlqxafj0lRx-xxOIhm6kXyB8lbo/preview)
+ <summary>Videos
+ </summary>
 
-  ##### Introduction to Digital Forms
- Watch this short video on the basics of creating Digital Forms
-   </details-video>
-
+  <details-video>
   
-</details>
+  [![<video title>](test.com)](<video link>)
 
-<a class="doc-link" target="_blank" href="https://academy.kore.ai/Public/?li=tcTzvhFfxJcyCjRjSuMUNA%3d%3d">
+ ##### Heading text goes here!
+   Short description for the video>
+
+  </details-video>
+
+    
+<details-video>
+  
+  [![<video title>](tes.com)](<video link>)
+
+ ##### Heading text goes here!
+  Short description for the video>
+
+  </details-video>
+
+  <details-video>
+  
+  [![<video title>](tes.com)](<video link>)
+
+ ##### Heading text goes here!
+  Short description for the video>
+
+  </details-video>
  
-
-| Frontmatter | Required? |
-|-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Academy**  <br /> Access the Kore Academy course 105 - Introduction to Digital Forms | 
-
-
-</a>
+</details>
 
 
 <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-forms/">

@@ -4,7 +4,7 @@ title: Small Talk
 permalink: platform/topic-guide/ja/latest/Small Talk
 
 ---
-#### Topic guide
+#### Topic Guide
 ###### Small Talk
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Small Talk.
@@ -13,7 +13,7 @@ permalink: platform/topic-guide/ja/latest/Small Talk
   <summary>Introduction
   </summary>
   
-   [![Introduction to Small Talk](https://i.vimeocdn.com/video/873029368-78a366b9407757e066a37718d766be53d3cb90d7f27708590ca16a1400e95b89-d?mw=1300&mh=975&q=70)](https://drive.google.com/file/d/1H_ftFzlqxafj0lRx-xxOIhm6kXyB8lbo/preview)
+   [![Introduction to Small Talk](images/VideoCoverImage.png)](https://drive.google.com/file/d/1ohhg7dfgPL0pWVzr8i2kjKveUwO9qy_o/preview)
 
   ##### Introduction to Small Talk
   Watch this short video on creating and testing casual conversations between your virtual assistant and end user
@@ -30,52 +30,38 @@ permalink: platform/topic-guide/ja/latest/Small Talk
 
 </a>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#Default_Small_Talk">
- 
-  What are greetings?
-
-</a>
-
-
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#Creation">
+ <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#Creation">
  
   How to create Small Talk?
 
 </a>
-
-
+ 
+  
 <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#Terminology">
 
-  What are groups?
+  What are Small Talk groups?
 
 </a>
+  
+  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#Default_Small_Talk">
+ 
+  What are the default greetings supported?
+
+</a>
+
 
 <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/nlp/additional-notes-nlp-settings-guidelines/#Patterns">
 
-  How to use patterns for defining queries?
+  What are the guidelines for defining patterns for Small Talk?
 
 </a>
 
 
-
 </details>
 
-<details >
-  <summary>Videos
-  </summary>
 
-   <details-video>
-   
-   [![Introduction to Small Talk](https://i.vimeocdn.com/video/873029368-78a366b9407757e066a37718d766be53d3cb90d7f27708590ca16a1400e95b89-d?mw=1300&mh=975&q=70)](https://drive.google.com/file/d/1H_ftFzlqxafj0lRx-xxOIhm6kXyB8lbo/preview)
 
-  ##### Introduction to Small Talk
- Watch this short video on the basics of creating Small Talk
-   </details-video>
-
-  
-</details>
-
-<a class="doc-link" target="_blank" href="https://academy.kore.ai/Public/?li=4hCKcH0P60nwtxi3gc6H3g%3d%3d">
+<a class="doc-link" target="_blank" href="https://academy.kore.ai/learningpath/course-110---introduction-to-small-talk">
  
 
 | Frontmatter | Required? |

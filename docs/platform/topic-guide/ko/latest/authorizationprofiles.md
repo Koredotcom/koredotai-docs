@@ -4,13 +4,13 @@ title: Authorization Profiles
 permalink: platform/topic-guide/ko/latest/Authorization Profiles
 
 ---
-#### Topic guide
+#### Topic Guide
 ###### Authorization Profiles
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Authorization Profiles.
 
 
-<details>
+<details open>
   <summary>FAQs
   </summary>
 

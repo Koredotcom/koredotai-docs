@@ -5,12 +5,12 @@ permalink: platform/topic-guide/ja/latest/Default Dialog
 
 ---
 
-#### Topic guide
+#### Topic Guide
 ###### Default Dialog
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Default Dialog.
 
-<details>
+<details open>
   <summary>FAQs
   </summary>
 

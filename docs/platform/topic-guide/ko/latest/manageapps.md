@@ -5,12 +5,12 @@ permalink: platform/topic-guide/ko/latest/Manage Apps
 
 ---
 
-#### Topic guide
+#### Topic Guide
 ###### Manage Apps
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Manage Apps.
 
-<details>
+<details open>
   <summary>FAQs
   </summary>
 

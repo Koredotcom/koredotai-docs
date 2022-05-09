@@ -4,14 +4,14 @@ title: Conversation Flows
 permalink: platform/topic-guide/ko/latest/Conversation Flows
 
 ---
-#### Topic guide
+#### Topic Guide
 ###### Conversation Flows
 
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Conversation Flows.
 
 
-<details>
+<details open>
   <summary>FAQs
   </summary>
 

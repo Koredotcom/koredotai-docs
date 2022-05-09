@@ -4,7 +4,7 @@ title: Knowledge Graph
 permalink: platform/topic-guide/ko/latest/Knowledge Graph
 
 ---
-#### Topic guide
+#### Topic Guide
 ###### Knowledge Graph
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Knowledge Graph.
@@ -13,10 +13,10 @@ permalink: platform/topic-guide/ko/latest/Knowledge Graph
   <summary>Introduction
   </summary>
   
-   [![Introduction to Dialog Tasks](https://i.vimeocdn.com/video/873029368-78a366b9407757e066a37718d766be53d3cb90d7f27708590ca16a1400e95b89-d?mw=1300&mh=975&q=70)](https://drive.google.com/file/d/1H_ftFzlqxafj0lRx-xxOIhm6kXyB8lbo/preview)
+   [![Introduction to Knowledge Graph](images/VideoCoverImage.png)](https://drive.google.com/file/d/1EVa6dv6j2qfbF2pd7Rgo1fL-TxCqHBQ2/preview)
 
   ##### Introduction to Knowledge Graphs
-  Watch this short video on the introduction to knowledge Graphs
+  Watch this short video on the introduction to Knowledge Graphs
 
 </details>
 
@@ -94,22 +94,9 @@ What are the formats supports for extraction?
 
 </details>
 
-<details >
-  <summary>Videos
-  </summary>
 
-   <details-video>
-   
-   [![Introduction to Dialog Tasks](https://i.vimeocdn.com/video/873029368-78a366b9407757e066a37718d766be53d3cb90d7f27708590ca16a1400e95b89-d?mw=1300&mh=975&q=70)](https://drive.google.com/file/d/1H_ftFzlqxafj0lRx-xxOIhm6kXyB8lbo/preview)
 
-  ##### Introduction to Knowledge Graph
- Watch this short video on the basics of creating Knowledge Graph
-   </details-video>
-
-  
-</details>
-
-<a class="doc-link" target="_blank" href="https://academy.kore.ai/Public/?li=tcTzvhFfxJcyCjRjSuMUNA%3d%3d">
+<a class="doc-link" target="_blank" href="https://academy.kore.ai/learningpath/course-105---introduction-to-knowledge-graph">
  
 
 | Frontmatter | Required? |

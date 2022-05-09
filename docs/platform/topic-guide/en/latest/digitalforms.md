@@ -78,6 +78,42 @@ permalink: platform/topic-guide/en/latest/Digital Forms
 </details>
 
 
+<details >
+
+ <summary>Videos
+ </summary>
+
+  <details-video>
+  
+  [![<video title>](test.com)](<video link>)
+
+ ##### Heading text goes here!
+   Short description for the video>
+
+  </details-video>
+
+    
+<details-video>
+  
+  [![<video title>](tes.com)](<video link>)
+
+ ##### Heading text goes here!
+  Short description for the video>
+
+  </details-video>
+
+  <details-video>
+  
+  [![<video title>](tes.com)](<video link>)
+
+ ##### Heading text goes here!
+  Short description for the video>
+
+  </details-video>
+ 
+</details>
+
+
 <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-forms/">
  
 

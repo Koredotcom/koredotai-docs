@@ -5,15 +5,15 @@ permalink: platform/topic-guide/ko/latest/Conversations Dashboard
 
 ---
 
-#### Topic guide
+#### Topic Guide
 ###### Conversations Dashboard
 
  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Conversations Dashboard.
 
-<details>
+<details open>
   <summary>FAQs
   </summary>
- <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/dashboard/#Realtime_Status">
+ <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/conversations-dashboard/">
 
   <details class="nested-details">
  
@@ -27,7 +27,7 @@ permalink: platform/topic-guide/ko/latest/Conversations Dashboard
  </a>
 
 
-  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/dashboard/#Realtime_Status">
+  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/conversations-dashboard/#Self-service">
  
   <details class="nested-details">
  
@@ -42,7 +42,7 @@ permalink: platform/topic-guide/ko/latest/Conversations Dashboard
  </a>
 
 
-<a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/dashboard/#Realtime_Status">
+<a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/conversations-dashboard/#Drop-off">
  
   <details class="nested-details">
  
@@ -56,7 +56,7 @@ permalink: platform/topic-guide/ko/latest/Conversations Dashboard
   </details>
  </a>
 
- <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/dashboard/#Realtime_Status">
+ <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/conversations-dashboard/#Agent_Transfer">
  
   <details class="nested-details">
  
@@ -70,7 +70,7 @@ permalink: platform/topic-guide/ko/latest/Conversations Dashboard
  </a>
 
 
-  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/dashboard/#Realtime_Status">
+  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/conversations-dashboard/#Filter_Criteria">
  
   <details class="nested-details">
  
@@ -90,7 +90,7 @@ permalink: platform/topic-guide/ko/latest/Conversations Dashboard
 
  
 
- <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/dashboard/#containment-details">
+ <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/conversations-dashboard/#Filter_Criteria">
  
  
    How to filter the messages/conversations included in the analytics?

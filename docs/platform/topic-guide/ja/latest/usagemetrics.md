@@ -5,19 +5,19 @@ permalink: platform/topic-guide/ja/latest/Usage Metrics
 
 ---
 
-#### Topic guide
+#### Topic Guide
 ###### Usage Metrics
 
  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Usage Metrics.
 
-<details>
+<details open>
   <summary>FAQs
   </summary>
- <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/dashboard/#Realtime_Status">
+ <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/dashboard/#Usage_Metrics">
 
   <details class="nested-details">
  
-  <summary>What is Reatltime Status?
+  <summary>What is Realtime Status?
   </summary>
 
  

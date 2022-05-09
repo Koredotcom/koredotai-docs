@@ -5,12 +5,12 @@ permalink: platform/topic-guide/ja/latest/Bots Home
 
 ---
 
-#### Topic guide
+#### Topic Guide
 ###### Bots Home
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Kore.ai Experience Optimization (XO) Platform.
 
-<details>
+<details open>
   <summary>FAQs
   </summary>
 

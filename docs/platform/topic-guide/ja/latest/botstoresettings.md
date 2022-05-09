@@ -5,7 +5,7 @@ permalink: platform/topic-guide/ja/latest/Bot Store Settings
 
 ---
 
-#### Topic guide
+#### Topic Guide
 ###### Bot Store Settings
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Bot Store Settings.

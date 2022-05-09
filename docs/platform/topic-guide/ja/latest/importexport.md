@@ -5,12 +5,12 @@ permalink: platform/topic-guide/ja/latest/Import & Export
 
 ---
 
-#### Topic guide
+#### Topic Guide
 ###### Import & Export
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Bot Import & Export.
 
-<details>
+<details open>
   <summary>FAQs
   </summary>
 

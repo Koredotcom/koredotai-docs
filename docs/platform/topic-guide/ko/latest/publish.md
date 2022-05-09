@@ -5,12 +5,12 @@ permalink: platform/topic-guide/ko/latest/Publish
 
 ---
 
-#### Topic guide
+#### Topic Guide
 ###### Publish
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Publish.
 
-<details>
+<details open>
   <summary>FAQs
   </summary>
 

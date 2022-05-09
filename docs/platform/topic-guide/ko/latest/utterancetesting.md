@@ -4,24 +4,15 @@ title: Utterance Testing
 permalink: platform/topic-guide/ko/latest/Utterance Testing
 
 ---
-#### Topic guide
+#### Topic Guide
 ###### Utterance Testing
 
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Utterance testing.
 
-<details class="introduction-video" open>
-  <summary>Introduction
-  </summary>
-  
-   [![Introduction to Utterance Testing](https://i.vimeocdn.com/video/873029368-78a366b9407757e066a37718d766be53d3cb90d7f27708590ca16a1400e95b89-d?mw=1300&mh=975&q=70)](https://drive.google.com/file/d/1VYKdzJ7lrzimjfbvsDr6Tic4NmJFtbBy/preview)
 
-  ##### Introduction to Utterance testing
-  Watch this short video on how to conduct utterance testing
 
-</details>
-
-<details>
+<details open>
   <summary>FAQs
   </summary>
 
@@ -65,22 +56,9 @@ permalink: platform/topic-guide/ko/latest/Utterance Testing
 
 </details>
 
-<details >
-  <summary>Videos
-  </summary>
 
-   <details-video>
-   
-   [![Introduction to Utterance testing](https://i.vimeocdn.com/video/873029368-78a366b9407757e066a37718d766be53d3cb90d7f27708590ca16a1400e95b89-d?mw=1300&mh=975&q=70)](https://drive.google.com/file/d/1VYKdzJ7lrzimjfbvsDr6Tic4NmJFtbBy/preview)
 
-  ##### Introduction to Utterance testing
- Watch this short video on how to conduct utterance testing
-   </details-video>
-
-  
-</details>
-
-<a class="doc-link" target="_blank" href="https://academy.kore.ai/Public/?li=tA5uYKxgnDXbM3KqhNe1ZQ%3d%3d">
+<a class="doc-link" target="_blank" href="https://academy.kore.ai/learningpath/course-113---test-and-debug---utterance-testing">
  
 
 | Frontmatter | Required? |

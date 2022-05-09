@@ -5,12 +5,12 @@ permalink: platform/topic-guide/ko/latest/Channels
 
 ---
 
-#### Topic guide
+#### Topic Guide
 ###### Channels
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Channels.
 
-<details>
+<details open>
   <summary>FAQs
   </summary>
 

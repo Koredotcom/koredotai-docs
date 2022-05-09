@@ -4,13 +4,13 @@ title: General Settings
 permalink: platform/topic-guide/ja/latest/General Settings
 
 ---
-#### Topic guide
+#### Topic Guide
 ###### General Settings
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on General Settings.
 
 
-<details>
+<details open>
   <summary>FAQs
   </summary>
 

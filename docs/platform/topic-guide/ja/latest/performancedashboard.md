@@ -5,12 +5,12 @@ permalink: platform/topic-guide/ja/latest/Performance Dashboard
 
 ---
 
-#### Topic guide
+#### Topic Guide
 ###### Performance Dashboard
 
  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Performance Dashboard.
 
-<details>
+<details open>
   <summary>FAQs
   </summary>
  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/performance-dashboard/#Performance_Dashboard_Widgets">

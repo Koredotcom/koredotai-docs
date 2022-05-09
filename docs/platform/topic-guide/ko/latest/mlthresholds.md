@@ -5,12 +5,13 @@ permalink: platform/topic-guide/ko/latest/Thresholds & Configurations
 
 ---
 
-#### Topic guide
+#### Topic Guide
 ###### Thresholds & Configuration
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on ML Thresholds & Configurations.
 
-<details>
+
+<details open>
   <summary>FAQs
   </summary>
 
@@ -54,6 +55,8 @@ permalink: platform/topic-guide/ko/latest/Thresholds & Configurations
 
 </details>
 
+
+
 <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/nlp/advanced-nlp-configurations/">
  
 
@@ -63,3 +66,4 @@ permalink: platform/topic-guide/ko/latest/Thresholds & Configurations
 
 
 </a>
+

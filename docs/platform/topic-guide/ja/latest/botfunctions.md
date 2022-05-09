@@ -4,13 +4,13 @@ title: Bot Functions
 permalink: platform/topic-guide/ja/latest/Bot Functions
 
 ---
-#### Topic guide
+#### Topic Guide
 ###### Bot Functions
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Bot Functions.
 
 
-<details>
+<details open>
   <summary>FAQs
   </summary>
 

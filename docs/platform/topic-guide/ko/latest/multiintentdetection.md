@@ -4,12 +4,12 @@ title: Multi Intent detection
 permalink: platform/topic-guide/ko/latest/Multi intent Detection
 
 ---
-#### Topic guide
+#### Topic Guide
 ###### Multi intent Detection
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Multi Intent detection.
 
-<details>
+<details open>
   <summary>FAQs
   </summary>
 
@@ -35,15 +35,7 @@ permalink: platform/topic-guide/ko/latest/Multi intent Detection
 </details>
 
 
-<a class="doc-link" target="_blank" href="https://academy.kore.ai/Public/?li=6EhKJWdAKi0K5buZqq3fow%3d%3d">
- 
 
-| Frontmatter | Required? |
-|-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Academy**  <br /> Access the Kore Academy course 251 - Multi Intent detection | 
-
-
-</a>
 
 
 <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-intelligence/multi-intent-detection/">

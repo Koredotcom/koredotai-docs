@@ -4,13 +4,13 @@ title: Content Variables
 permalink: platform/topic-guide/ko/latest/Content Variables
 
 ---
-#### Topic guide
+#### Topic Guide
 ###### Content Variables
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Content Variables.
 
 
-<details>
+<details open>
   <summary>FAQs
   </summary>
 

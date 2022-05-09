@@ -4,7 +4,7 @@ title: Dialog Editor
 permalink: platform/topic-guide/ja/latest/Dialog Editor
 
 ---
-#### Topic guide
+#### Topic Guide
 ###### Dialog Tasks
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Dialog Tasks.
@@ -13,7 +13,7 @@ permalink: platform/topic-guide/ja/latest/Dialog Editor
   <summary>Introduction
   </summary>
   
-   [![Introduction to Dialog Tasks](https://i.vimeocdn.com/video/873029368-78a366b9407757e066a37718d766be53d3cb90d7f27708590ca16a1400e95b89-d?mw=1300&mh=975&q=70)](https://drive.google.com/file/d/1H_ftFzlqxafj0lRx-xxOIhm6kXyB8lbo/preview)
+   [![Introduction to Dialog Tasks](images/VideoCoverImage.png)](https://drive.google.com/file/d/1H_ftFzlqxafj0lRx-xxOIhm6kXyB8lbo/preview)
 
   ##### Introduction to Dialog Tasks
   Watch this short video on the basics of building dialog tasks within a conversation flow
@@ -79,7 +79,7 @@ How do I transfer to an Human Agent?
 
 </a>
   
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/how-tos/intent-scoping-using-group-node/">
+<a class="doc-link tour-guide" topic-id="91737" target="_blank" href="https://developer.kore.ai/docs/bots/how-tos/intent-scoping-using-group-node/">
 
 Get Started with Conversation Driven Dialog Builder
 
@@ -88,22 +88,8 @@ Get Started with Conversation Driven Dialog Builder
 
 </details>
 
-<details >
-  <summary>Videos
-  </summary>
 
-   <details-video>
-   
-   [![Introduction to Dialog Tasks](https://i.vimeocdn.com/video/873029368-78a366b9407757e066a37718d766be53d3cb90d7f27708590ca16a1400e95b89-d?mw=1300&mh=975&q=70)](https://drive.google.com/file/d/1H_ftFzlqxafj0lRx-xxOIhm6kXyB8lbo/preview)
-
-  ##### Introduction to Dialog Tasks
- Watch this short video on the basics of building dialog tasks within a conversation flow
-   </details-video>
-
-  
-</details>
-
-<a class="doc-link" target="_blank" href="https://academy.kore.ai/Public/?li=4w49d3WBc7Rte5V%2bXBWrKA%3d%3d">
+<a class="doc-link" target="_blank" href="https://academy.kore.ai/learningpath/course-102---designing-conversation-flows">
  
 
 | Frontmatter | Required? |
@@ -114,7 +100,7 @@ Get Started with Conversation Driven Dialog Builder
 </a>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/dialog-task/dialog-tasks/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/chatbot-overview/using-the-dialog-builder-tool/#Dialog_Builder">
  
 
 | Frontmatter | Required? |

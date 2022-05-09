@@ -4,12 +4,12 @@ title: Bot Summary
 permalink: platform/topic-guide/ko/latest/Summary
 
 ---
-#### Topic guide
+#### Topic Guide
 ###### Summary
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Bot Summary.
 
-<details>
+<details open>
   <summary>FAQs
   </summary>
 

@@ -5,12 +5,12 @@ permalink: platform/topic-guide/ko/latest/Smart Bot Settings
 
 ---
 
-#### Topic guide
+#### Topic Guide
 ###### Smart Bot Settings
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Smart Bot Settings.
 
-<details>
+<details open>
   <summary>FAQs
   </summary>
 

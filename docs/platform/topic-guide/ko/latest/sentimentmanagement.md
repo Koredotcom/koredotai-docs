@@ -4,13 +4,13 @@ title: Sentiment Management
 permalink: platform/topic-guide/ko/latest/Sentiment Management
 
 ---
-#### Topic guide
+#### Topic Guide
 ###### Sentiment Management
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Sentiment Management.
 
 
-<details>
+<details open>
   <summary>FAQs
   </summary>
 

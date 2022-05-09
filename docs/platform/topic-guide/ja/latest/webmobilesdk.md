@@ -5,12 +5,12 @@ permalink: platform/topic-guide/ja/latest/Web Mobile SDK
 
 ---
 
-#### Topic guide
+#### Topic Guide
 ###### Web/Mobile SDK
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Web/Mobile SDK.
 
-<details>
+<details open>
   <summary>FAQs
   </summary>
 

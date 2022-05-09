@@ -5,12 +5,12 @@ permalink: platform/topic-guide/ja/latest/Agent Transfer
 
 ---
 
-#### Topic guide
+#### Topic Guide
 ###### Agent Transfer
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Agent Transfer.
 
-<details>
+<details open>
   <summary>FAQs
   </summary>
 
