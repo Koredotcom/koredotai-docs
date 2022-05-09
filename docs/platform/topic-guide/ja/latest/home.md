@@ -54,7 +54,7 @@ permalink: platform/topic-guide/ja/latest/Bots Home
 
 </details>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/chatbot-overview/koreai-platform/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/chatbot-overview/koreai-platform/?lang=ja">
  
 
 | Frontmatter | Required? |
