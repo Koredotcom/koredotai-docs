@@ -5,7 +5,7 @@ permalink: platform/topic-guide/ja/latest/Storyboard
 
 ---
 #### Topic Guide
-###### Storyboard
+###### ストーリーボード
 
    Check out our explanatory videos, FAQs, Kore.ai Academy courses and documentation links on Storyboard.
     
@@ -26,7 +26,7 @@ permalink: platform/topic-guide/ja/latest/Storyboard
 
   <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/bot-creation/storyboard/">
  
-  What is Storyboard?
+  ストーリーボードとは
 
 </a>
 
@@ -37,12 +37,12 @@ permalink: platform/topic-guide/ja/latest/Storyboard
 </a>
 <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/dialog-task/dialog-tasks/">
  
-  What are Dialog Tasks?   
+  ダイアログタスクとは   
 
 
 <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/bot-creation/storyboard/#Scenes">
 
-  What are Mock Scenes?
+  シーンとは
 
 </a>
 
