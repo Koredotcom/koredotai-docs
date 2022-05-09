@@ -14,39 +14,39 @@ permalink: platform/topic-guide/ja/latest/Bots Home
   <summary>FAQs
   </summary>
 
-  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/chatbot-overview/chatbot-overview/">
+  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/chatbot-overview/chatbot-overview/?lang=ja">
  
   バーチャルアシスタントとは？
 
 </a>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/chatbot-overview/about-bots/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/chatbot-overview/about-bots/?lang=ja">
  
   バーチャルアシスタント開発の基本概念とは？
 
 </a>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/chatbot-overview/getting-started-bots/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/chatbot-overview/getting-started-bots/?lang=ja">
  
   を使用してバーチャルアシスタントを構築するには Kore.ai プラットフォーム？
 
 </a>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/nlp/additional-notes-nlp-settings-guidelines/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/nlp/additional-notes-nlp-settings-guidelines/?lang=ja">
 
   インテント検出性能を改善するには
 
 </a>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/advanced-topics/collaborative-development/sharing-bots-for-development/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/advanced-topics/collaborative-development/sharing-bots-for-development/?lang=ja">
 
   ボットをチームで共有するには
 
 </a>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/analyzing-your-bot/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/analyzing-your-bot/?lang=ja">
 
   バーチャルアシスタントのパフォーマンスを分析するには
 
