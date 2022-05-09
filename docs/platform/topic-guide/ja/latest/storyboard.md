@@ -24,23 +24,23 @@ permalink: platform/topic-guide/ja/latest/Storyboard
   <summary>FAQs
   </summary>
 
-  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/bot-creation/storyboard/">
+  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/bot-creation/storyboard/?lang=ja">
  
   ストーリーボードとは
 
 </a>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/knowledge-task/knowledge-ontology/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/knowledge-task/knowledge-ontology/?lang=ja">
  
   What are FAQs?
 
 </a>
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/dialog-task/dialog-tasks/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/dialog-task/dialog-tasks/?lang=ja">
  
   ダイアログタスクとは   
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/bot-creation/storyboard/#Scenes">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/bot-creation/storyboard/#Scenes?lang=ja">
 
   シーンとは
 
