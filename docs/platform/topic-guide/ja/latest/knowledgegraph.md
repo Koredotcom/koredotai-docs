@@ -5,7 +5,7 @@ permalink: platform/topic-guide/ja/latest/Knowledge Graph
 
 ---
 #### Topic Guide
-###### Knowledge Graph
+###### ナレッジグラフ
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Knowledge Graph.
 
@@ -24,71 +24,71 @@ permalink: platform/topic-guide/ja/latest/Knowledge Graph
   <summary>FAQs
   </summary>
 
-  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/knowledge-task/creating-a-knowledge-graph/">
+  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/knowledge-task/creating-a-knowledge-graph/?lang=ja">
  
-  What are Knowledge Tasks?
+  ナレッジタスクとは
 
 </a>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/knowledge-task/creating-a-knowledge-graph/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/knowledge-task/creating-a-knowledge-graph/?lang=ja">
  
-  How to create a Knowledge Graph?
+  ナレッジグラフの作成方法
 
 </a>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/knowledge-task/importing-the-bot-ontology-from-csv-or-json/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/knowledge-task/importing-the-bot-ontology-from-csv-or-json/?lang=ja">
  
-  How to import or export a Knowledge Graph
+  ナレッジグラフのインポートおよびエクスポート方法
 
 </a>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/nlp/knowledge-graph/#Create_Classes_and_Add_them_to_Terms">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/nlp/knowledge-graph/#Create_Classes_and_Add_them_to_Terms?lang=ja">
 
-  How to use classes in Knowledge Graph?
-
-</a>
-
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/nlp/knowledge-graph/#Enter_Synonyms">
-
-  How to use synonyms in Knowledge Graph?
+  ナレッジグラフでのクラスの使用方法
 
 </a>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/chatbot-overview/nlp-guide/#Knowledge_Graph">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/nlp/knowledge-graph/#Enter_Synonyms?lang=ja">
 
- How to train Knowledge Graph?
-
-</a>
-
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/knowledge-task/knowledge-extraction-service/">
-
-  What is Knowledge Extraction service?
+  ナレッジグラフでの同義語の使用方法
 
 </a>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/knowledge-task/knowledge-extraction-service/#Extracting_FAQs_from_a_Website">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/chatbot-overview/nlp-guide/#Knowledge_Graph?lang=ja">
 
-  How to extract FAQs from websites?
-
-</a>
-
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/knowledge-task/knowledge-extraction-service/#Extracting_FAQs_from_a_CSV_or_PDF_Document">
-
-How to extract FAQs from documents?
+ ナレッジグラフのトレーニング方法
 
 </a>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/knowledge-task/knowledge-extraction-service/#Move_Selected_Question-Answers_to_the_Knowledge_Graph">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/knowledge-task/knowledge-extraction-service/?lang=ja">
 
-How to add extracted FAQs to Knowledge Graph?
+  ナレッジ抽出サービスとは
+
+</a>
+
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/knowledge-task/knowledge-extraction-service/#Extracting_FAQs_from_a_Website?lang=ja">
+
+  ウェブサイトからFAQを抽出する方法
+
+</a>
+
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/knowledge-task/knowledge-extraction-service/#Extracting_FAQs_from_a_CSV_or_PDF_Document?lang=ja">
+
+ドキュメントからFAQを抽出する方法
+
+</a>
+
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/knowledge-task/knowledge-extraction-service/#Move_Selected_Question-Answers_to_the_Knowledge_Graph?lang=ja">
+
+抽出されたFAQをナレッジグラフに追加する方法
 
 </a>
   
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/knowledge-task/knowledge-extraction-service/#Supported_Formats">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/knowledge-task/knowledge-extraction-service/#Supported_Formats?lang=ja">
 
-What are the formats supports for extraction?
+抽出に対応しているフォーマットについて
 
 </a>
 
@@ -107,7 +107,7 @@ What are the formats supports for extraction?
 </a>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/knowledge-task/knowledge-ontology/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/knowledge-task/knowledge-ontology/?lang=ja">
  
 
 | Frontmatter | Required? |
