@@ -5,7 +5,7 @@ permalink: platform/topic-guide/ja/latest/Dialog Tasks
 
 ---
 #### Topic Guide
-###### Dialog Tasks
+###### ダイアログタスク
 
   Check out our explanatory videos, FAQs, Kore.ai Academy courses and documentation links on Dialog Tasks.
 
@@ -24,13 +24,13 @@ permalink: platform/topic-guide/ja/latest/Dialog Tasks
   <summary>FAQs
   </summary>
 
-  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/develop/dialog-task/dialog-tasks/">
+  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/develop/dialog-task/dialog-tasks/?lang=ja">
  
-  What are Dialog Tasks?
+  ダイアログタスクとは
 
 </a>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/dialog-task/dialog-tasks/#creating-a-dialog-task">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/dialog-task/dialog-tasks/#creating-a-dialog-task?lang=ja">
  
   How to design and build Dialog Tasks?
 
@@ -38,33 +38,33 @@ permalink: platform/topic-guide/ja/latest/Dialog Tasks
 
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/dialog-task/managing-dialogs/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/dialog-task/managing-dialogs/?lang=ja">
 
-  How to Manage Dialog Components?
+  ダイアログコンポーネントの管理方法
 
 </a>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/publish/publishing-bot/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/publish/publishing-bot/?lang=ja">
 
   How to publish a Dialog Task?
 
 </a>
   
-  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/dialog-task/working-with-the-user-intent-node/">
+  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/dialog-task/working-with-the-user-intent-node/?lang=ja">
  
-  What are sub intents?
+  サブインテントとは
 
 </a>
-  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/how-tos/intent-scoping-using-group-node/">
+  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/how-tos/intent-scoping-using-group-node/?lang=ja">
 
 How to manage contextual intents?
 
 </a>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/train-nlp-optimization/bot-intelligence/interruption-handling-context-switching-intents/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/train-nlp-optimization/bot-intelligence/interruption-handling-context-switching-intents/?lang=ja">
 
-What are interruptions and how to manage them?
+中断とは何か、およびその使用方法
 
 </a>
 
@@ -86,7 +86,7 @@ What are interruptions and how to manage them?
 </a>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/dialog-task/dialog-tasks/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/dialog-task/dialog-tasks/?lang=ja">
  
 
 | Frontmatter | Required? |
