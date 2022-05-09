@@ -5,7 +5,7 @@ permalink: platform/topic-guide/ja/latest/KG Extract
 
 ---
 #### Topic Guide
-###### Knowledge Extraction
+###### ナレッジ抽出エク
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Knowledge Extraction.
 
@@ -24,33 +24,33 @@ permalink: platform/topic-guide/ja/latest/KG Extract
   <summary>FAQs
   </summary>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/knowledge-task/knowledge-extraction-service/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/knowledge-task/knowledge-extraction-service/?lang=ja">
 
-  What is Knowledge Extraction service?
-
-</a>
-
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/knowledge-task/knowledge-extraction-service/#Extracting_FAQs_from_a_Website">
-
-  How to extract FAQs from websites?
+  ナレッジ抽出サービスとは
 
 </a>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/knowledge-task/knowledge-extraction-service/#Extracting_FAQs_from_a_CSV_or_PDF_Document">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/knowledge-task/knowledge-extraction-service/#Extracting_FAQs_from_a_Website?lang=ja">
 
-How to extract FAQs from documents?
+  ウェブサイトからFAQを抽出する方法
 
 </a>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/knowledge-task/knowledge-extraction-service/#Move_Selected_Question-Answers_to_the_Knowledge_Graph">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/knowledge-task/knowledge-extraction-service/#Extracting_FAQs_from_a_CSV_or_PDF_Document?lang=ja">
 
-How to add extracted FAQs to Knowledge Graph?
+ドキュメントからFAQを抽出する方法
+
+</a>
+
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/knowledge-task/knowledge-extraction-service/#Move_Selected_Question-Answers_to_the_Knowledge_Graph?lang=ja">
+
+抽出されたFAQをナレッジグラフに追加する方法
 
 </a>
   
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/knowledge-task/knowledge-extraction-service/#Supported_Formats">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/knowledge-task/knowledge-extraction-service/#Supported_Formats?lang=ja">
 
-What are the formats supports for extraction?
+抽出に対応しているフォーマットについて
 
 </a>
 
