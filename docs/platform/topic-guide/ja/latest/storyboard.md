@@ -62,7 +62,7 @@ permalink: platform/topic-guide/ja/latest/Storyboard
 </a>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/bot-creation/storyboard/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/bot-creation/storyboard/?lang=ja">
  
 
 | Frontmatter | Required? |
