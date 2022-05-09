@@ -16,39 +16,39 @@ permalink: platform/topic-guide/ja/latest/Bots Home
 
   <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/chatbot-overview/chatbot-overview/">
  
-  What are virtual assistants?
+  バーチャルアシスタントとは？
 
 </a>
 
 <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/chatbot-overview/about-bots/">
  
-  What are the basic concepts of virtual assistant development?
+  バーチャルアシスタント開発の基本概念とは？
 
 </a>
 
 
 <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/chatbot-overview/getting-started-bots/">
  
-  How to build virtual assistants using the Kore.ai Platform?
+  を使用してバーチャルアシスタントを構築するには Kore.ai プラットフォーム？
 
 </a>
 
 
 <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/nlp/additional-notes-nlp-settings-guidelines/">
 
-  How to improve the intent detection capabilities?
+  インテント検出性能を改善するには
 
 </a>
 
 <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/advanced-topics/collaborative-development/sharing-bots-for-development/">
 
-  How to share bots with your team?
+  ボットをチームで共有するには
 
 </a>
 
 <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/analyzing-your-bot/">
 
-  How to analyze the virtual assistant's performance?
+  バーチャルアシスタントのパフォーマンスを分析するには
 
 </a>
 
