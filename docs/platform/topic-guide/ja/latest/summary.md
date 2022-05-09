@@ -13,47 +13,47 @@ permalink: platform/topic-guide/ja/latest/Summary
   <summary>FAQs
   </summary>
 
-  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/analyzing-your-bot/">
+  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/analyzing-your-bot/?lang=ja">
  
-  How to analyze bot's performance?
+  ボットのパフォーマンスを分析する方法
 
 </a>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/chatbot-overview/bot-tasks/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/chatbot-overview/bot-tasks/?lang=ja">
  
-  How to define Bot intents?
+  ボットのインテントを定義する方法
 
 </a>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/nlp/additional-notes-nlp-settings-guidelines/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/nlp/additional-notes-nlp-settings-guidelines/?lang=ja">
  
-  How to improve bot's intent detection capabilities?
+  ボットのインテント検出能力の向上方法
 
 </a>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/advanced-topics/collaborative-development/sharing-bots-for-development/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/advanced-topics/collaborative-development/sharing-bots-for-development/?lang=ja">
 
-  How to share bots with co-developers?
-
-</a>
-
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/channel-enablement/adding-channels-to-your-bot/">
-
-  How to add channels to bot?
+  ボットの共同開発者との共有方法
 
 </a>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/publish/publishing-bot/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/channel-enablement/adding-channels-to-your-bot/?lang=ja">
 
-How to publish a bot?
+  ボットにチャネルを追加する方法
 
 </a>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/chatbot-overview/where-to-find-what/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/publish/publishing-bot/?lang=ja">
 
-  Navigational Changes in V9.0
+ボットの公開方法
+
+</a>
+
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/chatbot-overview/where-to-find-what/?lang=ja">
+
+  V9.0 でのナビゲーションの変更
 
 </a>
 
