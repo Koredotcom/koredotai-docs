@@ -60,7 +60,7 @@ permalink: platform/topic-guide/ja/latest/Summary
 
 </details>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/dashboard/#Bot_Summary">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/dashboard/#Bot_Summary?lang=ja">
  
 
 | Frontmatter | Required? |
