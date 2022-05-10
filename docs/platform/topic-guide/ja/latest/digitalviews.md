@@ -5,7 +5,7 @@ permalink: platform/topic-guide/ja/latest/Digital Views
 
 ---
 #### Topic Guide
-###### Digital Views
+###### デジタルビュー
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Digital Views.
 
@@ -24,41 +24,41 @@ permalink: platform/topic-guide/ja/latest/Digital Views
   <summary>FAQs
   </summary>
 
-  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-views/">
+  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-views/?lang=ja">
  
-  What are Digital Views?
+  デジタルビューとは
 
 </a>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-views/#Configure_Widgets">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-views/#Configure_Widgets?lang=ja">
  
-  How to configure a Widget?
+  ウィジェットの設定方法
 
 </a>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-views/#Setup">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-views/#Setup?lang=ja">
  
-  How to setup a Panel?
+  パネルの設定方法
 
 </a>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-views/#Set_up_Panels">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-views/#Set_up_Panels?lang=ja">
 
-  How to include Widgets into a Panel?
-
-</a>
-
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-views/#Set_up_Panels">
-
-  How to test Panels?
+  ウィジェットをパネルに含める方法
 
 </a>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-views/#Hosting">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-views/#Set_up_Panels?lang=ja">
 
- How to host Digital Views?
+  パネルのテスト方法
+
+</a>
+
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-views/#Hosting?lang=ja">
+
+ デジタルビューをホストする方法
 
 </a>
 
@@ -77,7 +77,7 @@ permalink: platform/topic-guide/ja/latest/Digital Views
 </a>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-views/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-views/?lang=ja">
  
 
 | Frontmatter | Required? |
