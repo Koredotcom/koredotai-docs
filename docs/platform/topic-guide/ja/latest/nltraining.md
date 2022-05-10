@@ -5,7 +5,7 @@ permalink: platform/topic-guide/ja/latest/Training
 
 ---
 #### Topic Guide
-###### Training
+###### トレーニング
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on NL Training.
 
@@ -24,53 +24,53 @@ permalink: platform/topic-guide/ja/latest/Training
   <summary>FAQs
   </summary>
 
-  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/train-nlp-optimization/machine-learning/user-utterances/">
+  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/train-nlp-optimization/machine-learning/user-utterances/?lang=ja">
  
-  How to train intents using utterances?
+  発話を使用したインテンのトレーニング方法
 
 </a>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/nlp/user-utterances/#Exporting_and_Importing_Machine_Learning_Utterances">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/nlp/user-utterances/#Exporting_and_Importing_Machine_Learning_Utterances?lang=ja">
  
-  How to import or export utterances?
+  発話のインポートまたはエクスポート方法
 
 </a>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/nlp/ml-model/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/nlp/ml-model/?lang=ja">
  
-  What is a Machine Learning Model?
+  機械学習 (ML) モデルとは
 
 </a>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/chatbot-overview/nlp-guide/#Entity_Detection">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/chatbot-overview/nlp-guide/#Entity_Detection?lang=ja">
 
-  How to train entities?
-
-</a>
-
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/nlp/user-utterances/#ml-parameters">
-
-  How to customize ML model?
+  エンティティのトレーニング方法
 
 </a>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/nlp/additional-notes-nlp-settings-guidelines/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/nlp/user-utterances/#ml-parameters?lang=ja">
 
- How to improve bot's intent detection capabilities?
-
-</a>
-
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/test-your-bot/testing-your-bot-with-nlp/">
-
-  How to test bots?
+  MLモデルのカスタマイズ方法
 
 </a>
 
-<a class="doc-link tour-guide" topic-id="91617" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/train-nlp-optimization/machine-learning/user-utterances/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/nlp/additional-notes-nlp-settings-guidelines/?lang=ja">
 
-Get Started with Training
+ ボットのインテント検出能力の向上方法
+
+</a>
+
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/test-your-bot/testing-your-bot-with-nlp/?lang=ja">
+
+  ボットのテスト方法
+
+</a>
+
+<a class="doc-link tour-guide" topic-id="91617" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/train-nlp-optimization/machine-learning/user-utterances/?lang=ja">
+
+トレーニングを開始します
 
 </a>
 
@@ -90,7 +90,7 @@ Get Started with Training
 </a>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/nlp/optimizing-bots/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/nlp/optimizing-bots/?lang=ja">
  
 
 | Frontmatter | Required? |
