@@ -5,7 +5,7 @@ permalink: platform/topic-guide/ja/latest/Bot Functions
 
 ---
 #### Topic Guide
-###### Bot Functions
+###### ボットの機能
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Bot Functions.
 
@@ -14,72 +14,72 @@ permalink: platform/topic-guide/ja/latest/Bot Functions
   <summary>FAQs
   </summary>
 
-  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/advanced-topics/multi-lingual/building-multi-language-bots/">
+  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/advanced-topics/multi-lingual/building-multi-language-bots/?lang=ja">
  
-  How to build multi language bots?
+  多言語ボットの構築方法
 
 </a>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/advanced-topics/multi-lingual/building-multi-language-bots/#Language_Detection_and_Selection">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/advanced-topics/multi-lingual/building-multi-language-bots/#Language_Detection_and_Selection?lang=ja">
  
-  How to set preferences for language detection?
+  言語検出のための設定方法
 
 </a>
   
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/advanced-topics/multi-lingual/building-multi-language-bots/#Translatable_Components">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/advanced-topics/multi-lingual/building-multi-language-bots/#Translatable_Components?lang=ja">
  
-  What are the components that can have language specific values?
+  言語固有の値を含むコンポーネントとは
 
 </a>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/advanced-topics/authorization/bot-authentication/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/advanced-topics/authorization/bot-authentication/?lang=ja">
  
-  How to setup authorization models?
+  認証モデルの設定方法
 
 </a>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/dialog-task/implementing-custom-authentication/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/dialog-task/implementing-custom-authentication/?lang=ja">
 
-  How to setup custom authentication models?
+  カスタム認証モデルの設定方法
 
 </a>
   
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-settings/pii-data-masking/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-settings/pii-data-masking/?lang=ja">
 
-  How to redact PII data?
-
-</a>
-
-  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-settings/bot-functions/reusing-bot-functions-custom-script-file/">
-
-  How to configure reusable functions across bot?
+  PII データの編集方法
 
 </a>
-  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-settings/bot-management/using-bot-variables/">
 
-  How to use variables in bot definition?
+  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-settings/bot-functions/reusing-bot-functions-custom-script-file/?lang=ja">
 
-</a>
-  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/advanced-topics/smart-bot/defining-a-smart-bot/#Smart_Bot_Settings">
-
-  How to use variables for Smart Bots?
+  ボット全体で再使用可能な関数の設定方法
 
 </a>
-  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/advanced-topics/smart-bot/defining-a-smart-bot/#Smart_Bot_Settings">
+  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-settings/bot-management/using-bot-variables/?lang=ja">
 
-  How to configure smart bot settings?
+  ボットの定義における変数の使用方法
 
 </a>
-  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/advanced-topics/smart-bot/defining-a-smart-bot/#inheritance">
+  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/advanced-topics/smart-bot/defining-a-smart-bot/#Smart_Bot_Settings?lang=ja">
 
-  How to manage inheritance of bot updates?
+  スマートボット用の変数の使用方法
+
+</a>
+  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/advanced-topics/smart-bot/defining-a-smart-bot/#Smart_Bot_Settings?lang=ja">
+
+  スマートボットの設定方法
+
+</a>
+  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/advanced-topics/smart-bot/defining-a-smart-bot/#inheritance?lang=ja">
+
+  ボットの更新の継承を管理する方法
 
 </a>
 </details>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-settings/bot-functions/reusing-bot-functions-custom-script-file/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-settings/bot-functions/reusing-bot-functions-custom-script-file/?lang=ja">
  
 
 | Frontmatter | Required? |
