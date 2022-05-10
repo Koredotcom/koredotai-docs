@@ -6,7 +6,7 @@ permalink: platform/topic-guide/ja/latest/Bot Versions
 ---
 
 #### Topic Guide
-###### Bot Versions
+###### ボットのバージョン
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Bot Versions.
 
@@ -14,29 +14,29 @@ permalink: platform/topic-guide/ja/latest/Bot Versions
   <summary>FAQs
   </summary>
 
-  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-settings/bot-management/bot-versioning/#Creation">
+  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-settings/bot-management/bot-versioning/#Creation?lang=ja">
  
-  How to create Bot Versions?
+  ボットのバージョン作成方法
 
 </a>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-settings/bot-management/bot-versioning/#Version_Restoration">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-settings/bot-management/bot-versioning/#Version_Restoration?lang=ja">
  
-  How to restore an older version?
+  以前のバージョンの復元方法
 
 </a>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-settings/bot-management/bot-versioning/#Types">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-settings/bot-management/bot-versioning/#Types?lang=ja">
  
-  What is an Auto Created version?
+  自動作成バージョンとは
 
 </a>
   
 
 </details>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-settings/bot-management/bot-versioning/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-settings/bot-management/bot-versioning/?lang=ja">
  
 
 | Frontmatter | Required? |
