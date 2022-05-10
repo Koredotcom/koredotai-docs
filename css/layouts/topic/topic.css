@@ -5,6 +5,10 @@ html, body{
     position: relative;
 }
 
+[data-anchorjs-icon]::after {
+    content: '';
+}
+
 details:hover summary{
     background: #F8F9FA;
 }
