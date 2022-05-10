@@ -82,6 +82,9 @@ details.introduction-video p{
     text-overflow: ellipsis;
     white-space: normal;
 }
+details.introduction-video p:nth-child(3){
+    height: 40px;
+}
 details.introduction-video p a{
     height: 140px;
     width: 340px;
