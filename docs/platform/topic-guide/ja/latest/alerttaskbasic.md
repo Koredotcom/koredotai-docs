@@ -5,7 +5,7 @@ permalink: platform/topic-guide/ja/latest/ALERTS_TASK_BASIC
 
 ---
 #### Topic Guide
-###### Alert Tasks
+###### アラートタスク
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Alert Tasks.
 
@@ -14,59 +14,59 @@ permalink: platform/topic-guide/ja/latest/ALERTS_TASK_BASIC
   <summary>FAQs
   </summary>
 
-  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/alert/notification-tasks/">
+  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/alert/notification-tasks/?lang=ja">
  
-  What are Alert Tasks?
+  アラートタスクとは
 
 </a>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/alert/notification-tasks/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/alert/notification-tasks/?lang=ja">
  
-  How to create an Alert task?
+  アラートタスクの作成方法
 
 </a>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/alert/notification-tasks/#API_Request">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/alert/notification-tasks/#API_Request?lang=ja">
  
-  How to configure REST API request?
+  REST API リクエストの設定方法
 
 </a>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/alert/notification-tasks/#API_Request">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/alert/notification-tasks/#API_Request?lang=ja">
 
-  How to configure SOAP API request?
-
-</a>
-
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/alert/notification-tasks/#API_Request">
-
-  How to configure Webhook request?
+  SOAP API リクエストの設定方法
 
 </a>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/alert/notification-tasks/#API_Request">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/alert/notification-tasks/#API_Request?lang=ja">
 
- How to configure RSS request?
-
-</a>
-
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/alert/notification-tasks/#Authorization">
-
-  How to configure authorization for service requests?
+  Webhook リクエストの設定方法
 
 </a>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/alert/notification-tasks/#Bot_Response">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/alert/notification-tasks/#API_Request?lang=ja">
 
-  How to configure bot responses for alert tasks?
+ RSS リクエストの設定方法
 
 </a>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/alert/notification-tasks/#Alert_Settings">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/alert/notification-tasks/#Authorization?lang=ja">
 
-How to configure alert scheduling?
+  サービスリクエストに対する認証の設定方法
+
+</a>
+
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/alert/notification-tasks/#Bot_Response?lang=ja">
+
+  通知タスクに対するボットレスポンスの設定方法
+
+</a>
+
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/alert/notification-tasks/#Alert_Settings?lang=ja">
+
+通知予約の設定方法
 
 </a>
 
@@ -74,7 +74,7 @@ How to configure alert scheduling?
 </details>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/alert/notification-tasks/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/alert/notification-tasks/?lang=ja">
  
 
 | Frontmatter | Required? |
