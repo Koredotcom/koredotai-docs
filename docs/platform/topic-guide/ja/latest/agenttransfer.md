@@ -6,7 +6,7 @@ permalink: platform/topic-guide/ja/latest/Agent Transfer
 ---
 
 #### Topic Guide
-###### Agent Transfer
+###### エージェント転送
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Agent Transfer.
 
@@ -14,52 +14,52 @@ permalink: platform/topic-guide/ja/latest/Agent Transfer
   <summary>FAQs
   </summary>
 
-  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/sdks/botkit-sdk-tutorial-agent-transfer/">
+  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/sdks/botkit-sdk-tutorial-agent-transfer/?lang=ja">
  
-  How to setup BotKit SDK?
+  BotKit SDKの設定方法
 
 </a>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/sdks/kore-ai-web-sdk-tutorial/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/sdks/kore-ai-web-sdk-tutorial/?lang=ja">
  
-  How to setup Web / Mobile SDK?
+  Web/Mobile SDKの設定方法
 
 </a>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/sdks/sdk-app-registration/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/sdks/sdk-app-registration/?lang=ja">
  
-  How to register apps?
-
-</a>
-  
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/sdks/message-templates/">
- 
-  How to configure templates in WebSDK?
+  アプリの登録方法
 
 </a>
   
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/api-guide/apis/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/sdks/message-templates/?lang=ja">
  
-  How to access bot definition using APIs?
+  WebSDKにおけるテンプレートの設定方法
 
 </a>
   
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/sdks/botkit-sdk-tutorial-agent-transfer/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/api-guide/apis/?lang=ja">
  
-  How to setup Agent Transfer?
+  API を使用してボット定義にアクセスする方法
 
 </a>
   
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/dialog-task/working-with-the-agent-transfer-node/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/sdks/botkit-sdk-tutorial-agent-transfer/?lang=ja">
  
-  How to use Agent Transfer nodes?
+  エージェント転送の設定方法
+
+</a>
+  
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/dialog-task/working-with-the-agent-transfer-node/?lang=ja">
+ 
+  エージェント転送ノードの使用方法
 
 </a>
 
 </details>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/sdks/botkit-sdk-tutorial-agent-transfer/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/sdks/botkit-sdk-tutorial-agent-transfer/?lang=ja">
  
 
 | Frontmatter | Required? |
