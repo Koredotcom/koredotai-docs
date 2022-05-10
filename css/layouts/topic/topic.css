@@ -16,6 +16,13 @@ details:hover summary{
 details summary{
     cursor: pointer;
 }
+details summary .count{
+    font-weight: 500;
+    font-size: 14px;
+    color: #9AA0A6;
+    display: inline-block;
+    padding-left: 10px;
+}
 .topic-container{
    padding: 25px 16px;
    font-family: 'Inter' !important;
