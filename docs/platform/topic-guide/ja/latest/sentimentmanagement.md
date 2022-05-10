@@ -5,7 +5,7 @@ permalink: platform/topic-guide/ja/latest/Sentiment Management
 
 ---
 #### Topic Guide
-###### Sentiment Management
+###### センチメント管理
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Sentiment Management.
 
@@ -14,35 +14,35 @@ permalink: platform/topic-guide/ja/latest/Sentiment Management
   <summary>FAQs
   </summary>
 
-  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/advanced-topics/working-with-tone-processing/">
+  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/advanced-topics/working-with-tone-processing/?lang=ja">
  
-  How to analyze user tone and sentiment?
+  ユーザーのトーンおよび感情を分析する方法
 
 </a>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/advanced-topics/sentiment-management/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/advanced-topics/sentiment-management/?lang=ja">
  
-  How to define sentiment based events?
+  感情ベースのイベントを定義する方法
 
 </a>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/advanced-topics/event-based-bot-actions/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/advanced-topics/event-based-bot-actions/?lang=ja">
  
-  How to define event based custom flows?
+  イベントベースのカスタムフローを定義する方法
 
 </a>
   
-  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/dialog-task/context-object/">
+  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/dialog-task/context-object/?lang=ja">
  
-  What is context object and how to use it?
+  コンテキストオブジェクトとは何か、およびその使用方法
 
 </a>
 
 </details>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/advanced-topics/sentiment-management/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/advanced-topics/sentiment-management/?lang=ja">
  
 
 | Frontmatter | Required? |
