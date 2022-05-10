@@ -5,7 +5,7 @@ permalink: platform/topic-guide/ja/latest/Small Talk
 
 ---
 #### Topic Guide
-###### Small Talk
+###### スモールトーク
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Small Talk.
 
@@ -24,35 +24,35 @@ permalink: platform/topic-guide/ja/latest/Small Talk
   <summary>FAQs
   </summary>
 
-  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/">
+  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/?lang=ja">
  
-  What is Small Talk?
+  スモールトークとは
 
 </a>
 
- <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#Creation">
+ <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#Creation?lang=ja">
  
-  How to create Small Talk?
+  挨拶とは
 
 </a>
  
   
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#Terminology">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#Terminology?lang=ja">
 
-  What are Small Talk groups?
+  スモールトークの作成方法
 
 </a>
   
-  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#Default_Small_Talk">
+  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#Default_Small_Talk?lang=ja">
  
-  What are the default greetings supported?
+  グループとは
 
 </a>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/nlp/additional-notes-nlp-settings-guidelines/#Patterns">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/nlp/additional-notes-nlp-settings-guidelines/#Patterns?lang=ja">
 
-  What are the guidelines for defining patterns for Small Talk?
+  クエリを定義するためのパターンの使用方法
 
 </a>
 
@@ -72,7 +72,7 @@ permalink: platform/topic-guide/ja/latest/Small Talk
 </a>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/?lang=ja">
  
 
 | Frontmatter | Required? |
