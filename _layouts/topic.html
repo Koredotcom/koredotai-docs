@@ -68,6 +68,19 @@ $('.nested-details summary').on('click', function (e) {
                                       }, '*');
             });
 
+          function numberTransFormTwoDegit (n) {
+                 return n > 9 ? "" + n : "0" + n;
+                }
+            $('details').each((el, n)=>{
+                if($(n).find('summary').first().text().trim() == "FAQs") {
+
+                    $(n).find('summary').first().append("<span class='count'>( "+ numberTransFormTwoDegit(+(($(n).find('a.doc-link').length) + ($(n).find('a.nested-accordian-link').length))) +" )</span>")
+                } else if($(n).find('summary').first().text().trim() == "Videos") {
+
+                    $(n).find('summary').first().append("<span class='count'>( "+ numberTransFormTwoDegit(+(($(n).find('details-video').length))) +  " )</span>")
+                }
+            });
+
   
          //  $('body').perfectScrollbar();
              new PerfectScrollbar('body');
