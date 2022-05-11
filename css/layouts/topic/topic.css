@@ -8,7 +8,9 @@ html, body{
 [data-anchorjs-icon]::after {
     content: '';
 }
-
+.anchorjs-link{
+    display: none;
+}
 details:hover summary{
     background: #F8F9FA;
 }
