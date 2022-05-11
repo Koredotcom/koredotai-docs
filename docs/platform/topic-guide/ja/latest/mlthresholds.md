@@ -6,7 +6,7 @@ permalink: platform/topic-guide/ja/latest/Thresholds & Configurations
 ---
 
 #### Topic Guide
-###### Thresholds & Configuration
+###### しきい値と設定
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on ML Thresholds & Configurations.
 
@@ -15,41 +15,41 @@ permalink: platform/topic-guide/ja/latest/Thresholds & Configurations
   <summary>FAQs
   </summary>
 
-  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/nlp/user-utterances/#ml-parameters">
+  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/nlp/user-utterances/#ml-parameters?lang=ja">
  
-  How to configure thresholds and configurations?
+  しきい値等の設定方法
 
 </a>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/chatbot-overview/nlp-guide/#Intent_Detection">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/chatbot-overview/nlp-guide/#Intent_Detection?lang=ja">
  
-  How to train intents?
+  インテントのトレーニング方法
 
 </a>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/chatbot-overview/nlp-guide/#Entity_Detection">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/chatbot-overview/nlp-guide/#Entity_Detection?lang=ja">
  
-  How to train entities?
+  エンティティのトレーニング方法
 
 </a>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/chatbot-overview/nlp-guide/#Knowledge_Graph">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/chatbot-overview/nlp-guide/#Knowledge_Graph?lang=ja">
 
-  How to train Knowledge Graph?
-
-</a>
-
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/nlp/additional-notes-nlp-settings-guidelines/">
-
-  How to improve bot's intent detection capabilities?
+  ナレッジグラフのトレーニング方法?
 
 </a>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/test-your-bot/testing-your-bot-with-nlp/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/nlp/additional-notes-nlp-settings-guidelines/?lang=ja">
 
-  How to test bots?
+  ボットのインテント検出能力の向上方法
+
+</a>
+
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/test-your-bot/testing-your-bot-with-nlp/?lang=ja">
+
+  ボットのテスト方法
 
 </a>
 
@@ -57,7 +57,7 @@ permalink: platform/topic-guide/ja/latest/Thresholds & Configurations
 
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/nlp/advanced-nlp-configurations/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/nlp/advanced-nlp-configurations/?lang=ja">
  
 
 | Frontmatter | Required? |

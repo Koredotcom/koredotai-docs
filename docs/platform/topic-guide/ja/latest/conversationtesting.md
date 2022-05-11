@@ -5,7 +5,7 @@ permalink: platform/topic-guide/ja/latest/Conversation Testing
 
 ---
 #### Topic Guide
-###### Conversation Testing
+###### 会話のテスト
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Conversation Testing.
 
@@ -14,48 +14,48 @@ permalink: platform/topic-guide/ja/latest/Conversation Testing
   <summary>FAQs
   </summary>
 
-  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/test-your-bot/conversation-testing/">
+  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/test-your-bot/conversation-testing/?lang=ja">
  
-  How to use conversation testing for regression analysis of the conversation flows?
+  会話フローの回帰分析に会話テストを利用する方法
 
 </a>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/chatbot-overview/nlp-guide/#Intent_Detection">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/chatbot-overview/nlp-guide/#Intent_Detection?lang=ja">
  
-  How to train intents?
+  インテントのトレーニング方法
 
 </a>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/chatbot-overview/nlp-guide/#Entity_Detection">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/chatbot-overview/nlp-guide/#Entity_Detection?lang=ja">
  
-  How to train entities?
+  エンティティのトレーニング方法
 
 </a>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/chatbot-overview/nlp-guide/#Knowledge_Graph">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/chatbot-overview/nlp-guide/#Knowledge_Graph?lang=ja">
 
-  How to train Knowledge Graph?
+  ナレッジグラフのトレーニング方法?
 
 </a>
 
-  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/nlp/additional-notes-nlp-settings-guidelines/">
+  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/nlp/additional-notes-nlp-settings-guidelines/?lang=ja">
 
-  How to improve bot's intent detection capabilities?
+  ボットのインテント検出能力の向上方法
 
 </a>
   
-  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/nlp/user-utterances/#ml-parameters">
+  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/nlp/user-utterances/#ml-parameters?lang=ja">
 
-  How to configure thresholds and configurations?
+  しきい値等の設定方法
 
 </a>
 
 </details>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/test-your-bot/conversation-testing/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/test-your-bot/conversation-testing/?lang=ja">
  
 
 | Frontmatter | Required? |

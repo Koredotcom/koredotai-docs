@@ -6,7 +6,7 @@ permalink: platform/topic-guide/ja/latest/Publish
 ---
 
 #### Topic Guide
-###### Publish
+###### 公開
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Publish.
 
@@ -14,40 +14,40 @@ permalink: platform/topic-guide/ja/latest/Publish
   <summary>FAQs
   </summary>
 
-  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/publish/publishing-bot/">
+  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/publish/publishing-bot/?lang=ja">
  
-  How to publish a bot?
+  ボットの公開方法
 
 </a>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/publish/publishing-bot/#Publishing_Tasks">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/publish/publishing-bot/#Publishing_Tasks?lang=ja">
  
-  How to selectively publish bot components?
+  ボットコンポーネントを選択的に公開する方法
 
 </a>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/advanced-topics/universal-bot/creating-a-universal-bot/#Step_6_Publishing">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/advanced-topics/universal-bot/creating-a-universal-bot/#Step_6_Publishing?lang=ja">
  
-  How to publish universal bots?
+  ユニバーサルボットの公開方法
 
 </a>
   
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/dialog-task/managing-dialogs/#Upgrading_Tasks">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/dialog-task/managing-dialogs/#Upgrading_Tasks?lang=ja">
  
-  How to upgrade tasks?
+  タスクをアップグレードする方法
 
 </a>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/dialog-task/managing-dialogs/#Deleting_and_Recalling_Tasks">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/dialog-task/managing-dialogs/#Deleting_and_Recalling_Tasks?lang=ja">
  
-  How to recall or suspend published tasks?
+  公開済みタスクをリコールまたは一時停止する方法
 
 </a>
 
 </details>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/publish/publishing-bot/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/publish/publishing-bot/?lang=ja">
  
 
 | Frontmatter | Required? |

@@ -5,7 +5,7 @@ permalink: platform/topic-guide/ja/latest/Manage Interruptions
 
 ---
 #### Topic Guide
-###### Manage Interruptions
+###### 割り込み設定
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Manage Interruptions.
 
@@ -24,22 +24,22 @@ permalink: platform/topic-guide/ja/latest/Manage Interruptions
   <summary>FAQs
   </summary>
 
-  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-intelligence/interruption-handling-context-switching-intents/">
+  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-intelligence/interruption-handling-context-switching-intents/?lang=ja">
  
-  What are interruptions and how to manage them?
+  中断とは何か、およびその使用方法
 
 </a>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-intelligence/default-dialog/#Standard_Responses">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-intelligence/default-dialog/#Standard_Responses?lang=ja">
  
-  How to customize Standard Responses?
+  標準レスポンスのカスタマイズ方法
 
 </a>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/dialog-task/prompt-editor/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/dialog-task/prompt-editor/?lang=ja">
  
-  How to use prompt editor?
+  プロンプトエディタの使用方法
 
 </a>
 
@@ -56,7 +56,7 @@ permalink: platform/topic-guide/ja/latest/Manage Interruptions
 </a>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-intelligence/interruption-handling-context-switching-intents/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-intelligence/interruption-handling-context-switching-intents/?lang=ja">
  
 
 | Frontmatter | Required? |

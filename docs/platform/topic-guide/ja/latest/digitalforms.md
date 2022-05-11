@@ -5,7 +5,7 @@ permalink: platform/topic-guide/ja/latest/Digital Forms
 
 ---
 #### Topic Guide
-###### Digital Forms
+###### デジタルフォーム
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Digital forms.
 
@@ -13,64 +13,64 @@ permalink: platform/topic-guide/ja/latest/Digital Forms
 <details open>
   <summary>FAQs
   </summary>
- <a class="nested-accordian-link no-doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-forms/">
+ <a class="nested-accordian-link no-doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-forms/?lang=ja">
   <details class="nested-details">
  
-  <summary>What are Digital Forms?
+  <summary>デジタルフォームとは
   </summary>
 
  
-   A Digital form is an interactive User Interface that can be used for easy and efficient capture of information from the end-users.
+   デジタルフォームとは、エンドユーザーからの情報を簡単かつ効率的に取得するために使用できるインタラクティブなユーザーインターフェイスです。
 
   </details>
  </a>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-forms/#Form_Creation">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-forms/#Form_Creation?lang=ja">
  
-  How can I create Digital Forms?
+  デジタルフォームを作成方法
 
 </a>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-forms/#Component_Details">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-forms/#Component_Details?lang=ja">
  
-  What are Digital form components & how can I use them?
+  デジタルフォームコンポーネントについて、またそれらの使用方法
 
 </a>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-forms/#Form_Invocation">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-forms/#Form_Invocation?lang=ja">
 
-  How do I invoke Digital Forms from the Bot?
-
-</a>
-
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-forms/#UI_Flow">
-
-  Can I present Forms in Digital Views?
+  デジタルフォームをボットから呼び出す方法
 
 </a>
 
-<a class="nested-accordian-link no-doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-forms/#From_Tasks">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-forms/#UI_Flow?lang=ja">
+
+  デジタルビューでフォームを表示できるか
+
+</a>
+
+<a class="nested-accordian-link no-doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-forms/#From_Tasks?lang=ja">
 
 <details class="nested-details">
  
-  <summary> Can I capture user input using Form as well as from conversation?
+  <summary> 会話やフォームを使ってユーザー入力を取り込むことはできるか
 
   </summary>
 
  
-  Yes, you can use the same bot and choose the user experience as Form or Conversation based on the channel of execution.
+  はい。同じボットを使用して、実行するチャネルに応じてフォームか会話のどちらかを選択することができます。
 
   </details>
 
 
 </a>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-forms/#Components-Dialog_Node_Mapping">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-forms/#Components-Dialog_Node_Mapping?lang=ja">
 
-  How does the Form components get converted to Sub-Dialog entities?
+  フォームのコンポーネントをサブダイアログに変換する方法
 
 </a>
 
@@ -78,43 +78,7 @@ permalink: platform/topic-guide/ja/latest/Digital Forms
 </details>
 
 
-<details >
-
- <summary>Videos
- </summary>
-
-  <details-video>
-  
-  [![<video title>](test.com)](<video link>)
-
- ##### Heading text goes here!
-   Short description for the video>
-
-  </details-video>
-
-    
-<details-video>
-  
-  [![<video title>](tes.com)](<video link>)
-
- ##### Heading text goes here!
-  Short description for the video>
-
-  </details-video>
-
-  <details-video>
-  
-  [![<video title>](tes.com)](<video link>)
-
- ##### Heading text goes here!
-  Short description for the video>
-
-  </details-video>
- 
-</details>
-
-
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-forms/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-forms/?lang=ja">
  
 
 | Frontmatter | Required? |
