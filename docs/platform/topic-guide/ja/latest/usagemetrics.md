@@ -1,41 +1,41 @@
 ---
-title: Usage Metrics
+title: 使用状況メトリクス
 
 permalink: platform/topic-guide/ja/latest/Usage Metrics
 
 ---
 
 #### Topic Guide
-###### Usage Metrics
+###### 使用状況メトリクス
 
  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Usage Metrics.
 
 <details open>
   <summary>FAQs
   </summary>
- <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/dashboard/#Usage_Metrics">
+ <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/dashboard/#Usage_Metrics?lang=ja">
 
   <details class="nested-details">
  
-  <summary>What is Realtime Status?
+  <summary>リアルタイムステータスとは
   </summary>
 
  
- Realtime status gives an overview of your Bot usage at a given point in time and is auto-refreshed at set periodic intervals
+ リアルタイムステータスは、特定の時点におけるボットの使用状況の概要を説明するものであり、定期的に設定された間隔で自動更新されます。
 
   </details>
  </a>
 
 
-  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/dashboard/#Usage_Metrics">
+  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/dashboard/#Usage_Metrics?lang=ja">
  
   <details class="nested-details">
  
-  <summary>What is Usage Metrics?
+  <summary>使用状況メトリクスとは
   </summary>
 
  
-   Usage metrics give an idea regarding the bot performance in terms of the frequency of user interaction, channels of interaction, tasks performed, etc.
+   使用状況メトリクスは、ユーザーとのやり取りの頻度、やり取りを行うチャネル、実行したタスクなどの観点から、ボットのパフォーマンスに関する情報を提供します。
 
 
   </details>
@@ -46,33 +46,33 @@ permalink: platform/topic-guide/ja/latest/Usage Metrics
  
   <details class="nested-details">
  
-  <summary>What is the difference between Message & Conversation?
+  <summary>メッセージと会話の違い
   </summary>
 
  
-   Messages are volley between the user and the bot while conversation is a series of messages within the given time frame without change in intent.
+   メッセージはユーザーとボットの間で行われるやり取りであり、会話はインテントを変えずに与えられた時間枠内で行われる一連のメッセージです。
 
 
   </details>
  </a>
  
 
- <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/dashboard/#Usage_Metrics">
+ <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/dashboard/#Usage_Metrics?lang=ja">
  
  
-   What do the various graphs here depict?
+   ここで示されるさまざまなグラフの意味
 
 </a>
- <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/dashboard/#Filter_Criteria">
+ <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/dashboard/#Filter_Criteria?lang=ja">
  
  
-   How to filter the messages / conversations included in the analytics?
+   分析に含まれるメッセージ / 会話をフィルタリングする方法
 
 </a>
 
  </details>
 
- <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/dashboard/#Usage_Metrics">
+ <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/dashboard/#Usage_Metrics?lang=ja">
  
 
 | Frontmatter | Required? |
