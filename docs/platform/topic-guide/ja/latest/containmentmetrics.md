@@ -1,19 +1,19 @@
 ---
-title: Containment Metrics
+title: 使用状況メトリクス
 
 permalink: platform/topic-guide/ja/latest/Containment Metrics
 
 ---
 
 #### Topic Guide
-###### Containment Metrics
+###### 使用状況メトリクス
 
  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Containment Metrics.
 
 <details open>
   <summary>FAQs
   </summary>
- <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/dashboard/#Realtime_Status">
+ <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/dashboard/#Realtime_Status?lang=ja">
 
   <details class="nested-details">
  
@@ -27,7 +27,7 @@ permalink: platform/topic-guide/ja/latest/Containment Metrics
  </a>
 
 
-  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/dashboard/#Containment_Metrics">
+  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/dashboard/#Containment_Metrics?lang=ja">
  
   <details class="nested-details">
  
@@ -99,7 +99,7 @@ permalink: platform/topic-guide/ja/latest/Containment Metrics
  </a>
  
 
- <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/dashboard/#containment-details">
+ <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/dashboard/#containment-details?lang=ja">
  
  
    What are the various metrics on display here?
@@ -114,7 +114,7 @@ permalink: platform/topic-guide/ja/latest/Containment Metrics
 
  </details>
 
- <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/dashboard/#Containment_Metrics">
+ <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/dashboard/#Containment_Metrics?lang=ja">
  
 
 | Frontmatter | Required? |
