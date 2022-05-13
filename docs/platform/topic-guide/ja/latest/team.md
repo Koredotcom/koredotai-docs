@@ -1,12 +1,12 @@
 ---
-title: Team
+title: チーム
 
 permalink: platform/topic-guide/ja/latest/Team
 
 ---
 
 #### Topic Guide
-###### Team
+###### チーム
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Team.
 
@@ -14,29 +14,29 @@ permalink: platform/topic-guide/ja/latest/Team
   <summary>FAQs
   </summary>
 
-  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/advanced-topics/collaborative-development/sharing-bots-for-development/">
+  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/advanced-topics/collaborative-development/sharing-bots-for-development/?lang=ja">
  
-  How to share bots with co-developers?
+  ボットの共同開発者との共有方法
 
 </a>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-settings/bot-management/using-bot-variables/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-settings/bot-management/using-bot-variables/?lang=ja">
  
-  How to export and import bots into different environments?
+  異なる環境にボットをエクスポートおよびインポートする方法
 
 </a>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-settings/bot-management/bot-management-2/#Viewing_the_Bot_Change_Log">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-settings/bot-management/bot-management-2/#Viewing_the_Bot_Change_Log?lang=ja">
  
-  How to view log of changes made to bot definition?
+  ボット定義の変更ログを表示する方法
 
 </a>
   
 
 </details>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/advanced-topics/collaborative-development/sharing-bots-for-development/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/advanced-topics/collaborative-development/sharing-bots-for-development/?lang=ja">
  
 
 | Frontmatter | Required? |
