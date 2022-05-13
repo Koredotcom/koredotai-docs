@@ -9,7 +9,7 @@ permalink: platform/topic-guide/en/latest/Ignore Words & Field Memory
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Ignore Words & Field Memory.
 
-<details>
+<details open>
   <summary>FAQs
   </summary>
 
