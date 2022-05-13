@@ -1,71 +1,71 @@
 ---
-title: Plan & Usage
+title: プランと使用状況
 
 permalink: platform/topic-guide/ja/latest/Plan & Usage
 
 ---
 #### Topic Guide
-###### Plan & Usage
+###### プランと使用状況
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Plan & Usage.
 
 <details open>
   <summary>FAQs
   </summary>
- <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-settings/plan-usage/plans-overview/">
+ <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-settings/plan-usage/plans-overview/?lang=ja">
  
-  What are my current plan details?
+  現在のプランの詳細を教えてください。
 
 </a>
-  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-settings/plan-usage/plans-overview/#Billing_Units">
+  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-settings/plan-usage/plans-overview/#Billing_Units?lang=ja">
   <details class="nested-details">
  
-  <summary>What is Allowed Sessions?
+  <summary>許可されたセッションとは何ですか?
   </summary>
 
  
-   The number of sessions that will be coved by the balance remaining in your account
+   お客様のアカウントに残っている残高でカバーできるセッションの数
 
   </details>
  </a>
-<a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-settings/plan-usage/usage-plans/#Usage_Details">
+<a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-settings/plan-usage/usage-plans/#Usage_Details?lang=ja">
   <details class="nested-details">
  
-  <summary>What is the Usage Trend?
+  <summary>使用傾向とは何ですか?
   </summary>
 
-   You can view the billing sessions consumed by the bot in a given period
+   特定の期間にボットが消費した請求セッションを参照することができます
 
   </details>
  </a>
-<a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-settings/plan-usage/usage-plans/">
+<a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-settings/plan-usage/usage-plans/?lang=ja">
   <details class="nested-details">
  
-  <summary>What does reload option do?
+  <summary>リチャージ オプションでは何を行いますか?
   </summary>
 
-   You can use this to top up your account, thus increasing the number of sessions under the current plan
+   これを使用してアカウントにチャージし、現在のプランでセッション数を増やすことができます
 
   </details>
  </a>
-  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-settings/plan-usage/usage-plans/">
+  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-settings/plan-usage/usage-plans/?lang=ja">
   <details class="nested-details">
  
-  <summary>How do I know which plan to select?
+  <summary>どのプランを選択すべきかを決めるには、どうしたら良いですか?
   </summary>
 
-   The change plan option gives you the various plans available with a suggestion based on your current usage
+   プラン変更オプションでは、お客様の現在の使用状況に基づいて、さまざまなプランが提案されます
 
   </details>
  </a>
   
-  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-settings/plan-usage/plans-overview/#Support_Plans">
+  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-settings/plan-usage/plans-overview/#Support_Plans?lang=ja">
   <details class="nested-details">
  
-  <summary>What is a Support Plan?
+  <summary>サポートプランとは何ですか?
   </summary>
 
-   Every paid bot comes with a default basic support plan. You can upgrade to get better assistance from the platform support team
+   すべての有料ボットには、デフォルトのベーシック サポートプランが用意されています。アップグレードして、プラットフォームのサポート チームからより手厚いサポートを受けられます。
 
   </details>
  </a>
@@ -73,7 +73,7 @@ permalink: platform/topic-guide/ja/latest/Plan & Usage
 </details>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-settings/plan-usage/plans-overview/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-settings/plan-usage/plans-overview/?lang=ja">
  
 
 | Frontmatter | Required? |
