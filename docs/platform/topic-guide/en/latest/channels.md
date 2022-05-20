@@ -8,7 +8,7 @@ permalink: platform/topic-guide/en/latest/Channels
 #### Topic Guide
 ###### Channels
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Channels.
+  Check out our explanatory FAQs and documentation links on Channels.
 
 <details open>
   <summary>FAQs
