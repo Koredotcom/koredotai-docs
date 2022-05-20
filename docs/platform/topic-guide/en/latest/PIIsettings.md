@@ -7,7 +7,7 @@ permalink: platform/topic-guide/en/latest/PII Settings
 #### Topic Guide
 ###### PII Settings
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on PII Settings.
+  Check out our explanatory FAQs and documentation links on PII Settings.
 
 
 <details open>
