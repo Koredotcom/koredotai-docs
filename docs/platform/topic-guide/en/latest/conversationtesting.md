@@ -7,7 +7,7 @@ permalink: platform/topic-guide/en/latest/Conversation Testing
 #### Topic Guide
 ###### Conversation Testing
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Conversation Testing.
+  Check out our explanatory FAQs and documentation links on Conversation Testing.
 
 
 <details open>
