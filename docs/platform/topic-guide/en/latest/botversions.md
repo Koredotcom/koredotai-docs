@@ -8,7 +8,7 @@ permalink: platform/topic-guide/en/latest/Bot Versions
 #### Topic Guide
 ###### Bot Versions
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Bot Versions.
+  Check out our explanatory FAQs and documentation links on Bot Versions.
 
 <details open>
   <summary>FAQs
