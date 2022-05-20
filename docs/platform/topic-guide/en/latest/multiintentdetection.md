@@ -7,7 +7,7 @@ permalink: platform/topic-guide/en/latest/Multi intent Detection
 #### Topic Guide
 ###### Multi intent Detection
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Multi Intent detection.
+  Check out our explanatory FAQs and documentation links on Multi Intent detection.
 
 <details open>
   <summary>FAQs
