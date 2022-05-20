@@ -7,7 +7,7 @@ permalink: platform/topic-guide/en/latest/Manage Sessions
 #### Topic Guide
 ###### Manage Sessions
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Manage Sessions.
+  Check out our explanatory FAQs and documentation links on Manage Sessions.
 
 
 <details open>
