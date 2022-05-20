@@ -8,7 +8,7 @@ permalink: platform/topic-guide/en/latest/Manage Apps
 #### Topic Guide
 ###### Manage Apps
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Manage Apps.
+  Check out our explanatory FAQs and documentation links on Manage Apps.
 
 <details open>
   <summary>FAQs
