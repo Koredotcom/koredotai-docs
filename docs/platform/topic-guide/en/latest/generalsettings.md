@@ -7,7 +7,7 @@ permalink: platform/topic-guide/en/latest/General Settings
 #### Topic Guide
 ###### General Settings
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on General Settings.
+  Check out our explanatory FAQs and documentation links on General Settings.
 
 
 <details open>
