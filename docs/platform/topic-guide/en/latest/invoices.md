@@ -8,7 +8,7 @@ permalink: platform/topic-guide/en/latest/Invoices
 #### Topic Guide
 ###### Invoices
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Invoices.
+  Check out our documentation link on Invoices.
 
 
 
