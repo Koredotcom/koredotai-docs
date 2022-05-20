@@ -8,7 +8,7 @@ permalink: platform/topic-guide/en/latest/Web Mobile SDK
 #### Topic Guide
 ###### Web/Mobile SDK
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Web/Mobile SDK.
+  Check out our explanatory FAQs and documentation links on Web/Mobile SDK.
 
 <details open>
   <summary>FAQs
