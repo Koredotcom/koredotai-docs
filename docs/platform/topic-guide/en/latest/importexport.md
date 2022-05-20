@@ -8,7 +8,7 @@ permalink: platform/topic-guide/en/latest/Import & Export
 #### Topic Guide
 ###### Import & Export
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Bot Import & Export.
+  Check out our explanatory FAQs and documentation links on Bot Import & Export.
 
 <details open>
   <summary>FAQs
