@@ -8,7 +8,7 @@ permalink: platform/topic-guide/en/latest/Agent Transfer
 #### Topic Guide
 ###### Agent Transfer
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Agent Transfer.
+  Check out our explanatory FAQs and documentation links on Agent Transfer.
 
 <details open>
   <summary>FAQs
