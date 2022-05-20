@@ -7,7 +7,7 @@ permalink: platform/topic-guide/en/latest/Content Variables
 #### Topic Guide
 ###### Content Variables
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Content Variables.
+  Check out our explanatory FAQs and documentation links on Content Variables.
 
 
 <details open>
