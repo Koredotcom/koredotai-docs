@@ -8,7 +8,7 @@ permalink: platform/topic-guide/en/latest/Team
 #### Topic Guide
 ###### Team
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Team.
+  Check out our explanatory FAQs and documentation links on Team.
 
 <details open>
   <summary>FAQs
