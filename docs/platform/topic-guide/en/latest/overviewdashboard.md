@@ -30,7 +30,7 @@ permalink: platform/topic-guide/en/latest/Overview Dashboard
  </a>
 
 
-  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/conversations-dashboard/#Self-service">
+  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/overview-dashboard/#Self-service">
  
   <details class="nested-details">
  
@@ -42,7 +42,7 @@ permalink: platform/topic-guide/en/latest/Overview Dashboard
   </details>
  </a>
 
-  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/conversations-dashboard/#Filter_Criteria">
+  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/overview-dashboard/#Filter_Criteria">
  
   <details class="nested-details">
  
@@ -62,7 +62,7 @@ permalink: platform/topic-guide/en/latest/Overview Dashboard
 
  
 
- <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/conversations-dashboard/#Filter_Criteria">
+ <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/overview-dashboard/#Filter_Criteria">
  
  
   <details class="nested-details">
@@ -80,7 +80,7 @@ permalink: platform/topic-guide/en/latest/Overview Dashboard
 
  </details>
 
- <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/Overview-dashboard/">
+ <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/overview-dashboard/">
  
 
 | Frontmatter | Required? |
