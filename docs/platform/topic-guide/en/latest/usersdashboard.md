@@ -27,7 +27,7 @@ permalink: platform/topic-guide/en/latest/Users Dashboard
  </a>
 
 
-  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/conversations-dashboard/#Self-service">
+  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/user-dashboard/#Self-service">
  
   <details class="nested-details">
  
@@ -42,7 +42,7 @@ permalink: platform/topic-guide/en/latest/Users Dashboard
  </a>
 
 
-<a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/conversations-dashboard/#Drop-off">
+<a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/user-dashboard/#Drop-off">
  
   <details class="nested-details">
  
@@ -56,7 +56,7 @@ permalink: platform/topic-guide/en/latest/Users Dashboard
   </details>
  </a>
 
- <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/conversations-dashboard/#Agent_Transfer">
+ <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/user-dashboard/#Agent_Transfer">
  
   <details class="nested-details">
  
@@ -69,7 +69,7 @@ permalink: platform/topic-guide/en/latest/Users Dashboard
   </details>
  </a>
 
-  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/conversations-dashboard/#Agent_Transfer">
+  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/user-dashboard/#Agent_Transfer">
  
   <details class="nested-details">
  
@@ -81,7 +81,7 @@ permalink: platform/topic-guide/en/latest/Users Dashboard
   </details>
  </a>
 
-  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/conversations-dashboard/#Filter_Criteria">
+  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/user-dashboard/#Filter_Criteria">
  
   <details class="nested-details">
  
@@ -101,7 +101,7 @@ permalink: platform/topic-guide/en/latest/Users Dashboard
 
  
 
- <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/conversations-dashboard/#Filter_Criteria">
+ <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/user-dashboard/#Filter_Criteria">
  
  
    How to filter the messages/conversations included in the analytics?
@@ -111,7 +111,7 @@ permalink: platform/topic-guide/en/latest/Users Dashboard
 
  </details>
 
- <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/users-dashboard/">
+ <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/user-dashboard/">
  
 
 | Frontmatter | Required? |
