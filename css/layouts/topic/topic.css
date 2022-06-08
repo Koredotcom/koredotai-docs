@@ -463,6 +463,9 @@ a.doc-link::after{
     padding-bottom: 10px;
     padding-top: 2px;
 }
+details .doc-link.tour-guide p{
+    padding-right: 80px;
+}
 details .doc-link.tour-guide:after{
     background: none !important;
     content: "Guided tour" !important;
@@ -472,6 +475,7 @@ details .doc-link.tour-guide:after{
     font-size: 14px;
     font-weight: normal;
     color: #5F6368;
+    font-family: 'Inter' !important;
 }
 .nested-accordian-link{
     text-decoration: none !important;

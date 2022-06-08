@@ -8,24 +8,11 @@ permalink: platform/topic-guide/en/latest/Change Logs
 #### Topic Guide
 ###### Change Logs
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Change Logs.
+  Check out our explanatory FAQs and documentation links on Change Logs.
 
 <details open>
   <summary>FAQs
   </summary>
-
-  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/advanced-topics/collaborative-development/sharing-bots-for-development/">
- 
-  How to share bots with co-developers?
-
-</a>
-
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-settings/bot-management/using-bot-variables/">
- 
-  How to export and import bots into different environments?
-
-</a>
-
 
 <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-settings/bot-management/bot-management-2/#Viewing_the_Bot_Change_Log">
  

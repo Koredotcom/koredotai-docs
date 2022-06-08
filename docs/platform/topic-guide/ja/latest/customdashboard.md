@@ -1,29 +1,29 @@
 ---
-title: Custom Dashboards
+title: カスタムダッシュボード
 
 permalink: platform/topic-guide/ja/latest/Custom Dashboards
 
 ---
 
 #### Topic Guide
-###### Custom Dashboards
+###### カスタムダッシュボード
 
  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Custom Dashboards.
 
 <details open>
   <summary>FAQs
   </summary>
- <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/custom-dashboard/#Analytics">
+ <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/custom-dashboard/#Analytics?lang=ja">
 
   <details class="nested-details">
  
-  <summary>How to use Analytics Dataset?
+  <summary>分析データセットの使用方法
   </summary>
 
  
-   Provides a listing of Success Intents, Failed Intents, Success Tasks and Failed Tasks associated with your bot. You can choose to view key fields like MetricType, Channel, UserId, etc. or any custom fields added against the metrics records.
+   ボットと関連した「成功インテント」、「失敗インテント」、「成功タスク」、「失敗タスク」のリストが表示されます。「メトリクスタイプ」、「チャネル」、「ユーザーID」などのキーフィールドや、メトリクスレコードに対して追加されたすべてのカスタムフィールドを確認することもできます。
 
-   ###### Analytics Dataset Fields
+   ###### 分析データセットフィールド：
 
    - metricType
    - taskName
@@ -43,17 +43,17 @@ permalink: platform/topic-guide/ja/latest/Custom Dashboards
  </a>
 
 
-  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/custom-dashboard/#Messages">
+  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/custom-dashboard/#Messages?lang=ja">
  
   <details class="nested-details">
  
-  <summary>How to use Message Fields?
+  <summary>メッセージフィールドの使用方法
   </summary>
 
  
-   Provides bot and user messages of your bot. You can choose to view key fields UserId, Channel, etc. or any custom fields added against the messages..
+   ボットメッセージとユーザーメッセージを設定します。キーフィールドのユーザーID、チャネルなどを表示するか、あるいはメッセージに対して追加された任意のカスタムフィールドを表示するかを選択できます。
 
-   ###### Message Dataset Fields:
+   ###### メッセージデータセットフィールド：
 
    - messageType
    - isDeveloper
@@ -67,17 +67,17 @@ permalink: platform/topic-guide/ja/latest/Custom Dashboards
  </a>
 
 
-<a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/custom-dashboard/#Sessions">
+<a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/custom-dashboard/#Sessions?lang=ja">
  
   <details class="nested-details">
  
-  <summary>How to use Session Fields?
+  <summary>セッションフィールドの使用方法
   </summary>
 
  
-   Provides a listing of conversation sessions associated with your bot. You can choose to view key fields like UserId, Channel, etc. or any custom fields added against the sessions.
+  ボットと関連した会話セッションのリストが表示されます。「ユーザーID」、「チャネル」などのキーフィールドや、セッションに対して追加されたすべてのカスタムフィールドを確認することもできます。
 
-   ###### Sessions Dataset Fields
+   ###### セッションデータセットフィールド：
 
 
    - userId
@@ -88,58 +88,57 @@ permalink: platform/topic-guide/ja/latest/Custom Dashboards
   </details>
  </a>
 
- <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/custom-dashboard/">
+ <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/custom-dashboard/?lang=ja">
  
   <details class="nested-details">
  
-  <summary>How to use Filter by?
+  <summary>フィルタ機能の使用方法
   </summary>
 
  
-   You can filter datasets by using any of the fields associated with the corresponding dataset. Examples: Use MetricType = 'SuccessTasks' for viewing only the details of tasks that are successfully executed. Use Channel = 'Facebook' for viewing only the conversations happened via Facebook channel
+   対応するデータセットに関連付けられたフィールドのいずれかをもとに、データセットをフィルタリングすることができます。例：MetricType = 'SuccessTasks'を使用して、正常に実行されたタスクの詳細のみを表示します。Facebookチャネルでの会話のみを表示するにはChannel = 'Facebook'を使用します。
+  </details>
+ </a>
+
+
+  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/custom-dashboard/?lang=ja">
+ 
+  <details class="nested-details">
+ 
+  <summary>グループ機能の使用方法
+  </summary>
+
+ 
+データセットの要約情報を得るためにデータを集計することができます。集計は、各データセット内の選択されたフィールドに対してのみ許可されています。分析（フィールド1、フィールド2、フィールド3...）メッセージ（フィールド1、フィールド2）セッション（フィールド1、フィールド2、フィールド3）。
 
   </details>
  </a>
 
 
-  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/custom-dashboard/">
+  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/custom-dashboard/?lang=ja">
  
   <details class="nested-details">
  
-  <summary>How to use Group by?
+  <summary>ソート機能の使用方法
   </summary>
 
  
-You can aggregate the data to get summary information of a dataset. Aggregation is allowed only on select fields in each of the datasets. Analytics (field 1, field 2, field 3..) Messages (field 1, field 2) Sessions (field 1, field 2, field 3).
+   必要なフィールドおよびソート順を指定することで、データレコードをソートすることができます。
 
   </details>
  </a>
 
-
-  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/custom-dashboard/">
- 
-  <details class="nested-details">
- 
-  <summary>How to use Sort by?
-  </summary>
-
- 
-   You can sort the data records by providing the required field and the sort order.
-
-  </details>
- </a>
-
- <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/how-tos/how-to-create-custom-dashboard/">
+ <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/how-tos/how-to-create-custom-dashboard/?lang=ja">
  
 
-   How to design and manage widgets?
+   ウィジェットの設計および管理方法
 
 </a>
   
 
  </details>
 
-  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/custom-dashboard/">
+  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/custom-dashboard/?lang=ja">
  
 
 | Frontmatter | Required? |

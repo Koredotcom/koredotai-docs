@@ -1,13 +1,13 @@
 ---
-title: Multi Intent detection
+title: Ignore Words & Field Memory
 
-permalink: platform/topic-guide/en/latest/Multi intent Detection
+permalink: platform/topic-guide/en/latest/Ignore Words & Field Memory
 
 ---
 #### Topic Guide
-###### Multi intent Detection
+###### Ignore Words & Field Memory
 
-  Check out our explanatory FAQs and documentation links on Multi Intent detection.
+  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Ignore Words & Field Memory.
 
 <details open>
   <summary>FAQs
@@ -35,15 +35,12 @@ permalink: platform/topic-guide/en/latest/Multi intent Detection
 </details>
 
 
-
-
-
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-intelligence/multi-intent-detection/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/alert/manage-intents-entities/">
  
 
 | Frontmatter | Required? |
 |-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Multi Intent detection | 
+| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Ignore Words & Field Memory | 
 
 
 </a>

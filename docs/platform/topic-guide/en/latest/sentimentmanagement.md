@@ -7,7 +7,7 @@ permalink: platform/topic-guide/en/latest/Sentiment Management
 #### Topic Guide
 ###### Sentiment Management
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Sentiment Management.
+  Check out our explanatory FAQs and documentation links on Sentiment Management.
 
 
 <details open>

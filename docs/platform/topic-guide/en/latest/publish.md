@@ -8,7 +8,7 @@ permalink: platform/topic-guide/en/latest/Publish
 #### Topic Guide
 ###### Publish
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Publish.
+  Check out our explanatory FAQs and documentation links on Publish.
 
 <details open>
   <summary>FAQs

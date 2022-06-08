@@ -1,41 +1,41 @@
 ---
-title: Containment Metrics
+title: コンテインメント メトリクス
 
 permalink: platform/topic-guide/ja/latest/Containment Metrics
 
 ---
 
 #### Topic Guide
-###### Containment Metrics
+###### コンテインメント メトリクス
 
  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Containment Metrics.
 
 <details open>
   <summary>FAQs
   </summary>
- <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/dashboard/#Realtime_Status">
+ <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/dashboard/#Realtime_Status?lang=ja">
 
   <details class="nested-details">
  
-  <summary>What is Realtime Status?
+  <summary>リアルタイムステータスとは
   </summary>
 
  
- Realtime status gives an overview of your Bot usage at a given point in time and is auto-refreshed at set periodic intervals
+ リアルタイムステータスは、特定の時点におけるボットの使用状況の概要を説明するものであり、定期的に設定された間隔で自動更新されます。
 
   </details>
  </a>
 
 
-  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/dashboard/#Containment_Metrics">
+  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/dashboard/#Containment_Metrics?lang=ja">
  
   <details class="nested-details">
  
-  <summary>What does Containment Metrics depict?
+  <summary>コンテインメント メトリクスとは
   </summary>
 
  
-   Containment Metrics provides insights on whether the calls were successfully answered by the virtual assistant or if the calls were landed with agents.
+   コンテインメント メトリクスは、バーチャル アシスタントが正常に通話に応答したかどうか、または通話がエージェントに引き継がれたかどうかについてのインサイトを与えます。
 
 
   </details>
@@ -46,11 +46,11 @@ permalink: platform/topic-guide/ja/latest/Containment Metrics
  
   <details class="nested-details">
  
-  <summary>What are Self-Service Conversations?
+  <summary>セルフサービスの会話とは
   </summary>
 
  
-   Self-Service Conversations are sessions where a user has completed interaction without dropping off or transferring to agent.
+   セルフサービスの会話とは、ユーザーがドロップオフしたり、エージェントへ転送することなく対話を完了したセッションのことです。
 
 
   </details>
@@ -60,11 +60,11 @@ permalink: platform/topic-guide/ja/latest/Containment Metrics
  
   <details class="nested-details">
  
-  <summary>What are included in Drop-offs?
+  <summary>ドロップオフにはどんなものがあるか
   </summary>
 
  
-   Included are all sessions where the user exits the chat session abruptly.
+   ドロップオフに含まれるのは、ユーザーが突然チャットセッションを終了したセッションのすべてです。
 
 
   </details>
@@ -74,11 +74,11 @@ permalink: platform/topic-guide/ja/latest/Containment Metrics
  
   <details class="nested-details">
  
-  <summary>What are Agent Transfer Conversations?
+  <summary>エージェント転送の会話とは
   </summary>
 
  
-   The sessions where the user is transferred to an agent using the Agent Transfer node at any point in the session.
+   セッション内のある時点で、エージェント転送ノードを使用してユーザーとの対応がエージェントに転送されたセッションをいいます。
 
 
   </details>
@@ -88,33 +88,33 @@ permalink: platform/topic-guide/ja/latest/Containment Metrics
  
   <details class="nested-details">
  
-  <summary>How do I see details of the conversation flows?
+  <summary>会話フローの詳細を表示する方法
   </summary>
 
  
-   For each flow, execution of the flow along with relevant details can be viewed along with the entire transcript when clicked upon.
+   各フローごとに、クリックすると、関連する詳細を含むフローの実行状況が全体のトランスクリプトとともに表示されます。
 
 
   </details>
  </a>
  
 
- <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/dashboard/#containment-details">
+ <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/dashboard/#containment-details?lang=ja">
  
  
-   What are the various metrics on display here?
+   ここに表示されるメトリクスの種類について
 
 </a>
  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/dashboard/#Filter_Criteria">
  
  
-   How to filter the messages / conversations included in the analytics?
+   分析に含まれるメッセージ / 会話をフィルタリングする方法
 
 </a>
 
  </details>
 
- <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/dashboard/#Containment_Metrics">
+ <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/dashboard/#Containment_Metrics?lang=ja">
  
 
 | Frontmatter | Required? |
