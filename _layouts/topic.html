@@ -68,6 +68,55 @@ $('.nested-details summary').on('click', function (e) {
                                       }, '*');
             });
 
+            $('a.doc-link').on('click', function(e){
+                console.log(e);
+                 var payloadObj = { 
+                    action: '',
+                    selector: 'topicGuide',
+                    payload:{
+                        topicName:''
+                       
+                    }
+                    };
+                if($(e.currentTarget).find('table').length){
+                    payloadObj.action =  $(e.currentTarget).find('table td strong').text();
+                    if(payloadObj.action == 'Academy'){
+                        payloadObj.payload.courseName =  $(e.currentTarget).find('table td ').text().replace('Academy', '').trim();
+                    }else{
+                        payloadObj.payload.docUrl = $(e.currentTarget).attr('href');
+                    }
+
+
+                }else{
+                         payloadObj.action = 'faq';
+                        payloadObj.payload.faqName = $(e.currentTarget).text();
+
+                    }
+                    console.log(payloadObj);
+                 window.parent.postMessage(payloadObj);
+                 });
+
+                 $('a.nested-accordian-link.no-doc-ext-link details').on('toggle', function(e){
+                     if($(e.currentTarget).attr('open')){
+                      var payloadData = { 
+                        action: '',
+                        selector: 'topicGuide',
+                        payload:{
+                            topicName:''
+                        
+                        }
+                    };
+
+                     payloadData.action = 'faq';
+                        payloadData.payload.faqName = $(e.currentTarget).find('summary').text();
+                         payloadData.payload.faqDescription = $(e.currentTarget).find('p').text();
+                     console.log(payloadData);
+                      window.parent.postMessage(payloadData);
+                      }
+                 })
+
+   
+
           function numberTransFormTwoDegit (n) {
                  return n > 9 ? "" + n : "0" + n;
                 }
