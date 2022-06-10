@@ -62,7 +62,7 @@ permalink: platform/topic-guide/en/latest/Overview Dashboard
 
  
 
- <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/overview-dashboard/#Filter_Criteria">
+ <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/overview-dashboard/#Filter_Criteria">
  
  
   <details class="nested-details">

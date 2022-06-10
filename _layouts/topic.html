@@ -92,7 +92,7 @@ $('.nested-details summary').on('click', function (e) {
                         payloadObj.payload.faqName = $(e.currentTarget).text();
 
                     }
-                    console.log(payloadObj);
+                    
                  window.parent.postMessage(payloadObj);
                  });
 
@@ -110,7 +110,7 @@ $('.nested-details summary').on('click', function (e) {
                      payloadData.action = 'faq';
                         payloadData.payload.faqName = $(e.currentTarget).find('summary').text();
                          payloadData.payload.faqDescription = $(e.currentTarget).find('p').text();
-                     console.log(payloadData);
+                   
                       window.parent.postMessage(payloadData);
                       }
                  })
