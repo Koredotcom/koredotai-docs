@@ -93,7 +93,7 @@ $('.nested-details summary').on('click', function (e) {
 
                     }
                     
-                 window.parent.postMessage(payloadObj);
+                 window.parent.postMessage(payloadObj, '*');
                  });
 
                  $('a.nested-accordian-link.no-doc-ext-link details').on('toggle', function(e){
@@ -111,7 +111,7 @@ $('.nested-details summary').on('click', function (e) {
                         payloadData.payload.faqName = $(e.currentTarget).find('summary').text();
                          payloadData.payload.faqDescription = $(e.currentTarget).find('p').text();
                    
-                      window.parent.postMessage(payloadData);
+                      window.parent.postMessage(payloadData, '*');
                       }
                  })
 
