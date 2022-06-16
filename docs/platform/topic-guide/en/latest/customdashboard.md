@@ -8,7 +8,7 @@ permalink: platform/topic-guide/en/latest/Custom Dashboards
 #### Topic Guide
 ###### Custom Dashboards
 
- Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Custom Dashboards.
+ Check out our explanatory FAQs and documentation links on Custom Dashboards.
 
 <details open>
   <summary>FAQs
