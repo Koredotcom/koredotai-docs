@@ -134,7 +134,8 @@ $('.nested-details summary').on('click', function (e) {
          //  $('body').perfectScrollbar();
              new PerfectScrollbar('body');
                window.parent.postMessage({
-                status:'loaded'
+                frameStatus:'loaded',
+                action:'guidedTour'
                }, '*');
         
         });
