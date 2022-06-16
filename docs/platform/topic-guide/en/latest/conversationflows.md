@@ -8,7 +8,7 @@ permalink: platform/topic-guide/en/latest/Conversation Flows
 ###### Conversation Flows
 
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Conversation Flows.
+  Check out our explanatory FAQs and documentation links on Conversation Flows.
 
 
 <details open>
