@@ -8,7 +8,7 @@ permalink: platform/topic-guide/en/latest/Conversations Dashboard
 #### Topic Guide
 ###### Conversations Dashboard
 
- Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Conversations Dashboard.
+ Check out our explanatory FAQs and documentation links on Conversations Dashboard.
 
 <details open>
   <summary>FAQs
