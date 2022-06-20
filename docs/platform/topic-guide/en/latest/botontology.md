@@ -13,7 +13,7 @@ permalink: platform/topic-guide/en/latest/Bot Ontology
   <summary>Introduction
   </summary>
   
-   [![Introduction to Knowledge Graph](images/video-icon.svg)](https://drive.google.com/file/d/1H_ftFzlqxafj0lRx-xxOIhm6kXyB8lbo/preview)
+   [![Introduction to Knowledge Graph](images/VideoCoverImage.png)](https://drive.google.com/file/d/1EVa6dv6j2qfbF2pd7Rgo1fL-TxCqHBQ2/preview)
 
   ##### Introduction to Knowledge Graphs
   Watch this short video on the introduction to Knowledge Graphs
