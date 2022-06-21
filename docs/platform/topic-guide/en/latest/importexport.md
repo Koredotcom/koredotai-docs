@@ -15,7 +15,7 @@ permalink: platform/topic-guide/en/latest/Import & Export
   </summary>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-settings/bot-management/using-bot-variables/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-settings/bot-management/bot-management-2/#Importing_and_Exporting_Bots">
  
   How to export and import bots into different environments?
 
