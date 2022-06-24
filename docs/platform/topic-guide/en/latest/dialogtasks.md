@@ -13,7 +13,7 @@ permalink: platform/topic-guide/en/latest/Dialog Tasks
   <summary>Introduction
   </summary>
   
-   [![Introduction to Dialog Tasks](images/VideoCoverImage.png)](https://drive.google.com/file/d/1H_ftFzlqxafj0lRx-xxOIhm6kXyB8lbo/preview)
+   [![Introduction to Dialog Tasks](images/VideoCoverImage.png)](https://drive.google.com/file/d/1_0PBQ_l6xq_818zGNKqEp9M7GlKq0I9Z/view)
 
   ##### Introduction to Dialog Tasks
   Watch this short video on the basics of building Dialog Tasks using the Conversation Designer. 
