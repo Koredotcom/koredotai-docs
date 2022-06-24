@@ -1,14 +1,14 @@
 ---
 title: Invoices
 
-permalink: platform/topic-guide/en/latest/Invoices
+permalink: platform/topic-guide/en/latest/Orders & Invoices
 
 ---
 
 #### Topic Guide
 ###### Invoices
 
-  Check out our documentation link on Invoices.
+  Check out our documentation link on Orders & Invoices.
 
 
 
