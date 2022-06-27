@@ -42,6 +42,7 @@ permalink: platform/topic-guide/en/latest/Overview Dashboard
   </details>
  </a>
 
+ 
   <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/overview-dashboard/#Filter_Criteria">
  
   <details class="nested-details">
@@ -59,9 +60,7 @@ permalink: platform/topic-guide/en/latest/Overview Dashboard
   </details>
  </a>
 
-
  
-
  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/overview-dashboard/#Filter_Criteria">
  
  
