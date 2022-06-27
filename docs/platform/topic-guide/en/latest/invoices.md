@@ -17,7 +17,7 @@ permalink: platform/topic-guide/en/latest/Orders & Invoices
 
 | Frontmatter | Required? |
 |-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Invoices | 
+| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Orders & Invoices | 
 
 
 </a>
