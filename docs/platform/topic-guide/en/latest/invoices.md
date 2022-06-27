@@ -6,7 +6,7 @@ permalink: platform/topic-guide/en/latest/Orders & Invoices
 ---
 
 #### Topic Guide
-###### Invoices
+###### Orders & Invoices
 
   Check out our documentation link on Orders & Invoices.
 
