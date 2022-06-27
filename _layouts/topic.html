@@ -35,7 +35,7 @@ var span = document.querySelector('nested-details p');
 $('.nested-details summary').on('click', function (e) {
     //console.log(e);
     if ((e.offsetX > $(this).width())) {
-        $(e.currentTarget).closest('.nested-details').find('p').click();
+        $(e.currentTarget).closest('.nested-details').find('p:first').click();
         e.preventDefault();
     } 
 });
