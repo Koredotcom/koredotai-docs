@@ -79,11 +79,11 @@ permalink: platform/topic-guide/en/latest/Conversations Dashboard
 
   Below are the default filter options:
 
--   Date: 24 hours
-
-- Session Type: Interactive Sessions
-- Session Status: Closed Session
-
+  <ul>
+   <li>Date: 24 hours</li>
+   <li>Session Type: Interactive Sessions</li>
+   <li>Session Status: Closed Session</li>
+  </ul>
   </details>
  </a>
 
