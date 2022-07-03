@@ -23,9 +23,11 @@ permalink: platform/topic-guide/en/latest/Overview Dashboard
  
  The Overview Dashboard provides a summary of the Conversation Dashboard, Users Dashboard, and Performance Dashboard. 
  The dashboard provides the insights of: 
-•	Conversation Session that includes distribution of self-service sessions, drop-off sessions, and agent transfer sessions. 
-•	Users Dashboard that includes the distribution between New users and Returning Users of the virtual assistant.
-•	NLP Performance that includes Intent Detection Rate, Goal Completion Rate, Successful API Execution Rate and Successful Script Execution Rate
+   <ul>
+    <li>Conversation Session that includes distribution of self-service sessions, drop-off sessions, and agent transfer sessions.</li>
+    <li>Users Dashboard that includes the distribution between New users and Returning Users of the virtual assistant.</li>
+    <li>NLP Performance that includes Intent Detection Rate, Goal Completion Rate, Successful API Execution Rate and Successful Script Execution Rate.</li>
+   </ul>
   </details>
  </a>
 
@@ -37,7 +39,7 @@ permalink: platform/topic-guide/en/latest/Overview Dashboard
   <summary>Are these widgets clickable? 
   </summary>
 
- Yes, users will be navigated to each dashboard to view their details by clicking on the respective widget. 
+ Yes, you will be able to navigate to each dashboard to view their details by clicking on the respective widget. 
 
   </details>
  </a>
@@ -52,10 +54,11 @@ permalink: platform/topic-guide/en/latest/Overview Dashboard
 
   Below are the default filter options:
 
--   Date: 24 hours
-
-- Session Type: Interactive Sessions
-- Session Status: Closed Session
+<ul>
+ <li>Date: 24 hours</li>
+ <li>Session Type: Interactive Sessions</li>
+ <li>Session Status: Closed Session</li>
+</ul>
 
   </details>
  </a>
