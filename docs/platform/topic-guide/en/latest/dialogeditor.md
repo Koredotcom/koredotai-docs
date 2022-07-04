@@ -13,7 +13,7 @@ permalink: platform/topic-guide/en/latest/Dialog Editor
   <summary>Introduction
   </summary>
   
-   [![Introduction to Dialog Tasks](images/VideoCoverImage.png)](https://drive.google.com/file/d/1H_ftFzlqxafj0lRx-xxOIhm6kXyB8lbo/preview)
+   [![Introduction to Dialog Tasks](images/VideoCoverImage.png)](https://drive.google.com/file/d/1_0PBQ_l6xq_818zGNKqEp9M7GlKq0I9Z/preview)
 
   ##### Introduction to Dialog Tasks
   Watch this short video on the basics of building dialog tasks within a conversation flow
