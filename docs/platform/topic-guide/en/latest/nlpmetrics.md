@@ -5,7 +5,7 @@ permalink: platform/topic-guide/en/latest/NLP Metrics
 
 ---
 #### Topic Guide
-###### Conversation Flows
+###### NLP Metrics
 
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on NLP Metrics.
