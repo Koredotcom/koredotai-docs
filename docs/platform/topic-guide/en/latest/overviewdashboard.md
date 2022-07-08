@@ -21,11 +21,10 @@ permalink: platform/topic-guide/en/latest/Overview Dashboard
   </summary>
 
  
- The Overview Dashboard provides a summary of the Conversation Dashboard, Users Dashboard, and Performance Dashboard. 
- The dashboard provides the insights of: 
-•	Conversation Session that includes distribution of self-service sessions, drop-off sessions, and agent transfer sessions. 
-•	Users Dashboard that includes the distribution between New users and Returning Users of the virtual assistant.
-•	NLP Performance that includes Intent Detection Rate, Goal Completion Rate, Successful API Execution Rate and Successful Script Execution Rate
+ The Overview Dashboard provides a summary of the Conversations Dashboard, Users Dashboard, and Performance Dashboard. The dashboard provides the insights of: 
+   - Conversation Session that includes distribution of self-service sessions, drop-off sessions, and agent transfer sessions. 
+   - Users Dashboard that includes the distribution between New users and Returning Users of the virtual assistant.
+   - NLP Performance that includes Intent Detection Rate, Goal Completion Rate, Successful API Execution Rate and Successful Script Execution Rate
   </details>
  </a>
 
@@ -37,7 +36,7 @@ permalink: platform/topic-guide/en/latest/Overview Dashboard
   <summary>Are these widgets clickable? 
   </summary>
 
- Yes, users will be navigated to each dashboard to view their details by clicking on the respective widget. 
+ Yes, you will be navigated to each dashboard to view their details by clicking on the respective widget. 
 
   </details>
  </a>
@@ -51,11 +50,9 @@ permalink: platform/topic-guide/en/latest/Overview Dashboard
   </summary>
 
   Below are the default filter options:
-
--   Date: 24 hours
-
-- Session Type: Interactive Sessions
-- Session Status: Closed Session
+   - Date: 24 hours
+   - Conversation Type: Interactive
+   - Conversation Status: Closed
 
   </details>
  </a>
@@ -69,7 +66,7 @@ permalink: platform/topic-guide/en/latest/Overview Dashboard
   <summary>Will the filter be persistent across all the dashboards?
   </summary>
 
- Yes, once a filter is applied to any of the dashboards it will be persistent across all the dashboards.
+ Yes, you will be able to navigate to each dashboard to view their details by clicking on the respective widget.
 
 
   </details>
