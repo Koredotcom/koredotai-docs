@@ -34,11 +34,9 @@ Conversation Flows is a visual representation of the user journeys. The user int
   <summary>What are the 2 different views of the conversation flow?
   </summary>
     
-Intents Flow: This view provides an aggregated view of how each of the virtual assistant’s intents is executed. The intents are rolled up to the top-level, irrespective of what stage of a conversation they were initiated by the users. For example, intents invoked at the beginning of a conversation as well as any other stage during the conversation are all rolled up to the top level. This is the default view when you navigate to Conversation Flows. The View tasks by sessions toggle should be turned off to access this view.
-    
-Session Flow: This view provides the user journeys across the different intents in the order they were executed during a conversation session. Every flow starts with the intent used to initiate a conversation session and is followed by the other intents invoked in that session. Turn on the The View tasks by sessions toggle to access this view.
-
-By default, the Intents Flow is presented along with the intents"
+- Intents Flow: This view provides an aggregated view of how each of the virtual assistant’s intents is executed. The intents are rolled up to the top-level, irrespective of what stage of a conversation they were initiated by the users. For example, intents invoked at the beginning of a conversation as well as any other stage during the conversation are all rolled up to the top level. This is the default view when you navigate to Conversation Flows. The View tasks by sessions toggle should be turned off to access this view.
+- Session Flow: This view provides the user journeys across the different intents in the order they were executed during a conversation session. Every flow starts with the intent used to initiate a conversation session and is followed by the other intents invoked in that session. Turn on the The View tasks by sessions toggle to access this view.
+- By default, the Intents Flow is presented along with the intents"
 
 
   </details>
@@ -76,12 +74,7 @@ Every flow starts with an utterance from the user that initiated the conversatio
   What are the nodes and the values denote in the conversation flow?
 
 </a>
-  
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/conversation-flow/">
  
-  How to gain insights into bot's conversations?
-
-</a>
 
 <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/conversation-flow/">
  
