@@ -1,14 +1,14 @@
 ---
-title: Bot Health & Monitoring
+title: Health & Monitoring
 
 permalink: platform/topic-guide/en/latest/Bot Validations
 
 ---
 
 #### Topic Guide
-###### Bot Health & Monitoring
+###### Health & Monitoring
 
- Check out our explanatory FAQs, documentation links on Bot Health & Monitoring.
+ Check out our explanatory FAQs, documentation links on Health & Monitoring.
 
 <details open>
   <summary>FAQs
@@ -116,7 +116,7 @@ permalink: platform/topic-guide/en/latest/Bot Validations
 
 | Frontmatter | Required? |
 |-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Bot Health & Monitoring | 
+| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Health & Monitoring | 
 
 
 </a>
