@@ -8,68 +8,77 @@ permalink: platform/topic-guide/en/latest/Conversation Analytics
 #### Topic Guide
 ###### Conversation History
 
- Check out our explanatory FAQs, documentation links on Conversation History.
+ Check out our explanatory FAQs, documentation links on Conversations History.
 
 <details open>
   <summary>FAQs
   </summary>
- <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/overview-dashboard/">
+ <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/what-are-conversations/">
 
   <details class="nested-details">
  
-  <summary>What does Overview Dashboard depict?
+  <summary>What are conversations? 
   </summary>
 
  
- The Overview Dashboard provides a summary of the Conversation Dashboard, Users Dashboard, and Performance Dashboard. 
- The dashboard provides the insights of: 
-•	Conversation Session that includes distribution of self-service sessions, drop-off sessions, and agent transfer sessions. 
-•	Users Dashboard that includes the distribution between New users and Returning Users of the virtual assistant.
-•	NLP Performance that includes Intent Detection Rate, Goal Completion Rate, Successful API Execution Rate and Successful Script Execution Rate
+Conversations include the voice call or chat communication between a virtual assistant and a customer to fulfill a specific task. They can be one of the following types:
+
+Interactive: Involves a two-way information (requests and responses) exchange between the virtual assistant and the customer.
+Non-interactive: Involves one-way information exchange from the virtual assistant to the customer. 
   </details>
  </a>
 
 
-  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/overview-dashboard/#Self-service">
+  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/uncategorised/what-is-a-conversation-summary/">
  
   <details class="nested-details">
  
-  <summary>Are these widgets clickable? 
+  <summary>What is a conversation summary?
   </summary>
 
- Yes, users will be navigated to each dashboard to view their details by clicking on the respective widget. 
-
-  </details>
- </a>
-
- 
-  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/overview-dashboard/#Filter_Criteria">
- 
-  <details class="nested-details">
- 
-  <summary>What are the default filters in the Overview Dashboard?
-  </summary>
-
-  Below are the default filter options:
-
--   Date: 24 hours
-
-- Session Type: Interactive Sessions
-- Session Status: Closed Session
+ The Conversation Summary on the Conversation History dashboard displays the number of user messages, bot messages, identified and unidentified intents, and the tasks that have completed and failed in a conversation. 
 
   </details>
  </a>
 
  
- <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/overview-dashboard/#Filter_Criteria">
+  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/how-do-i-look-at-specific-conversations/">
+ 
+  <details class="nested-details">
+ 
+  <summary>How do I look at specific conversations?
+  </summary>
+
+To look at a specific conversation on the Conversation History Dashboard, select the relevant filters from the filter selection panel and click on the conversation on the dashboard
+
+  </details>
+ </a>
+
+ 
+ <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/uncategorised/how-do-i-associate-a-label-with-a-conversation/">
  
  
   <details class="nested-details">
  
-  <summary>Will the filter be persistent across all the dashboards?
+  <summary>How do I associate a label with a conversation?
   </summary>
 
- Yes, once a filter is applied to any of the dashboards it will be persistent across all the dashboards.
+Labels tagged to a conversation help the analyst identify the criticality and the action needed for the bot. On the Conversation History dashboard, you can create custom labels to a conversation.
+
+
+  </details>
+
+</a>
+ 
+ <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/what-are-conversation-events/">
+ 
+ 
+  <details class="nested-details">
+ 
+  <summary>What are conversation events?
+  </summary>
+
+A conversation event is a sequence of occurrences that are triggered by a specific action from the customer (based on the utterance) and the virtual assistant during a conversation.
 
 
   </details>
@@ -79,7 +88,7 @@ permalink: platform/topic-guide/en/latest/Conversation Analytics
 
  </details>
 
- <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/overview-dashboard/">
+ <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/conversation-history-dashboard/">
  
 
 | Frontmatter | Required? |
