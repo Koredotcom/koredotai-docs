@@ -34,9 +34,9 @@ permalink: platform/topic-guide/en/latest/Users Dashboard
   <summary>What are Returning Users and New Users?
   </summary>
    
-   - New Users: Users who are interacting with the bot for the first time will be considered new users.
+   **New Users:** Users who are interacting with the bot for the first time will be considered new users.
    
-   - Returning Users: A user who has interacted with the bot earlier and again started interacting with the bot will be considered as returning user.
+   **Returning Users:** A user who has interacted with the bot earlier and again started interacting with the bot will be considered as returning user.
 
 
   </details>
@@ -98,16 +98,6 @@ permalink: platform/topic-guide/en/latest/Users Dashboard
 
   </details>
  </a>
-
-
- 
-
- <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/user-dashboard/#Filter_Criteria">
- 
- 
-   How to filter the messages/conversations included in the analytics?
-
-</a>
   
 
  </details>
