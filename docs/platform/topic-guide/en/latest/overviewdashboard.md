@@ -17,29 +17,21 @@ permalink: platform/topic-guide/en/latest/Overview Dashboard
 
   <details class="nested-details">
  
-  <summary>What does Overview Dashboard depict?
+  <summary>What information is presented in Overview Dashboard?
   </summary>
 
  
- The Overview Dashboard provides a summary of the Conversations Dashboard, Users Dashboard, and Performance Dashboard. The dashboard provides the insights of: 
-   - Conversation Session that includes distribution of self-service sessions, drop-off sessions, and agent transfer sessions. 
-   - Users Dashboard that includes the distribution between New users and Returning Users of the virtual assistant.
-   - NLP Performance that includes Intent Detection Rate, Goal Completion Rate, Successful API Execution Rate and Successful Script Execution Rate
+ The Overview Dashboard provides a summary of key metrics from the Conversations Dashboard, Users Dashboard, and Performance Dashboard. It shows: 
+   - Conversations summary with distribution of self-service, drop-off, and agent transfer conversations. 
+   - Users summary with distribution between New users and Returning Users.
+   - NLP Performance summary like Intent Detection Rate, Goal Completion Rate, Successful API Execution Rate and Successful Script Execution Rate
+   
+ The widgets in the Overview Dashboard are clickable and take you to the corresponding dashboard. The values of the filters are passed on to the other Dashboards when navigating from the Overview Dashboard.  
   </details>
  </a>
 
 
-  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/overview-dashboard/#Self-service">
- 
-  <details class="nested-details">
- 
-  <summary>Are these widgets clickable? 
-  </summary>
 
- Yes, you will be navigated to each dashboard to view their details by clicking on the respective widget. 
-
-  </details>
- </a>
 
  
   <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/overview-dashboard/#Filter_Criteria">
@@ -58,20 +50,7 @@ permalink: platform/topic-guide/en/latest/Overview Dashboard
  </a>
 
  
- <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/overview-dashboard/#Filter_Criteria">
- 
- 
-  <details class="nested-details">
- 
-  <summary>Will the filter be persistent across all the dashboards?
-  </summary>
 
- Yes, you will be able to navigate to each dashboard to view their details by clicking on the respective widget.
-
-
-  </details>
-
-</a>
   
 
  </details>
