@@ -17,7 +17,7 @@ permalink: platform/topic-guide/en/latest/Users Dashboard
 
   <details class="nested-details">
  
-  <summary>What does Users Dashboard depict?
+  <summary>What is Users Dashboard?
   </summary>
 
  
@@ -31,41 +31,40 @@ permalink: platform/topic-guide/en/latest/Users Dashboard
  
   <details class="nested-details">
  
-  <summary>What are Returning Users and New Users?
+  <summary>How are New Users and Returning Users classified?
   </summary>
    
-   **New Users:** Users who are interacting with the bot for the first time will be considered new users.
+   **New Users:** Users who have interacted with the bot for the first time in the selected Date Period are considered as New Users.
    
-   **Returning Users:** A user who has interacted with the bot earlier and again started interacting with the bot will be considered as returning user.
+   **Returning Users:** Users who have interacted with the bot at least once before the From Date of the Date Period and interacted again with the bot during the Date Period are considered as Returning Users.
 
 
   </details>
  </a>
 
-
-<a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/user-dashboard/#Drop-off">
- 
-  <details class="nested-details">
- 
-  <summary>How do you calculate Average new Users per day?
-  </summary>
-
- 
-   It's total number of new users divided by the number of days selected.
-
-
-  </details>
- </a>
 
  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/user-dashboard/#Agent_Transfer">
  
   <details class="nested-details">
  
-  <summary>How does the platform identify a user as a Returning User?
+  <summary>How does the platform identify Returning Users?
   </summary>
 
  
-  Identifying a user mainly depends on the channel it's published. For channels like WhatsApp, Facebook, Line, Skype etc. the platform can identify based on user id or phone number. However, if the virtual assistant is deployed in a web channel then it depends on how the bot is configured to identify a user.
+Identifying returning users primarily depends on the identity provided by the interaction channel. If the interaction channel provides a unique identifier for every user, then the platform will use this identity to determine new and returning users. This identity can be an email address, phone number, or any identity. If the channel provides a random identity for every interaction, then the platform will not be able to identify when the same user returns at a later date. 
+  </details>
+ </a>
+
+ <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/user-dashboard/#Drop-off">
+ 
+  <details class="nested-details">
+ 
+  <summary>How is Average New Users per Day calculated?
+  </summary>
+
+ 
+   Average New Users per Day is identified by dividing the total of new users who interacted with the bot in the Date Period with the number of days selected.
+
 
   </details>
  </a>
@@ -74,11 +73,11 @@ permalink: platform/topic-guide/en/latest/Users Dashboard
  
   <details class="nested-details">
  
-  <summary>How does the platform calculate the Average Unique Users per day?
+  <summary>How is Average Unique Users per day calculated?
   </summary>
 
  
-  Total unique users are the number of unique users interacting with the virtual assistant in a timeframe. Average Unique Users per day is calculated as total unique users  divided by the number of selected days.
+Average Unique Users per day is identified by dividing the total unique users who interacted with the bot in the Date Period with the number of days selected.
   </details>
  </a>
 
