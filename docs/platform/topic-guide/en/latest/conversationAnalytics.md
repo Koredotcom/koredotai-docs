@@ -1,61 +1,71 @@
 ---
-title: Conversation History
+title: Conversations History
 
 permalink: platform/topic-guide/en/latest/Conversation Analytics
 
 ---
 
 #### Topic Guide
-###### Conversation History
+###### Conversations History
 
  Check out our explanatory FAQs, documentation links on Conversations History.
 
 <details open>
   <summary>FAQs
   </summary>
- <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/what-are-conversations/">
+ <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/analyzing-your-bot/">
 
   <details class="nested-details">
  
-  <summary>What are conversations? 
+  <summary>What is Conversations History? 
   </summary>
 
  
-Conversations include the voice call or chat communication between a virtual assistant and a customer to fulfill a specific task. They can be one of the following types:
-
-Interactive: Involves a two-way information (requests and responses) exchange between the virtual assistant and the customer.
-Non-interactive: Involves one-way information exchange from the virtual assistant to the customer. 
+Conversations History provides the list of all conversations that the virtual assistant had with the users. Every conversation also provides a complete transcript of the interaction. 
   </details>
  </a>
 
 
-  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/uncategorised/what-is-a-conversation-summary/">
+  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/analyzing-your-bot/">
  
   <details class="nested-details">
  
-  <summary>What is a conversation summary?
+  <summary>What is Conversation Summary?
   </summary>
 
- The Conversation Summary on the Conversation History dashboard displays the number of user messages, bot messages, identified and unidentified intents, and the tasks that have completed and failed in a conversation. 
+The Conversation Summary on the Conversation History dashboard displays the number of user messages, bot messages, identified and unidentified intents, and the tasks that have been completed and failed in a conversation. 
 
   </details>
  </a>
 
+  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/analyzing-your-bot/">
  
-  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/how-do-i-look-at-specific-conversations/">
+ 
+  <details class="nested-details">
+ 
+  <summary>What are Conversation Events?
+  </summary>
+
+Conversation Events are the NLP and flow events identified during a conversation. The events are displayed in the order of their occurrence to provide a high-level overview of the conversation. Some of the key events include intent identification, entity retries, service call responses and more. 
+
+  </details>
+
+</a>
+
+ 
+  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/analyzing-your-bot/">
  
   <details class="nested-details">
  
   <summary>How do I look at specific conversations?
   </summary>
 
-To look at a specific conversation on the Conversation History Dashboard, select the relevant filters from the filter selection panel and click on the conversation on the dashboard
-
+You can look for specific conversations by applying the necessary filters like Date, Conversation Status, Language, etc. Select a conversation to view the user profile and the full transcript.  
   </details>
  </a>
 
  
- <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/uncategorised/how-do-i-associate-a-label-with-a-conversation/">
+ <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/analyzing-your-bot/">
  
  
   <details class="nested-details">
@@ -70,25 +80,11 @@ Labels tagged to a conversation help the analyst identify the criticality and th
 
 </a>
  
- <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/what-are-conversation-events/">
- 
- 
-  <details class="nested-details">
- 
-  <summary>What are conversation events?
-  </summary>
-
-A conversation event is a sequence of occurrences that are triggered by a specific action from the customer (based on the utterance) and the virtual assistant during a conversation.
-
-
-  </details>
-
-</a>
   
 
  </details>
 
- <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/conversation-history-dashboard/">
+ <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/analyzing-your-bot/">
  
 
 | Frontmatter | Required? |
