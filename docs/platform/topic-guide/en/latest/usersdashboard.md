@@ -13,7 +13,7 @@ permalink: platform/topic-guide/en/latest/Users Dashboard
 <details open>
   <summary>FAQs
   </summary>
- <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/conversations-dashboard/">
+ <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/analyzing-your-bot/">
 
   <details class="nested-details">
  
@@ -27,7 +27,7 @@ permalink: platform/topic-guide/en/latest/Users Dashboard
  </a>
 
 
-  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/user-dashboard/#Self-service">
+  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/analyzing-your-bot/">
  
   <details class="nested-details">
  
@@ -43,7 +43,7 @@ permalink: platform/topic-guide/en/latest/Users Dashboard
  </a>
 
 
- <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/user-dashboard/#Agent_Transfer">
+ <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/analyzing-your-bot/">
  
   <details class="nested-details">
  
@@ -55,7 +55,7 @@ Identifying returning users primarily depends on the identity provided by the in
   </details>
  </a>
 
- <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/user-dashboard/#Drop-off">
+ <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/analyzing-your-bot/">
  
   <details class="nested-details">
  
@@ -69,7 +69,7 @@ Identifying returning users primarily depends on the identity provided by the in
   </details>
  </a>
 
-  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/user-dashboard/#Agent_Transfer">
+  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/analyzing-your-bot/">
  
   <details class="nested-details">
  
@@ -81,7 +81,7 @@ Average Unique Users per day is identified by dividing the total unique users wh
   </details>
  </a>
 
-  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/user-dashboard/#Filter_Criteria">
+  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/analyzing-your-bot/">
  
   <details class="nested-details">
  
