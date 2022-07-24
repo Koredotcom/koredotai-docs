@@ -73,7 +73,7 @@ You can look for specific conversations by applying the necessary filters like D
   <summary>How do I associate a label with a conversation?
   </summary>
 
-Labels tagged to a conversation help the analyst identify the criticality and the action needed for the bot. On the Conversation History dashboard, you can create custom labels to a conversation.
+Labels tagged to a conversation help the analyst identify the criticality and the action needed for the bot. On the Conversations History dashboard, you can add custom labels to a conversation. You can easily locate the labeled conversations using the Filters options.
 
 
   </details>
