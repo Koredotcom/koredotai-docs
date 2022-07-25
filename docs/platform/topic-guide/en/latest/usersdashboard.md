@@ -89,11 +89,9 @@ Average Unique Users per day is identified by dividing the total unique users wh
   </summary>
 
   Below are the default filter options:
-
--   Date: 24 hours
-
-- Session Type: Interactive Sessions
-- Session Status: Closed Session
+   - Date: 24 hours
+   - Session Type: Interactive Sessions
+   - Session Status: Closed Session
 
   </details>
  </a>
