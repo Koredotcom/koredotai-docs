@@ -539,8 +539,7 @@ details .doc-link.tour-guide:after{
 }
 
 .nested-accordian-link .nested-details ul{
-    list-style: none;
-    padding-left: 35px;
+    padding-left: 52px;
     font-size: 12px;
     font-weight: normal;
     font-style: normal;
