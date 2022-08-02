@@ -99,7 +99,7 @@ Average Unique Users per day is identified by dividing the total unique users wh
 
  </details>
 
- <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/user-dashboard/">
+ <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/users-dashboard/">
  
 
 | Frontmatter | Required? |
