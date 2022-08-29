@@ -1222,4 +1222,7 @@ h4.panel-title {
 .itAssistDocs .navbar .container .navbar-header .projectTitle .attachment{
     max-width: 100%;
 }
+.itAssistDocs .container {
+    width: 100%;
+}
 /*----IT ASSIST ---*/
