@@ -1211,18 +1211,41 @@ h4.panel-title {
     border: 0;
     box-shadow: 0 1px 0 rgb(0 0 0 / 8%);
 }
-.itAssistDocs .navbar .container {
+.itAssistDocs .navbar .topnavlinks {
     width: 100%;
+    display: flex;
+    align-items: center;
 }
-.itAssistDocs .navbar .container .navbar-header .projectTitle{
+.itAssistDocs .navbar .topnavlinks .navbar-header{
+    display: flex;
+    align-items: center;
+    width: 50%;
+}
+.itAssistDocs .navbar .topnavlinks .navbar-collapse{
+    display: flex;
+    align-items: center;
+    width: 50%;
+}
+.itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right #search-demo-container input{
+    margin-top: 0;
+
+}
+.itAssistDocs .navbar .topnavlinks .navbar-header .navbar-brand{
+    height: auto;
+}
+.itAssistDocs .navbar .topnavlinks .navbar-header .navbar-brand .projectTitle{
     flex-shrink: 0;
     transition: height 0.3s;
     margin-right: 1.4rem;
+    color: #202124;
+    font-family: 'Inter', 'Open Sans', sans-serif;
+    font-size: 14px;
+    text-transform: uppercase;
 }
-.itAssistDocs .navbar .container .navbar-header .projectTitle .attachment{
-    max-width: 100%;
+.itAssistDocs .navbar .topnavlinks .navbar-header .navbar-brand .projectTitle .attachment-large{
+    width: 118px;
 }
 .itAssistDocs .container {
     width: 100%;
 }
-/*----IT ASSIST ---*/
+/*----IT ASSIST ---*/ 
