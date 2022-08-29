@@ -1203,7 +1203,7 @@ h4.panel-title {
 }
 
 /*----IT ASSIST ---*/
-body.itAssistDocs .navbar {
+.itAssistDocs .navbar {
     height: 80px;
     display: flex;
     align-items: center;
@@ -1211,15 +1211,15 @@ body.itAssistDocs .navbar {
     border: 0;
     box-shadow: 0 1px 0 rgb(0 0 0 / 8%);
 }
-body.itAssistDocs .navbar .container {
+.itAssistDocs .navbar .container {
     width: 100%;
 }
-body.itAssistDocs .navbar .container .navbar-header .projectTitle{
+.itAssistDocs .navbar .container .navbar-header .projectTitle{
     flex-shrink: 0;
     transition: height 0.3s;
     margin-right: 1.4rem;
 }
-body.itAssistDocs .navbar .container .navbar-header .projectTitle .attachment{
+.itAssistDocs .navbar .container .navbar-header .projectTitle .attachment{
     max-width: 100%;
 }
 /*----IT ASSIST ---*/
