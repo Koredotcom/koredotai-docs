@@ -3,7 +3,7 @@ repository: tomjoht/documentation-theme-jekyll
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: Jekyll Documentation Theme
+topnav_title: Kore.ai Documentation
 # this appears on the top navigation bar next to the home button
 
 site_title: Jekyll theme for documentation
@@ -66,6 +66,27 @@ defaults:
       path: "docs/platform/topic-guide"
     values:
       layout: "topic"
+
+  -
+    scope:
+      path: "docs/itassist/topic-guide"
+    values:
+      layout: "topic"    
+
+  -
+    scope:
+      path: "docs/itassist/docs"
+    values:
+      layout: "page_itassist"
+      sidebar: itassist_sidebar
+
+  -
+    scope:
+      path: "docs/platform/docs"
+    values:
+      layout: "page_platform"
+      sidebar: platform_sidebar     
+      
 
 
 # these are defaults used for the frontmatter for these file types
