@@ -103,5 +103,11 @@ layout: itassist
                 
             });
         }
+
+          $("#i18nlng  li").on('click', function(e){
+                sessionStorage.setItem("i18n", $(e.currentTarget).text().trim());
+       });
+
+          $('#i18ndrpText').html(sessionStorage.getItem('i18n') || 'English'); 
     });
 </script>
