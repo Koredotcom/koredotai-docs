@@ -1227,22 +1227,38 @@ h4.panel-title {
     align-items: center;
     width: 50%;
 }
-.itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right #search-demo-container input{
-    margin-top: 0;
-
+.itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right{
+    display: flex;
+    align-items: center;
 }
-.itAssistDocs .navbar .topnavlinks .navbar-header .navbar-brand{
+.itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right .dropdown .dropdown-toggle{
+    margin: 0 15px 0 0;
+    font-size: 15px;
+    /* padding: 0; */
+    background: #fff;
+    border: 0;
+    color: #202124;
+}
+.itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right li a{
+    /* padding: 0; */
+    font-size: 15px;
+    color: #202124;
+}
+.itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right #search-demo-container input{
     margin-top: 0;
     color: #BDC1C6;
     font-size: 14px;
     font-weight: 400;
     border: 1px solid #BDC1C6;
     border-radius: 4px;
+
+}
+.itAssistDocs .navbar .topnavlinks .navbar-header .navbar-brand{
+ padding: 0;
 }
 .itAssistDocs .navbar .topnavlinks .navbar-header .navbar-brand .projectTitle{
     flex-shrink: 0;
     transition: height 0.3s;
-    margin-right: 1.4rem;
     color: #202124;
     font-family: 'Inter', 'Open Sans', sans-serif;
     font-size: 14px;
@@ -1253,6 +1269,7 @@ h4.panel-title {
 }
 .itAssistDocs .navbar .topnavlinks .navbar-header .navbar-brand .projectTitle .attachment-large{
     width: 118px;
+    margin-right: 1.4rem;
 }
 .itAssistDocs .container {
     width: 100%;
