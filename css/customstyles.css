@@ -1226,13 +1226,42 @@ h4.panel-title {
     display: flex !important;
     align-items: center;
     width: 70%;
+    justify-content: flex-end;
 }
 .itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right{
     display: flex;
     align-items: center;
 }
+.itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right li{   
+    padding-left: 15px;
+}
+.itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right li button{
+    background: #fff;
+    color: #202124 ;
+    font-weight: normal;
+    padding: 0.7em 1em ;
+    border: 1px solid #bdc1c5;
+    cursor: pointer;
+    border-radius: 4px;
+}
+.itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right li button{
+    background: transparent;
+    color: #202124 ;
+    font-weight: normal;
+    padding: 0.7em 1em ;
+    border: 1px solid #bdc1c5;
+    cursor: pointer;
+    border-radius: 4px;
+}
+.itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right li button:hover {
+    background: #0d6efd;
+    color: #ffffff;
+}
+.itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right li a::after{
+    display: none;
+}
 .itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right .dropdown .dropdown-toggle{
-    margin: 0 15px 0 0;
+    /* margin: 0 15px 0 0; */
     font-size: 15px;
     /* padding: 0; */
     background: #fff;
