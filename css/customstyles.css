@@ -1201,3 +1201,25 @@ h4.panel-title {
         display:block !important;
     }
 }
+
+/*----IT ASSIST ---*/
+body.itAssistDocs .navbar {
+    height: 80px;
+    display: flex;
+    align-items: center;
+    background-color: #ffffff;
+    border: 0;
+    box-shadow: 0 1px 0 rgb(0 0 0 / 8%);
+}
+body.itAssistDocs .navbar .container {
+    width: 100%;
+}
+body.itAssistDocs .navbar .container .navbar-header .projectTitle{
+    flex-shrink: 0;
+    transition: height 0.3s;
+    margin-right: 1.4rem;
+}
+body.itAssistDocs .navbar .container .navbar-header .projectTitle .attachment{
+    max-width: 100%;
+}
+/*----IT ASSIST ---*/
