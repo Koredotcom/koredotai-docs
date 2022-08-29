@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: itassist
 ---
 
 <div class="post-header">
@@ -21,6 +21,7 @@ layout: default
 <script>
     $(document).ready ( function(){
         $('.modalButton{{page.box_number}}').addClass('active');
+      
     });
 </script>
 
@@ -68,3 +69,39 @@ layout: default
 <!-- {% include footer.html %} -->
 
 {% comment %} Copyright 2021 Google LLC {% endcomment %}
+
+
+<script>
+    $(document).ready ( function(){
+
+        var lis = document.querySelectorAll('#tg-sb-sidebar ul li');
+        var ulList = document.querySelectorAll('#tg-sb-sidebar ul');
+
+        for (var y = 0; y < ulList.length; y++) {
+            $(ulList[y]).addClass('nav');
+        }
+        for (var i = 0; i < lis.length; i++) {
+            if($(lis[i]).text()  ==   sessionStorage.getItem('currentActive')){
+                $(lis[i]).addClass('active');
+                var activeParents = $(lis[i]).parents();
+                activeParents.each(el=>{
+                    console.log(activeParents[el]);
+                    if($(activeParents[el]).is('details')){
+                        $(activeParents[el]).attr('open', '');
+                    }
+                });
+                 
+            
+            }
+            lis[i].addEventListener("click", function() {
+            var current = document.querySelector("#tg-sb-sidebar ul li.active");
+            if(current && current.length){
+              current[0].className = current[0].className.replace(" active", "");
+            }
+            this.className += " active";
+            sessionStorage.setItem('currentActive', $(this).text());
+                
+            });
+        }
+    });
+</script>
