@@ -1220,12 +1220,12 @@ h4.panel-title {
 .itAssistDocs .navbar .topnavlinks .navbar-header{
     display: flex;
     align-items: center;
-    width: 50%;
+    width: 30%;
 }
 .itAssistDocs .navbar .topnavlinks .navbar-collapse{
-    display: flex;
+    display: flex !important;
     align-items: center;
-    width: 50%;
+    width: 70%;
 }
 .itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right{
     display: flex;
@@ -1240,9 +1240,13 @@ h4.panel-title {
     color: #202124;
 }
 .itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right li a{
-    /* padding: 0; */
+    padding: 0;
     font-size: 15px;
     color: #202124;
+    margin: 0;
+}
+.itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right #search-demo-container{
+    width: 240px;
 }
 .itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right #search-demo-container input{
     margin-top: 0;
@@ -1251,7 +1255,8 @@ h4.panel-title {
     font-weight: 400;
     border: 1px solid #BDC1C6;
     border-radius: 4px;
-
+    width: 240px;
+    margin-left: 0;
 }
 .itAssistDocs .navbar .topnavlinks .navbar-header .navbar-brand{
  padding: 0;
