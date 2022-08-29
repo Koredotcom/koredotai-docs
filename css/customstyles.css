@@ -1349,6 +1349,17 @@ h4.panel-title {
     background-color:#ffffff;
     margin-bottom: 6px;
 }
+.itAssistDocs .container .leftNav .nav li a::after{
+    display: none;
+}
+.itAssistDocs .container .leftNav .nav li.active a:hover{
+    color: #ffffff;
+    background-color:#0D6EFD;
+}
+.itAssistDocs .container .leftNav .nav li.active a{
+    color: #ffffff;
+    background-color:#0D6EFD;
+}
 .itAssistDocs .container .leftNav details summary{
     color: #202124;
     font-size: 12px;
@@ -1373,14 +1384,7 @@ h4.panel-title {
     color: #ffffff;
     background-color:#0D6EFD;
 }
-.itAssistDocs .container .leftNav .nav li.active a:hover{
-    color: #ffffff;
-    background-color:#0D6EFD;
-}
-.itAssistDocs .container .leftNav .nav li.active a{
-    color: #ffffff;
-    background-color:#0D6EFD;
-}
+
 
 .itAssistDocs .container .rightContent{
     width: 100%;
