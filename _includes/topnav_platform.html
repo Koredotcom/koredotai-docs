@@ -13,7 +13,7 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
                 <!-- toggle sidebar button -->
-                <li><a id="tg-sb-link" href="#"><i id="tg-sb-icon" class="fa fa-toggle-on"></i> Nav</a></li>
+              
                 <!-- entries without drop-downs appear here -->
 
 {% assign topnav = site.data[page.topnav] %}
@@ -50,9 +50,30 @@
                 </li>
                 {% endfor %}
                 {% endfor %}
-                {% if site.feedback_disable == null or site.feedback_disable == false %}
-			{% include feedback.html %}
-		{% endif %}
+           
+             {% assign topnav_i18ndropdown = site.data[page.topnav].i18n_dropdown %}
+     <li class="dropdown">
+        <a href="#" id="i18ndrpText" class="dropdown-toggle" data-toggle="dropdown"><b class="caret"></b></a>
+            <ul class="dropdown-menu" id="i18nlng">
+ {% for entry in topnav_i18ndropdown %}
+
+              <li>
+                    <a href="{{entry.url}}" >   {{entry.title}} </a>
+              </li>
+            
+    {% endfor %}
+
+    </ul>
+    
+     </li>
+
+
+{% assign topnav_buttons = site.data[page.topnav].buttons %}
+ {% for entry in topnav_buttons %}
+   <li>
+    <button> <a target="_blank" href="{{entry.url}}" >{{entry.title}}</a></button>
+    </li>
+    {% endfor %}
                 <!--comment out this block if you want to hide search-->
                 <li>
                     <!--start search-->
