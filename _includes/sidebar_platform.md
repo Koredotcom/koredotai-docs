@@ -1,7 +1,7 @@
 
 ###### GETTING STARTED
-- [Kore.ai XO Platform](https://duckduckgo.com)
-- [Virtual Assistants Overview](https://duckduckgo.com)
+- [Kore.ai XO Itassist](itassist/docs/en/latest/kore_xo_platform)
+- [Virtual Assistants Overview](itassist/docs/en/latest/virtual_assistant_overview)
 - [Natural Language Processing (NLP)](https://duckduckgo.com)
 - [Concepts and Terminology](https://duckduckgo.com)
 
@@ -9,11 +9,10 @@
   <summary>Quick Start Guide
   </summary>
 
- - [Accessing the Platform](https://duckduckgo.com)
+  - [Accessing the Platform](itassist/docs/en/latest/Accessing%20The%20Platform)
+  - [Working with the Builder](https://duckduckgo.com)
+  - [Using Workspaces](https://duckduckgo.com)
 
- - [Working with the Builder](https://duckduckgo.com)
-
- - [Using Workspaces](https://duckduckgo.com)
   </details>
 
   ###### CONCEPTS
@@ -22,13 +21,19 @@
   <summary>Design
   </summary>
 
-  - [Storyboard](https://duckduckgo.com)
+  - [Storyboard](itassist/docs/en/latest/Storyboard)
+  - [Task](itassist/docs/en/latest/Task)
+
+   <details >
+  <summary>Dialog Tasks
+  </summary>
   
   - [Overview](https://duckduckgo.com)
 
   - [Dialog Builder](https://duckduckgo.com)
-
+  
   - [Knowledge Graph](https://duckduckgo.com)
 
+  </details>
 
   </details>

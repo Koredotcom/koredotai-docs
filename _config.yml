@@ -79,13 +79,15 @@ defaults:
     values:
       layout: "page_itassist"
       sidebar: itassist_sidebar
+      topnav: topnav_itassist
 
   -
     scope:
       path: "docs/platform/docs"
     values:
       layout: "page_platform"
-      sidebar: platform_sidebar     
+      sidebar: platform_sidebar
+      topnav: topnav_platform     
       
 
 
