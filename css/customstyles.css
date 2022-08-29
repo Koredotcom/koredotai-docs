@@ -1211,6 +1211,7 @@ h4.panel-title {
     border: 0;
     box-shadow: 0 1px 0 rgb(0 0 0 / 8%);
     padding: 0 15px;
+    margin-bottom: 0;
 }
 .itAssistDocs .navbar .topnavlinks {
     width: 100%;
@@ -1307,6 +1308,10 @@ h4.panel-title {
 }
 .itAssistDocs .container {
     width: 100%;
+    height: calc(100% - 80px);
+}
+.itAssistDocs .container #main{
+    height: 100%;
 }
 .itAssistDocs .container .contentbody{
     display: flex;
@@ -1320,11 +1325,16 @@ h4.panel-title {
     font-size: 12px;
     color: #07377F ;
     font-weight: 600 ;
-}
-.itAssistDocs .container .leftNav .nav{
     border-bottom: 1px solid #e0e0e0;
     margin-bottom: 20px;
-    padding-bottom: 20px;
+}
+.itAssistDocs .container .leftNav h6:nth-child(1){
+    border: 0;
+    margin-bottom: 10px;
+}
+.itAssistDocs .container .leftNav .nav{
+    /* margin-bottom: 20px;
+    padding-bottom: 20px; */
 }
 .itAssistDocs .container .leftNav .nav li a{
     color: #202124;
@@ -1339,12 +1349,46 @@ h4.panel-title {
     background-color:#ffffff;
     margin-bottom: 6px;
 }
+.itAssistDocs .container .leftNav details summary{
+    color: #202124;
+    font-size: 12px;
+    text-shadow: none;
+    font-family: inter;
+    line-height: 25px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    background-color:#ffffff;
+    margin-bottom: 6px;
+    background-image: url(../images/expand.png);
+    background-repeat: no-repeat;
+    background-position: right center;
+}
+.itAssistDocs .container .leftNav details summary.active{
+    color: #ffffff;
+    background-color:#0D6EFD;
+}
+.itAssistDocs .container .leftNav details summary:hover{
+    color: #ffffff;
+    background-color:#0D6EFD;
+}
+.itAssistDocs .container .leftNav .nav li.active a:hover{
+    color: #ffffff;
+    background-color:#0D6EFD;
+}
 .itAssistDocs .container .leftNav .nav li.active a{
     color: #ffffff;
     background-color:#0D6EFD;
-
 }
+
 .itAssistDocs .container .rightContent{
     width: 100%;
+    padding-top: 15px;
+}
+.itAssistDocs .container .rightContent .post-header .post-title-main{
+    color: #07377F!important;
+    font-size: 26px !important;
+    margin-bottom: 10px;
 }
 /*----IT ASSIST ---*/ 
