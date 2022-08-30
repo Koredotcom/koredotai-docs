@@ -1537,6 +1537,13 @@ h4.panel-title {
     .itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right li button{
         width: 100%;
     }
+    div#toc{
+        position: relative;
+        width: 100%;
+    }
+    .div#toc ul{
+        max-width: auto;
+    }
   }
   /*---mobile---*/
 /*----IT ASSIST ---*/ 
