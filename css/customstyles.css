@@ -1484,16 +1484,24 @@ h4.panel-title {
         width: 100%;
     }
     .itAssistDocs .navbar .topnavlinks .navbar-collapse{
-        /* display: block !important; */
+        display: none !important;
+        align-items: center;
+        width: auto;
+        justify-content: flex-end;
+        border: 0;
+        box-shadow: 0 8px 15px rgb(0 0 0 / 10%);
+    }
+    .itAssistDocs .navbar .topnavlinks .navbar-collapse.in{
+        display: block !important;
         align-items: center;
         width: auto;
         justify-content: flex-end;
         border: 0;
     }
     .itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right{
-        display: none;
         background: #ffffff;
         display: block;
+        width: 100%;
     }
     .itAssistDocs .navbar .topnavlinks .navbar-collapse.in .navbar-right{
         display: block;
@@ -1517,7 +1525,6 @@ h4.panel-title {
     }
     .itAssistDocs .navbar .topnavlinks .navbar-header .navbar-toggle{
         background-color: #0D6EFD;
-        border: 1px solid #0D6EFD;
     }
     .itAssistDocs .container .contentbody{
         display: block;
