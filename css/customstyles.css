@@ -1490,6 +1490,7 @@ h4.panel-title {
         justify-content: flex-end;
         border: 0;
         box-shadow: 0 8px 15px rgb(0 0 0 / 10%);
+        background: #ffffff;
     }
     .itAssistDocs .navbar .topnavlinks .navbar-collapse.in{
         display: block !important;
