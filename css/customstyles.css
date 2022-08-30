@@ -1524,6 +1524,9 @@ h4.panel-title {
     .itAssistDocs .navbar .topnavlinks .navbar-header .navbar-brand .projectTitle{
         display: none;
     }
+    .itAssistDocs .navbar .topnavlinks .navbar-header .navbar-brand{
+        align-items: center;
+    }
     .itAssistDocs .navbar .topnavlinks .navbar-header .navbar-brand .mobilelogo{
         display: block;
     }
