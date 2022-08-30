@@ -1352,6 +1352,9 @@ h4.panel-title {
 .itAssistDocs .container .contentbody a{
     color: #0d6efd;
 }
+.itAssistDocs .container .contentbody a::after{
+    display: none;
+}
 .itAssistDocs .container .contentbody p{
     color: #202124;
 }
