@@ -1457,7 +1457,9 @@ h4.panel-title {
     margin-bottom: 10px;
     margin-top: 0;
 }
-
+.itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right li{
+    padding: 10px;
+}
 /*---mobile---*/
 @media (min-width: 320px) and (max-width: 767px) {
     .itAssistDocs .navbar .topnavlinks{
