@@ -1295,6 +1295,10 @@ h4.panel-title {
     border-radius: 4px;
     width: 240px;
     margin-left: 0;
+    background-image: url(../images/search.svg);
+    background-repeat: no-repeat;
+    background-position: left 14px center;
+    padding-left: 30px;
 }
 .itAssistDocs .navbar .topnavlinks .navbar-header .navbar-brand{
  padding: 0;
@@ -1323,6 +1327,8 @@ h4.panel-title {
 }
 .itAssistDocs .container .contentbody{
     display: flex;
+    margin: 0;
+    height: 100%;
 }
 .itAssistDocs .container .leftNav{
     border-right: 1px solid #e4e5e7;
@@ -1342,10 +1348,6 @@ h4.panel-title {
     border: 0;
     margin-bottom: 10px;
     padding-bottom: 0;
-}
-.itAssistDocs .container .leftNav .nav{
-    /* margin-bottom: 20px;
-    padding-bottom: 20px; */
 }
 .itAssistDocs .container .leftNav .nav li a{
     color: #202124;
@@ -1388,6 +1390,9 @@ h4.panel-title {
     background-repeat: no-repeat;
     background-position: right center;
     cursor: pointer;
+}
+.itAssistDocs .container .leftNav  details summary .nav{
+    padding-left: 15px;
 }
 .itAssistDocs .container .leftNav details summary.active{
     color: #ffffff;
