@@ -240,6 +240,11 @@ ul#results-container a:hover {
     margin: 3px;
 }
 
+div#toc{
+    width: 230px;
+    position: absolute;
+    right: 0;
+}
 div#toc ul li {
     margin: 8px 0px 8px 22px;
     font-size: 90%;
@@ -1427,6 +1432,7 @@ h4.panel-title {
 .itAssistDocs .container .rightContent{
     width: 100%;
     padding-top: 15px;
+    padding-right: 240px;
 }
 .itAssistDocs .container .rightContent .post-header .post-title-main{
     color: #07377F!important;
