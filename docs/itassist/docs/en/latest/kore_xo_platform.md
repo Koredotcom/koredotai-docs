@@ -24,6 +24,16 @@ Virtual Assistants are designed to converse with users through a combination of 
 
 AI-powered messaging solutions or Conversational Virtual Assistants serve as the stepping stone to the future. It communicates through intelligent virtual agents, organizations’ apps and websites, social media platforms, and messenger platforms. Users can interact with such assistants using voice or text to access information, complete tasks, and execute transactions.
 
+## How to Build Intelligent Virtual Assistants?
+
+Virtual Assistants are not smart by default. They are designed to show some level of artificial intelligence by leveraging technologies like machine learning, big data, natural language processing, and etc. A Virtual Assistant is intelligent when it is aware of user needs, understands the user’s perspective or context, and responds according to the user’s mood or emotion. Its intelligence gives the VA the ability to handle any scenario of a conversation with ease.
+
+The key for a conversational virtual assistant to understand humans is; its ability to identify the human intentions, extract relevant information from the user utterance and map the relevant action/task against that utterance. [Natural Language Processing](https://pages.github.com/) **(NLP )** is the science of extracting the intention (Intent) of text and relevant information (Entity) from the text.
+
+Managing dialogs to keep track of multiple conversation threads, remembering the context, and responding to the user tone or sentiment provides the much-needed humane touch to the conversation and at the same time serving the user with accurate and appropriate responses.
+
+Another aspect that helps build an intelligent virtual assistant is having a **Knowledge Base**. This gives the VA the ability to respond to frequently asked questions that return static responses. Building **Knowledge Collection** is an attempt to represent entities, ideas, and events with all their interdependent properties and relations according to a system of categories. This structured categorization of data helps the VA to answer user queries effectively and with ease.
+
 So what makes the Conversational Virtual Assistant so special? In a nutshell:
 
 ![alt text](https://developer.kore.ai/wp-content/uploads/ConversationalBot2.png)
