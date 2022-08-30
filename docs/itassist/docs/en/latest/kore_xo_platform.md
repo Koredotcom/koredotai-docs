@@ -31,6 +31,9 @@ So what makes the Conversational Virtual Assistant so special? In a nutshell:
 ## What are Intents & Entities?
 
 A conversational virtual assistant faces three challenges:
+
 1 **Intent** Detection – Understanding what the user wants.
+
 2 **Entity** Extraction – Extracting the required information from the user to accomplish what the user wants.
+
 3 **Dialog Flow/Conversation**  – Accomplishing the user wants.
