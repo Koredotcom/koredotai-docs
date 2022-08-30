@@ -1461,7 +1461,7 @@ h4.panel-title {
     padding: 10px;
 }
 /*---mobile---*/
-@media (min-width: 320px) and (max-width: 767px) {
+@media (min-width: 320px) and (max-width: 1200px) {
     .itAssistDocs .navbar{
         height: 60px;
         padding: 5px 15px;
