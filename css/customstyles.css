@@ -1526,6 +1526,7 @@ h4.panel-title {
     }
     .itAssistDocs .navbar .topnavlinks .navbar-header .navbar-toggle{
         background-color: #0D6EFD;
+        border: 1px solid #0d6efd;
     }
     .itAssistDocs .container .contentbody{
         display: block;
