@@ -1254,16 +1254,17 @@ h4.panel-title {
     cursor: pointer;
     border-radius: 4px;
 }
-.itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right li button{
+.itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right li button a{
     background-color: transparent;
 }
-/* .itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right li button:hover {
+.itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right li button:hover {
     background: #0d6efd;
     color: #ffffff;
-} */
-/* .itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right li button:hover a{
+}
+.itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right li button:hover a{
     color: #ffffff;
-} */
+    background-color: transparent;
+}
 .itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right li a::after{
     display: none;
 }
@@ -1334,6 +1335,7 @@ h4.panel-title {
     font-weight: 600 ;
     border-bottom: 1px solid #e0e0e0;
     margin-bottom: 20px;
+    padding-bottom: 20px;
 }
 .itAssistDocs .container .leftNav h6:nth-child(1){
     border: 0;
@@ -1384,15 +1386,16 @@ h4.panel-title {
     background-image: url(../images/expand.png);
     background-repeat: no-repeat;
     background-position: right center;
+    cursor: pointer;
 }
 .itAssistDocs .container .leftNav details summary.active{
     color: #ffffff;
     background-color:#0D6EFD;
 }
-.itAssistDocs .container .leftNav details summary:hover{
+/* .itAssistDocs .container .leftNav details summary:hover{
     color: #ffffff;
     background-color:#0D6EFD;
-}
+} */
 
 
 .itAssistDocs .container .rightContent{
@@ -1402,6 +1405,7 @@ h4.panel-title {
 .itAssistDocs .container .rightContent .post-header .post-title-main{
     color: #07377F!important;
     font-size: 26px !important;
+    font-weight: 600;
     margin-bottom: 10px;
     margin-top: 0;
 }
