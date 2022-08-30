@@ -1314,6 +1314,9 @@ h4.panel-title {
     align-items: center;
     font-weight: normal;
 }
+.itAssistDocs .navbar .topnavlinks .navbar-header .navbar-brand .mobilelogo{
+    display: none;
+}
 .itAssistDocs .navbar .topnavlinks .navbar-header .navbar-brand .projectTitle .attachment-large{
     width: 118px;
     margin-right: 1.4rem;
@@ -1415,4 +1418,16 @@ h4.panel-title {
     margin-bottom: 10px;
     margin-top: 0;
 }
+
+/*---mobile---*/
+@media (min-width: 481px) and (max-width: 767px) {
+    .itAssistDocs .navbar .topnavlinks .navbar-header .navbar-brand .projectTitle{
+        display: none;
+    }
+    .itAssistDocs .navbar .topnavlinks .navbar-header .navbar-brand .mobilelogo{
+        display: block;
+    }
+    
+  }
+  /*---mobile---*/
 /*----IT ASSIST ---*/ 
