@@ -1288,7 +1288,7 @@ h4.panel-title {
 }
 .itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right #search-demo-container input{
     margin-top: 0;
-    color: #BDC1C6;
+    /* color: #BDC1C6; */
     font-size: 14px;
     font-weight: 400;
     border: 1px solid #BDC1C6;
@@ -1298,7 +1298,7 @@ h4.panel-title {
     background-image: url(../images/search.svg);
     background-repeat: no-repeat;
     background-position: left 14px center;
-    padding-left: 30px;
+    padding-left: 35px;
 }
 .itAssistDocs .navbar .topnavlinks .navbar-header .navbar-brand{
  padding: 0;
