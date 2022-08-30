@@ -1346,6 +1346,9 @@ h4.panel-title {
 .itAssistDocs .navbar .topnavlinks .navbar-header .navbar-brand .mobilelogo{
     display: none;
 }
+.itAssistDocs .navbar .topnavlinks .navbar-header .navbar-brand .mobileTitle{
+    display: none;
+}
 .itAssistDocs .navbar .topnavlinks .navbar-header .navbar-brand .projectTitle .attachment-large{
     width: 118px;
     margin-right: 1.4rem;
@@ -1523,6 +1526,11 @@ h4.panel-title {
     }
     .itAssistDocs .navbar .topnavlinks .navbar-header .navbar-brand .mobilelogo{
         display: block;
+    }
+    .itAssistDocs .navbar .topnavlinks .navbar-header .navbar-brand .mobileTitle{
+        display: inline-block;
+        padding-left: 10px;
+        color: #202124;
     }
     .itAssistDocs .navbar .topnavlinks .navbar-header .navbar-toggle{
         background-color: #0D6EFD;
