@@ -1339,7 +1339,7 @@ h4.panel-title {
 }
 .itAssistDocs .container {
     width: 100%;
-    height: calc(100% - 80px);
+    /* height: calc(100% - 80px); */
 }
 .itAssistDocs .container #main{
     height: 100%;
