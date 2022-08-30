@@ -245,8 +245,11 @@ div#toc ul li {
     font-size: 90%;
     list-style: square;
 }
+div#toc ul li a::after{
+    display: none;
+}
 div#toc ul {
-    background-color: whitesmoke;
+    background-color: #f2f3f5;
     padding: 5px;
     border-radius: 5px;
     max-width: 300px;
@@ -1444,7 +1447,7 @@ h4.panel-title {
         width: 100%;
     }
     .itAssistDocs .navbar .topnavlinks .navbar-collapse{
-        display: block !important;
+        /* display: block !important; */
         align-items: center;
         width: auto;
         justify-content: flex-end;
