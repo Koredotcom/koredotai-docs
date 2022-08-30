@@ -663,8 +663,15 @@ button.cursorNorm {
 }
 
 h2  {
-    font-size:24px;
-    line-height:29px;
+    /* font-size:24px;
+    line-height:29px; */
+    color: #85B7FE;
+    font-size: 20px;
+    margin: 0;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    margin-top: 20px;
+    border-top: 1px solid #e8e8e8;
 }
 span.otherProgrammingLanguages {
     font-style: normal;
@@ -1302,6 +1309,7 @@ h4.panel-title {
 }
 .itAssistDocs .navbar .topnavlinks .navbar-header .navbar-brand{
  padding: 0;
+ display: flex;
 }
 .itAssistDocs .navbar .topnavlinks .navbar-header .navbar-brand .projectTitle{
     flex-shrink: 0;
@@ -1332,6 +1340,12 @@ h4.panel-title {
     display: flex;
     margin: 0;
     height: 100%;
+}
+.itAssistDocs .container .contentbody a{
+    color: #0d6efd;
+}
+.itAssistDocs .container .contentbody p{
+    color: #202124;
 }
 .itAssistDocs .container .leftNav{
     border-right: 1px solid #e4e5e7;
@@ -1420,14 +1434,45 @@ h4.panel-title {
 }
 
 /*---mobile---*/
-@media (min-width: 481px) and (max-width: 767px) {
+@media (min-width: 320px) and (max-width: 767px) {
+    .itAssistDocs .navbar .topnavlinks{
+        display: block;
+    }
+    .itAssistDocs .navbar .topnavlinks .navbar-header{
+        display: block;
+        align-items: center;
+        width: 100%;
+    }
+    .itAssistDocs .navbar .topnavlinks .navbar-collapse{
+        display: block !important;
+        align-items: center;
+        width: auto;
+        justify-content: flex-end;
+    }
+    .itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right{
+        display: block;
+        background: #ffffff;
+        display: block;
+        box-shadow: 0 8px 15px rgb(0 0 0 / 10%);
+    }
+    .itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right li{
+        padding: 10px;
+    }
+    .itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right #search-demo-container{
+        width: 100%;
+    }
+    .itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right #search-demo-container input{
+        width: 100%;
+    }
     .itAssistDocs .navbar .topnavlinks .navbar-header .navbar-brand .projectTitle{
         display: none;
     }
     .itAssistDocs .navbar .topnavlinks .navbar-header .navbar-brand .mobilelogo{
         display: block;
     }
-    
+    .itAssistDocs .navbar .topnavlinks .navbar-header .navbar-toggle{
+
+    }
   }
   /*---mobile---*/
 /*----IT ASSIST ---*/ 
