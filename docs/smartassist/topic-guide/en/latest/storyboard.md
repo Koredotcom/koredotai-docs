@@ -7,7 +7,7 @@ permalink: smartassist/topic-guide/en/latest/Storyboard
 #### Topic Guide
 ###### Storyboard
 
-   Check out our explanatory videos, FAQs, Kore.ai Academy courses and documentation links on Storyboard. (SmartAssist)
+   Check out our explanatory videos, FAQs, Kore.ai Academy courses and documentation links on Storyboard. (SmartAssist New)
     
 <details class="introduction-video" open>
   <summary>Introduction
