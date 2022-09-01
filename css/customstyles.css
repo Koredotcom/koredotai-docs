@@ -1458,7 +1458,7 @@ body.itAssistDocs{
 .itAssistDocs .container .rightContent{
     width: 100%;
     padding-top: 15px;
-    padding-right: 240px;
+    padding-right: 250px;
     overflow: auto;
     height: calc(100vh - 80px);
 }
