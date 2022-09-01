@@ -75,6 +75,18 @@ defaults:
 
   -
     scope:
+      path: "docs/smartassist/topic-guide"
+    values:
+      layout: "topic"
+
+  -
+    scope:
+      path: "docs/searchassist/topic-guide"
+    values:
+      layout: "topic" 
+
+  -
+    scope:
       path: "docs/itassist/docs"
     values:
       layout: "page_itassist"
@@ -87,7 +99,24 @@ defaults:
     values:
       layout: "page_platform"
       sidebar: platform_sidebar
-      topnav: topnav_platform     
+      topnav: topnav_platform   
+
+  -
+    scope:
+      path: "docs/searchassist/docs"
+    values:
+      layout: "page_searchassist"
+      sidebar: searchassist_sidebar
+      topnav: topnav_searchassist    
+
+  -
+    scope:
+      path: "docs/smartassist/docs"
+    values:
+      layout: "page_smartassist"
+      sidebar: searchassist_sidebar
+      topnav: topnav_smartassist    
+
       
 
 
