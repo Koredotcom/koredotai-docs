@@ -240,13 +240,22 @@ ul#results-container a:hover {
     margin: 3px;
 }
 
+div#toc{
+    width: 230px;
+    position: fixed;
+    right: 20px;
+    top: 100px;
+}
 div#toc ul li {
     margin: 8px 0px 8px 22px;
     font-size: 90%;
     list-style: square;
 }
+div#toc ul li a::after{
+    display: none;
+}
 div#toc ul {
-    background-color: whitesmoke;
+    background-color: #f2f3f5;
     padding: 5px;
     border-radius: 5px;
     max-width: 300px;
@@ -663,8 +672,15 @@ button.cursorNorm {
 }
 
 h2  {
-    font-size:24px;
-    line-height:29px;
+    /* font-size:24px;
+    line-height:29px; */
+    color: #85B7FE;
+    font-size: 20px;
+    margin: 0;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    margin-top: 20px;
+    border-top: 1px solid #e8e8e8;
 }
 span.otherProgrammingLanguages {
     font-style: normal;
@@ -1203,13 +1219,18 @@ h4.panel-title {
 }
 
 /*----IT ASSIST ---*/
+body.itAssistDocs{
+    overflow: hidden;
+}
 .itAssistDocs .navbar {
     height: 80px;
     display: flex;
-    align-items: center;
+    /* align-items: center; */
     background-color: #ffffff;
     border: 0;
     box-shadow: 0 1px 0 rgb(0 0 0 / 8%);
+    padding: 0 15px;
+    margin-bottom: 0;
 }
 .itAssistDocs .navbar .topnavlinks {
     width: 100%;
@@ -1219,33 +1240,337 @@ h4.panel-title {
 .itAssistDocs .navbar .topnavlinks .navbar-header{
     display: flex;
     align-items: center;
-    width: 50%;
+    width: 30%;
 }
 .itAssistDocs .navbar .topnavlinks .navbar-collapse{
+    display: flex !important;
+    align-items: center;
+    width: 70%;
+    justify-content: flex-end;
+}
+.itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right{
     display: flex;
     align-items: center;
-    width: 50%;
+}
+.itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right li.dropdown .dropdown-menu{
+    box-shadow: 0 8px 15px rgb(0 0 0 / 10%);
+    border: 0;
+}
+.itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right li.dropdown .dropdown-menu li {
+    padding: 0;
+}
+.itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right li.dropdown .dropdown-menu li a{
+    padding: 0.6em 20px;
+    line-height: 1.5em;
+    color: #202124;
+}
+.itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right li.dropdown .dropdown-menu li:hover a{
+    background: #EFF0F1;
+    color: #0d6efd;
+}
+.itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right li button{
+    background: #fff;
+    color: #202124 ;
+    font-weight: normal;
+    padding: 0.7em 1em ;
+    border: 1px solid #bdc1c5;
+    cursor: pointer;
+    border-radius: 4px;
+}
+.itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right li button{
+    background: transparent;
+    color: #202124 ;
+    font-weight: normal;
+    padding: 0.7em 1em ;
+    border: 1px solid #bdc1c5;
+    cursor: pointer;
+    border-radius: 4px;
+}
+.itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right li button a{
+    background-color: transparent;
+}
+.itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right li button:hover {
+    background: #0d6efd;
+    border: 1px solid #0d6efd;
+    color: #ffffff;
+}
+.itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right li button:hover a{
+    color: #ffffff;
+    background-color: transparent;
+}
+.itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right li a::after{
+    display: none;
+}
+.itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right .dropdown .dropdown-toggle{
+    /* margin: 0 15px 0 0; */
+    font-size: 15px;
+    /* padding: 0; */
+    background: #fff;
+    border: 0;
+    color: #202124;
+}
+.itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right li a{
+    padding: 0;
+    font-size: 15px;
+    color: #202124;
+    margin: 0;
+}
+.itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right #search-demo-container{
+    width: 240px;
 }
 .itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right #search-demo-container input{
     margin-top: 0;
-
+    /* color: #BDC1C6; */
+    font-size: 14px;
+    font-weight: 400;
+    border: 1px solid #BDC1C6;
+    border-radius: 4px;
+    width: 240px;
+    margin-left: 0;
+    background-image: url(../images/search.svg);
+    background-repeat: no-repeat;
+    background-position: left 14px center;
+    padding-left: 35px;
 }
 .itAssistDocs .navbar .topnavlinks .navbar-header .navbar-brand{
-    height: auto;
+ padding: 0;
+ display: flex;
 }
 .itAssistDocs .navbar .topnavlinks .navbar-header .navbar-brand .projectTitle{
     flex-shrink: 0;
     transition: height 0.3s;
-    margin-right: 1.4rem;
     color: #202124;
     font-family: 'Inter', 'Open Sans', sans-serif;
     font-size: 14px;
     text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    font-weight: normal;
+}
+.itAssistDocs .navbar .topnavlinks .navbar-header .navbar-brand .mobilelogo{
+    display: none;
+}
+.itAssistDocs .navbar .topnavlinks .navbar-header .navbar-brand .mobileTitle{
+    display: none;
 }
 .itAssistDocs .navbar .topnavlinks .navbar-header .navbar-brand .projectTitle .attachment-large{
     width: 118px;
+    margin-right: 1.4rem;
 }
 .itAssistDocs .container {
     width: 100%;
+    /* height: calc(100% - 80px); */
+    padding-right: 0;
 }
+.itAssistDocs .container #main{
+    height: 100%;
+}
+.itAssistDocs .container .contentbody{
+    display: flex;
+    margin: 0;
+    height: 100%;
+}
+.itAssistDocs .container .contentbody a{
+    color: #0d6efd;
+}
+.itAssistDocs .container .contentbody a::after{
+    display: none;
+}
+.itAssistDocs .container .contentbody p{
+    color: #202124;
+}
+.itAssistDocs .container .leftNav{
+    border-right: 1px solid #e4e5e7;
+    width: 320px;
+    flex-shrink: 0;
+    padding-top: 20px;
+    overflow: auto;
+    height: calc(100vh - 80px);
+}
+.itAssistDocs .container .leftNav h6{
+    font-size: 12px;
+    color: #07377F ;
+    font-weight: 600 ;
+    border-bottom: 1px solid #e0e0e0;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+.itAssistDocs .container .leftNav h6:nth-child(1){
+    border: 0;
+    margin-bottom: 10px;
+    padding-bottom: 0;
+}
+.itAssistDocs .container .leftNav .nav li a{
+    color: #202124;
+    font-size: 12px;
+    text-shadow: none;
+    font-family: inter;
+    line-height: 25px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    background-color:#ffffff;
+    margin-bottom: 6px;
+}
+.itAssistDocs .container .leftNav .nav li a::after{
+    display: none;
+}
+.itAssistDocs .container .leftNav .nav li.active a:hover{
+    color: #ffffff;
+    background-color:#0D6EFD;
+}
+.itAssistDocs .container .leftNav .nav li.active a{
+    color: #ffffff;
+    background-color:#0D6EFD;
+}
+.itAssistDocs .container .leftNav details summary{
+    color: #202124;
+    font-size: 12px;
+    text-shadow: none;
+    font-family: inter;
+    line-height: 25px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    background-color:#ffffff;
+    margin-bottom: 6px;
+    padding: 4px 10px;
+    background-image: url(../images/expand.png);
+    background-repeat: no-repeat;
+    background-position: right center;
+    cursor: pointer;
+}
+.itAssistDocs .container .leftNav  details summary .nav{
+    padding-left: 15px;
+}
+.itAssistDocs .container .leftNav details summary.active{
+    color: #ffffff;
+    background-color:#0D6EFD;
+}
+/* .itAssistDocs .container .leftNav details summary:hover{
+    color: #ffffff;
+    background-color:#0D6EFD;
+} */
+
+
+.itAssistDocs .container .rightContent{
+    width: 100%;
+    padding-top: 15px;
+    padding-right: 250px;
+    overflow: auto;
+    height: calc(100vh - 80px);
+}
+.itAssistDocs .container .rightContent .post-header .post-title-main{
+    color: #07377F!important;
+    font-size: 26px !important;
+    font-weight: 600;
+    margin-bottom: 10px;
+    margin-top: 0;
+}
+.itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right li{
+    padding: 10px;
+}
+/*---mobile---*/
+@media (min-width: 320px) and (max-width: 1200px) {
+    body.itAssistDocs{
+        overflow: auto;
+    }
+    .itAssistDocs .navbar{
+        height: 60px;
+        padding: 5px 15px;
+    }
+    .itAssistDocs .container .leftNav{
+        border-right: 0px solid #e4e5e7;
+        width: 100%;
+        flex-shrink: 0;
+        padding: 0;
+        overflow: initial;
+        height: auto;
+    }
+    .itAssistDocs .container .contentbody{
+        display: block;
+    }
+    .itAssistDocs .navbar .topnavlinks{
+        display: block;
+    }
+    .itAssistDocs .navbar .topnavlinks .navbar-header{
+        display: block;
+        align-items: center;
+        width: 100%;
+    }
+    .itAssistDocs .navbar .topnavlinks .navbar-collapse{
+        display: none !important;
+        align-items: center;
+        width: auto;
+        justify-content: flex-end;
+        border: 0;
+        box-shadow: 0 8px 15px rgb(0 0 0 / 10%);
+        background: #ffffff;
+    }
+    .itAssistDocs .navbar .topnavlinks .navbar-collapse.in{
+        display: block !important;
+        align-items: center;
+        width: auto;
+        justify-content: flex-end;
+        border: 0;
+    }
+    .itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right{
+        background: #ffffff;
+        display: block;
+        width: 100%;
+    }
+    .itAssistDocs .navbar .topnavlinks .navbar-collapse.in .navbar-right{
+        display: block;
+        background: #ffffff;
+        display: block;
+    }
+    .itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right li{
+        padding: 10px;
+    }
+    .itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right #search-demo-container{
+        width: 100%;
+    }
+    .itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right #search-demo-container input{
+        width: 100%;
+    }
+    .itAssistDocs .navbar .topnavlinks .navbar-header .navbar-brand .projectTitle{
+        display: none;
+    }
+    .itAssistDocs .navbar .topnavlinks .navbar-header .navbar-brand{
+        align-items: center;
+    }
+    .itAssistDocs .navbar .topnavlinks .navbar-header .navbar-brand .mobilelogo{
+        display: block;
+    }
+    .itAssistDocs .navbar .topnavlinks .navbar-header .navbar-brand .mobileTitle{
+        display: inline-block;
+        padding-left: 10px;
+        color: #202124;
+    }
+    .itAssistDocs .navbar .topnavlinks .navbar-header .navbar-toggle{
+        background-color: #0D6EFD;
+        border: 1px solid #0d6efd;
+    }
+    .itAssistDocs .container .contentbody{
+        display: block;
+    }
+    .itAssistDocs .container .rightContent{
+        padding-right: 0;
+        overflow: initial;
+        height: auto;
+    }
+    .itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right li button{
+        width: 100%;
+    }
+    div#toc{
+        position: relative;
+        width: 100%;
+    }
+    .div#toc ul{
+        max-width: auto;
+    }
+  }
+  /*---mobile---*/
 /*----IT ASSIST ---*/ 
