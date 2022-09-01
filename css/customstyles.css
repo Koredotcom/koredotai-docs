@@ -242,8 +242,9 @@ ul#results-container a:hover {
 
 div#toc{
     width: 230px;
-    position: absolute;
-    right: 0;
+    position: fixed;
+    right: 40px;
+    top: 100px;
 }
 div#toc ul li {
     margin: 8px 0px 8px 22px;
@@ -1218,6 +1219,9 @@ h4.panel-title {
 }
 
 /*----IT ASSIST ---*/
+body.itAssistDocs{
+    overflow: hidden;
+}
 .itAssistDocs .navbar {
     height: 80px;
     display: flex;
@@ -1356,6 +1360,7 @@ h4.panel-title {
 .itAssistDocs .container {
     width: 100%;
     /* height: calc(100% - 80px); */
+    padding-right: 0;
 }
 .itAssistDocs .container #main{
     height: 100%;
@@ -1379,6 +1384,8 @@ h4.panel-title {
     width: 320px;
     flex-shrink: 0;
     padding-top: 20px;
+    overflow: auto;
+    height: calc(100vh - 80px);
 }
 .itAssistDocs .container .leftNav h6{
     font-size: 12px;
@@ -1452,6 +1459,8 @@ h4.panel-title {
     width: 100%;
     padding-top: 15px;
     padding-right: 240px;
+    overflow: auto;
+    height: calc(100vh - 80px);
 }
 .itAssistDocs .container .rightContent .post-header .post-title-main{
     color: #07377F!important;
@@ -1465,6 +1474,9 @@ h4.panel-title {
 }
 /*---mobile---*/
 @media (min-width: 320px) and (max-width: 1200px) {
+    body.itAssistDocs{
+        overflow: auto;
+    }
     .itAssistDocs .navbar{
         height: 60px;
         padding: 5px 15px;
@@ -1474,6 +1486,8 @@ h4.panel-title {
         width: 100%;
         flex-shrink: 0;
         padding: 0;
+        overflow: initial;
+        height: auto;
     }
     .itAssistDocs .container .contentbody{
         display: block;
@@ -1544,6 +1558,8 @@ h4.panel-title {
     }
     .itAssistDocs .container .rightContent{
         padding-right: 0;
+        overflow: initial;
+        height: auto;
     }
     .itAssistDocs .navbar .topnavlinks .navbar-collapse .navbar-right li button{
         width: 100%;
