@@ -8,63 +8,36 @@ permalink: smartassist/topic-guide/en/latest/Agent Transfer
 #### Topic Guide
 ###### Agent Transfer
 
-  Check out our explanatory FAQs and documentation links on Agent Transfer.
+<br/>
 
-<details open>
-  <summary>FAQs
-  </summary>
+#### Voice Agent Transfer
 
-  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/sdks/botkit-sdk-tutorial-agent-transfer/">
+  Check out our explanatory videos and documentation on Voice Agent Transfer.
+
+
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/smartassist/configuration/voice-agent-transfer/">
  
-  How to setup BotKit SDK?
+
+| Frontmatter | Required? |
+|-------------|-------------|
+| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Voice Agent Transfer | 
+
 
 </a>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/sdks/kore-ai-web-sdk-tutorial/">
- 
-  How to setup Web / Mobile SDK?
+<br/>
 
-</a>
+#### Chat Agent Transfer
 
+  Check out our explanatory videos and documentation on Chat Agent Transfer.
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/sdks/sdk-app-registration/">
- 
-  How to register apps?
-
-</a>
-  
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/sdks/message-templates/">
- 
-  How to configure templates in WebSDK?
-
-</a>
-  
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/api-guide/apis/">
- 
-  How to access bot definition using APIs?
-
-</a>
-  
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/sdks/botkit-sdk-tutorial-agent-transfer/">
- 
-  How to setup Agent Transfer?
-
-</a>
-  
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/dialog-task/working-with-the-agent-transfer-node/">
- 
-  How to use Agent Transfer nodes?
-
-</a>
-
-</details>
 
 <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/sdks/botkit-sdk-tutorial-agent-transfer/">
  
 
 | Frontmatter | Required? |
 |-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Agent Transfer | 
+| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Chat Agent Transfer | 
 
 
 </a>
