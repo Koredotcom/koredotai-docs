@@ -87,11 +87,15 @@
                                 searchInput: document.getElementById('search-input'),
                                 resultsContainer: document.getElementById('results-container'),
                                 dataSource: '{{ "search_platform.json" }}',
-                                searchResultTemplate: '<li><a href="{url}" title="{{page.title | escape }}">{title}</a></li>',
+                                searchResultTemplate: '<li onclick="setCurrentActive(event)"><a href="{url}" title="{{page.title | escape }}">{title}</a></li>',
                     noResultsText: '{{site.data.strings.search_no_results_text}}',
                             limit: 10,
                             fuzzy: true,
-                    })
+                    });
+
+                 function setCurrentActive(e){
+                         sessionStorage.setItem('currentActive',$(e.currentTarget).text());
+                    }
                     </script>
                     <!--end search-->
                 </li>

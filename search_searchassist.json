@@ -7,7 +7,7 @@ search: exclude
 [
     {% assign pagesHtml = "" | split: ',' %}
 {% for page in site.html_pages  %}
-{% if page.url contains  "topic-guide" or page.url contains "platform"  or page.url contains "/index.html" or page.url contains "smartassist" or page.url contains "searchassist" %}
+{% if page.url contains  "topic-guide" or page.url contains "platform"  or page.url contains "/index.html" or page.url contains "smartassist" or page.url contains "itassist" %}
 {% else %}
 {% unless page.search == "exclude" %}
 {% assign pagesHtml = pagesHtml | push: page %}
