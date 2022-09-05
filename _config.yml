@@ -3,11 +3,11 @@ repository: tomjoht/documentation-theme-jekyll
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: Jekyll Documentation Theme
+topnav_title: Documentation
 # this appears on the top navigation bar next to the home button
 
 site_title: Jekyll theme for documentation
-baseUrl: https://koredotcom.github.io/koredotai-docs/
+baseUrl: https://udayap-kore.github.io/koredotai-docs/
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 company_name: Copyright 2021 Google LLC
@@ -66,6 +66,58 @@ defaults:
       path: "docs/platform/topic-guide"
     values:
       layout: "topic"
+
+  -
+    scope:
+      path: "docs/itassist/topic-guide"
+    values:
+      layout: "topic"    
+
+  -
+    scope:
+      path: "docs/smartassist/topic-guide"
+    values:
+      layout: "topic"
+
+  -
+    scope:
+      path: "docs/searchassist/topic-guide"
+    values:
+      layout: "topic" 
+
+  -
+    scope:
+      path: "docs/itassist/docs"
+    values:
+      layout: "page_itassist"
+      sidebar: itassist_sidebar
+      topnav: topnav_itassist
+
+  -
+    scope:
+      path: "docs/platform/docs"
+    values:
+      layout: "page_platform"
+      sidebar: platform_sidebar
+      topnav: topnav_platform   
+
+  -
+    scope:
+      path: "docs/searchassist/docs"
+    values:
+      layout: "page_searchassist"
+      sidebar: searchassist_sidebar
+      topnav: topnav_searchassist    
+
+  -
+    scope:
+      path: "docs/smartassist/docs"
+    values:
+      layout: "page_smartassist"
+      sidebar: searchassist_sidebar
+      topnav: topnav_smartassist    
+
+      
 
 
 # these are defaults used for the frontmatter for these file types
