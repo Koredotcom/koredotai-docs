@@ -87,6 +87,30 @@ defaults:
 
   -
     scope:
+      path: "docs/searchassist/instructions"
+    values:
+      layout: "instructions"     
+
+  -
+    scope:
+      path: "docs/itassist/instructions"
+    values:
+      layout: "instructions"      
+
+  -
+    scope:
+      path: "docs/platform/instructions"
+    values:
+      layout: "instructions"     
+
+  -
+    scope:
+      path: "docs/smartassist/instructions"
+    values:
+      layout: "instructions"        
+
+  -
+    scope:
       path: "docs/itassist/docs"
     values:
       layout: "page_itassist"
