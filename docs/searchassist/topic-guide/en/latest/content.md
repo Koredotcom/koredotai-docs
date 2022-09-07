@@ -26,7 +26,7 @@ permalink: searchassist/topic-guide/en/latest/content
 
   <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/">
  
-  What is Small Talk?
+  What is Content?
 
 </a>
 
