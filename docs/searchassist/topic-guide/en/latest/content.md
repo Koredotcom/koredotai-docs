@@ -7,7 +7,7 @@ permalink: searchassist/topic-guide/en/latest/content
 #### Topic Guide
 ###### content
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Small Talk.
+  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Content.
 
 <details class="introduction-video" open>
   <summary>Introduction
@@ -15,7 +15,7 @@ permalink: searchassist/topic-guide/en/latest/content
   
    [![Introduction to Small Talk](images/VideoCoverImage.png)](https://drive.google.com/file/d/1ohhg7dfgPL0pWVzr8i2kjKveUwO9qy_o/preview)
 
-  ##### Introduction to Small Talk
+  ##### Introduction to Content
   Watch this short video on creating and testing casual conversations between your virtual assistant and end user
 
 </details>
