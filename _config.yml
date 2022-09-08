@@ -109,39 +109,7 @@ defaults:
     values:
       layout: "instructions"        
 
-  -
-    scope:
-      path: "docs/itassist/docs"
-    values:
-      layout: "page_itassist"
-      sidebar: itassist_sidebar
-      topnav: topnav_itassist
 
-  -
-    scope:
-      path: "docs/platform/docs"
-    values:
-      layout: "page_platform"
-      sidebar: platform_sidebar
-      topnav: topnav_platform   
-
-  -
-    scope:
-      path: "docs/searchassist/docs"
-    values:
-      layout: "page_searchassist"
-      sidebar: searchassist_sidebar
-      topnav: topnav_searchassist    
-
-  -
-    scope:
-      path: "docs/smartassist/docs"
-    values:
-      layout: "page_smartassist"
-      sidebar: searchassist_sidebar
-      topnav: topnav_smartassist    
-
-      
 
 
 # these are defaults used for the frontmatter for these file types
