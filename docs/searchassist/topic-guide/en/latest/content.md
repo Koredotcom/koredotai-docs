@@ -17,7 +17,7 @@ permalink: searchassist/topic-guide/en/latest/content
 
 | Frontmatter | Required? |
 |-------------|-------------|
-|  ![alt text](SearchAssistVideothumbnail-1.png "Title") | **Video 1**  <br /> Watch this short video on how to use content to build search component1.| 
+|  ![alt text](images/SearchAssistVideothumbnail-1.png "Title") | **Video 1**  <br /> Watch this short video on how to use content to build search component1.| 
 
 
 </a>
