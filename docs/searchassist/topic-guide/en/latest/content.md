@@ -5,14 +5,22 @@ permalink: searchassist/topic-guide/en/latest/content
 
 ---
 #### Topic Guide
-###### content
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Content.
+
+  Check out our explanatory videos, FAQs, Kore.ai Academy courses and documentation links on storyboard.
 
 <details class="introduction-video" open>
-  <summary>Introduction
+  <summary>Videos
   </summary>
-  
+  <a class="doc-link" target="_blank" href="https://academy.kore.ai/learningpath/course-110---introduction-to-small-talk">
+ 
+
+| Frontmatter | Required? |
+|-------------|-------------|
+| ![alt text](images/SearchAssist Video thumbnail-1.png "Title") | **Video 1**  <br /> Watch this short video on how to use content to build search component.| 
+
+
+</a>
 
 
   ##### Introduction to search  Content
