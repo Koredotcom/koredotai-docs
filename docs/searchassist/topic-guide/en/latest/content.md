@@ -12,7 +12,7 @@ permalink: searchassist/topic-guide/en/latest/content
 <details class="introduction-video" open>
   <summary>Videos
   </summary>
-  <a class="doc-link" target="_blank" href="https://academy.kore.ai/learningpath/course-110---introduction-to-small-talk">
+  <a class="doc-link" target="_blank" href="https://drive.google.com/file/d/1ohhg7dfgPL0pWVzr8i2kjKveUwO9qy_o/preview">
  
 
 | Frontmatter | Required? |
