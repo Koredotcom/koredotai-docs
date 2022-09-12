@@ -9,9 +9,10 @@ permalink: searchassist/topic-guide/en/latest/content
 
   Check out our explanatory videos, FAQs, Kore.ai Academy courses and documentation links on storyboard.
 
- <details-video class="introduction-video" open>
+ <details-video>
+  
   <summary>Videos
-  </summary>
+   </summary>
   <a class="doc-link" target="_blank" href="https://drive.google.com/file/d/1ohhg7dfgPL0pWVzr8i2kjKveUwO9qy_o/preview">
  
 
