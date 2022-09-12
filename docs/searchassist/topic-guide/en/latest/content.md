@@ -9,16 +9,15 @@ permalink: searchassist/topic-guide/en/latest/content
 
   Check out our explanatory videos, FAQs, Kore.ai Academy courses and documentation links on storyboard.
 
- <details-video>
-  
+ <details-video class="introduction-video" open>
   <summary>Videos
-   </summary>
+  </summary>
   <a class="doc-link" target="_blank" href="https://drive.google.com/file/d/1ohhg7dfgPL0pWVzr8i2kjKveUwO9qy_o/preview">
  
 
 | Frontmatter | Required? |
 |-------------|-------------|
-|  ![alt text](images/SA_Video_cover_1.svg "Title") | **Video 1**  <br /> Watch this short video on how to use content to build search component1.| 
+|  ![alt text](images/SA_Video_cover_1.svg "Title") | **Video 1**  <br /> Watch this short video on how to use content to build search component.| 
 
 
 </a>
