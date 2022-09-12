@@ -9,7 +9,7 @@ permalink: searchassist/topic-guide/en/latest/content
 
   Check out our explanatory videos, FAQs, Kore.ai Academy courses and documentation links on storyboard.
 
-<details class="introduction-video" open>
+ <details-video class="introduction-video" open>
   <summary>Videos
   </summary>
   <a class="doc-link" target="_blank" href="https://drive.google.com/file/d/1ohhg7dfgPL0pWVzr8i2kjKveUwO9qy_o/preview">
@@ -17,7 +17,7 @@ permalink: searchassist/topic-guide/en/latest/content
 
 | Frontmatter | Required? |
 |-------------|-------------|
-|  ![alt text](images/SA_Video_cover_1.svg "Title") | **Video 1**  <br /> Watch this short video on how to use content to build search component21.| 
+|  ![alt text](images/SA_Video_cover_1.svg "Title") | **Video 1**  <br /> Watch this short video on how to use content to build search component.| 
 
 
 </a>
@@ -26,7 +26,7 @@ permalink: searchassist/topic-guide/en/latest/content
   ##### Introduction to search  Content
   Watch this short video on creating and testing casual conversations between your virtual assistant and end user
 
-</details>
+</details-video>
 
 <details>
   <summary>FAQs
