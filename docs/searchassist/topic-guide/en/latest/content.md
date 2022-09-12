@@ -19,7 +19,7 @@ permalink: searchassist/topic-guide/en/latest/content
 |-------------|-------------|
 |  ![alt text](images/SA_Video_cover_1.svg "Title")(https://drive.google.com/file/d/1ohhg7dfgPL0pWVzr8i2kjKveUwO9qy_o/preview) | **Video 1**  <br /> Watch this short video on how to use content to build search component.| 
    
-  </a>
+ </a>
 
 
 
