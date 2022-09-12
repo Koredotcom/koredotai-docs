@@ -1,11 +1,11 @@
 ---
-title: Small Talk
+title: Content
 
 permalink: searchassist/topic-guide/en/latest/content
 
 ---
 #### Topic Guide
-###### Small Talk
+###### Content
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Small Talk.
 
@@ -66,7 +66,7 @@ permalink: searchassist/topic-guide/en/latest/content
 
 | Frontmatter | Required? |
 |-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Academy**  <br /> Access the Kore Academy course 110 - Introduction to small talk | 
+| ![alt text](images/SA_Academy_icon.svg "Title") | **Academy**  <br /> Access the Kore Academy course 110 - Introduction to small talk | 
 
 
 </a>
@@ -77,7 +77,7 @@ permalink: searchassist/topic-guide/en/latest/content
 
 | Frontmatter | Required? |
 |-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Small Talk | 
+| ![alt text](images/SA_Documentation_Icon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Small Talk | 
 
 
 </a>
