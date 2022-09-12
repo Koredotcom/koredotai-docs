@@ -23,12 +23,6 @@ permalink: searchassist/topic-guide/en/latest/content
  </a>
 
 
-
-
-
-  ##### Introduction to search  Content
-  Watch this short video on creating and testing casual conversations between your virtual assistant and end user
-
 </details-video>
 
 <details>
