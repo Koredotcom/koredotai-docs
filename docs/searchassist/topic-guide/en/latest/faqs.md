@@ -5,7 +5,7 @@ permalink: searchassist/topic-guide/en/latest/faqs
 
 ---
 #### Topic Guide
-###### FAQ
+######  FAQ
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on faq's.
 
