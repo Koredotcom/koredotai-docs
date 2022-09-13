@@ -5,7 +5,7 @@ permalink: searchassist/topic-guide/en/latest/Content
 
 ---
 #### Topic Guide
-###### Connectors
+###### Content
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on content.
 
