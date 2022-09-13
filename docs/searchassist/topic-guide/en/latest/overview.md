@@ -1,7 +1,7 @@
 ---
 title: Overview
 
-permalink: searchassist/topic-guide/en/latest/metrics
+permalink: searchassist/topic-guide/en/latest/summary
 
 ---
 #### Topic Guide
