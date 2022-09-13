@@ -1,7 +1,7 @@
 ---
 title: Content
 
-permalink: searchassist/topic-guide/en/latest/Structured Data
+permalink: searchassist/topic-guide/en/latest/structuredData
 
 ---
 #### Topic Guide
