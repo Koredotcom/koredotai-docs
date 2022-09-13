@@ -13,7 +13,7 @@ permalink: searchassist/topic-guide/en/latest/faqs
   <summary>Introduction
   </summary>
   
-   [![Introduction to Small Talk](images/SA_Intoduction_Video_image.svg)](https://drive.google.com/file/d/1ohhg7dfgPL0pWVzr8i2kjKveUwO9qy_o/preview)
+   [![Introduction to Small Talk](images/images/VideoCoverImage.png)](https://drive.google.com/file/d/1ohhg7dfgPL0pWVzr8i2kjKveUwO9qy_o/preview)
 
   ##### Introduction to Small Talk 
   Watch this short video on creating and testing casual conversations between your virtual assistant and end user
@@ -66,7 +66,7 @@ permalink: searchassist/topic-guide/en/latest/faqs
 
 | Frontmatter | Required? |
 |-------------|-------------|
-| ![alt text](images/SA_Academy_icon.svg "Title") | **Academy**  <br /> Access the Kore Academy course 110 - Introduction to small talk | 
+| ![alt text](images/docIcon.svg "Title") | **Academy**  <br /> Access the Kore Academy course 110 - Introduction to small talk | 
 
 
 </a>
@@ -77,7 +77,7 @@ permalink: searchassist/topic-guide/en/latest/faqs
 
 | Frontmatter | Required? |
 |-------------|-------------|
-| ![alt text](images/SA_Documentation_Icon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Small Talk | 
+| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Small Talk | 
 
 
 </a>
