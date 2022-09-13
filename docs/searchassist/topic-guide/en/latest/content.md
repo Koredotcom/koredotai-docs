@@ -1,7 +1,7 @@
 ---
 title: Content
 
-permalink: searchassist/topic-guide/en/latest/content
+permalink: searchassist/topic-guide/en/latest/Content
 
 ---
 #### Topic Guide
