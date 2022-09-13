@@ -13,7 +13,7 @@ permalink: searchassist/topic-guide/en/latest/FieldManagementComponent
   <summary>Introduction
   </summary>
   
-   [![Introduction to Small Talk](images/VideoCoverImage.png)](https://drive.google.com/file/d/1ohhg7dfgPL0pWVzr8i2kjKveUwO9qy_o/preview)
+   [![Introduction to Small Talk](images/VideoCoverImage.png)](https://drive.google.com/file/d/1_0PBQ_l6xq_818zGNKqEp9M7GlKq0I9Z/preview)
 
   ##### Introduction to Small Talk 
   Watch this short video on creating and testing casual conversations between your virtual assistant and end user
