@@ -7,7 +7,7 @@ permalink: searchassist/topic-guide/en/latest/FieldManagementComponent
 #### Topic Guide
 ###### Fields
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on content.
+  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on content update.
 
 <details class="introduction-video" open>
   <summary>Introduction
