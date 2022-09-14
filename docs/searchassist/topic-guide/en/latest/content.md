@@ -10,13 +10,13 @@ permalink: searchassist/topic-guide/en/latest/content
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on content.
 
 <details class="introduction-video" open>
-  <summary>Introduction
+  <summary>Videos
   </summary>
   
-   [![Introduction to Small Talk](images/VideoCoverImage.png)](https://drive.google.com/file/d/1ohhg7dfgPL0pWVzr8i2kjKveUwO9qy_o/preview)
+   [![How to add content from your website by crawling?](images/VideoCoverImage.png)]([https://drive.google.com/file/d/1ohhg7dfgPL0pWVzr8i2kjKveUwO9qy_o/preview](https://drive.google.com/file/d/1qrRS-VgeHyMM4gOiaKhYIrxsmHtFd7lU/view))
 
   ##### Introduction to Small Talk 
-  Watch this short video on creating and testing casual conversations between your virtual assistant and end user
+  Watch this short video to know about adding content from your website usingWeb Crawl.
 
 </details>
 
