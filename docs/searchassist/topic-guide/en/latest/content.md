@@ -15,8 +15,8 @@ permalink: searchassist/topic-guide/en/latest/content
   
    [![How to add content from your website by crawling?](images/VideoCoverImage.png)]([https://drive.google.com/file/d/1ohhg7dfgPL0pWVzr8i2kjKveUwO9qy_o/preview](https://drive.google.com/file/d/1qrRS-VgeHyMM4gOiaKhYIrxsmHtFd7lU/view))
 
-  ##### Introduction to Small Talk 
-  Watch this short video to know about adding content from your website usingWeb Crawl.
+  ##### How to add content from your website by crawling?
+  Watch this short video to know about adding content from your website using Web Crawl.
 
 </details>
 
