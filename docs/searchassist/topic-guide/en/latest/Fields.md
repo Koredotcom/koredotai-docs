@@ -13,10 +13,10 @@ permalink: searchassist/topic-guide/en/latest/FieldManagementComponent
   <summary>Introduction
   </summary>
   
-   [![Introduction to Small Talk](images/VideoCoverImage.png)](https://drive.google.com/file/d/1_0PBQ_l6xq_818zGNKqEp9M7GlKq0I9Z/preview)
+   [![How to add/edit field configurations](images/VideoCoverImage.png)](https://drive.google.com/file/d/1x_24uV7I8dcLsMVlfoUbpUemPJxPwynn/view?usp=sharing)
 
-  ##### Introduction to Small Talk 
-  Watch this short video on creating and testing casual conversations between your virtual assistant and end user
+  ##### Configuring Fields
+  Watch this short video on Configuring Fields
 
 </details>
 
@@ -24,60 +24,40 @@ permalink: searchassist/topic-guide/en/latest/FieldManagementComponent
   <summary>FAQs
   </summary>
 
-  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/">
+  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-indices/configuring-search-fields/">
  
-  What is Small Talk?
+  What are fields in SearchAssist ?
 
 </a>
 
- <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#Creation">
+ <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-indices/configuring-search-fields/">
  
-  How to create Small Talk?
+  How do i add custom fields?
 
 </a>
  
-  
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#Terminology">
-
-  What are Small Talk groups?
-
-</a>
-  
-  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#Default_Small_Talk">
- 
-  What are the default greetings supported?
-
-</a>
-
-
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/nlp/additional-notes-nlp-settings-guidelines/#Patterns">
-
-  What are the guidelines for defining patterns for Small Talk?
-
-</a>
-
 
 </details>
 
 
 
-<a class="doc-link" target="_blank" href="https://academy.kore.ai/learningpath/course-110---introduction-to-small-talk">
+<a class="doc-link" target="_blank" href="">
  
 
 | Frontmatter | Required? |
 |-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Academy**  <br /> Access the Kore Academy course 110 - Introduction to small talk | 
+| ![alt text](images/docIcon.svg "Title") | **Academy**  <br /> Access the Kore Academy course 110 - Introduction to Fields | 
 
 
 </a>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-indices/configuring-search-fields/">
  
 
 | Frontmatter | Required? |
 |-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Small Talk | 
+| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our in depth documentation articles on Configuring Fields | 
 
 
 </a>
