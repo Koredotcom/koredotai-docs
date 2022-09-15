@@ -53,7 +53,7 @@ Watch this short video to know how to Add Document to your application.
   
 <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-content/crawling-web-pages/">
 
-  How to upload files as content to your Appliacation?
+  How to upload files as content to your Application?
 
 </a>
   
