@@ -7,10 +7,10 @@ permalink: searchassist/topic-guide/en/latest/FieldManagementComponent
 #### Topic Guide
 ###### Fields
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on content update.
+  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Configuring Fields.
 
 <details class="introduction-video" open>
-  <summary>Introduction
+  <summary>Videos
   </summary>
   
    [![How to add/edit field configurations](images/VideoCoverImage.png)](https://drive.google.com/file/d/1x_24uV7I8dcLsMVlfoUbpUemPJxPwynn/view?usp=sharing)
