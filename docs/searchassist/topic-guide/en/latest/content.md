@@ -18,7 +18,7 @@ permalink: searchassist/topic-guide/en/latest/2videos
     
   [![Crawl Web Domain ](images/VideoCoverImage.png)](https://drive.google.com/file/d/1qrRS-VgeHyMM4gOiaKhYIrxsmHtFd7lU/view?usp=sharing)
 
- ##### Heading text goes here!
+ ##### Crawling Web Pages
 Watch this short video to know how to add content to your application by Crawling a Web domain.
 
   </details-video>
@@ -27,7 +27,7 @@ Watch this short video to know how to add content to your application by Crawlin
     
   [![Upload Documents ](images/VideoCoverImage.png)](https://drive.google.com/file/d/1JC8UntsRQtSOa6qIXANZHoGaQJOT14_X/view?usp=sharing)
 
- ##### Heading text goes here!
+ ##### Adding Documents
 Watch this short video to know how to Add Document to your application.
 
   </details-video>
@@ -79,7 +79,7 @@ Watch this short video to know how to Add Document to your application.
 
 | Frontmatter | Required? |
 |-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our in depth documentation articles on Introduction to Content Sources | 
+| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our in depth documentation articles on Content. | 
 
 
 </a>
