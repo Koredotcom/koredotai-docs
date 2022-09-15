@@ -1,67 +1,69 @@
 ---
-title: Content
+title: content
 
-permalink: searchassist/topic-guide/en/latest/content
+permalink: searchassist/topic-guide/en/latest/2videos
 
 ---
 #### Topic Guide
 ###### Content
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on content.
 
-<details class="introduction-video" open>
-  <summary>Videos
-  </summary>
-  
-   [![How to add content from your website by crawling?](images/VideoCoverImage.png)]([https://drive.google.com/file/d/1ohhg7dfgPL0pWVzr8i2kjKveUwO9qy_o/preview](https://drive.google.com/file/d/1qrRS-VgeHyMM4gOiaKhYIrxsmHtFd7lU/view))
+ Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Content.
 
-  ##### How to add content from your website by crawling?
-  Watch this short video to know about adding content from your website using Web Crawl.
+  <details >
+ <summary>Videos
+ </summary>
 
+  <details-video>
+    
+  [![Crawl Web Domain ](images/VideoCoverImage.png)](https://drive.google.com/file/d/1qrRS-VgeHyMM4gOiaKhYIrxsmHtFd7lU/view?usp=sharing)
+
+ ##### Heading text goes here!
+Watch this short video to know how to add content to your application by Crawling a Web domain.
+
+  </details-video>
+    
+  <details-video>
+    
+  [![Upload Documents ](images/VideoCoverImage.png)](https://drive.google.com/file/d/1JC8UntsRQtSOa6qIXANZHoGaQJOT14_X/view?usp=sharing)
+
+ ##### Heading text goes here!
+Watch this short video to know how to Add Document to your application.
+
+  </details-video>
+ 
 </details>
 
 <details>
   <summary>FAQs
   </summary>
 
-  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/">
+  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-content/crawling-web-pages/">
  
-  What is Small Talk?
+  How to add content from your website by crawling?
 
 </a>
 
- <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#Creation">
+ <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-content/crawling-web-pages/">
  
-  How to create Small Talk?
+   How to schedule Auto-Crawl for your website?
 
 </a>
  
   
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#Terminology">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-content/crawling-web-pages/">
 
-  What are Small Talk groups?
+  How to upload files as content to your Appliacation?
 
 </a>
   
-  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#Default_Small_Talk">
- 
-  What are the default greetings supported?
-
-</a>
-
-
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/nlp/additional-notes-nlp-settings-guidelines/#Patterns">
-
-  What are the guidelines for defining patterns for Small Talk?
-
-</a>
 
 
 </details>
 
 
 
-<a class="doc-link" target="_blank" href="https://academy.kore.ai/learningpath/course-110---introduction-to-small-talk">
+<a class="doc-link" target="_blank" href="">
  
 
 | Frontmatter | Required? |
@@ -72,12 +74,12 @@ permalink: searchassist/topic-guide/en/latest/content
 </a>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-content/introduction-to-content-sources/">
  
 
 | Frontmatter | Required? |
 |-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Small Talk | 
+| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our in depth documentation articles on Introduction to Content Sources | 
 
 
 </a>
