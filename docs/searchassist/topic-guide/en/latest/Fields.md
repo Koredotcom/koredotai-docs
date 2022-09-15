@@ -32,7 +32,7 @@ permalink: searchassist/topic-guide/en/latest/FieldManagementComponent
 
  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-indices/configuring-search-fields/">
  
-  How do i add custom fields?
+  How do I add custom fields?
 
 </a>
  
