@@ -15,7 +15,7 @@ permalink: searchassist/topic-guide/en/latest/index
 
   <details-video>
     
-  [![Introduction to Workbench & Field Mapping](images/SA_Video_cover_1.svg "Title")](https://drive.google.com/file/d/1cpAzVpyOwpN9IIuKRn761rr3493ZB7UJ/view?usp=sharing)
+  [![Introduction to Workbench & Field Mapping](images/VideoCoverImage.png)](https://drive.google.com/file/d/1cpAzVpyOwpN9IIuKRn761rr3493ZB7UJ/view?usp=sharing)
 
  ##### Introduction to Workbench & its Stages
 Watch this short video to know how to configure Workbench & its stages.
@@ -24,7 +24,7 @@ Watch this short video to know how to configure Workbench & its stages.
     
   <details-video>
     
-  [![AI Workbench Stages](images/SA_Video_cover_1.svg "Title")](https://drive.google.com/file/d/1bzu_SgCFV1V2kf9JOy8R9Tm7yBclZiJU/view?usp=sharing)
+  [![AI Workbench Stages](images/VideoCoverImage.png)](https://drive.google.com/file/d/1bzu_SgCFV1V2kf9JOy8R9Tm7yBclZiJU/view?usp=sharing)
 
  ##### AI Workbench Stage
 Watch this short video to know about AI Workbench Stages.
