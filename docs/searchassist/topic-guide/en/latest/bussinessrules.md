@@ -52,7 +52,6 @@ permalink: searchassist/topic-guide/en/latest/rules
 </details>
 
 
-
 <a class="doc-link" target="_blank" href="">
  
 
