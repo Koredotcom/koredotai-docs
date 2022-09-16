@@ -7,16 +7,16 @@ permalink: searchassist/topic-guide/en/latest/search-experience
 #### Topic Guide
 ###### Search Interface
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on content.
+  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Search Interface.
 
 <details class="introduction-video" open>
-  <summary>Introduction
+  <summary>Videos
   </summary>
   
-   [![Introduction to Small Talk](images/VideoCoverImage.png)](https://drive.google.com/file/d/1ohhg7dfgPL0pWVzr8i2kjKveUwO9qy_o/preview)
+   [![Introduction to Search Interface](images/VideoCoverImage.png)](https://drive.google.com/file/d/1i7j9r1YQkCgRKCw1avJo8WN_D2GihSIy/view?usp=sharing)
 
-  ##### Introduction to Small Talk 
-  Watch this short video on creating and testing casual conversations between your virtual assistant and end user
+  ##### Introduction to Search Interface
+  Watch this short video to know how to configure Search Interface.
 
 </details>
 
@@ -24,37 +24,27 @@ permalink: searchassist/topic-guide/en/latest/search-experience
   <summary>FAQs
   </summary>
 
-  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/">
+  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/designing-search-experience/designing-search-experience/">
  
-  What is Small Talk?
+ How to customize search Experience?
 
 </a>
 
- <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#Creation">
+ <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/designing-search-experience/designing-search-experience/">
  
-  How to create Small Talk?
+ What is the Search bar and Assistant experience?
+
 
 </a>
  
   
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#Terminology">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/designing-search-experience/designing-search-experience/">
 
-  What are Small Talk groups?
+  How to design my search bar experience?
 
 </a>
   
-  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#Default_Small_Talk">
- 
-  What are the default greetings supported?
 
-</a>
-
-
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/nlp/additional-notes-nlp-settings-guidelines/#Patterns">
-
-  What are the guidelines for defining patterns for Small Talk?
-
-</a>
 
 
 </details>
@@ -72,12 +62,12 @@ permalink: searchassist/topic-guide/en/latest/search-experience
 </a>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/designing-search-experience/designing-search-experience/">
  
 
 | Frontmatter | Required? |
 |-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Small Talk | 
+| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Search Interface | 
 
 
 </a>
