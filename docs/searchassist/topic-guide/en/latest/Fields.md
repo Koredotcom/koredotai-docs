@@ -13,10 +13,10 @@ permalink: searchassist/topic-guide/en/latest/FieldManagementComponent
   <summary>Videos
   </summary>
   
-   [![How to add/edit field configurations](images/VideoCoverImage.png)](https://drive.google.com/file/d/1x_24uV7I8dcLsMVlfoUbpUemPJxPwynn/view?usp=sharing)
+   [![Configuiring Fields](images/VideoCoverImage.png)](https://drive.google.com/file/d/1x_24uV7I8dcLsMVlfoUbpUemPJxPwynn/view?usp=sharing)
 
   ##### Configuring Fields
-  Watch this short video on Configuring Fields
+  Watch this short video to know how to Configure Fields.
 
 </details>
 
