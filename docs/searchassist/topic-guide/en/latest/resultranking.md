@@ -15,7 +15,7 @@ permalink: searchassist/topic-guide/en/latest/resultranking
   
    [![Introduction to Results Ranking](images/VideoCoverImage.png)](https://drive.google.com/file/d/1Ofkm0huTn0qWLnke79zE_QMEpXDz_gxL/view?usp=sharing)
 
-  ##### Introduction to Result Ranking 
+  ##### Introduction to Results Ranking 
   Watch this short video to know how to configure Results Ranking.
 
 </details>
