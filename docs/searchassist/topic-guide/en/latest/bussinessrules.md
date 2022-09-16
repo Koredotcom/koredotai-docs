@@ -7,16 +7,16 @@ permalink: searchassist/topic-guide/en/latest/rules
 #### Topic Guide
 ###### Bussiness Rules
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on content.
+  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Business Rules.
 
 <details class="introduction-video" open>
-  <summary>Introduction
+  <summary>Videos
   </summary>
   
-   [![Introduction to Small Talk](images/VideoCoverImage.png)](https://drive.google.com/file/d/1ohhg7dfgPL0pWVzr8i2kjKveUwO9qy_o/preview)
+   [![Introduction to Business Rules](images/VideoCoverImage.png)](https://drive.google.com/file/d/1yhobacJB-ady55EtNPDlxQSsd5YRzKcV/view?usp=sharing)
 
-  ##### Introduction to Small Talk 
-  Watch this short video on creating and testing casual conversations between your virtual assistant and end user
+  ##### Introduction to Business Rules
+  Watch this short video to know how to configure Business Rules.
 
 </details>
 
@@ -24,44 +24,36 @@ permalink: searchassist/topic-guide/en/latest/rules
   <summary>FAQs
   </summary>
 
-  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/">
+  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/personalizing-results/personalizing-results-ranking/#Configuring_Business_Rules">
  
-  What is Small Talk?
+  What are Business rules ?
 
 </a>
 
- <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#Creation">
+ <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/personalizing-results/personalizing-results-ranking/#Configuring_Business_Rules">
  
-  How to create Small Talk?
+  How to add conditions and define an outcome?
 
 </a>
  
   
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#Terminology">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/personalizing-results/personalizing-results-ranking/#Configuring_Business_Rules">
 
-  What are Small Talk groups?
+  What are contexts in Business rules?
+
 
 </a>
   
-  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#Default_Small_Talk">
+  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/personalizing-results/personalizing-results-ranking/#Configuring_Business_Rules">
  
-  What are the default greetings supported?
-
-</a>
-
-
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/nlp/additional-notes-nlp-settings-guidelines/#Patterns">
-
-  What are the guidelines for defining patterns for Small Talk?
-
-</a>
+  How do I edit or delete Business rules?
 
 
 </details>
 
 
 
-<a class="doc-link" target="_blank" href="https://academy.kore.ai/learningpath/course-110---introduction-to-small-talk">
+<a class="doc-link" target="_blank" href="">
  
 
 | Frontmatter | Required? |
@@ -72,12 +64,12 @@ permalink: searchassist/topic-guide/en/latest/rules
 </a>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/personalizing-results/personalizing-results-ranking/#Configuring_Business_Rules">
  
 
 | Frontmatter | Required? |
 |-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Small Talk | 
+| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our in depth documentation articles on Business Rules. | 
 
 
 </a>
