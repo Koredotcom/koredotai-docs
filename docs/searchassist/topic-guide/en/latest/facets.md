@@ -7,16 +7,16 @@ permalink: searchassist/topic-guide/en/latest/facets
 #### Topic Guide
 ###### Facets
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on content.
+  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Facets.
 
 <details class="introduction-video" open>
-  <summary>Introduction
+  <summary>Videos
   </summary>
   
-   [![Introduction to Small Talk](images/VideoCoverImage.png)](https://drive.google.com/file/d/1ohhg7dfgPL0pWVzr8i2kjKveUwO9qy_o/preview)
+   [![Introduction to Facets](images/VideoCoverImage.png)](https://drive.google.com/file/d/1c1s43uZudmR0lqYGUinghJtHetPpQm90/view?usp=sharing)
 
-  ##### Introduction to Small Talk 
-  Watch this short video on creating and testing casual conversations between your virtual assistant and end user
+  ##### Introduction to Facets 
+  Watch this short video to know how to configure Facets.
 
 </details>
 
@@ -24,35 +24,28 @@ permalink: searchassist/topic-guide/en/latest/facets
   <summary>FAQs
   </summary>
 
-  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/">
+  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-relevance/managing-relevance/#Creating_Facets">
  
-  What is Small Talk?
+  What are Facets and its types in Searchassist?
 
 </a>
 
- <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#Creation">
+ <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-relevance/managing-relevance/#Filter_Facets">
  
-  How to create Small Talk?
+ How to configure a Filter Facet?
 
 </a>
  
   
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#Terminology">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-relevance/managing-relevance/#Sortable_Facets">
 
-  What are Small Talk groups?
+  How to configure a Sortable Facet?
 
 </a>
   
-  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#Default_Small_Talk">
+  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-relevance/managing-relevance/#Tab_Facets">
  
-  What are the default greetings supported?
-
-</a>
-
-
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/nlp/additional-notes-nlp-settings-guidelines/#Patterns">
-
-  What are the guidelines for defining patterns for Small Talk?
+  How to configure a Tab Facet?
 
 </a>
 
@@ -72,12 +65,12 @@ permalink: searchassist/topic-guide/en/latest/facets
 </a>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-relevance/managing-relevance/#Creating_Facets">
  
 
 | Frontmatter | Required? |
 |-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Small Talk | 
+| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Facets | 
 
 
 </a>
