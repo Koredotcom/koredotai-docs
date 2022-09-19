@@ -10,7 +10,7 @@ permalink: searchassist/topic-guide/en/latest/FieldManagementComponent
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Configuring Fields.
 
 <details class="introduction-video" open>
-  <summary>Videos
+  <summary>Video
   </summary>
   
    [![Configuiring Fields](images/VideoCoverImage.png)](https://drive.google.com/file/d/1x_24uV7I8dcLsMVlfoUbpUemPJxPwynn/view?usp=sharing)
@@ -38,18 +38,6 @@ permalink: searchassist/topic-guide/en/latest/FieldManagementComponent
  
 
 </details>
-
-
-
-<a class="doc-link" target="_blank" href="">
- 
-
-| Frontmatter | Required? |
-|-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Academy**  <br /> Access the Kore Academy course 110 - Introduction to Fields | 
-
-
-</a>
 
 
 <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-indices/configuring-search-fields/">
