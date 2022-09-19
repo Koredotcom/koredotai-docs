@@ -1,13 +1,13 @@
 ---
-title: Action Task
+title: Actions
 
-permalink: platform/topic-guide/en/latest/Action Task
+permalink: platform/topic-guide/en/latest/Actions
 
 ---
 #### Topic Guide
-###### Action Task
+###### Actions
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Action Task.
+  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Actions.
 
 <details open>
   <summary>FAQs
@@ -61,7 +61,7 @@ permalink: platform/topic-guide/en/latest/Action Task
 
 | Frontmatter | Required? |
 |-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Action Task | 
+| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Actions | 
 
 
 </a>
