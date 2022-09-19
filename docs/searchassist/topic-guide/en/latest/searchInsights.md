@@ -13,7 +13,7 @@ permalink: searchassist/topic-guide/en/latest/searchInsights
   <summary>Videos
   </summary>
   
-   [![Introduction to Search Insights](images/VideoCoverImage.png)](https://drive.google.com/file/d/1ohhg7dfgPL0pWVzr8i2kjKveUwO9qy_o/preview)
+   [![Introduction to Search Insights](images/VideoCoverImage.png)](https://drive.google.com/file/d/1DKuiMF3GW4ZoH4j7UuV3P2Cu3Wh9nJEX/view?usp=sharing)
 
   ##### Introduction to Search Insights
   Watch this short video to know about Search Insights.
