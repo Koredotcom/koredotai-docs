@@ -62,12 +62,12 @@ permalink: searchassist/topic-guide/en/latest/search-experience
 </a>
 
 
-<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/designing-search-experience/designing-search-experience/">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/designing-search-experience/designing-search-experience/#Designing_Results_Templates">
  
 
 | Frontmatter | Required? |
 |-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Search Interface | 
+| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our in depth documentation articles on Results Template | 
 
 
 </a>
