@@ -10,7 +10,7 @@ permalink: searchassist/topic-guide/en/latest/faqs
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on FAQs.
 
 <details class="introduction-video" open>
-  <summary>Video's
+  <summary>Video
   </summary>
   
   [![Adding FAQs](images/VideoCoverImage.png)](https://drive.google.com/file/d/17rdZy6PMQEvE4sOrV769RkxeVXMuwr92/preview)
