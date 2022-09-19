@@ -13,7 +13,7 @@ permalink: searchassist/topic-guide/en/latest/faqs
   <summary>Videos
   </summary>
   
-  [![Adding FAQs](images/VideoCoverImage.png)](https://drive.google.com/file/d/17rdZy6PMQEvE4sOrV769RkxeVXMuwr92/view?usp=sharing)
+  [![Adding FAQs](images/VideoCoverImage.png)](https://drive.google.com/file/d/17rdZy6PMQEvE4sOrV769RkxeVXMuwr92/preview)
 
   ##### Adding FAQs 
   Watch this short video to know how to add FAQs to your application.
