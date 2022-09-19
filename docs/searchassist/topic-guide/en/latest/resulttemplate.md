@@ -13,10 +13,10 @@ permalink: searchassist/topic-guide/en/latest/resultTemplate
   <summary>Videos
   </summary>
   
-   [![Introduction to Results Template](images/VideoCoverImage.png)](https://drive.google.com/file/d/1zPr0cwKDsga8O1slCAUfzyoM61F4YVkh/view?usp=sharing)
+   [![Introduction to Result Templates](images/VideoCoverImage.png)](https://drive.google.com/file/d/1zPr0cwKDsga8O1slCAUfzyoM61F4YVkh/preview)
 
-  ##### Introduction to Results Template 
-  Watch this short video to know how to configure Results Template.
+  ##### Introduction to Results Template
+  Watch this short video to know about Results Template.
 
 </details>
 
@@ -24,19 +24,20 @@ permalink: searchassist/topic-guide/en/latest/resultTemplate
   <summary>FAQs
   </summary>
 
-  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/designing-search-experience/designing-search-experience/#Designing_Results_Templates">
+  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/">
  
   What are Result templates ?
 
+
 </a>
 
- <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/designing-search-experience/designing-search-experience/#Designing_Results_Templates">
+ <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#Creation">
  
   How to design templates for the search results?
 
 </a>
  
-
+ 
 
 </details>
 
@@ -53,12 +54,12 @@ permalink: searchassist/topic-guide/en/latest/resultTemplate
 </a>
 
 
-<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/designing-search-experience/designing-search-experience/#Designing_Results_Templates">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#">
  
 
 | Frontmatter | Required? |
 |-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our in depth documentation articles on Result Template   | 
+| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Small Talk | 
 
 
 </a>
