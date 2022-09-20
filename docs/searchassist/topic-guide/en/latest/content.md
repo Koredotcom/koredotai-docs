@@ -11,21 +11,21 @@ permalink: searchassist/topic-guide/en/latest/content
  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Content.
 
   <details >
- <summary>Videos
+ <summary>Video
  </summary>
 
   <details-video>
     
-  [![Crawl Web Domain ](images/VideoCoverImage.png)](https://drive.google.com/file/d/1qrRS-VgeHyMM4gOiaKhYIrxsmHtFd7lU/view?usp=sharing)
+  [![Crawl Web Domain ](images/VideoCoverImage.png)](https://player.vimeo.com/video/751565216?h=aef213c599&amp)
 
- ##### Crawling Web Pages
+ ##### Crawl Web Domains
 Watch this short video to know how to add content to your application by Crawling a Web domain.
 
   </details-video>
     
   <details-video>
     
-  [![Upload Documents ](images/VideoCoverImage.png)](https://drive.google.com/file/d/1JC8UntsRQtSOa6qIXANZHoGaQJOT14_X/view?usp=sharing)
+  [![Upload Documents ](images/VideoCoverImage.png)](https://player.vimeo.com/video/751565146?h=9a613aa849&badge=0&autopause=0&player_id=0&app_id=58479/embed)
 
  ##### Adding Documents
 Watch this short video to know how to Add Document to your application.
@@ -60,19 +60,6 @@ Watch this short video to know how to Add Document to your application.
 
 
 </details>
-
-
-
-<a class="doc-link" target="_blank" href="">
- 
-
-| Frontmatter | Required? |
-|-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Academy**  <br /> Access the Kore Academy course 110 - Introduction to small talk | 
-
-
-</a>
-
 
 <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-content/introduction-to-content-sources/">
  
