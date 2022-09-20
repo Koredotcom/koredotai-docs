@@ -43,7 +43,6 @@ permalink: searchassist/topic-guide/en/latest/stopWords
 
 </a>
   
-  
 
 
 </details>
