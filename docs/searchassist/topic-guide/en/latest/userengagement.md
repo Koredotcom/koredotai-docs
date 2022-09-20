@@ -7,15 +7,15 @@ permalink: searchassist/topic-guide/en/latest/userEngagement
 #### Topic Guide
 ###### User Engagement
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on content.
+  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on User Engagement.
 
 <details class="introduction-video" open>
-  <summary>Videos
+  <summary>Video
   </summary>
   
-   [![Introduction to User Engagement](images/VideoCoverImage.png)](https://drive.google.com/file/d/13xfReZK4icib4eNXVNLJrfnrAvULqLwH/view?usp=sharing)
+   [![User Engagement](images/VideoCoverImage.png)](https://player.vimeo.com/video/751566851?h=74f63c174d&amp)
 
-  ##### Introduction to User Engagement 
+  ##### User Engagement 
   Watch this short video to know how to get insights from User Engagement Metrics.
 
 </details>
@@ -40,17 +40,6 @@ permalink: searchassist/topic-guide/en/latest/userEngagement
 
 </details>
 
-
-
-<a class="doc-link" target="_blank" href="https://academy.kore.ai/learningpath/course-110---introduction-to-small-talk">
- 
-
-| Frontmatter | Required? |
-|-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Academy**  <br /> Access the Kore Academy course 110 - Introduction to small talk | 
-
-
-</a>
 
 
 <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/analyzing-performance/analyzing-search-performance/#Getting_User_Engagement_Metrics">
