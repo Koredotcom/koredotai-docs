@@ -13,9 +13,9 @@ permalink: searchassist/topic-guide/en/latest/structuredData
   <summary>Videos
   </summary>
   
-   [![Adding Structured Data](images/VideoCoverImage.png)](https://drive.google.com/file/d/1zTKe7eHBYSK4Yu2xgON26IlN_c2xbVjd/view?usp=sharing)
+   [![Structured Data](images/VideoCoverImage.png)](https://player.vimeo.com/video/751565088?h=1a7375cec5&badge=0&autopause=0&player_id=0&app_id=58479/embed)
 
-  ##### Adding Structured Data 
+  ##### Structured Data 
   Watch this short video to known how to add structured data to your application.
 
 </details>
@@ -38,18 +38,6 @@ permalink: searchassist/topic-guide/en/latest/structuredData
  
 
 </details>
-
-
-
-<a class="doc-link" target="_blank" href="https://academy.kore.ai/learningpath/course-110---introduction-to-small-talk">
- 
-
-| Frontmatter | Required? |
-|-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Academy**  <br /> Access the Kore Academy course 110 - Introduction to small talk | 
-
-
-</a>
 
 
 <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-content/adding-structured-data/#Manually_Adding_Structured_Data">
