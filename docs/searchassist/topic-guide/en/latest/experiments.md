@@ -10,12 +10,12 @@ permalink: searchassist/topic-guide/en/latest/experiments
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Experiments.
 
 <details class="introduction-video" open>
-  <summary>Videos
+  <summary>Video
   </summary>
   
-   [![Introduction to Experiments](images/VideoCoverImage.png)](https://drive.google.com/file/d/1ohhg7dfgPL0pWVzr8i2kjKveUwO9qy_o/preview)
+   [![Experiments](images/VideoCoverImage.png)](https://player.vimeo.com/video/751566678?h=bde16d7268&badge=0&autopause=0&player_id=0&app_id=58479/embed)
 
-  ##### Introduction to Experiments
+  ##### Experiments
   Watch this short video to know about Experiments.
 
 </details>
@@ -48,21 +48,7 @@ permalink: searchassist/topic-guide/en/latest/experiments
 
 </details>
 
-
-
-<a class="doc-link" target="_blank" href="https://academy.kore.ai/learningpath/course-110---introduction-to-small-talk">
- 
-
-| Frontmatter | Required? |
-|-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Academy**  <br /> Access the Kore Academy course 110 - Introduction to small talk | 
-
-
-</a>
-
-
 <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/experimenting-with-search-variants/introduction-to-experiments/">
- 
 
 | Frontmatter | Required? |
 |-------------|-------------|
