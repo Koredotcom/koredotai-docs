@@ -29,22 +29,8 @@ permalink: searchassist/topic-guide/en/latest/dashboard
 
 </details>
 
-
-
-<a class="doc-link" target="_blank" href="https://academy.kore.ai/learningpath/course-110---introduction-to-small-talk">
- 
-
-| Frontmatter | Required? |
-|-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Academy**  <br /> Access the Kore Academy course 110 - Introduction to small talk | 
-
-
-</a>
-
-
 <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/analyzing-performance/analyzing-search-performance/#Accessing_the_SearchAssist_Dashboard">
  
-
 | Frontmatter | Required? |
 |-------------|-------------|
 | ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Dashboard | 
