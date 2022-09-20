@@ -13,9 +13,9 @@ permalink: searchassist/topic-guide/en/latest/FieldManagementComponent
   <summary>Video
   </summary>
   
-   [![Configuiring Fields](images/VideoCoverImage.png)](https://drive.google.com/file/d/1x_24uV7I8dcLsMVlfoUbpUemPJxPwynn/view?usp=sharing)
+   [![Fields](images/VideoCoverImage.png)](https://player.vimeo.com/video/751565610?h=2562dda9ac&amp)
 
-  ##### Configuring Fields
+  ##### Fields
   Watch this short video to know how to Configure Fields.
 
 </details>
