@@ -51,7 +51,6 @@ permalink: searchassist/topic-guide/en/latest/rules
 
 </details>
 
-
 <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/personalizing-results/personalizing-results-ranking/#Configuring_Business_Rules">
  
 
