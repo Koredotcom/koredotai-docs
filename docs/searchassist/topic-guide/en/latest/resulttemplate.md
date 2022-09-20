@@ -5,15 +5,15 @@ permalink: searchassist/topic-guide/en/latest/resultTemplate
 
 ---
 #### Topic Guide
-###### Result Template
+###### Results Template
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on content.
+  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Results Template.
 
 <details class="introduction-video" open>
-  <summary>Videos
+  <summary>Video
   </summary>
   
-   [![Introduction to Result Templates](images/VideoCoverImage.png)](https://drive.google.com/file/d/1zPr0cwKDsga8O1slCAUfzyoM61F4YVkh/preview)
+   [![Results Templates](images/VideoCoverImage.png)](https://player.vimeo.com/video/751566521?h=c3a35ab0c6&badge=0&autopause=0&player_id=0&app_id=58479/embed)
 
   ##### Introduction to Results Template
   Watch this short video to know about Results Template.
@@ -24,14 +24,14 @@ permalink: searchassist/topic-guide/en/latest/resultTemplate
   <summary>FAQs
   </summary>
 
-  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/">
+  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/designing-search-experience/designing-search-experience/#Designing_Results_Templates">
  
   What are Result templates ?
 
 
 </a>
 
- <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#Creation">
+ <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/designing-search-experience/designing-search-experience/#Designing_Results_Templates">
  
   How to design templates for the search results?
 
@@ -42,24 +42,12 @@ permalink: searchassist/topic-guide/en/latest/resultTemplate
 </details>
 
 
-
-<a class="doc-link" target="_blank" href="https://academy.kore.ai/learningpath/course-110---introduction-to-small-talk">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/designing-search-experience/designing-search-experience/#Designing_Results_Templates">
  
 
 | Frontmatter | Required? |
 |-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Academy**  <br /> Access the Kore Academy course 110 - Introduction to small talk | 
-
-
-</a>
-
-
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#">
- 
-
-| Frontmatter | Required? |
-|-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Small Talk | 
+| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Results Template | 
 
 
 </a>
