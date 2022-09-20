@@ -10,12 +10,12 @@ permalink: searchassist/topic-guide/en/latest/facets
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Facets.
 
 <details class="introduction-video" open>
-  <summary>Videos
+  <summary>Video
   </summary>
   
-   [![Introduction to Facets](images/VideoCoverImage.png)](https://drive.google.com/file/d/1c1s43uZudmR0lqYGUinghJtHetPpQm90/view?usp=sharing)
+   [![Facets](images/VideoCoverImage.png)](https://player.vimeo.com/video/751567200?h=726ce44ad2&badge=0&autopause=0&player_id=0&app_id=58479/embed)
 
-  ##### Introduction to Facets 
+  ##### Facets 
   Watch this short video to know how to configure Facets.
 
 </details>
@@ -53,20 +53,8 @@ permalink: searchassist/topic-guide/en/latest/facets
 </details>
 
 
-
-<a class="doc-link" target="_blank" href="https://academy.kore.ai/learningpath/course-110---introduction-to-small-talk">
- 
-
-| Frontmatter | Required? |
-|-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Academy**  <br /> Access the Kore Academy course 110 - Introduction to small talk | 
-
-
-</a>
-
-
 <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-relevance/managing-relevance/#Creating_Facets">
- 
+
 
 | Frontmatter | Required? |
 |-------------|-------------|
