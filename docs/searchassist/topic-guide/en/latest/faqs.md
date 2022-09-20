@@ -76,7 +76,7 @@ permalink: searchassist/topic-guide/en/latest/faqs
 |-------------|-------------|
 | ![alt text](images/docIcon.svg "Title") | **Academy**  <br /> Access the Kore Academy course 110 - Introduction to small talk | 
 
-
+ 
 </a>
 
 
