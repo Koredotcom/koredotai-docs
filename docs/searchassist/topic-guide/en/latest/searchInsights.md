@@ -5,17 +5,17 @@ permalink: searchassist/topic-guide/en/latest/searchInsights
 
 ---
 #### Topic Guide
-###### search Insights
+###### Search Insights
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on content.
+  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Search Insights.
 
 <details class="introduction-video" open>
-  <summary>Videos
+  <summary>Video
   </summary>
   
-   [![Introduction to Search Insights](images/VideoCoverImage.png)](https://drive.google.com/file/d/1DKuiMF3GW4ZoH4j7UuV3P2Cu3Wh9nJEX/view?usp=sharing)
+   [![Search Insights](images/VideoCoverImage.png)](https://player.vimeo.com/video/751566799?h=d4b5a81d63&badge=0&autopause=0&player_id=0&app_id=58479/embed)
 
-  ##### Introduction to Search Insights
+  ##### Search Insights
   Watch this short video to know about Search Insights.
 
 </details>
@@ -47,17 +47,6 @@ permalink: searchassist/topic-guide/en/latest/searchInsights
 
 </details>
 
-
-
-<a class="doc-link" target="_blank" href="https://academy.kore.ai/learningpath/course-110---introduction-to-small-talk">
- 
-
-| Frontmatter | Required? |
-|-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Academy**  <br /> Access the Kore Academy course 110 - Introduction to small talk | 
-
-
-</a>
 
 
 <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/analyzing-performance/analyzing-search-performance/#Getting_Insights_from_Search_Queries">
