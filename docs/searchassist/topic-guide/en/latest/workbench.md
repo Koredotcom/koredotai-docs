@@ -15,16 +15,16 @@ permalink: searchassist/topic-guide/en/latest/index
 
   <details-video>
     
-  [![Introduction to Workbench & Field Mapping](images/VideoCoverImage.png)](https://drive.google.com/file/d/1cpAzVpyOwpN9IIuKRn761rr3493ZB7UJ/view?usp=sharing)
+  [![Introduction to Workbench & Field Mapping](images/VideoCoverImage.png)](https://player.vimeo.com/video/751565715?h=1133b38c94&badge=0&autopause=0&player_id=0&app_id=58479/embed)
 
- ##### Introduction to Workbench & its Stages
+ ##### Workbench & its Stages
 Watch this short video to know how to configure Workbench & its stages.
 
   </details-video>
     
   <details-video>
     
-  [![AI Workbench Stages](images/VideoCoverImage.png)](https://drive.google.com/file/d/1bzu_SgCFV1V2kf9JOy8R9Tm7yBclZiJU/view?usp=sharing)
+  [![AI Workbench Stages](images/VideoCoverImage.png)](https://player.vimeo.com/video/751565534?h=a735014ef9&badge=0&autopause=0&player_id=0&app_id=58479/embed)
 
  ##### AI Workbench Stage
 Watch this short video to know about AI Workbench Stages.
@@ -87,16 +87,6 @@ Watch this short video to know about AI Workbench Stages.
 </details>
 
 
-
-<a class="doc-link" target="_blank" href="https://academy.kore.ai/learningpath/course-110---introduction-to-small-talk">
- 
-
-| Frontmatter | Required? |
-|-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Academy**  <br /> Access the Kore Academy course 110 - Introduction to small talk | 
-
-
-</a>
 
 
 <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-indices/managing-index-pipeline/">
