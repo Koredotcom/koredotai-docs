@@ -10,13 +10,13 @@ permalink: searchassist/topic-guide/en/latest/traits
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Traits.
 
 <details class="introduction-video" open>
-  <summary>Introduction to Traits
+  <summary>Video
   </summary>
   
-   [![Introduction to Small Talk](images/VideoCoverImage.png)](https://drive.google.com/file/d/1ohhg7dfgPL0pWVzr8i2kjKveUwO9qy_o/preview)
+   [![Traits](images/VideoCoverImage.png)](https://player.vimeo.com/video/751565668?h=3b5c9ebaf6&badge=0&autopause=0&player_id=0&app_id=58479/embed)
 
-  ##### Introduction to Traits 
-  Watch this short video to know how to Configure Traits.
+  ##### Traits 
+  Watch this short video to know how to configure Traits.
 
 </details>
 
@@ -38,18 +38,6 @@ permalink: searchassist/topic-guide/en/latest/traits
  
   
 </details>
-
-
-
-<a class="doc-link" target="_blank" href="https://academy.kore.ai/learningpath/course-110---introduction-to-small-talk">
- 
-
-| Frontmatter | Required? |
-|-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Academy**  <br /> Access the Kore Academy course 110 - Introduction to small talk | 
-
-
-</a>
 
 
 <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-indices/configuring-traits/">
