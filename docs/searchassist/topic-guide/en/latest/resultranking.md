@@ -10,12 +10,12 @@ permalink: searchassist/topic-guide/en/latest/resultranking
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Results Ranking.
 
 <details class="introduction-video" open>
-  <summary>Videos
+  <summary>Video
   </summary>
   
-   [![Introduction to Results Ranking](images/VideoCoverImage.png)](https://drive.google.com/file/d/1Ofkm0huTn0qWLnke79zE_QMEpXDz_gxL/view?usp=sharing)
+   [![Results Ranking](images/VideoCoverImage.png)](https://player.vimeo.com/video/751567279?h=c895c0a226&amp)
 
-  ##### Introduction to Results Ranking 
+  ##### Results Ranking 
   Watch this short video to know how to configure Results Ranking.
 
 </details>
@@ -52,18 +52,6 @@ permalink: searchassist/topic-guide/en/latest/resultranking
 
 
 </details>
-
-
-
-<a class="doc-link" target="_blank" href="https://academy.kore.ai/learningpath/course-110---introduction-to-small-talk">
- 
-
-| Frontmatter | Required? |
-|-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Academy**  <br /> Access the Kore Academy course 110 - Introduction to small talk | 
-
-
-</a>
 
 
 <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/personalizing-results/personalizing-results-ranking/">
