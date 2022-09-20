@@ -13,7 +13,7 @@ permalink: searchassist/topic-guide/en/latest/summary
   <summary>Introduction
   </summary>
   
-   [![Searchassist Overview(images/VideoCoverImage.png)](https://player.vimeo.com/video/751634558?h=683f1edfdb&badge=0&autopause=0&player_id=0&app_id=58479/embed)
+   [![Searchassist Overview](images/VideoCoverImage.png)](https://player.vimeo.com/video/751634558?h=683f1edfdb&badge=0&autopause=0&player_id=0&app_id=58479/embed)
 
   ##### Searchassist Overview
   Watch this short video on SearchAssist Overview.
