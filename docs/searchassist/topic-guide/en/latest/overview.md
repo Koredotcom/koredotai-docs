@@ -5,7 +5,7 @@ permalink: searchassist/topic-guide/en/latest/summary
 
 ---
 #### Topic Guide
-###### overview
+###### Overview
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on content.
 
@@ -13,71 +13,19 @@ permalink: searchassist/topic-guide/en/latest/summary
   <summary>Introduction
   </summary>
   
-   [![Introduction to Small Talk](images/VideoCoverImage.png)](https://drive.google.com/file/d/1ohhg7dfgPL0pWVzr8i2kjKveUwO9qy_o/preview)
+   [![Searchassist Overview(images/VideoCoverImage.png)](https://player.vimeo.com/video/751634558?h=683f1edfdb&badge=0&autopause=0&player_id=0&app_id=58479/embed)
 
-  ##### Introduction to Small Talk 
-  Watch this short video on creating and testing casual conversations between your virtual assistant and end user
-
-</details>
-
-<details>
-  <summary>FAQs
-  </summary>
-
-  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/">
- 
-  What is Small Talk?
-
-</a>
-
- <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#Creation">
- 
-  How to create Small Talk?
-
-</a>
- 
-  
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#Terminology">
-
-  What are Small Talk groups?
-
-</a>
-  
-  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#Default_Small_Talk">
- 
-  What are the default greetings supported?
-
-</a>
-
-
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/nlp/additional-notes-nlp-settings-guidelines/#Patterns">
-
-  What are the guidelines for defining patterns for Small Talk?
-
-</a>
-
+  ##### Searchassist Overview
+  Watch this short video on SearchAssist Overview.
 
 </details>
 
-
-
-<a class="doc-link" target="_blank" href="https://academy.kore.ai/learningpath/course-110---introduction-to-small-talk">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/searchassist/overview/">
  
 
 | Frontmatter | Required? |
 |-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Academy**  <br /> Access the Kore Academy course 110 - Introduction to small talk | 
-
-
-</a>
-
-
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#">
- 
-
-| Frontmatter | Required? |
-|-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Small Talk | 
+| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Searchassist Overview | 
 
 
 </a>
