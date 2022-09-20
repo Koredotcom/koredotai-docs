@@ -13,7 +13,7 @@ permalink: searchassist/topic-guide/en/latest/faqs
   <summary>Video
   </summary>
   
-  [![Adding FAQs](images/VideoCoverImage.png)](https://player.vimeo.com/video/751565029?h=53b55a85a7&amp)
+  [![FAQs](images/VideoCoverImage.png)](https://player.vimeo.com/video/751565029?h=53b55a85a7&amp)
 
   ##### Adding FAQs 
   Watch this short video to know how to add FAQs to your application.
@@ -66,18 +66,6 @@ permalink: searchassist/topic-guide/en/latest/faqs
 </a>
 
 </details>
-
-
-
-<a class="doc-link" target="_blank" href="https://academy.kore.ai/learningpath/course-110---introduction-to-small-talk">
- 
-
-| Frontmatter | Required? |
-|-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Academy**  <br /> Access the Kore Academy course 110 - Introduction to small talk | 
-
- 
-</a>
 
 
 <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-content/adding-faqs/">
