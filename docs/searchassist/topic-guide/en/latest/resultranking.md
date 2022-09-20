@@ -47,6 +47,7 @@ permalink: searchassist/topic-guide/en/latest/resultranking
   <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/personalizing-results/personalizing-results-ranking/#Reset_Customization">
  
   How to edit or delete result customization?
+    
 </a>
 
 
