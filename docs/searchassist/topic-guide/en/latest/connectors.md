@@ -10,10 +10,10 @@ permalink: searchassist/topic-guide/en/latest/connectors
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Connectors.
 
 <details class="introduction-video" open>
-  <summary>Videos
+  <summary>Video
   </summary>
   
-   [![Connectors](images/VideoCoverImage.png)](https://drive.google.com/file/d/1rJRH4jG5cbcx3-c8n_xgXRYu8595wTFz/view?usp=sharing)
+   [![Connectors](images/VideoCoverImage.png)](https://player.vimeo.com/video/751564981?h=fd6de29556&badge=0&autopause=0&player_id=0&app_id=58479/embed)
 
   ##### Introduction to Connectors 
   Watch this short video to know how to add content to your application using Connectors.
@@ -38,19 +38,6 @@ permalink: searchassist/topic-guide/en/latest/connectors
  
 
 </details>
-
-
-
-<a class="doc-link" target="_blank" href="https://academy.kore.ai/learningpath/course-110---introduction-to-small-talk">
- 
-
-| Frontmatter | Required? |
-|-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Academy**  <br /> Access the Kore Academy course 110 - Introduction to small talk | 
-
-
-</a>
-
 
 <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-content/connectors/">
  
