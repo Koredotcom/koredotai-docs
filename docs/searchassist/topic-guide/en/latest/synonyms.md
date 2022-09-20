@@ -10,10 +10,10 @@ permalink: searchassist/topic-guide/en/latest/synonyms
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Synonyms.
 
 <details class="introduction-video" open>
-  <summary>Videos
+  <summary>Video
   </summary>
   
-   [![Introduction to Synonyms](images/VideoCoverImage.png)](https://drive.google.com/file/d/18ufZqPKiL1a5rjR1TCRL9q4hBJuu9rB9/view?usp=sharing)
+   [![Synonyms](images/VideoCoverImage.png)](https://player.vimeo.com/video/751567450?h=40c1e869d7&badge=0&autopause=0&player_id=0&app_id=58479/embed)
 
   ##### Introduction to Synonyms
   Watch this short video to know how to configure Synonyms.
@@ -41,21 +41,8 @@ permalink: searchassist/topic-guide/en/latest/synonyms
 </details>
 
 
-
-<a class="doc-link" target="_blank" href="https://academy.kore.ai/learningpath/course-110---introduction-to-small-talk">
- 
-
-| Frontmatter | Required? |
-|-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Academy**  <br /> Access the Kore Academy course 110 - Introduction to small talk | 
-
-
-</a>
-
-
 <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-relevance/managing-relevance/#Adding_Synonyms">
  
-
 | Frontmatter | Required? |
 |-------------|-------------|
 | ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Synonyms | 
