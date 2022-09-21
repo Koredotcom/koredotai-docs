@@ -1,18 +1,15 @@
 ---
-title: Invoices
+title: orders & Invoices
 
-permalink: searchassist/topic-guide/en/latest/Orders & Invoices
+permalink: searchassist/topic-guide/en/latest/invoices
 
 ---
-
 #### Topic Guide
 ###### Orders & Invoices
 
-  Check out our documentation link on Orders & Invoices.
+  Check out our explanatory documentation links on Orders & Invoices.
 
-
-
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-settings/plan-usage/invoices/">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/managing-searchassist-apps/viewing-billing-and-usage/#Invoices">
  
 
 | Frontmatter | Required? |
