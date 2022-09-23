@@ -10,7 +10,7 @@ permalink: searchassist/topic-guide/en/latest/summary
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on content.
 
 <details class="introduction-video" open>
-  <summary>Introduction
+  <summary>Video
   </summary>
   
    [![Searchassist Overview](images/VideoCoverImage.png)](https://player.vimeo.com/video/751634558?h=683f1edfdb&badge=0&autopause=0&player_id=0&app_id=58479/embed)
