@@ -12,7 +12,7 @@ permalink: searchassist/topic-guide/en/latest/structuredData
 <details class="introduction-video" open>
   <summary>Video
   </summary>
-  
+   
    [![Structured Data](images/VideoCoverImage.png)](https://player.vimeo.com/video/751565088?h=1a7375cec5&badge=0&autopause=0&player_id=0&app_id=58479/embed)
 
   ##### Structured Data 
