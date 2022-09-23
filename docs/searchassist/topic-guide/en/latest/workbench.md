@@ -10,7 +10,7 @@ permalink: searchassist/topic-guide/en/latest/index
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Workbench.
 
 <details >
- <summary>Videos
+ <summary>Video
  </summary>
 
   <details-video>
