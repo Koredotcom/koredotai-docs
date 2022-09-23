@@ -47,6 +47,8 @@ permalink: searchassist/topic-guide/en/latest/rules
   <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/personalizing-results/personalizing-results-ranking/#Configuring_Business_Rules">
  
   How do I edit or delete Business rules?
+    
+  </a>
 
 </details>
 
