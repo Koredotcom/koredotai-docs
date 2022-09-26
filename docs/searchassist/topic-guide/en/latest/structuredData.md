@@ -4,8 +4,8 @@ title: Content
 permalink: searchassist/topic-guide/en/latest/structuredData
 
 ---
-#### Topic Guide
-###### Structured Data
+<!--#### Topic Guide
+###### Structured Data-->
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Structured Data.
 
