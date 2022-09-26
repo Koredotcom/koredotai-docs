@@ -4,8 +4,8 @@ title: usageLog
 permalink: searchassist/topic-guide/en/latest/usageLog
 
 ---
-#### Topic Guide
-###### Usage log
+<!--#### Topic Guide
+###### Usage log-->
 
   Check out our explanatory documentation link on Usage Log.
 
