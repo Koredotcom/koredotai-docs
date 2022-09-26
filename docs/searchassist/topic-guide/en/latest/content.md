@@ -66,7 +66,7 @@ Watch this short video to know how to Add Document to your application.
 
 | Frontmatter | Required? |
 |-------------|-------------|
-| ![alt text](images/SA_Documentation_Icon.svg "Title") | **Documentation**  <br /> Check out our in depth documentation articles on Content. | 
+| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our in depth documentation articles on Content. | 
 
 
 </a>
