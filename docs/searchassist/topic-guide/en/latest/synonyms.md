@@ -4,8 +4,8 @@ title: synonyms
 permalink: searchassist/topic-guide/en/latest/synonyms
 
 ---
-#### Topic Guide
-###### Synonyms
+<!--#### Topic Guide
+###### Synonyms-->
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Synonyms.
 
