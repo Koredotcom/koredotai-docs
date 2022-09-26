@@ -4,8 +4,8 @@ title: resultranking
 permalink: searchassist/topic-guide/en/latest/resultranking
 
 ---
-#### Topic Guide
-###### Results Ranking
+<!--#### Topic Guide
+###### Results Ranking-->
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Results Ranking.
 
