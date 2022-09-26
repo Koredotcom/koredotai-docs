@@ -9,7 +9,7 @@ permalink: searchassist/topic-guide/en/latest/FieldManagementComponent
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Configuring Fields.
 
-<details-video>
+<details open>
   <summary>Video
   </summary>
   
