@@ -4,8 +4,8 @@ title: Experiments
 permalink: searchassist/topic-guide/en/latest/experiments
 
 ---
-#### Topic Guide
-###### Experiments
+<!--#### Topic Guide
+###### Experiments-->
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Experiments.
 
