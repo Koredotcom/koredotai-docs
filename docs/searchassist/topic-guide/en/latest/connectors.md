@@ -4,8 +4,8 @@ title: Content
 permalink: searchassist/topic-guide/en/latest/connectors
 
 ---
-#### Topic Guide
-###### Connectors
+<!--#### Topic Guide
+###### Connectors-->
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Connectors.
 
