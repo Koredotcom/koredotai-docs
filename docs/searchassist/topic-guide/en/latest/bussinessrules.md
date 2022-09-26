@@ -4,8 +4,8 @@ title: Bussinessrules
 permalink: searchassist/topic-guide/en/latest/rules
 
 ---
-#### Topic Guide
-###### Bussiness Rules
+<!--#### Topic Guide
+###### Bussiness Rules-->
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Business Rules.
 
