@@ -4,8 +4,8 @@ title: resulttemplate
 permalink: searchassist/topic-guide/en/latest/resultTemplate
 
 ---
-#### Topic Guide
-###### Result Templates
+<!--#### Topic Guide
+###### Result Templates-->
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Result Templates.
 
