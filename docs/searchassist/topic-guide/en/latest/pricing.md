@@ -11,7 +11,7 @@ permalink: searchassist/topic-guide/en/latest/pricing
 
 
 <details>
-  <summary>Plan Details
+  <summary>FAQs
   </summary>
 
   <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/managing-searchassist-apps/viewing-billing-and-usage/#Plan_Details">
