@@ -4,8 +4,8 @@ title: general settings
 permalink: searchassist/topic-guide/en/latest/generalSettings
 
 ---
-#### Topic Guide
-###### General Settings
+<!--#### Topic Guide
+###### General Settings-->
 
   Check out our explanatory documentation link on General Settings.
 
