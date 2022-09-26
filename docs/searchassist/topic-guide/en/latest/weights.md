@@ -4,8 +4,8 @@ title: Weights
 permalink: searchassist/topic-guide/en/latest/weights
 
 ---
-#### Topic Guide
-###### Weights
+<!--#### Topic Guide
+###### Weights-->
 
    Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Weights.
 
