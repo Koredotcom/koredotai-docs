@@ -45,7 +45,7 @@ permalink: searchassist/topic-guide/en/latest/FieldManagementComponent
 
 | Frontmatter | Required? |
 |-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our in depth documentation articles on Configuring Fields | 
+| ![alt text](SA_Documentation_Icon.svg "Title") | **Documentation**  <br /> Check out our in depth documentation articles on Configuring Fields | 
 
 
 </a>
