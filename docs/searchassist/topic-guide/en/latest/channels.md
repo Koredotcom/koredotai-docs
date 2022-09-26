@@ -4,7 +4,7 @@ title: Channels
 permalink: searchassist/topic-guide/en/latest/settings
 
 ---
-<!--#### Topic Guide
+<!--#### Topic Guide 
 ###### Channels-->
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Channels.
