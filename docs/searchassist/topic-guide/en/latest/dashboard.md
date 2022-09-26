@@ -4,8 +4,8 @@ title: Dashboard
 permalink: searchassist/topic-guide/en/latest/dashboard
 
 ---
-#### Topic Guide
-###### Dashboard
+<!--#### Topic Guide
+###### Dashboard-->
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Dashboard.
 
