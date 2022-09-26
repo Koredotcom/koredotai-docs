@@ -4,8 +4,8 @@ title: SearchInterface
 permalink: searchassist/topic-guide/en/latest/search-experience
 
 ---
-#### Topic Guide
-###### Search Interface
+<!--#### Topic Guide
+###### Search Interface-->
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Search Interface.
 
