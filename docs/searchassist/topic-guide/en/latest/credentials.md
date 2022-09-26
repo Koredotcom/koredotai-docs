@@ -4,10 +4,10 @@ title: Credentials
 permalink: searchassist/topic-guide/en/latest/credentials-list
 
 ---
-#### Topic Guide
-###### Credentials
+<!--#### Topic Guide
+###### Credentials--> 
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Managinig Credentials.
+ Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Managinig Credentials.
 
 
 <details>
@@ -18,7 +18,6 @@ permalink: searchassist/topic-guide/en/latest/credentials-list
  
 How do I add or delete Credentials?
 </a>
-
 
 </details>
 

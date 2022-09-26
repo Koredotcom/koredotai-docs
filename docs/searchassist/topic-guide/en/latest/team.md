@@ -4,8 +4,8 @@ title: Team
 permalink: searchassist/topic-guide/en/latest/team-management
 
 ---
-#### Topic Guide
-###### Team
+<!--#### Topic Guide
+###### Team-->
 
   Check out our documentation link on Teams.
 

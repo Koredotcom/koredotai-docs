@@ -4,13 +4,13 @@ title: Content
 permalink: searchassist/topic-guide/en/latest/index
 
 ---
-#### Topic Guide
-###### Workbench
+<!--#### Topic Guide
+###### Workbench-->
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Workbench.
 
-<details >
- <summary>Videos
+<details open>
+ <summary>Video
  </summary>
 
   <details-video>

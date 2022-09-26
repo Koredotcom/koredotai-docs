@@ -4,8 +4,8 @@ title: Userengagement
 permalink: searchassist/topic-guide/en/latest/userEngagement
 
 ---
-#### Topic Guide
-###### User Engagement
+<!--#### Topic Guide
+###### User Engagement-->
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on User Engagement.
 

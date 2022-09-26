@@ -4,8 +4,8 @@ title: Result Insights
 permalink: searchassist/topic-guide/en/latest/resultInsights
 
 ---
-#### Topic Guide
-###### Results Insights
+<!--#### Topic Guide
+###### Results Insights-->
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Results Insights.
 

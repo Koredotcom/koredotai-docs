@@ -4,13 +4,13 @@ title: content
 permalink: searchassist/topic-guide/en/latest/content
 
 ---
-#### Topic Guide
-###### Content
+<!--#### Topic Guide 
+###### Content-->
 
 
  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Content.
 
-  <details >
+  <details open>
  <summary>Video
  </summary>
 

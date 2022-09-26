@@ -4,8 +4,8 @@ title: traits
 permalink: searchassist/topic-guide/en/latest/traits
 
 ---
-#### Topic Guide
-###### Traits
+<!--#### Topic Guide
+###### Traits-->
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Traits.
 

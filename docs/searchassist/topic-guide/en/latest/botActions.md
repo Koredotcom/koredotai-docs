@@ -4,8 +4,8 @@ title: Content
 permalink: searchassist/topic-guide/en/latest/botActions
 
 ---
-#### Topic Guide
-######  Actions
+<!--#### Topic Guide
+######  Actions-->
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Actions.
 
@@ -34,7 +34,7 @@ permalink: searchassist/topic-guide/en/latest/botActions
 <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-content/linking-your-virtual-assistant/">
  
 
-| Frontmatter | Required? |
+| Frontmatter | Required? | 
 |-------------|-------------|
 | ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Actions | 
 

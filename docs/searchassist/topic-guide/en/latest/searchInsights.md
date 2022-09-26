@@ -4,8 +4,8 @@ title: Search Insights
 permalink: searchassist/topic-guide/en/latest/searchInsights
 
 ---
-#### Topic Guide
-###### Search Insights
+<!--#### Topic Guide
+###### Search Insights-->
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Search Insights.
 

@@ -4,19 +4,19 @@ title: resulttemplate
 permalink: searchassist/topic-guide/en/latest/resultTemplate
 
 ---
-#### Topic Guide
-###### Results Template
+<!--#### Topic Guide
+###### Result Templates-->
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Results Template.
+  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Result Templates.
 
 <details class="introduction-video" open>
   <summary>Video
   </summary>
   
-   [![Results Templates](images/VideoCoverImage.png)](https://player.vimeo.com/video/751566521?h=c3a35ab0c6&badge=0&autopause=0&player_id=0&app_id=58479/embed)
+   [![Result Templates](images/VideoCoverImage.png)](https://player.vimeo.com/video/751566521?h=c3a35ab0c6&badge=0&autopause=0&player_id=0&app_id=58479/embed)
 
-  ##### Introduction to Results Template
-  Watch this short video to know about Results Template.
+  ##### Introduction to Result Templates
+  Watch this short video to know about Result Templates.
 
 </details>
 
@@ -47,7 +47,7 @@ permalink: searchassist/topic-guide/en/latest/resultTemplate
 
 | Frontmatter | Required? |
 |-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Results Template | 
+| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Result Templates | 
 
 
 </a>

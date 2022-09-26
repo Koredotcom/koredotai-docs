@@ -4,15 +4,15 @@ title: Content
 permalink: searchassist/topic-guide/en/latest/structuredData
 
 ---
-#### Topic Guide
-###### Structured Data
+<!--#### Topic Guide
+###### Structured Data-->
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Structured Data.
 
 <details class="introduction-video" open>
-  <summary>Videos
+  <summary>Video
   </summary>
-  
+   
    [![Structured Data](images/VideoCoverImage.png)](https://player.vimeo.com/video/751565088?h=1a7375cec5&badge=0&autopause=0&player_id=0&app_id=58479/embed)
 
   ##### Structured Data 
