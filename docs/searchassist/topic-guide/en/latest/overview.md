@@ -4,8 +4,8 @@ title: Overview
 permalink: searchassist/topic-guide/en/latest/summary
 
 ---
-#### Topic Guide
-###### Overview
+<!--#### Topic Guide
+###### Overview-->
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on content.
 
