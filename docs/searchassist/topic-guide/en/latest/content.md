@@ -10,7 +10,7 @@ permalink: searchassist/topic-guide/en/latest/content
 
  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Content.
 
-  <details >
+  <details open>
  <summary>Video
  </summary>
 
