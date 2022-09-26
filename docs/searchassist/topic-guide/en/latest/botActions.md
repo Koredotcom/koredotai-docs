@@ -4,8 +4,8 @@ title: Content
 permalink: searchassist/topic-guide/en/latest/botActions
 
 ---
-#### Topic Guide
-######  Actions
+<!--#### Topic Guide
+######  Actions-->
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Actions.
 
