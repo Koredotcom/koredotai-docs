@@ -4,8 +4,8 @@ title: Facets
 permalink: searchassist/topic-guide/en/latest/facets
 
 ---
-#### Topic Guide
-###### Facets
+<!--#### Topic Guide
+###### Facets-->
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Facets.
 
