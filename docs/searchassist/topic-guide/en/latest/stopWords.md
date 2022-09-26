@@ -4,8 +4,8 @@ title: stopWords
 permalink: searchassist/topic-guide/en/latest/stopWords
 
 ---
-#### Topic Guide
-###### Stop Words
+<!--#### Topic Guide
+###### Stop Words-->
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Stop Words.
 
