@@ -4,6 +4,8 @@ title: Zendesk
 permalink: platform/instructions/en/latest/zendesk
 
 ---
+#### Topic Guide
+###### Dialog Tasks
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Dialog Tasks.
 
