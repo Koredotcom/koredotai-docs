@@ -14,7 +14,7 @@ permalink: searchassist/topic-guide/en/latest/content
  <summary>Video
  </summary>
 
- <details-video>
+<details class="introduction-video" open>
     
   [![Crawl Web Domain ](images/VideoCoverImage.png)](https://player.vimeo.com/video/751565216?h=aef213c599&amp)
 
@@ -23,7 +23,7 @@ Watch this short video to know how to add content to your application by Crawlin
 
   </details-video>
     
-  <details-video>
+<details class="introduction-video" open>
     
   [![Upload Documents ](images/VideoCoverImage.png)](https://player.vimeo.com/video/751565146?h=9a613aa849&badge=0&autopause=0&player_id=0&app_id=58479/embed)
 
