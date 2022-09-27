@@ -14,23 +14,19 @@ permalink: searchassist/topic-guide/en/latest/content
  <summary>Video
  </summary>
 
-  <details-video>
-    
-  [![Crawl Web Domain ](images/VideoCoverImage.png)](https://player.vimeo.com/video/751565216?h=aef213c599&amp)
+ <details class="introduction-video" open>
+  <summary>Video
+  </summary>
+  
+    [![Crawl Web Domain ](images/VideoCoverImage.png)](https://player.vimeo.com/video/751565216?h=aef213c599&amp)
+	
+	[![Upload Documents ](images/VideoCoverImage.png)](https://player.vimeo.com/video/751565146?h=9a613aa849&badge=0&autopause=0&player_id=0&app_id=58479/embed)
 
- ##### Crawl Web Domains
-Watch this short video to know how to add content to your application by Crawling a Web domain.
+  ##### Introduction to Connectors 
+  Watch this short video to know how to add content to your application using Connectors.
 
-  </details-video>
-    
-  <details-video>
-    
-  [![Upload Documents ](images/VideoCoverImage.png)](https://player.vimeo.com/video/751565146?h=9a613aa849&badge=0&autopause=0&player_id=0&app_id=58479/embed)
+</details>
 
- ##### Adding Documents
-Watch this short video to know how to Add Document to your application.
-
-  </details-video>
  
 </details>
 
