@@ -50,14 +50,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nu
   
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.
 
-  [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+ ![The San Juan Mountains are beautiful!](https://mdg.imgix.net/assets/images/san-juan-mountains.jpg?auto=format&fit=clip&q=40&w=1080 "San Juan Mountains")
    - - -
 
   **Step 2**
 
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.
-  
-  [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
+![The San Juan Mountains are beautiful!](https://mdg.imgix.net/assets/images/san-juan-mountains.jpg?auto=format&fit=clip&q=40&w=1080"San Juan Mountains")
 
   - - -
 
