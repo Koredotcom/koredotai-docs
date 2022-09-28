@@ -1572,8 +1572,11 @@ body.itAssistDocs{
         width: 100%;
     }
     .div#toc ul{
-        max-width: auto;
+        max-width: auto; 
     }
   }
   /*---mobile---*/
 /*----IT ASSIST ---*/ 
+read-more-content{
+    display: none;
+}

@@ -15,6 +15,31 @@
     </script>
     <script>
         $(document).ready(function() {
+        var readLess = $('<read-less>less</read-less>');
+
+          var readMores =   $('container read-more');
+
+          readMores.on('click', readMoreToggle);
+         readLess.on('click', readMoreToggle);
+
+        function readMoreToggle(e){
+            if(e.currentTarget.nodeName == 'READ-MORE'){
+              $(e.currentTarget).hide();
+            }
+             var nextEle = $(e.currentTarget).next();
+             if(nextEle.length && nextEle[0].nodeName == 'READ-MORE-CONTENT'){
+                 nextEle.append(readLess);
+                  nextEle.toggle();
+             }
+             
+             if(e.currentTarget.nodeName == 'READ-LESS'){
+                $(e.currentTarget).parent().toggle();
+                $(e.currentTarget).parent().prev().show();
+             }
+           
+
+            console.log(e);
+        }
   
             var payloadObj = { 
                     action: 'videoModal',
