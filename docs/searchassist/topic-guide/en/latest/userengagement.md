@@ -47,7 +47,7 @@ permalink: searchassist/topic-guide/en/latest/userEngagement
 
 | Frontmatter | Required? |
 |-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on User Engagement | 
+| ![alt text](images/SA_Documentation.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on User Engagement | 
 
 
 </a>
