@@ -56,7 +56,7 @@ permalink: searchassist/topic-guide/en/latest/rules
  
 | Frontmatter | Required? |
 |-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our in depth documentation articles on Business Rules. | 
+| ![alt text](images/SA_Documentation.svg "Title") | **Documentation**  <br /> Check out our in depth documentation articles on Business Rules. | 
 
 
 </a>
