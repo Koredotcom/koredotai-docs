@@ -4,7 +4,7 @@
 
     {% include head.html %}
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.perfect-scrollbar/1.5.5/css/perfect-scrollbar.min.css" />
-    
+    <link rel="stylesheet" href="css/layouts/topic/topic.css">
    
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.perfect-scrollbar/1.5.5/perfect-scrollbar.min.js"></script>
     
@@ -13,7 +13,133 @@
             $('[data-toggle="tooltip"]').tooltip()
         })
     </script>
- 
+    <script>
+        $(document).ready(function() {
+  
+            var payloadObj = { 
+                    action: 'videoModal',
+                    selector: 'topicGuide',
+                    payload:{url:""}
+                    };
+            $("#tg-sb-link").click(function() {
+                $("#tg-sb-sidebar").toggle();
+                $("#tg-sb-content").toggleClass('col-md-9');
+                $("#tg-sb-content").toggleClass('col-md-12');
+                $("#tg-sb-icon").toggleClass('fa-toggle-on');
+                $("#tg-sb-icon").toggleClass('fa-toggle-off');
+            });
+
+
+var span = document.querySelector('nested-details p');
+
+$('.nested-details summary').on('click', function (e) {
+    //console.log(e);
+    if ((e.offsetX > $(this).width())) {
+        $(e.currentTarget).closest('.nested-details').find('p:first').click();
+        e.preventDefault();
+    } 
+});
+            function videoCallback(e){
+                e.preventDefault();
+                payloadObj.payload.url = e.currentTarget.href;
+                payloadObj.payload.title = e.currentTarget.firstChild.getAttribute('alt');
+                 var description =  $(e.currentTarget).closest('details.introduction-video').find('p:last-child').text()
+                if(description){
+
+                payloadObj.payload.description  = description;
+                }else{
+                  payloadObj.payload.description  =  $(e.currentTarget).closest('details-video').find('p:last-child').text();
+                }
+                window.parent.postMessage(payloadObj, '*'); 
+
+
+            }
+            $('.introduction-video a').on('click',videoCallback);
+
+
+            $('details-video a').on('click',videoCallback);
+
+            $('a.tour-guide[topic-id]').on('click', function(e){
+                 e.preventDefault();
+                  window.parent.postMessage({
+                                      action: 'guidedTour',
+                                      selector: 'topicGuide',
+                                       payload:{topicId:e.currentTarget.getAttribute('topic-id')}
+                                      }, '*');
+            });
+
+            $('a.doc-link').on('click', function(e){
+                console.log(e);
+                 var payloadObj = { 
+                    action: '',
+                    selector: 'topicGuide',
+                    payload:{
+                        topicName:''
+                       
+                    }
+                    };
+                if($(e.currentTarget).find('table').length){
+                    payloadObj.action =  $(e.currentTarget).find('table td strong').text();
+                    if(payloadObj.action == 'Academy'){
+                        payloadObj.payload.courseName =  $(e.currentTarget).find('table td ').text().replace('Academy', '').trim();
+                    }else{
+                        payloadObj.payload.docUrl = $(e.currentTarget).attr('href');
+                    }
+
+
+                }else{
+                         payloadObj.action = 'faq';
+                        payloadObj.payload.faqName = $(e.currentTarget).text();
+
+                    }
+                    
+                 window.parent.postMessage(payloadObj, '*');
+                 });
+
+                 $('a.nested-accordian-link.no-doc-ext-link details').on('toggle', function(e){
+                     if($(e.currentTarget).attr('open')){
+                      var payloadData = { 
+                        action: '',
+                        selector: 'topicGuide',
+                        payload:{
+                            topicName:''
+                        
+                        }
+                    };
+
+                     payloadData.action = 'faq';
+                        payloadData.payload.faqName = $(e.currentTarget).find('summary').text();
+                         payloadData.payload.faqDescription = $(e.currentTarget).find('p').text();
+                   
+                      window.parent.postMessage(payloadData, '*');
+                      }
+                 })
+
+   
+
+          function numberTransFormTwoDegit (n) {
+                 return n > 9 ? "" + n : "0" + n;
+                }
+            $('details').each((el, n)=>{
+                if($(n).find('summary').first().text().trim() == "FAQs") {
+
+                    $(n).find('summary').first().append("<span class='count'>("+ numberTransFormTwoDegit(+(($(n).find('a.doc-link').length) + ($(n).find('a.nested-accordian-link').length))) +")</span>")
+                } else if($(n).find('summary').first().text().trim() == "Videos") {
+
+                    $(n).find('summary').first().append("<span class='count'>("+ numberTransFormTwoDegit(+(($(n).find('details-video').length))) +  ")</span>")
+                }
+            });
+
+  
+         //  $('body').perfectScrollbar();
+             new PerfectScrollbar('body');
+               window.parent.postMessage({
+                frameStatus:'loaded',
+                action:'guidedTour'
+               }, '*');
+        
+        });
+    </script>
     {% if page.datatable == true %}
     <!-- Include the standard DataTables bits -->
     <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.13/css/jquery.dataTables.css">

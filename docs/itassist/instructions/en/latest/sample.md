@@ -7,7 +7,62 @@ permalink: itassist/instructions/en/latest/Sample
 #### Topic Guide
 ###### Dialog Tasks
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Dialog Tasks.
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.
+
+
+ **Step 1: Enable the Dialogflow API and Create a Service Account** 
+
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.
+
+ - - -
+ 
+**Step 2: Configure the Dialogflow ES Adapter**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.
+
+ - - -
+
+**Step 3: Enable the Adapter**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.
+
+- - - 
+
+
+<container>
+
+ **About**
+  
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.
+
+</container>
+
+
+<container>
+
+ **How to Enable**
+  
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.
+
+  **Step 1**
+  
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.
+
+   - - -
+
+  **Step 2**
+
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.
+
+  - - -
+
+  **Step 3**
+
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.
+
+</container>
 
 <details class="introduction-video" open>
   <summary>Introduction

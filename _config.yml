@@ -89,25 +89,25 @@ defaults:
     scope:
       path: "docs/searchassist/instructions"
     values:
-      layout: "topic"     
+      layout: "instructions"     
 
   -
     scope:
       path: "docs/itassist/instructions"
     values:
-      layout: "topic"      
+      layout: "instructions"      
 
   -
     scope:
       path: "docs/platform/instructions"
     values:
-      layout: "topic"     
+      layout: "instructions"     
 
   -
     scope:
       path: "docs/smartassist/instructions"
     values:
-      layout: "topic"        
+      layout: "instructions"        
 
 
 
