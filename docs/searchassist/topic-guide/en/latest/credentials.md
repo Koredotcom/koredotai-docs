@@ -18,7 +18,6 @@ permalink: searchassist/topic-guide/en/latest/credentials-list
  
 How do I add or delete Credentials?
 </a>
-
 </details>
 
 
