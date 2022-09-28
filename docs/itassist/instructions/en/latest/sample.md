@@ -77,7 +77,6 @@ llus leo arcu sed euismod.  Lorem ipsum dolor sit amet, consectetur adipiscing e
 
   </read-more-content>
 
-
    - - -
 
   **Step 2**

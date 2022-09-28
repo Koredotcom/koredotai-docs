@@ -14,12 +14,27 @@ container p{
     margin: 0;
     padding-bottom: 15px !important;
 }
-container p:nth-child(1){
+container p strong{
     font-weight: 600 !important;
     font-size: 12px !important;
     color: #121314 !important;
     margin: 0 !important;
-    padding-bottom: 20px !important;
+    padding-bottom: 5px !important;
+    padding-top: 10px;
+    display: block;
+}
+container p:nth-child(1) strong{
+    font-weight: 600 !important;
+    font-size: 12px !important;
+    color: #121314 !important;
+    margin: 0 !important;
+    padding-bottom: 10px !important;
+    padding-top: 0;
+}
+container p img{
+    max-width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 container hr{
     margin: 5px 0 25px;
