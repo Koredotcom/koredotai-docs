@@ -54,7 +54,7 @@ permalink: searchassist/topic-guide/en/latest/stopWords
 
 | Frontmatter | Required? |
 |-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our in depth documentation articles on Stop Words | 
+| ![alt text](images/SA_Documentation.svg "Title") | **Documentation**  <br /> Check out our in depth documentation articles on Stop Words | 
 
 
 </a>
