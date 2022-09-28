@@ -9,7 +9,7 @@ container{
 container p{
     font-weight: 400 !important;
     font-size: 12px !important;
-    color: #121314 !important;
+    color: #777A80 !important;
     padding-top: 0 !important;
     margin: 0;
     padding-bottom: 15px !important;
@@ -22,6 +22,9 @@ container p strong{
     padding-bottom: 5px !important;
     padding-top: 10px;
     display: block;
+}
+container p:nth-child(1) {
+    color: #121314 !important;
 }
 container p:nth-child(1) strong{
     font-weight: 600 !important;
@@ -40,4 +43,11 @@ container hr{
     margin: 5px 0 25px;
     border-top: 1px solid #E3E4E6;
     width: 100%;
+}
+container p read-more,
+container p read-less{
+    font-weight: 500;
+    font-size: 12px;
+    color: #0D6EFD;
+    cursor: pointer;
 }
