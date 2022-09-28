@@ -15,10 +15,10 @@ container p{
     padding-bottom: 15px !important;
 }
 container p:nth-child(1){
-    font-weight: 600;
-    font-size: 12px;
-    color: #121314;
-    margin: 0;
+    font-weight: 600 !important;
+    font-size: 12px !important;
+    color: #121314 !important;
+    margin: 0 !important;
     padding-bottom: 20px !important;
 }
 container hr{
