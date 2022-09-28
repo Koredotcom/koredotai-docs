@@ -47,7 +47,7 @@ permalink: searchassist/topic-guide/en/latest/resultTemplate
 
 | Frontmatter | Required? |
 |-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Result Templates | 
+| ![alt text](images/SA_Documentation.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Result Templates | 
 
 
 </a>

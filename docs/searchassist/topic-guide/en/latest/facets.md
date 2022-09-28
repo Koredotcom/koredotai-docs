@@ -58,7 +58,7 @@ permalink: searchassist/topic-guide/en/latest/facets
 
 | Frontmatter | Required? |
 |-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Facets | 
+| ![alt text](images/SA_Documentation.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Facets | 
 
 
 </a>

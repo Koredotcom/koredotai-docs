@@ -52,7 +52,7 @@ permalink: searchassist/topic-guide/en/latest/search-experience
 
 | Frontmatter | Required? |
 |-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our in depth documentation articles on Search Interface | 
+| ![alt text](images/SA_Documentation.svg "Title") | **Documentation**  <br /> Check out our in depth documentation articles on Search Interface | 
 
 
 </a>

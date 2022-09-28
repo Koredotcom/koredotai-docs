@@ -47,7 +47,7 @@ permalink: searchassist/topic-guide/en/latest/resultInsights
 
 | Frontmatter | Required? |
 |-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Results Insights | 
+| ![alt text](images/SA_Documentation.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Results Insights | 
 
 
 </a>
