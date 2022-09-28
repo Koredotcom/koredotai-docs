@@ -1,4 +1,7 @@
-container{
+.instruction-container .row{
+    margin: 0;
+}
+.instruction-container #tg-sb-content container{
     display: flex;
     flex-direction: column;
     background: #F8F9FA;
@@ -6,7 +9,7 @@ container{
     padding: 20px;
     margin-bottom: 20px;
 }
-container p{
+.instruction-container #tg-sb-content container p{
     font-weight: 400 !important;
     font-size: 12px !important;
     color: #777A80 !important;
@@ -14,7 +17,7 @@ container p{
     margin: 0;
     padding-bottom: 15px !important;
 }
-container p strong{
+.instruction-container #tg-sb-content container p strong{
     font-weight: 600 !important;
     font-size: 12px !important;
     color: #121314 !important;
@@ -23,10 +26,10 @@ container p strong{
     padding-top: 10px;
     display: block;
 }
-container p:nth-child(1) {
+.instruction-container #tg-sb-content container p:nth-child(1) {
     color: #121314 !important;
 }
-container p:nth-child(1) strong{
+.instruction-container #tg-sb-content container p:nth-child(1) strong{
     font-weight: 600 !important;
     font-size: 12px !important;
     color: #121314 !important;
@@ -34,18 +37,18 @@ container p:nth-child(1) strong{
     padding-bottom: 10px !important;
     padding-top: 0;
 }
-container p img{
+.instruction-container #tg-sb-content container p img{
     max-width: 100%;
     margin-top: 10px;
     margin-bottom: 10px;
 }
-container hr{
+.instruction-container #tg-sb-content container hr{
     margin: 5px 0 25px;
     border-top: 1px solid #E3E4E6;
     width: 100%;
 }
-container p read-more,
-container p read-less{
+.instruction-container #tg-sb-content container p read-more,
+.instruction-container #tg-sb-content container p read-less{
     font-weight: 500;
     font-size: 12px;
     color: #0D6EFD;
