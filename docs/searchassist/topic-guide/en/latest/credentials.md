@@ -11,14 +11,15 @@ permalink: searchassist/topic-guide/en/latest/credentials-list
 
 
 <details>
-  <summary>FAQs 
+  <summary>FAQs
   </summary>
 
   <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/administration/managing-credentials/">
  
-How do I add or delete Credentials? 
+  How do I add or delete Credentials?
+
 </a>
- 
+
 </details>
 
 
