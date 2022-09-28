@@ -94,7 +94,7 @@ Watch this short video to know about AI Workbench Stages.
 
 | Frontmatter | Required? |
 |-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our in depth documentation articles on Workbench and its stages. | Check out our in depth documentation articles on Workbench and its stages.
+| ![alt text](images/SA_Documentation.svg "Title") | **Documentation**  <br /> Check out our in depth documentation articles on Workbench and its stages. | Check out our in depth documentation articles on Workbench and its stages.
 
 
 </a>
