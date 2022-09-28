@@ -45,7 +45,7 @@ permalink: searchassist/topic-guide/en/latest/structuredData
 
 | Frontmatter | Required? |
 |-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our in depth documentation articles on Structured Data. | 
+| ![alt text](images/SA_Documentation.svg "Title") | **Documentation**  <br /> Check out our in depth documentation articles on Structured Data. | 
 
 
 </a>
