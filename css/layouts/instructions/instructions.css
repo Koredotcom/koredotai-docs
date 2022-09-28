@@ -1,0 +1,22 @@
+container{
+    background: #F8F9FA;
+    border-radius: 4px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+container p{
+    font-weight: 400;
+    font-size: 12px;
+    color: #121314;
+}
+container p:nth-child(1){
+    font-weight: 600;
+    font-size: 12px;
+    color: #121314;
+    margin: 0;
+    padding-bottom: 20px;
+}
+container hr{
+    margin: 5px 0 25px;
+    border-top: 1px solid #E3E4E6;
+}
