@@ -19,14 +19,18 @@ container p strong{
     font-size: 12px !important;
     color: #121314 !important;
     margin: 0 !important;
-    padding-bottom: 15px !important;
+    padding-bottom: 5px !important;
+    display: block;
 }
-container p strong:nth-child(1){
+container p:nth-child(1) strong{
     font-weight: 600 !important;
     font-size: 12px !important;
     color: #121314 !important;
     margin: 0 !important;
-    padding-bottom: 20px !important;
+    padding-bottom: 10px !important;
+}
+container p img{
+    max-width: 100%;
 }
 container hr{
     margin: 5px 0 25px;
