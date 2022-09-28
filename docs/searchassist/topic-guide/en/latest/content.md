@@ -8,7 +8,7 @@ permalink: searchassist/topic-guide/en/latest/content
 ###### Content-->
 
 
- Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Content.
+ Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Content. 
 
   <details open>
  <summary>Video
@@ -66,7 +66,7 @@ Watch this short video to know how to Add Document to your application.
 
 | Frontmatter | Required? |
 |-------------|-------------|
-| ![alt text](SA_Documentation.svg "Title") | **Documentation**  <br /> Check out our in depth documentation articles on Content. | 
+| ![alt text](images/SA_Documentation.svg "Title") | **Documentation**  <br /> Check out our in depth documentation articles on Content. | 
 
 
 </a>
