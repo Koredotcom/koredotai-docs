@@ -34,7 +34,12 @@
                 if(nextEle.find('read-less').length == 0){
                  nextEle.append(readLess);
                 }
-                  nextEle.toggle();
+                if(nextEle.css('display') == 'none'){
+                    nextEle.css('display', 'inline');
+                }else{
+                    nextEle.css('display', 'inline');
+                }
+                  
              }
              
              if(e.currentTarget.nodeName == 'READ-LESS'){
