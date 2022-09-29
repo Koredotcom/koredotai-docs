@@ -60,3 +60,21 @@
     color: #0D6EFD;
     cursor: pointer;
 }
+.instruction-container #tg-sb-content read-more-paragraph read-more,
+.instruction-container #tg-sb-content read-more-paragraph read-less{
+    font-weight: 500;
+    font-size: 12px;
+    color: #0D6EFD;
+    cursor: pointer;
+}
+.instruction-container #tg-sb-content read-more-paragraph{
+    font-weight: 400;
+    font-size: 12px;
+    color: #121314;
+}
+.lineCLamp{
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+}
