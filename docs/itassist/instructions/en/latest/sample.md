@@ -4,29 +4,14 @@ title: Sample
 permalink: itassist/instructions/en/latest/Sample
 
 ---
-#### Topic Guide
-###### Dialog Tasks
 
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.
 
+  <read-more-paragraph display-length="1000">
+  Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.
 
- **Step 1: Enable the Dialogflow API and Create a Service Account** 
-
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.
-
- - - -
- 
-**Step 2: Configure the Dialogflow ES Adapter**
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.
-
- - - -
-
-**Step 3: Enable the Adapter**
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.
+  </read-more-paragraph>
 
 - - - 
 
