@@ -15,20 +15,25 @@
     </script>
     <script>
         $(document).ready(function() {
-        var readLess = $('<read-less>less</read-less>');
+       
 
           var readMores =   $('container read-more');
 
           readMores.on('click', readMoreToggle);
-         readLess.on('click', readMoreToggle);
+          var readLess ;
 
         function readMoreToggle(e){
+            
             if(e.currentTarget.nodeName == 'READ-MORE'){
+             readLess = $('<read-less>...less</read-less>');
+             readLess.on('click', readMoreToggle);
               $(e.currentTarget).hide();
             }
              var nextEle = $(e.currentTarget).next();
              if(nextEle.length && nextEle[0].nodeName == 'READ-MORE-CONTENT'){
+                if(nextEle.find('read-less').length == 0){
                  nextEle.append(readLess);
+                }
                   nextEle.toggle();
              }
              
@@ -40,6 +45,20 @@
 
             console.log(e);
         }
+
+        $('read-more-paragraph[display-length]').each(function(i, ele){
+            var dispalyLength = $(ele).attr('display-length');
+            var fullText =  $(ele).text();
+            var displayText = fullText.substring(0, dispalyLength);
+            var moreText = fullText.substring(dispalyLength, fullText.length);
+            $(ele).html(displayText);
+            $(ele).append('<read-more>...more</read-more>');
+            $(ele).append('<read-more-content>'+ moreText +'</read-more-content>');
+
+        });
+
+        var readMorePara = $('read-more-paragraph read-more');
+         readMorePara.on('click', readMoreToggle);
   
             var payloadObj = { 
                     action: 'videoModal',
