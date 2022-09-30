@@ -17,28 +17,33 @@
         $(document).ready(function() {
        
 
-          var readMores =   $('container read-more');
+          var containerReadMore =   $('container read-more');
 
-          readMores.on('click', readMoreToggle);
-          var readLess ;
+          containerReadMore.on('click', readMoreToggle);
+          var containerReadLess ;
+             containerReadLess = $('<read-less>...less</read-less>');
+             containerReadLess.on('click', readMoreToggle);
 
         function readMoreToggle(e){
             
             if(e.currentTarget.nodeName == 'READ-MORE'){
-             readLess = $('<read-less>...less</read-less>');
-             readLess.on('click', readMoreToggle);
               $(e.currentTarget).hide();
             }
              var nextEle = $(e.currentTarget).next();
              if(nextEle.length && nextEle[0].nodeName == 'READ-MORE-CONTENT'){
                 if(nextEle.find('read-less').length == 0){
-                 nextEle.append(readLess);
+                 nextEle.append(containerReadLess.clone(true, true));
                 }
-                if(nextEle.css('display') == 'none'){
+                if($(e.currentTarget).parent()[0].nodeName == 'READ-MORE-PARAGRAPH'){
+                     if(nextEle.css('display') == 'none'){
                     nextEle.css('display', 'inline');
+                    }else{
+                        nextEle.css('display', 'inline');
+                    }
                 }else{
-                    nextEle.css('display', 'inline');
+                    nextEle.toggle();
                 }
+               
                   
              }
              
@@ -50,6 +55,38 @@
 
             console.log(e);
         }
+
+                var readMore = $("<read-more>more</read-more>");
+         var readLess = $('<read-less>...less</read-less>');
+        function lineClamp(e){
+                   
+                    if(e.currentTarget.nodeName == 'READ-MORE'){
+                         $(e.currentTarget).prev().toggleClass('line-clamp');
+                      $(e.currentTarget).prev().append(readLess.clone(true, true));
+                    }else{
+                         $($(e.currentTarget).parent()[0]).toggleClass('line-clamp');
+                           $($(e.currentTarget).parent()[0]).after(readMore.clone(true, true));
+                    }
+                    $(e.currentTarget).remove();
+                  
+                   
+        }
+
+         
+        readMore.on('click', lineClamp);
+        readLess.on('click', lineClamp);
+
+        $('read-more-lines').each(function(i, ele){
+             var numberOfLines = $(ele).attr('display-lines');
+              $(ele).toggleClass('line-clamp');
+             if(numberOfLines){
+                 $(ele).css('-webkit-line-clamp', numberOfLines);
+             }
+             
+           
+            $(ele).after(readMore.clone(true, true));
+        });
+
 
         $('read-more-paragraph[display-length]').each(function(i, ele){
             var dispalyLength = $(ele).attr('display-length');
@@ -189,6 +226,7 @@ $('.nested-details summary').on('click', function (e) {
         
         });
     </script>
+   
     {% if page.datatable == true %}
     <!-- Include the standard DataTables bits -->
     <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.13/css/jquery.dataTables.css">

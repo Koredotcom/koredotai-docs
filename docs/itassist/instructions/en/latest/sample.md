@@ -3,7 +3,22 @@ title: Sample
 
 permalink: itassist/instructions/en/latest/Sample
 
----
+--- 
+
+
+<read-more-lines>
+Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.
+</read-more-lines>
+
+- - - 
+### More lines specified
+
+<read-more-lines display-lines="6">
+Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.turpis. Malesuada justo, eu tellus leo arcu sed euismod.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.turpis. Malesuada justo, eu tellus leo arcu sed euismod.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.turpis. Malesuada justo, eu tellus leo arcu sed euismod.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.turpis. Malesuada justo, eu tellus leo arcu sed euismod.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.turpis. Malesuada justo, eu tellus leo arcu sed euismod.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.
+</read-more-lines>
+
+
+- - -
 
 
 
@@ -15,8 +30,15 @@ permalink: itassist/instructions/en/latest/Sample
 
 - - - 
 
+<read-more-lines>
+More lines --Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.
+</read-more-lines>
 
-<container>
+
+- - - 
+
+
+<container >
 
  **About**
   
@@ -25,6 +47,22 @@ permalink: itassist/instructions/en/latest/Sample
   Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.
 
   </read-more-content>
+
+  
+  ### Read more paragraph
+
+  <read-more-paragraph display-length="1000">
+  Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.
+
+  </read-more-paragraph>
+
+- - - 
+
+#### Read more lines
+
+<read-more-lines>
+More lines --Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.
+</read-more-lines>
 
 </container>
 
