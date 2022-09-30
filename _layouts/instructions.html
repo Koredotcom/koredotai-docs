@@ -15,7 +15,29 @@
     </script>
     <script>
         $(document).ready(function() {
+
+            function textColorCallback(ind, ele){
+
+                $(ele).css('color', this);
+                
+            }
        
+
+         $('container').each(function(index, ele){
+             var bgColor = $(ele).attr('bg-color');
+             var textColor =  $(ele).attr('text-color');
+             if(bgColor){
+                 $(ele).css('background-color', bgColor);
+             }
+           
+             if(textColor){
+                 $(ele).find('read-more-paragraph').each(textColorCallback.bind(textColor));
+                $(ele).find('read-more-lines').each(textColorCallback.bind(textColor));
+
+                $(ele).find('p').each(textColorCallback.bind(textColor));
+
+             }
+         });
 
           var containerReadMore =   $('container read-more');
 
