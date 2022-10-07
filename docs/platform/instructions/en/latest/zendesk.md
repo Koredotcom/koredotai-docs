@@ -9,7 +9,14 @@ permalink: platform/instructions/en/latest/zendesk
 
 **About**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec   vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.
+Integrate with Zendesk Support to power your conversations to create tickets/update tickets and other actions.
+  **Action Templates**      **Description**
+    **Create Ticket**         Create a new ticket by entering the title, description and priority of your ticket.   
+    **Update Ticket**         Update the status, priority, description and title of your Zendesk ticket.
+    **View Ticket by Id**     View single/multiple ticket(s) by entering ticket id(s).
+    **List All Tickets**      Shows all your tickets.
+    **Search Ticket**         Searches all the tickets matching your keyword.
+    **Delete Ticket**         Lets you delete a ticket.
 
 </container>
 
@@ -17,17 +24,28 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nu
 
 **How to Enable**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.
-
+To set up Zendesk Integration, the developer will need to login to Zendesk Console, setup an app and fetch the API Token as shown below.
 - - -
 
 **Step1**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.
+  Login to Zendesk. Example: < domain>.zendesk.com.
+  
+  You will find your Zendesk domain URL in your browser's address bar. 
+- - -
+  
+  **Step2**
 
+  Provide email address/user name that you use to login into Zendesk console.
 - - -
 
-**Step2**
+**Step3**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lectus leo tempor in nunc eros consectetur ultrices dictum. Ut elit phasellus sem donec vitae cras pharetra id condimentum. Est porttitor mauris, pulvinar sit mi aliquam diam turpis. Malesuada justo, eu tellus leo arcu sed euismod.
+Navigate to Apps & Integrations.
+
+  Create an app in Zendesk --> Apps & Integrations --> Zendesk API
+  
+  Copy API Token into Kore.ai platform API Token field
+  <img width="878" alt="Screenshot 2022-10-07 at 1 30 47 PM" src="https://user-images.githubusercontent.com/105059896/194517725-76543d9a-4ed0-4b0a-b8ef-467044c4ef48.png">
+
 </container>
