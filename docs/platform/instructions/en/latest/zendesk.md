@@ -7,7 +7,7 @@ permalink: platform/instructions/en/latest/zendesk
 
 <container>
 
-**About**
+**About-1**
 
 Integrate with Zendesk Support to power your conversations to create tickets/update tickets and other actions.
   **Action Templates**      **Description**
