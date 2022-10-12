@@ -1,7 +1,7 @@
 ---
 title: Zendesk
 
-permalink: platform/instructions/en/latest/sample
+permalink: platform/instructions/en/latest/sample1
 
 ---
 
