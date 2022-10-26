@@ -1,5 +1,6 @@
 .instruction-container {
-    padding: 0 !important;
+    /* padding: 0 !important; */
+    padding: 0 48px 30px 30px !important;
 }
 .instruction-container #tg-sb-content{
     padding: 0;
