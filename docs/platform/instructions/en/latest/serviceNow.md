@@ -1,5 +1,5 @@
 ---
-title: Zendesk
+title: Service Now
 
 permalink: platform/instructions/en/latest/serviceNow
 
