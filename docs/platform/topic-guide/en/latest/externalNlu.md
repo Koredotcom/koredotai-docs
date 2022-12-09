@@ -1,7 +1,7 @@
 ---
 title: External NLU
 
-permalink: platform/topic-guide/en/latest/externalNlu
+permalink: platform/topic-guide/en/latest/External NLU
 
 ---
 #### Topic Guide
