@@ -27,53 +27,53 @@ To connect to a client's Service Now account, Kore.ai uses basic authentication.
  |Allow Users to Authorize the Integration|  Yes  |
 
 
-**Pre-authorize the Integration**
+    **Pre-authorize the Integration**
  
- To make the integration process smoother for customers, you can pre-authorize it by providing the necessary authorization credentials to obtain the access token.
+        To make the integration process smoother for customers, you can pre-authorize it by providing the necessary authorization credentials to obtain the access           token.
 
- **Basic**
+       **Basic**
  
-  1. Provide Subdomain, Username, and Password to authorize the integration. Follow the below steps to get the required credentials from your Service Now developer    instance
-  2. To fetch the required details, navigate to
-  3. A page with the Request Instance button would appear (if there is no instance created for you)
-  4. Click on “Request Instance”
-  5. Copy instance URL to Subdomain field in Kore.ai XO Platform
-  6. Copy the Username and Password to their respective fields into the Kore.ai XO Platform
-  7. Click “Enable”
+          1. Provide Subdomain, Username, and Password to authorize the integration. Follow the below steps to get the required credentials from your Service Now                developer instance
+          2. To fetch the required details, navigate to
+          3. A page with the Request Instance button would appear (if there is no instance created for you)
+          4. Click on “Request Instance”
+          5. Copy instance URL to Subdomain field in Kore.ai XO Platform
+          6. Copy the Username and Password to their respective fields into the Kore.ai XO Platform
+          7. Click “Enable”
  
  
- **Allow Users to Authorize the Integration**
+    **Allow Users to Authorize the Integration**
  
- This method requires the end user to provide credentials during the conversation for authorization.
+         This method requires the end user to provide credentials during the conversation for authorization.
  
- **Basic**
+       **Basic**
  
-   1. Select “All Users to Authorize the Integration”
-   2. Click “Select Authorization”
-   3. Select “Create New”
-   4. Select the type of authorization mechanism 
-   5. Save Authorization Profile
-   6. Select the created Authorization Profile to complete integration
-   7. Click “Enable”
+          1. Select “All Users to Authorize the Integration”
+          2. Click “Select Authorization”
+          3. Select “Create New”
+          4. Select the type of authorization mechanism 
+          5. Save Authorization Profile
+          6. Select the created Authorization Profile to complete integration
+          7. Click “Enable”
 
-**What can be achieved through the integration of Service Now with the Kore.ai XO Platform?**
+**Actions**
  
  The Kore.ai XO Platform provides support for all common actions on Service Now  Requests & Tickets objects with pre-built dialog templates that are ready to use.     Click “Explore Templates”. Learn More.
  
- **Templates Supported**
+    **Templates Supported**
   
- | Action           | Description            |
- |------------------|------------------------|
- |Create Incident   |------------------------|
- |Update Incident   |------------------------|
- |Find Incident     |------------------------|
- |Delete Incident   |------------------------|
- |List All Incidents|------------------------|
- |Create Request    |------------------------|
- |Update Request    |------------------------|
- |Find Request      |------------------------|
- |Delete Request    |------------------------|
- |Find All Requests |------------------------|
+        | Action           | Description            |
+        |------------------|------------------------|
+        |Create Incident   |------------------------|
+        |Update Incident   |------------------------|
+        |Find Incident     |------------------------|
+        |Delete Incident   |------------------------|
+        |List All Incidents|------------------------|
+        |Create Request    |------------------------|
+        |Update Request    |------------------------|
+        |Find Request      |------------------------|
+        |Delete Request    |------------------------|
+        |Find All Requests |------------------------|
 
 </container>
 
