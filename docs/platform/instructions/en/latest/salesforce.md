@@ -43,7 +43,7 @@ To connect to a client's Salesforce account, Kore.ai uses OAuth 2.0 authenticati
    Please note that you are allowing Kore.ai’s app to fetch the access token to complete the authorization.
 5. Click **Enable**.
  
- ![gif](/koredotai-docs/images/Home%20_%20Loom%20-%2019%20December%202022.gif)
+ ![gif](/koredotai-docs/images/Salesforce%20video%20for%20GIF.gif)
  
 **OAuth - Custom**
  
