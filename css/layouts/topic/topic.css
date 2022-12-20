@@ -296,7 +296,7 @@ details  details-video  p a{
     /* width: 160px; */
     height: 120px;
 }
-a[href^="http://"]:before, a[href^="https://"]:before{
+.topic-container a[href^="http://"]:before,  .topic-container a[href^="https://"]:before{
     content: '';
     display: inline-block;
     background: rgb(0 0 0 / 22%);
@@ -305,7 +305,7 @@ a[href^="http://"]:before, a[href^="https://"]:before{
     height: 100%;
 }
 
-a[href^="http://"]:after, a[href^="https://"]:after {
+.topic-container a[href^="http://"]:after, .topic-container a[href^="https://"]:after {
     content: "" !important;
     height: 34px;
     width: 34px;
