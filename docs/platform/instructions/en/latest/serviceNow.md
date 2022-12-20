@@ -41,7 +41,7 @@ To connect to a client's Service Now account, Kore.ai uses basic authentication.
 6. Copy the Username and Password to their respective fields into the Kore.ai XO Platform
 7. Click “Enable”
  
- ![Alt Text](/images/Home%20_%20Loom%20-%2019%20December%202022.gif)
+ ![gif](/koredotai-docs/images/Home%20_%20Loom%20-%2019%20December%202022.gif)
  
 **Allow Users to Authorize the Integration**
  
