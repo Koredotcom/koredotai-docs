@@ -305,7 +305,7 @@ details  details-video  p a{
     height: 100%;
 }
 
-.topic-container a[href^="http://"]:after, .topic-container a[href^="https://"]:after {
+a[href^="http://"]:after, a[href^="https://"]:after {
     content: "" !important;
     height: 34px;
     width: 34px;
