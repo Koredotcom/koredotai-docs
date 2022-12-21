@@ -13,7 +13,6 @@ Connect ServiceNow to manage tickets and requests and perform various other acti
 
 The Kore.ai XO Platform allows you to integrate with Service Now, enabling you to easily connect your Service Now instance. This integration allows you to perform actions on tickets (incidents) and requests, including creating, updating, and closing them. It ensures that you can manage these items effectively.
 
-
 </container>
 
 <container>
