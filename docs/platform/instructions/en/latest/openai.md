@@ -1,5 +1,5 @@
 ---
-title: Hubspot
+title: OpenAI
 
 permalink: platform/instructions/en/latest/openai
 
