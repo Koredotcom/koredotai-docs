@@ -1,7 +1,7 @@
 ---
-title: OpenAI
+title: Hubspot
 
-permalink: platform/instructions/en/latest/openai
+permalink: platform/instructions/en/latest/Actions/hubspot
 
 ---
 
@@ -9,7 +9,7 @@ permalink: platform/instructions/en/latest/openai
 
 **About**
 
-Integrate with openai Support to power your conversations to create tickets/update tickets and other actions.
+Integrate with Zendesk Support to power your conversations to create tickets/update tickets and other actions.
   **Action Templates**      **Description**
     **Create Ticket**         Create a new ticket by entering the title, description and priority of your ticket.   
     **Update Ticket**         Update the status, priority, description and title of your Zendesk ticket.
@@ -24,7 +24,7 @@ Integrate with openai Support to power your conversations to create tickets/upda
 
 **How to Enable**
 
-To set up OpenAI Integration, the developer will need to login to Zendesk Console, setup an app and fetch the API Token as shown below.
+To set up Zendesk Integration, the developer will need to login to Zendesk Console, setup an app and fetch the API Token as shown below.
 - - -
 
 **Step1**
@@ -49,5 +49,4 @@ Navigate to Apps & Integrations.
   <img width="878" alt="Screenshot 2022-10-07 at 1 30 47 PM" src="https://user-images.githubusercontent.com/105059896/194517725-76543d9a-4ed0-4b0a-b8ef-467044c4ef48.png">
 
 </container>
-
 

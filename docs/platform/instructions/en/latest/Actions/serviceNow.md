@@ -1,7 +1,7 @@
 ---
 title: Service Now
 
-permalink: platform/instructions/en/latest/serviceNow
+permalink: platform/instructions/en/latest/Actions/serviceNow
 
 ---
 

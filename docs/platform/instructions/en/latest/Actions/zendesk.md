@@ -1,7 +1,7 @@
 ---
 title: Zendesk
 
-permalink: platform/instructions/en/latest/zendesk
+permalink: platform/instructions/en/latest/Actions/zendesk
 
 ---
 
