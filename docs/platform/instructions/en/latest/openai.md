@@ -24,7 +24,7 @@ Integrate with openai Support to power your conversations to create tickets/upda
 
 **How to Enable**
 
-To set up Zendesk Integration, the developer will need to login to Zendesk Console, setup an app and fetch the API Token as shown below.
+To set up OpenAI Integration, the developer will need to login to Zendesk Console, setup an app and fetch the API Token as shown below.
 - - -
 
 **Step1**
