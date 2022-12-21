@@ -9,9 +9,10 @@ permalink: platform/instructions/en/latest/serviceNow
 
 **Overview**
 
-Connect Service Now to manage tickets, requests and perform various other actions.
+Connect ServiceNow to manage tickets and requests and perform various other actions.
 
-The Kore.ai XO Platform allows you to integrate with Service Now, enabling you to easily connect your Service Now instance. This integration allows you to perform actions on tickets (incidents) and requests, including creating, updating, and closing them. It ensures that you have the ability to manage these items effectively.
+The Kore.ai XO Platform allows you to integrate with Service Now, enabling you to easily connect your Service Now instance. This integration allows you to perform actions on tickets (incidents) and requests, including creating, updating, and closing them. It ensures that you can manage these items effectively.
+
 
 </container>
 
@@ -19,7 +20,8 @@ The Kore.ai XO Platform allows you to integrate with Service Now, enabling you t
 
 **Authorization**
  
-To connect to a client's Service Now account, Kore.ai uses basic authentication. The user has the option to use pre-authorized credentials provided by the developer during the configuration process, or can use their own authorization profile during the configuration process to let the end user authorize during the conversation. Learn More.
+To connect to a client's Service Now account, Kore.ai uses basic authentication. The user can use pre-authorized credentials provided by the developer during the configuration process or their own authorization profile during the configuration process to let the end user authorize during the conversation. Learn More.
+ 
  
  |Authorization Type                      | Basic |
  |----------------------------------------|-------|
@@ -33,13 +35,14 @@ To connect to a client's Service Now account, Kore.ai uses basic authentication.
 
 **Basic**
  
-1. Provide Subdomain, Username, and Password to authorize the integration. Follow the below steps to get the required credentials from your Service Now        developer instance
-2. To fetch the required details, navigate to [Service Now developer console](https://developer.servicenow.com/dev.do#!/home)
-3. A page with the Request Instance button would appear (if there is no instance created for you)
-4. Click on “Request Instance”
-5. Copy instance URL to Subdomain field in Kore.ai XO Platform
-6. Copy the Username and Password to their respective fields into the Kore.ai XO Platform
-7. Click “Enable”
+1. Provide Subdomain, Username, and Password to authorize the integration. 
+2. Follow the steps below to get the required credentials from your Service Now developer instance.
+   a. To fetch the required details, navigate to https://developer.servicenow.com/dev.do#!/home.
+      i.   A page with the **Request Instance** button is displayed (if no instance is  created for you.)
+      ii.  Click **Request Instance**.
+      iii. Copy the Instance URL from here to the User Subdomain field on the Kore.ai XO Platform.
+      iv.  Copy the **Username** and **Password** to their respective fields on the Kore.ai XO Platform.
+       v.  Click **Enable**.
  
  ![gif](/koredotai-docs/images/Home%20_%20Loom%20-%2019%20December%202022.gif)
  
@@ -49,17 +52,17 @@ This method requires the end user to provide credentials during the conversation
  
 **Basic**
  
-1. Select “All Users to Authorize the Integration”
-2. Click “Select Authorization”
-3. Select “Create New”
-4. Select the type of authorization mechanism 
-5. Save Authorization Profile
-6. Select the created Authorization Profile to complete integration
-7. Click “Enable”
+1. Select **All Users to Authorize the Integration**.
+2. Click **Select Authorization**.
+3. Select **Create New**.
+4. Select the type of authorization mechanism. 
+5. Save **Authorization Profile**.
+6. Select the created Authorization Profile to complete integration.
+7. Click **Enable**.
 
-**Actions**
+**What can be achieved by integrating Service Now with the Kore.ai XO Platform?**
  
- The Kore.ai XO Platform provides support for all common actions on Service Now  Requests & Tickets objects with pre-built dialog templates that are ready to use.     Click “Explore Templates”. Learn More.
+ The Kore.ai XO Platform supports all common actions on Service Now Requests & Tickets objects with pre-built dialog templates that are ready to use. Click Explore  Templates. Learn More.
  
 **Templates Supported**
 
