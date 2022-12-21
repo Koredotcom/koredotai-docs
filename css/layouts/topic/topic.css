@@ -305,14 +305,10 @@ details  details-video  p a{
     height: 100%;
 }
 
-container a[href^="http://"], 
-container a[href^="https://"] {
-    position: relative;
-}
 
 container a[href^="http://"]:after, 
 container a[href^="https://"]:after {
-    background: url(/koredotai-docs/images/externalLink.svg) no-repeat !important;
+        display: none;
 }
 a[href^="http://"]:after, a[href^="https://"]:after {
     content: "" !important;
