@@ -43,6 +43,8 @@ g. Click on the Advanced tab, add the code below and click on ‘Submit’. It e
 
 <container>
  
+**Step 4: Create a New Queue**
+ 
 Copy Queue ID in the Queue ID field
 
 Save your settings by clicking on the ‘Done’ button.
