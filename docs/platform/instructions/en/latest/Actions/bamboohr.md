@@ -1,5 +1,5 @@
 ---
-title: Bamboohr
+title: Bamboo HR
 
 permalink: platform/instructions/en/latest/Actions/bamboohr
 
