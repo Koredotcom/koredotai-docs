@@ -53,6 +53,17 @@ To connect to a client's Salesforce account, Kore.ai uses OAuth 2.0 authenticati
 2. Click **Select Authorization**.
 3. Select **Create New**.
 4. Select the type of authorization mechanism. 
+   i.  Select oAuth v2
+  ii.  Navigate to **login.salesforce.com** and log in 
+  iii. Navigate to Apps → select the app → Click on Auth
+  iv.  Copy Client Id from Salesforce into Client Id field to Kore.ai platform
+   v.  Copy Client secret from Salesforce into Client Secret field to Kore.ai platform
+  vi.  Copy Authorization URL (https://login.salesforce.com/services/oauth2/authorize)
+  vii. Copy Token URL (https://login.salesforce.com/services/oauth2/token)
+viii.  Add below scopes 
+      1. full
+      2. refresh_token 
+      3. offline_access 
 5. Save **Authorization Profile**.
 6. Select the created Authorization Profile to complete integration.
 7. Click **Authorize**.
@@ -78,11 +89,23 @@ This method requires the end user to provide credentials during the conversation
  
  You can create your authorization profile to obtain an access token and use it to complete integration without using Kore.ai's Salesforce app for authorization.
  
-1. Click **Select Authorization**.
-2. Select **Create New**.
-3. Select the type of authorization mechanism. 
-4. Save **Authorization Profile**.
-5. Select the created Authorization Profile to complete integration.
+1. Select **Custom**.
+2. Click **Select Authorization**.
+3. Select **Create New**.
+4. Select the type of authorization mechanism. 
+   i.  Select oAuth v2
+  ii.  Navigate to **login.salesforce.com** and log in 
+  iii. Navigate to Apps → select the app → Click on Auth
+  iv.  Copy Client Id from Salesforce into Client Id field to Kore.ai platform
+   v.  Copy Client secret from Salesforce into Client Secret field to Kore.ai platform
+  vi.  Copy Authorization URL (https://login.salesforce.com/services/oauth2/authorize)
+  vii. Copy Token URL (https://login.salesforce.com/services/oauth2/token)
+viii.  Add below scopes 
+      1. full
+      2. refresh_token 
+      3. offline_access 
+5. Save **Authorization Profile**.
+6. Select the created Authorization Profile to complete integration.
 6. Click **Enable**.
 
 **What can be achieved by integrating Salesforce CRM with the Kore.ai XO Platform?**
@@ -93,13 +116,13 @@ The Kore.ai XO Platform supports all common actions on Salesforce objects with p
 
 | Action           | Description            |
 |------------------|------------------------|
-|Create Lead       |------------------------|
-|Update Lead       |------------------------|
-|Get Lead          |------------------------|
-|Get All Leads     |------------------------|
-|Delete Lead       |------------------------|
-|Search Leads      |------------------------|
-|Create Opportunity|------------------------|
+|Create Lead       |Add a new lead to the system|
+|Update Lead       |Modify an existing lead|
+|Get Lead          |Retrieve a lead by its unique ID|
+|Get All Leads     |Display a list of all leads|
+|Delete Lead       |Remove a lead from the system|
+|Search Leads      |Find leads using specified search criteria|
+|Create Opportunity|Create a new opportunity in the system|
 
 </container>
 
