@@ -10,7 +10,7 @@ For XO Platform to integrate with Salesforce, you’ll need to follow the steps 
 
 **Step 1: Setup Live Agent**
 
-1. Make sure you have a working setup of Live Agent within your Salesforce organization. Click here for detailed instructions on setting up Live Agent.
+1. Make sure you have a working setup of Live Agent within your Salesforce organization. Click [here](https://help.salesforce.com/s/articleView?language=en_US&id=live_agent_intro.htm) for detailed instructions on setting up Live Agent.
 2. As the ‘administrator’, navigate to the Salesforce ‘Setup’ page (make sure you switch to Classic view, the Live Agent settings do not come up under the Lightning Experience view)
 3. Find the Live Agent section under ‘Build > Customize > Chat > Chat Agent Configurations’.
 
