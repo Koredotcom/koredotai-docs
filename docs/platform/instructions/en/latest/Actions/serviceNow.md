@@ -72,16 +72,17 @@ This method requires the end user to provide credentials during the conversation
 
 | Action           | Description            |
 |------------------|------------------------|
-|Create Incident   |------------------------|
-|Update Incident   |------------------------|
-|Find Incident     |------------------------|
-|Delete Incident   |------------------------|
-|List All Incidents|------------------------|
-|Create Request    |------------------------|
-|Update Request    |------------------------|
-|Find Request      |------------------------|
-|Delete Request    |------------------------|
-|Find All Requests |------------------------|
+|Create Incident   |Add a new incident to the system|
+|Update Incident   |Modify an existing incident|
+|Find Incident     |Find an incident using specified search criteria|
+|Delete Incident   |Remove an incident from the system|
+|List All Incidents|Display a list of all incidents in the system|
+|Set Caller of Reported/Created Incident|Set the caller for an incident that has been reported or created|
+|Create Request    |Add a new request to the system|
+|Update Request    |Modify an existing request|
+|Find Request      |Find a request using specified search criteria|
+|Delete Request    |Remove a request from the system|
+|Find All Requests |Display a list of all requests in the system|
 
 </container>
 
