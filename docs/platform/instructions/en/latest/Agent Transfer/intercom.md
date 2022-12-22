@@ -19,7 +19,9 @@ To set up Intercom to receive messages, you will first need to create an app in 
 **Step 2: Retrieve Access Token**
 
 1. Once you create the App, click on authentication and copy (or generate, if it’s not available) an access token. This token will be used to access your Intercom data via API.
+ 
 2. Copy this access token, navigate back to SmartAssist and paste the Access Token into the Access Token field under Outgoing Setup → Outgoing Chat Agent Transfer → Intercom → Configuration
+ 
 </container>
 
 <container>
