@@ -14,17 +14,17 @@ For XO Platform to integrate with Drift, you’ll need to follow the steps below
   
 2. Once you have created the App, go to the bottom of the OAuth & Permissions page, and give your application the scopes of access that it needs to perform its purpose. You’ll need to provide access to the following scopes -
   
-  i.   new_message
+    i.   new_message
   
-  ii.   new_conversation
+    ii.   new_conversation
   
-  iii.   conversation_status_updated
+    iii.   conversation_status_updated
   
-  iv.   conversation_inactive
+    iv.   conversation_inactive
   
-  v.   conversation_push
+    v.   conversation_push
   
-  vi.   chat_to_call for webhook
+    vi.   chat_to_call for webhook
 
 </container>
 
