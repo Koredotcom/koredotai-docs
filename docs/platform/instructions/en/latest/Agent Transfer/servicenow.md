@@ -1,5 +1,5 @@
 ---
-title: Service Now
+title: ServiceNow
 
 permalink: platform/instructions/en/latest/Agent Transfer/servicenow
 
@@ -22,7 +22,9 @@ Retrieve your ServiceNow Host URL, User ID & password and paste then under the r
 2. Click on New button to configure the new API.
 3. Enter ‘Endpoint’ as a Callback URL from the instructions tab. This will be the endpoint through which ServiceNow will send Agent’s messages to the user.
 4. Click on ‘HTTP Request’ tab and add the ‘HTTP Header’ as below:
+
    Name : Content-Type, Value : application/json, Method : POST
+   
 5. Click on ‘Submit’ button
 
 </container>
