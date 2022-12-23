@@ -74,7 +74,7 @@ This method requires the end user to provide credentials during the conversation
 
 **What can be achieved by integrating Zendesk with the Kore.ai XO Platform?**
  
- The Kore.ai XO Platform supports all common actions on Zendesk objects with pre-built dialog templates that are ready to use. Click **Explore Templates**. Learn More.
+ The Kore.ai XO Platform supports all common actions on Zendesk objects with pre-built dialog templates that are ready to use. Click Explore Templates. Learn More.
  
 **Templates Supported**
 
@@ -86,6 +86,5 @@ This method requires the end user to provide credentials during the conversation
 |List All Tickets  |Shows all your tickets.|
 |Search Ticket     |Searches all the tickets matching your keyword.|
 |Delete Ticket     |Lets you delete a ticket.|
-
 
 </container>
