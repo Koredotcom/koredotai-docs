@@ -41,7 +41,7 @@ To connect to a Bamboo HR account, Kore.ai uses basic authentication. The user c
 2. Follow the steps below to get the required details from your Bamboo HR instance.
    a. To fetch the required details, navigate to https://company.bamboohr.com/
  
-    i.   Replace the company in the above URL with your company domain. You will find your domain in your browser's address bar. The text just before  bamboohr.com is your domain.
+    i.   Replace the **company** in the above URL with your company domain. You will find your domain in your browser's address bar. The text just before  bamboohr.com is your domain.
 
     ii.    If the domain you have entered is correct, you will be navigated to a page to provide your email and password to log in to the developer account. 
       
