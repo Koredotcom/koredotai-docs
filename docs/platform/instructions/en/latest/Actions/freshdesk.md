@@ -1,5 +1,5 @@
 ---
-title: Bamboo HR
+title: Freshdesk
 
 permalink: platform/instructions/en/latest/Actions/freshdesk
 
