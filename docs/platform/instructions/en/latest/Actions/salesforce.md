@@ -53,17 +53,29 @@ To connect to a client's Salesforce account, Kore.ai uses OAuth 2.0 authenticati
 2. Click Select Authorization.
 3. Select Create New.
 4. Select the type of authorization mechanism. 
+ 
    i.  Select oAuth v2.
+ 
   ii.  Navigate to login.salesforce.com and log in.
+ 
   iii. Navigate to Apps → select the app → Click on Auth.
+ 
   iv.  Copy Client Id from Salesforce into Client Id field to Kore.ai platform.
+ 
    v.  Copy Client secret from Salesforce into Client Secret field to Kore.ai platform.
+ 
   vi.  Copy Authorization URL (https://login.salesforce.com/services/oauth2/authorize).
+ 
   vii. Copy Token URL (https://login.salesforce.com/services/oauth2/token).
-viii.  Add below scopes 
+ 
+viii.  Add below scopes
+ 
       1. full
+ 
       2. refresh_token 
+ 
       3. offline_access 
+ 
 5. Save Authorization Profile.
 6. Select the created Authorization Profile to complete integration.
 7. Click Authorize.
@@ -93,17 +105,29 @@ This method requires the end user to provide credentials during the conversation
 2. Click Select Authorization.
 3. Select Create New.
 4. Select the type of authorization mechanism. 
+ 
    i.  Select oAuth v2.
+ 
   ii.  Navigate to **login.salesforce.com** and log in.
+ 
   iii. Navigate to Apps → select the app → Click on Auth.
+ 
   iv.  Copy Client Id from Salesforce into Client Id field to Kore.ai platform.
+ 
    v.  Copy Client secret from Salesforce into Client Secret field to Kore.ai platform.
+ 
   vi.  Copy Authorization URL (https://login.salesforce.com/services/oauth2/authorize).
+ 
   vii. Copy Token URL (https://login.salesforce.com/services/oauth2/token).
+ 
 viii.  Add below scopes 
+ 
       1. full
+ 
       2. refresh_token 
+ 
       3. offline_access 
+ 
 5. Save Authorization Profile.
 6. Select the created Authorization Profile to complete integration.
 6. Click Enable.
