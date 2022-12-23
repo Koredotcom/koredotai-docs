@@ -36,17 +36,18 @@ To connect to a client's Service Now account, Kore.ai uses basic authentication.
  
 1. Provide Subdomain, Username, and Password to authorize the integration. 
 2. Follow the steps below to get the required credentials from your Service Now developer instance.
+ 
    a. To fetch the required details, navigate to https://developer.servicenow.com/dev.do#!/home.
      
-      i.   A page with the **Request Instance** button is displayed (if no instance is  created for you.)
+      i.   A page with the Request Instance button is displayed (if no instance is  created for you.)
 
-      ii.  Click **Request Instance**.
+      ii.  Click Request Instance.
 
       iii. Copy the Instance URL from here to the User Subdomain field on the Kore.ai XO Platform.
  
-      iv.  Copy the **Username** and **Password** to their respective fields on the Kore.ai XO Platform.
+      iv.  Copy the Username and Password to their respective fields on the Kore.ai XO Platform.
  
-      v.  Click **Enable** .
+      v.  Click Enable.
  
  ![gif](/koredotai-docs/images/Home%20_%20Loom%20-%2019%20December%202022.gif)
  
@@ -56,13 +57,17 @@ This method requires the end user to provide credentials during the conversation
  
 **Basic**
  
-1. Select **All Users to Authorize the Integration**.
-2. Click **Select Authorization**.
-3. Select **Create New**.
+1. Select All Users to Authorize the Integration.
+2. Click Select Authorization.
+3. Select Create New.
 4. Select the type of authorization mechanism. 
-5. Save **Authorization Profile**.
+5. Save Authorization Profile.
 6. Select the created Authorization Profile to complete integration.
-7. Click **Enable**.
+7. Click Enable.
+ 
+ </container>
+ 
+ <container>
 
 **What can be achieved by integrating Service Now with the Kore.ai XO Platform?**
  
