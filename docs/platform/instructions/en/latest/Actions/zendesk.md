@@ -39,14 +39,18 @@ To connect to a client's Zendesk account, Kore.ai uses Basic Auth. The developer
 2. Follow the steps below to get the required credentials from your Zendesk instance.
  
    a. You will find your Zendesk domain in your browser's address bar. 
+ 
       i.   Example: https://<domain>.zendesk.com
+ 
       ii.  Copy the URL from here to the User Domain field on the Kore.ai XO Platform.
  
    b.  User Email
+ 
       i. Please use the email you use to log into the Zendesk Instance
  
    c.  API Token
-      i. Copy the **API Token** available in the admin center under Apss & Integrations → Zendesk API → Settings onto the Kore.ai XO Platform.
+ 
+      i. Copy the API Token available in the admin center under Apss & Integrations → Zendesk API → Settings onto the Kore.ai XO Platform.
  
  ![gif](/koredotai-docs/images/Home%20_%20Loom%20-%2019%20December%202022.gif)
  
@@ -56,13 +60,17 @@ This method requires the end user to provide credentials during the conversation
  
 **Basic**
  
-1. Select **All Users to Authorize the Integration**.
-2. Click **Select Authorization**.
-3. Select **Create New**.
+1. Select All Users to Authorize the Integration.
+2. Click Select Authorization.
+3. Select Create New.
 4. Select the type of authorization mechanism. 
-5. Save **Authorization Profile**.
+5. Save Authorization Profile.
 6. Select the created Authorization Profile to complete integration.
-7. Click **Enable**.
+7. Click Enable.
+ 
+</container>
+ 
+<container>
 
 **What can be achieved by integrating Zendesk with the Kore.ai XO Platform?**
  
