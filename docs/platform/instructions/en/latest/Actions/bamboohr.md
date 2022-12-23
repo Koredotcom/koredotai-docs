@@ -10,7 +10,7 @@ permalink: platform/instructions/en/latest/Actions/bamboohr
 
 **Overview**
 
-Connect Bamboo HR to fetch employee information and perform various other  actions.
+Connect Bamboo HR to fetch employee information and perform various other actions.
 
 The Kore.ai XO Platform allows you to integrate with Bamboo HR, enabling you to easily connect your Bamboo HR Now instance to fetch employee related information.
 
