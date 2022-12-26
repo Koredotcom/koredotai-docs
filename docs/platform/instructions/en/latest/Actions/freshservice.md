@@ -69,7 +69,7 @@ This method requires the end user to provide credentials during the conversation
  
    i. Select API Key
   
-  ii. Login to the Freshdesk Instance.
+  ii. Login to the Freshservice Instance.
       
  iii. Click on profile picture on the and navigate to Profile Settings.
   
@@ -77,19 +77,29 @@ This method requires the end user to provide credentials during the conversation
    
    v. Complete the verification process.
   
-  vi. Copy the API Key into Kore.ai XO Platform API Key field.
-
-5. Save Authorization Profile.
-6. Select the created Authorization Profile to complete integration.
-7. Click Enable.
+  vi. Copy the API Key.
+ 
+   v. Click on API Key edit icon.
+ 
+  vi. Paste the API key into API key field on Kore.ai XO Platform.
+      
+ vii. Click Done.
+ 
+5. Fetch the authorization URL from your Freshservice instance browser's address bar and copy into Kore.ai XO platform Authorization Profile.
+ 
+6. Save Authorization Profile.
+ 
+7. Select the created Authorization Profile to complete integration.
+ 
+8. Click Enable.
  
 </container>
  
 <container>
 
-**What can be achieved by integrating Freshdesk with the Kore.ai XO Platform?**
+**What can be achieved by integrating Freshservice with the Kore.ai XO Platform?**
  
- The Kore.ai XO Platform supports all common actions on Zendesk objects with pre-built dialog templates that are ready to use. Click Explore Templates. Learn More.
+ The Kore.ai XO Platform supports all common actions on Freshservice objects with pre-built dialog templates that are ready to use. Click Explore Templates. Learn More.
  
 **Templates Supported**
 
