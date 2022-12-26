@@ -77,11 +77,22 @@ This method requires the end user to provide credentials during the conversation
    
    v. Complete the verification process.
   
-  vi. Copy the API Key into Kore.ai XO Platform API Key field.
+  vi. Copy the API Key.
+ 
+   v. Click on API Key edit icon 
+ 
+  vi. Paste the API key into API key field on Kore.ai XO Platform.
+      
+ vii. Click Done.
+ 
+5. Fetch the authorization URL from your Freshdesk instance browser's address bar and copy into Kore.ai XO platform Authorization Profile.
+ 
+6. Save Authorization Profile.
+ 
+7. Select the created Authorization Profile to complete integration.
+ 
+8. Click Enable.
 
-5. Save Authorization Profile.
-6. Select the created Authorization Profile to complete integration.
-7. Click Enable.
  
 </container>
  
