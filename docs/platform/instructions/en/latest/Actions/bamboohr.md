@@ -87,7 +87,9 @@ viii.    Provide a name and click on Generate Key
       
   ix.    Copy generated key and paste it into Kore.ai XO Platform API key field.
       
-   x.    Click Enable.
+   x.    Click Done.
+ 
+5. Fetch the authorization URL from your Bamboo HR's instance browser's address bar and copy into Kore.ai XO platform Authorization Profile.
  
 5. Save Authorization Profile.
  
