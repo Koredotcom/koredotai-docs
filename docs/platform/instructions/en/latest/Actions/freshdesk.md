@@ -34,7 +34,7 @@ To connect to a Freshdesk account, Kore.ai uses Basic Auth. The developer can us
 
 **Basic**
  
-1. Provide Subdomain, User email, and API Token to authorize the integration.  
+1. Provide Domain and API Key to authorize the integration.  
 2. Follow the steps below to get the required credentials from your Freshdesk instance.
  
    a. Domain
