@@ -64,6 +64,15 @@ This method requires the end user to provide credentials during the conversation
 2. Click Select Authorization.
 3. Select Create New.
 4. Select the type of authorization mechanism. 
+ 
+   i. Select Basic Auth. 
+ 
+  ii. Provide a name for the authorization profile. 
+ 
+ iii. Fetch the authorization URL from your Zendesk instance browser's address bar and copy into Kore.ai XO platform Authorization URL field.
+ 
+      1. Example: https://<domain>.zendesk.com
+ 
 5. Save Authorization Profile.
 6. Select the created Authorization Profile to complete integration.
 7. Click Enable.
