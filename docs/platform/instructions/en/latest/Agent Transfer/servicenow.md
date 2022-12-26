@@ -10,7 +10,7 @@ For XO Platform to integrate with ServiceNow, you’ll need to follow the steps 
 
 **Step 1 : Retrieve Host URL, User ID & Password**
 
-Retrieve your ServiceNow Host URL, User ID & password and paste then under the respective fields in the configuration tab.
+Retrieve your ServiceNow Host URL, User ID & password and paste them under the respective fields in the configuration tab.
 
 </container>
 
