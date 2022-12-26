@@ -46,9 +46,12 @@ To connect to OpenAI, Kore.ai uses basic authentication. The user can use pre-au
       iii. Navigate to User → API Keys.
  
            1. Click on Create new secret key.
-           2. Copy the API Key into the Kore.ai XO Platform API Key field.
  
-      iv.  Click **Enable** .
+           2. Copy the API Key.
+ 
+           3. Paste the API key into API key field on Kore.ai XO Platform.
+ 
+ 3. Click Enable.
  
 **Allow Users to Authorize the Integration**
  
@@ -56,9 +59,9 @@ This method requires the end user to provide credentials during the conversation
  
 **Basic**
  
-1. Select **All Users to Authorize the Integration**.
-2. Click **Select Authorization**.
-3. Select **Create New**.
+1. Select All Users to Authorize the Integration.
+2. Click Select Authorization.
+3. Select Create New.
 4. Select the type of authorization mechanism. 
  
    i. Select API Key
@@ -73,11 +76,19 @@ This method requires the end user to provide credentials during the conversation
  
            1. Click on Create new secret key.
  
-           2. Copy the API Key into the Kore.ai XO Platform API Key field.
+           2. Copy the API Key.
  
-5. Save **Authorization Profile**.
-6. Select the created Authorization Profile to complete integration.
-7. Click **Enable**.
+           3. Click on API Key edit icon 
+ 
+           4. Paste the API key into API key field on Kore.ai XO Platform.
+      
+      iv. Click Done.
+ 
+       v. Copy https://beta.api.com/ into Kore.ai XO platform Authorization Profile.
+ 
+      vi. Save Authorization Profile.
+ 
+ 5.  Click Enable.
  
  </container>
  
@@ -91,8 +102,8 @@ This method requires the end user to provide credentials during the conversation
 
 | Action           | Description            |
 |------------------|------------------------|
-|Extract Skills    |----|
-|Generate Answer   |----|
+|Extract Skills    |Identify and extract specific skills or abilities from input data|
+|Generate Answer   |Generate responses or answers based on input|
 
 </container>
 
