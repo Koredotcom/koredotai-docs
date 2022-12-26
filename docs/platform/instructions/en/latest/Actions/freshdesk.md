@@ -11,7 +11,7 @@ permalink: platform/instructions/en/latest/Actions/freshdesk
 
 Connect your Freshdesk Instance with the Kore.ai XO Platform to power your conversations to create tickets/update tickets and other actions.
 
-The Kore.ai XO Platform allows you to integrate with Zendesk using Basic Auth, enabling you to connect your Zendesk instance easily. With this integration, you can create, update, and perform more actions within Zendesk.
+The Kore.ai XO Platform allows you to integrate with Freshdesk using Basic Auth, enabling you to connect your Freshdesk instance easily. With this integration, you can create, update, and perform more actions within Freshdesk.
 
 </container>
 
@@ -19,7 +19,7 @@ The Kore.ai XO Platform allows you to integrate with Zendesk using Basic Auth, e
 
 **Authorization**
  
-To connect to a client's Zendesk account, Kore.ai uses Basic Auth. The developer can use pre-authorized credentials during the configuration process or let the end user authorize during the conversation by creating an authorization profile. Learn More.
+To connect to a Freshdesk account, Kore.ai uses Basic Auth. The developer can use pre-authorized credentials during the configuration process or let the end user authorize during the conversation by creating an authorization profile. Learn More.
  
  
  |Authorization Type                      | Basic |
@@ -35,23 +35,26 @@ To connect to a client's Zendesk account, Kore.ai uses Basic Auth. The developer
 **Basic**
  
 1. Provide Subdomain, User email, and API Token to authorize the integration.  
-2. Follow the steps below to get the required credentials from your Zendesk instance.
+2. Follow the steps below to get the required credentials from your Freshdesk instance.
  
-   a. You will find your Zendesk domain in your browser's address bar. 
+   a. Domain
  
-      i.   Example: https://<domain>.zendesk.com
+      i.   You will find your Freshdesk domain in your browser's address bar. Example: https://{{your-domain}}.freshdesk.com
  
-      ii.  Copy the URL from here to the User Domain field on the Kore.ai XO Platform.
+     ii.   Copy the URL from here to the User Domain field on the Kore.ai XO Platform.
  
-   b.  User Email
+   c.  API Key
  
-      i. Please use the email you use to log into the Zendesk Instance
- 
-   c.  API Token
- 
-      i. Copy the API Token available in the admin center under Apss & Integrations → Zendesk API → Settings onto the Kore.ai XO Platform.
- 
- ![gif](/koredotai-docs/images/Home%20_%20Loom%20-%2019%20December%202022.gif)
+      i. Login to the Freshdesk Instance.
+      
+     ii. Click on profile picture on the and navigate to Profile Settings.
+  
+    iii. Click on View API Key.
+   
+     iv. Complete the verification process.
+  
+      v. Copy the API Key into Kore.ai XO Platform API Key field.
+
  
 **Allow Users to Authorize the Integration**
  
@@ -63,6 +66,19 @@ This method requires the end user to provide credentials during the conversation
 2. Click Select Authorization.
 3. Select Create New.
 4. Select the type of authorization mechanism. 
+ 
+   i. Select API Key
+  
+  ii. Login to the Freshdesk Instance.
+      
+ iii. Click on profile picture on the and navigate to Profile Settings.
+  
+  iv. Click on View API Key.
+   
+   v. Complete the verification process.
+  
+  vi. Copy the API Key into Kore.ai XO Platform API Key field.
+
 5. Save Authorization Profile.
 6. Select the created Authorization Profile to complete integration.
 7. Click Enable.
@@ -71,7 +87,7 @@ This method requires the end user to provide credentials during the conversation
  
 <container>
 
-**What can be achieved by integrating Zendesk with the Kore.ai XO Platform?**
+**What can be achieved by integrating Freshdesk with the Kore.ai XO Platform?**
  
  The Kore.ai XO Platform supports all common actions on Zendesk objects with pre-built dialog templates that are ready to use. Click Explore Templates. Learn More.
  
@@ -81,7 +97,7 @@ This method requires the end user to provide credentials during the conversation
 |------------------|------------------------|
 |Create Ticket     |Create a new ticket by entering the title, description, and priority of your ticket.|
 |Update Ticket     |Update the status, priority, description, and title of your Zendesk ticket.|
-|View Ticket by ID |View single/multiple ticket(s) by entering ticket id(s).|
+|Get Ticket by ID |View single/multiple ticket(s) by entering ticket id(s).|
 |List All Tickets  |Shows all your tickets.|
 |Search Ticket     |Searches all the tickets matching your keyword.|
 |Delete Ticket     |Lets you delete a ticket.|
