@@ -69,29 +69,16 @@ This method requires the end user to provide credentials during the conversation
  
    i. Select API Key
   
-  ii. Login to the Freshservice Instance.
-      
- iii. Click on profile picture on the and navigate to Profile Settings.
-  
-  iv. Click on View API Key.
-   
-   v. Complete the verification process.
-  
-  vi. Copy the API Key.
+  ii. Provide a name for the Authorization Profile
  
-   v. Click on API Key edit icon.
- 
-  vi. Paste the API key into API key field on Kore.ai XO Platform.
-      
- vii. Click Done.
- 
-5. Fetch the authorization URL from your Freshservice instance browser's address bar and copy into Kore.ai XO platform Authorization Profile.
+5. Fetch the authorization URL from your Freshservice instance browser's address bar and copy into Kore.ai XO platform Authorization URL field.
  
 6. Save Authorization Profile.
  
 7. Select the created Authorization Profile to complete integration.
  
 8. Click Enable.
+  
  
 </container>
  
