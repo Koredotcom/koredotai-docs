@@ -73,23 +73,7 @@ This method requires the end user to provide credentials during the conversation
   
   ii. Provide a name for the authorization profile
  
- iii. Click on API Key edit icon 
- 
-  iv. Navigate to https://[company].bamboohr.com/. Replace the company in the above URL with your company domain. You will find your domain in your browser's address bar. The text just before  bamboohr.com is your domain.
-
-   v.    If the domain you have entered is correct, you will be navigated to a page to provide your email and password to log in to the developer account. 
-      
-  vi.    After you have logged in successfully, navigate to the profile section and click on API Keys.
-      
- vii.    Click Add New Key
-       
-viii.    Provide a name and click on Generate Key
-      
-  ix.    Copy generated key and paste it into Kore.ai XO Platform API key field.
-      
-   x.    Click Done.
- 
-5. Fetch the authorization URL from your Bamboo HR's instance browser's address bar and copy into Kore.ai XO platform Authorization Profile.
+5. Fetch the authorization URL from your Bamboo HR's instance browser's address bar and copy into Kore.ai XO platform Authorization URL field.
  
 6. Save Authorization Profile.
  
