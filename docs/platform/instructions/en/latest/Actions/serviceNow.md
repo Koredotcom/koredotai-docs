@@ -61,6 +61,13 @@ This method requires the end user to provide credentials during the conversation
 2. Click Select Authorization.
 3. Select Create New.
 4. Select the type of authorization mechanism. 
+ 
+   i. Select Basic Auth. 
+ 
+  ii. Provide a name for the authorization profile. 
+ 
+ iii. Copy https://developer.servicenow.com/dev.do#!/home into the Kore.ai XO Platform Authorization field.
+ 
 5. Save Authorization Profile.
 6. Select the created Authorization Profile to complete integration.
 7. Click Enable.
