@@ -91,11 +91,11 @@ viii.    Provide a name and click on Generate Key
  
 5. Fetch the authorization URL from your Bamboo HR's instance browser's address bar and copy into Kore.ai XO platform Authorization Profile.
  
-5. Save Authorization Profile.
+6. Save Authorization Profile.
  
-6. Select the created Authorization Profile to complete integration.
+7. Select the created Authorization Profile to complete integration.
  
-7. Click Enable.
+8. Click Enable.
  
  </container>
  
