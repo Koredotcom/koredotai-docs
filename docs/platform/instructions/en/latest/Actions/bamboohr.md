@@ -38,7 +38,7 @@ To connect to a Bamboo HR account, Kore.ai uses basic authentication. The user c
  
 1. Provide Subdomain and API Key to authorize the integration.
  
-2. Follow the steps below to get the required details from your BambooHR instance. To fetch the required details, navigate to https://company.bamboohr.com/
+2. Follow the steps below to get the required details from your BambooHR instance. To fetch the required details, navigate to https://[company].bamboohr.com/
  
     i.   Replace the company in the above URL with your company domain. You will find your domain in your browser's address bar. The text just before  bamboohr.com is your domain.
 
@@ -68,6 +68,26 @@ This method requires the end user to provide credentials during the conversation
 3. Select Create New.
  
 4. Select the type of authorization mechanism.
+ 
+   i. Select API Key
+  
+  ii. Provide a name for the authorization profile
+ 
+ iii. Click on API Key edit icon 
+ 
+  iv. Navigate to https://[company].bamboohr.com/. Replace the company in the above URL with your company domain. You will find your domain in your browser's address bar. The text just before  bamboohr.com is your domain.
+
+   v.    If the domain you have entered is correct, you will be navigated to a page to provide your email and password to log in to the developer account. 
+      
+  vi.    After you have logged in successfully, navigate to the profile section and click on API Keys.
+      
+ vii.    Click Add New Key
+       
+viii.    Provide a name and click on Generate Key
+      
+  ix.    Copy generated key and paste it into Kore.ai XO Platform API key field.
+      
+   x.    Click Enable.
  
 5. Save Authorization Profile.
  
