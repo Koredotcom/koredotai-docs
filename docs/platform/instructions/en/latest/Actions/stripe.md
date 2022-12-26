@@ -37,13 +37,7 @@ To connect to a Stripe account, Kore.ai uses Basic Auth. The developer can use p
 1. Provide API Key to authorize the integration.  
 2. Follow the steps below to get the required credentials from your Stripe instance.
  
-   a. Domain
- 
-      i.   You will find your Freshdesk domain in your browser's address bar. Example: https://{{your-domain}}.freshdesk.com
- 
-     ii.   Copy the URL from here to the User Domain field on the Kore.ai XO Platform.
- 
-   c.  API Key
+   a.  API Key
  
       i. Login to your Stripe Instance. https://dashboard.stripe.com/.
       
@@ -94,12 +88,11 @@ This method requires the end user to provide credentials during the conversation
 
 | Action           | Description            |
 |------------------|------------------------|
-|Create Ticket     |Create a new ticket by entering the title, description, and priority of your ticket.|
-|Update Ticket     |Update the status, priority, description, and title of your Zendesk ticket.|
-|Get Ticket by ID |View single/multiple ticket(s) by entering ticket id(s).|
-|List All Tickets  |Shows all your tickets.|
-|Search Ticket     |Searches all the tickets matching your keyword.|
-|Delete Ticket     |Lets you delete a ticket.|
+|Create Customer     |Add a new customer to the system|
+|List All Customers   |Display a list of all customers in the system|
+|Create Invoice |Create a new invoice|
+|List All Invoices  |Display a list of all invoices in the system|
+|Create Payment Intent     |Create a new payment intent|
 
 </container>
 
