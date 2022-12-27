@@ -31,7 +31,7 @@
     margin: 0 !important;
     padding-bottom: 5px !important;
     padding-top: 10px;
-    display: block;
+    display: inline-block;
 }
 .instruction-container #tg-sb-content container p:nth-child(1) {
     color: #121314 !important;
