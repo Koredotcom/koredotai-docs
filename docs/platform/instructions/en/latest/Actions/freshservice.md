@@ -43,7 +43,7 @@ To connect to a Freshservice account, Kore.ai uses Basic Auth. The developer can
  
      ii.   Copy the URL from here to the User Domain field on the Kore.ai XO Platform.
  
-   c.  API Key
+   b.  API Key
  
       i. Login to the Freshservice Instance.
      
@@ -69,7 +69,7 @@ This method requires the end user to provide credentials during the conversation
  
    i. Select API Key
   
-  ii. Provide a name for the Authorization Profile
+   ii. Provide a name for the Authorization Profile
  
 5. Fetch the authorization URL from your Freshservice instance browser's address bar and copy into Kore.ai XO platform Authorization URL field.
  
