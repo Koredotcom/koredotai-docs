@@ -13,7 +13,7 @@ permalink: searchassist/topic-guide/en/latest/rules
   <summary>Video
   </summary>
   
-   [![Business Rules](images/VideoCoverImage.png)](https://player.vimeo.com/video/751567137?h=781022611c&badge=0&autopause=0&player_id=0&app_id=58479/embed)
+   [![Business Rules](images/VideoCoverImage.png)](https://player.vimeo.com/video/784493665?h=dee7a21b33&amp)
 
   ##### Business Rules
   Watch this short video to know how to configure Business Rules.
