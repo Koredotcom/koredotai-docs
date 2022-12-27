@@ -52,7 +52,7 @@ To connect to a Bamboo HR account, Kore.ai uses basic authentication. The user c
       
     vi.    Copy generated key and paste it into Kore.ai XO Platform API key field.
       
-    v.    Click Enable.
+    vii.    Click Enable.
  
  
 **Allow Users to Authorize the Integration**
@@ -69,9 +69,9 @@ This method requires the end user to provide credentials during the conversation
  
 4. Select the type of authorization mechanism.
  
-    i.   Select API Key
-  
-   ii.   Provide a name for the authorization profile
+    i. Select API Key
+ 
+   ii. Provide a name for the authorization profile
  
 5. Fetch the authorization URL from your Bamboo HR's instance browser's address bar and copy into Kore.ai XO platform Authorization URL field.
  
