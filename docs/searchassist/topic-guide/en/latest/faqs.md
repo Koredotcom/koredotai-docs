@@ -13,7 +13,7 @@ permalink: searchassist/topic-guide/en/latest/faqs
   <summary>Video
   </summary>
   
-  [![FAQs](images/VideoCoverImage.png)](https://player.vimeo.com/video/751565029?h=53b55a85a7&amp)
+  [![FAQs](images/VideoCoverImage.png)](https://player.vimeo.com/video/783541165?h=de85d834ef&amp)
 
   ##### Adding FAQs 
   Watch this short video to know how to add FAQs to your application.
