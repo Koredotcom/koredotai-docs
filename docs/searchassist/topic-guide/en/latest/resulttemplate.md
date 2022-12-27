@@ -13,7 +13,7 @@ permalink: searchassist/topic-guide/en/latest/resultTemplate
   <summary>Video
   </summary>
   
-   [![Result Templates](images/VideoCoverImage.png)](https://player.vimeo.com/video/751566521?h=c3a35ab0c6&badge=0&autopause=0&player_id=0&app_id=58479/embed)
+   [![Result Templates](images/VideoCoverImage.png)](https://player.vimeo.com/video/784492729?h=f197683b41&amp)
 
   ##### Introduction to Result Templates
   Watch this short video to know about Result Templates.
