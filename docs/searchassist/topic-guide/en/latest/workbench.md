@@ -24,7 +24,7 @@ Watch this short video to know how to configure Workbench & its stages.
     
   <details-video>
     
-  [![AI Workbench Stages](images/VideoCoverImage.png)](https://player.vimeo.com/video/751565534?h=a735014ef9&badge=0&autopause=0&player_id=0&app_id=58479/embed)
+  [![AI Workbench Stages](images/VideoCoverImage.png)](https://player.vimeo.com/video/784490606?h=aa9751a574&amp)
 
  ##### AI Workbench Stage
 Watch this short video to know about AI Workbench Stages.
