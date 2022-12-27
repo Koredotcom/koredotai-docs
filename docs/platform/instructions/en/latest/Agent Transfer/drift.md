@@ -42,11 +42,11 @@ For XO Platform to integrate with Drift, you’ll need to follow the steps below
  
 **Step 3: Enabling the Kore Webhook**
   
-1. Navigate to SmartAssist and copy the Webhook URL available under Outgoing Setup → Outgoing Chat Agent Transfer → Drift → Configuration
+a. Navigate to SmartAssist and copy the Webhook URL available under Outgoing Setup → Outgoing Chat Agent Transfer → Drift → Configuration
   
-2. Navigate to the Webhooks section under your recently created App and paste the Webhook URL copied in the previous step.
+b. Navigate to the Webhooks section under your recently created App and paste the Webhook URL copied in the previous step.
   
-3. Click on Save to preserve your progress
+c. Click on Save to preserve your progress
 
 </container>
 
