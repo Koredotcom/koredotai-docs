@@ -13,7 +13,7 @@ permalink: searchassist/topic-guide/en/latest/traits
   <summary>Video
   </summary>
   
-   [![Traits](images/VideoCoverImage.png)](https://player.vimeo.com/video/751565668?h=3b5c9ebaf6&badge=0&autopause=0&player_id=0&app_id=58479/embed)
+   [![Traits](images/VideoCoverImage.png)](https://player.vimeo.com/video/784488967?h=89ddae2f17&badge=0&autopause=0&player_id=0&app_id=58479/embed" allow="autoplay)
 
   ##### Traits 
   Watch this short video to know how to configure Traits.
