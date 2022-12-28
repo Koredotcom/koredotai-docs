@@ -75,26 +75,26 @@ To connect to a client's Zendesk account, Kore.ai uses Basic Auth. The developer
 3. Select Create New.
 4. Select the type of authorization mechanism. 
  
-   i.  Select oAuth v2.
+   i.   Select oAuth v2.
  
-   ii. Provide a name for your authorization profile.
+   ii.  Provide a name for your authorization profile.
  
-  iii. Login to Zendesk admin console, navigate to Apps & Integrations -> Zendesk API -> OAuth Clients 
+   iii. Login to Zendesk admin console, navigate to Apps & Integrations -> Zendesk API -> OAuth Clients 
        
-   iv. Add a new OAuth Client and Save. 
+    iv. Add a new OAuth Client and Save. 
        You will see Client Secret generated. 
  
-   v.  Copy Client Name from Zendesk into Client ID field on Kore.ai XO Platform
+     v. Copy Client Name from Zendesk into Client ID field on Kore.ai XO Platform
  
-   vi. Copy Client secret from Zendesk into Client Secret field on Kore.ai platform.
+    vi. Copy Client secret from Zendesk into Client Secret field on Kore.ai platform.
  
-  vii. Copy Authorization URL (https://{subdomain}.zendesk.com/oauth/authorizations/new).
+   vii. Copy Authorization URL (https://{subdomain}.zendesk.com/oauth/authorizations/new).
        Replace subdomain with your Zendesk's instance subdomain.
  
- viii. Copy Token URL (https://{subdomain}.zendesk.com/oauth/tokens).
+  viii. Copy Token URL (https://{subdomain}.zendesk.com/oauth/tokens).
        Replace subdomain with your Zendesk's instance subdomain.
  
-   ix. Scopes: You can request read, write, or impersonate access to all resources or to specific resources.
+    ix. Scopes: You can request read, write, or impersonate access to all resources or to specific resources.
        Refer https://support.zendesk.com/hc/en-us/articles/4408845965210#topic_pbc_cdl_1l.
  
 5. Save Authorization Profile.
