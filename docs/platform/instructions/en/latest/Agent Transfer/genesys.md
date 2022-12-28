@@ -4,7 +4,7 @@ title: Genesys
 permalink: platform/instructions/en/latest/Agent Transfer/genesys
 
 ---
-For XO Platform to integrate with Genesys, you’ll need to follow the steps below:
+Kore.ai XO Platform now supports integration with Genesys Agent System to handover the conversations without having to use the BotKit.
 
 <container>
 
@@ -12,7 +12,7 @@ For XO Platform to integrate with Genesys, you’ll need to follow the steps bel
 
 1. In order to retrieve your organization ID, please follow the steps mentioned at https://developer.mypurecloud.com/api/webchat/widget-version2.html#obtain_your_genesys_cloud_organization_id
   
-2. Paste this Organization ID under the same field in the SmartAssist configuration tab.
+2. Paste this Organization ID under the Organization ID field in the configuration tab.
 
 </container>
 
@@ -20,9 +20,11 @@ For XO Platform to integrate with Genesys, you’ll need to follow the steps bel
 
 **Step 2: Create a Deployment ID**
 
-1. To create a Deployment ID, please login to Genesys Pure Cloud and go to Admin-> Contact center->Widgets. Under widgets, Click on Create Widget with Widget Type selected as Third Party
+1. To create a Deployment ID, please login to Genesys Pure Cloud and navigate to Admin-> Contact center-> Widgets. 
   
-2. Paste this Deployment ID under the same field in the SmartAssist configuration tab.
+2. Under widgets, Click on Create Widget with Widget Type selected as Third Party.
+  
+3. Paste this Deployment ID under the Deployment ID field in configuration tab.
 
 </container>
 
@@ -30,11 +32,11 @@ For XO Platform to integrate with Genesys, you’ll need to follow the steps bel
  
 **Step 3: Create a Queue**
  
-1. Please login to Genesys Pure Cloud and go to Admin->Contact Center-->Queues and Create queue.
+1. Please login to Genesys Pure Cloud and go to Admin-> Contact Center-> Queues and Create queue.
   
-2. Paste this Queue name under the same field in the SmartAssist configuration tab.
+2. Paste this Queue name under the Queue name field in configuration tab.
 
-Save your settings by clicking on the ‘Done’ button
+3. Enable Genesys by clicking on the ‘Save’ button on Kore.ai XO Platform.
 
 </container>
 
