@@ -66,8 +66,6 @@ This method requires the end user to provide credentials during the conversation
  
   ii. Provide a name for the authorization profile. 
  
- iii. Copy https://developer.servicenow.com/dev.do#!/home into the Kore.ai XO Platform Authorization field.
- 
 5. Save Authorization Profile.
 6. Select the created Authorization Profile to complete integration.
 7. Click Enable.
