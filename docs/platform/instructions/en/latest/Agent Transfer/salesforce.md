@@ -4,15 +4,25 @@ title: Salesforce
 permalink: platform/instructions/en/latest/Agent Transfer/salesforce
 
 ---
-For XO Platform to integrate with Salesforce, you’ll need to follow the steps below:
+Kore.ai XO Platform now supports integration with Salesforce Agent System to handover the conversations without having to use the BotKit.
 
 <container>
 
 **Step 1: Setup Live Agent**
 
-1. Make sure you have a working setup of Live Agent within your Salesforce organization. Click [here](https://help.salesforce.com/s/articleView?language=en_US&id=live_agent_intro.htm) for detailed instructions on setting up Live Agent.
-2. As the ‘administrator’, navigate to the Salesforce ‘Setup’ page (make sure you switch to Classic view, the Live Agent settings do not come up under the Lightning Experience view)
+1. Log in to your Salesforce account.
+ 
+2. From the main menu on the top, navigate to Setup > Customize > Live Agent > Settings. 
+ 
+   Make sure you switch to Classic view, the Live Agent settings do not come up under the Lightning Experience view. Click [here] (https://help.salesforce.com/s/articleView?language=en_US&id=live_agent_intro.htm) for detailed instructions on setting up Live Agent.
+ 
 3. Find the Live Agent section under ‘Build > Customize > Chat > Chat Agent Configurations’.
+ 
+4. To add a new Live Agent configuration, click on the "New" button.
+ 
+5. In the "New Live Agent Configuration" form, you can enter the details for the new configuration, such as the name and description.
+
+6. Once you have entered the required details, click on the "Save" button to save the new Live Agent configuration.
 
 </container>
 
@@ -20,7 +30,15 @@ For XO Platform to integrate with Salesforce, you’ll need to follow the steps 
 
 **Step 2: Getting the Live Agent URL/API Endpoint**
 
-Go to the Live Agent Settings page and look for the Live Agent API Endpoint text box.
+1. Log in to your Salesforce account.
+ 
+2. From the main menu on the top, navigate to Setup > Customize > Live Agent > Deployments.
+ 
+3. In the Live Agent Deployments page, you will see a list of all the Live Agent deployments that have been configured.
+ 
+4. To get the Live Agent URL/API endpoint, click on the name of the Live Agent deployment that you want to use.
+ 
+5. In the Live Agent Deployment form, you will find the Live Agent URL/API endpoint in the "Live Agent URL" field.
 
 </container>
 
@@ -28,7 +46,13 @@ Go to the Live Agent Settings page and look for the Live Agent API Endpoint text
  
 **Step 3: Retrieving the Organization ID**
  
-Go to the ‘Company Settings > Company Information’ page and look for the ‘Salesforce.com Organization ID’ field.
+1. Log in to your Salesforce account.
+ 
+2. From the main menu on the top, navigate to Setup > Company Settings > Company Information.
+ 
+3. In the Company Information page, you will see a list of details about your organization.
+ 
+4. To retrieve the Organization ID, look for the "Organization ID" field. The Organization ID is a unique identifier for your Salesforce organization.
 
 </container>
 
@@ -36,7 +60,16 @@ Go to the ‘Company Settings > Company Information’ page and look for the ‘
  
 **Step 4:Retrieving the Deployment ID**
  
-Go to the ‘Live Agent > Deployments’ page, click on the deployment which you would like to use for this integration. The Deployment ID is the string of characters after the last / in the URL. For example: https://meya-dev-ed.my.salesforce.com/5721I000000PLax
+1. Log in to your Salesforce account.
+ 
+2. From the main menu on the top, navigate to Setup > Customize > Live Agent > Deployments.
+ 
+3. In the Live Agent Deployments page, you will see a list of all the Live Agent deployments that have been configured.
+ 
+4. To retrieve the Deployment ID, click on the name of the Live Agent deployment that you want to use.
+ 
+5. In the Live Agent Deployment form, you will find the Deployment ID in the "Deployment ID" field.
+
 
 </container>
 
@@ -44,9 +77,10 @@ Go to the ‘Live Agent > Deployments’ page, click on the deployment which you
  
 **Step 5: Retrieving the Button ID**
  
-Go to the ‘Live Agent > Chat Buttons & Invitations’ page, click on the button which you would like to use for this integration. The Button ID is the string of characters after the last / in the URL. For example: https://meya-dev-ed.my.salesforce.com/5731I000000PL9G
+1. Go to the ‘Live Agent > Chat Buttons & Invitations’ page, click on the button which you would like to use for this integration. The Button ID is the string of     characters after the last / in the URL. 
+ For example: https://meya-dev-ed.my.salesforce.com/5731I000000PL9G
 
-Save your settings by clicking on the ‘Done’ button.
+Save your settings by clicking on the ‘Save’ button.
 
 </container>
 
