@@ -9,7 +9,7 @@ permalink: platform/instructions/en/latest/Agent Transfer/zendeskpb
 
 Kore.ai XO Platform now supports integration with Zendesk Agent System to handover the conversations without having to use the BotKit.
   
-Please visit Deploy → Channels → Sunshine Conversations → Configurations to enable switchboard integration to enable Zendesk agent system. 
+Please visit Deploy → Channels → Sunshine Conversations → Configurations to enable Sunshine Conversations.
   
 After you have successfully established a connection with Zendesk Switchboard, Kore.ai XO platform moves the Zendesk agent system into the configured state. No additional configuration is required.
 
