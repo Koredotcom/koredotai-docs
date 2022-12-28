@@ -71,13 +71,11 @@ This method requires the end user to provide credentials during the conversation
   
    ii. Provide a name for the Authorization Profile
  
-5. Fetch the authorization URL from your Freshservice instance browser's address bar and copy into Kore.ai XO platform Authorization URL field.
+5. Save Authorization Profile.
  
-6. Save Authorization Profile.
+6. Select the created Authorization Profile to complete integration.
  
-7. Select the created Authorization Profile to complete integration.
- 
-8. Click Enable.
+7. Click Enable.
   
  
 </container>
