@@ -34,17 +34,17 @@ Kore.ai XO Platform now supports integration with ServiceNow Agent System to han
 
 2. From the main menu on the left, navigate to Settings > Webhooks.
  
-2. Navigate back to Kore.ai XO Platform, and
+3. Navigate back to Kore.ai XO Platform, and
  
    i.   To add a new webhook, click on the "Add Webhook" button.
  
    ii.  In the "New Webhook" form, you can enter the details for the new webhook.
  
-  iii.  Copy the webhook URL listed under Integrations → Agent Transfer → Intercom → Configuration.
+   iii. Copy the webhook URL listed under Integrations → Agent Transfer → Intercom → Configuration.
  
-   ii.   Navigate back to Intercom and paste the copied Webhook URL in the webhook field.
+    iv. Navigate back to Intercom and paste the copied Webhook URL in the webhook field.
  
-3. Under Webhook topics, navigate to ‘Select a Topic’ and select the following topics:
+4. Under Webhook topics, navigate to ‘Select a Topic’ and select the following topics:
  
    i.   conversation.admin.closed
  
@@ -54,8 +54,8 @@ Kore.ai XO Platform now supports integration with ServiceNow Agent System to han
  
    iv.  conversation.admin.single.created
  
-4. Click on Save to preserve these settings
+5. Click on Save to preserve these settings
 
-5. Enable Intercom by clicking on the ‘Save’ button on Kore.ai XO Platform.
+6. Enable Intercom by clicking on the ‘Save’ button on Kore.ai XO Platform.
 
 </container>
