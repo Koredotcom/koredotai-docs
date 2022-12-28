@@ -77,9 +77,9 @@ To connect to a client's Zendesk account, Kore.ai uses Basic Auth. The developer
  
    i.  Select oAuth v2.
  
-  ii.  Provide a name for your authorization profile.
+   ii. Provide a name for your authorization profile.
  
- iii.  Login to Zendesk admin console, navigate to Apps & Integrations -> Zendesk API -> OAuth Clients 
+   iii.Login to Zendesk admin console, navigate to Apps & Integrations -> Zendesk API -> OAuth Clients 
        
   iv.  Add a new OAuth Client and Save. 
        You will see Client Secret generated. 
