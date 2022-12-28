@@ -34,7 +34,7 @@ Kore.ai XO Platform now supports integration with Genesys Agent System to handov
  
 1. Please login to Genesys Pure Cloud and go to Admin-> Contact Center-> Queues and Create queue.
   
-2. Paste this Queue name under the Queue name field in configuration tab.
+2. Paste this Queue name under the Queue Name field in configuration tab.
 
 3. Enable Genesys by clicking on the ‘Save’ button on Kore.ai XO Platform.
 
