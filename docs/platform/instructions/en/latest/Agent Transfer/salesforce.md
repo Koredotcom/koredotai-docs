@@ -80,7 +80,7 @@ Kore.ai XO Platform now supports integration with Salesforce Agent System to han
 1. Go to the ‘Live Agent > Chat Buttons & Invitations’ page, click on the button which you would like to use for this integration. The Button ID is the string of     characters after the last / in the URL. 
  For example: https://meya-dev-ed.my.salesforce.com/5731I000000PL9G
 
-Save your settings by clicking on the ‘Save’ button.
+2. Enable Salesforce by clicking on the ‘Save’ button on Kore.ai XO Platform.
 
 </container>
 
