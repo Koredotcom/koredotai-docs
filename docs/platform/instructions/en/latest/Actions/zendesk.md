@@ -40,15 +40,15 @@ To connect to a client's Zendesk account, Kore.ai uses Basic Auth. The developer
  
    a. You will find your Zendesk domain in your browser's address bar. 
  
-      i.   Example: https://<domain>.zendesk.com
+      i. Example: https://<domain>.zendesk.com
  
-      ii.  Copy the URL from here to the User Domain field on the Kore.ai XO Platform.
+     ii. Copy the URL from here to the User Domain field on the Kore.ai XO Platform.
  
-   b.  User Email
+   b. User Email
  
       i. Please use the email you use to log into the Zendesk Instance
  
-   c.  API Token
+   c. API Token
  
       i. Copy the API Token available in the admin center under Apss & Integrations → Zendesk API → Settings onto the Kore.ai XO Platform.
  
@@ -140,27 +140,27 @@ This method requires the end user to provide credentials during the conversation
 3. Select Create New.
 4. Select the type of authorization mechanism. 
  
-   i.  Select oAuth v2.
+   i. Select oAuth v2.
  
-  ii.  Provide a name for your authorization profile.
+  ii. Provide a name for your authorization profile.
  
- iii.  Login to Zendesk admin console, navigate to Apps & Integrations -> Zendesk API -> OAuth Clients 
+ iii. Login to Zendesk admin console, navigate to Apps & Integrations -> Zendesk API -> OAuth Clients 
        
-  iv.  Add a new OAuth Client and Save. 
-       You will see Client Secret generated. 
+  iv. Add a new OAuth Client and Save. 
+      You will see Client Secret generated. 
  
-   v.  Copy Client Name from Zendesk into Client ID field on Kore.ai XO Platform
+   v. Copy Client Name from Zendesk into Client ID field on Kore.ai XO Platform
  
-   vi. Copy Client secret from Zendesk into Client Secret field on Kore.ai platform.
+  vi. Copy Client secret from Zendesk into Client Secret field on Kore.ai platform.
  
-  vii. Copy Authorization URL (https://{subdomain}.zendesk.com/oauth/authorizations/new).
+ vii. Copy Authorization URL (https://{subdomain}.zendesk.com/oauth/authorizations/new).
        Replace subdomain with your Zendesk's instance subdomain.
  
- viii. Copy Token URL (https://{subdomain}.zendesk.com/oauth/tokens).
-       Replace subdomain with your Zendesk's instance subdomain.
+viii. Copy Token URL (https://{subdomain}.zendesk.com/oauth/tokens).
+      Replace subdomain with your Zendesk's instance subdomain.
  
-   ix. Scopes: You can request read, write, or impersonate access to all resources or to specific resources.
-       Refer https://support.zendesk.com/hc/en-us/articles/4408845965210#topic_pbc_cdl_1l.
+  ix. Scopes: You can request read, write, or impersonate access to all resources or to specific resources.
+      Refer https://support.zendesk.com/hc/en-us/articles/4408845965210#topic_pbc_cdl_1l.
  
 5. Save Authorization Profile.
 6. Select the created Authorization Profile to complete integration.
