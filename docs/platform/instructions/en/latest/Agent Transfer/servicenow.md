@@ -83,8 +83,8 @@ Kore.ai XO Platform now supports integration with ServiceNow Agent System to han
 3. In the All Queues page, you will see a list of all the queues that have been configured.
    
 4. Copy Queue ID in the Queue ID field
-
-5. Save your settings by clicking on the ‘Done’ button.
+   
+5. Enable ServiceNow by clicking on the ‘Save’ button on Kore.ai XO Platform.
 
 </container>
 
