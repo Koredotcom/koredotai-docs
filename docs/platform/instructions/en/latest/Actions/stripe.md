@@ -63,7 +63,7 @@ This method requires the end user to provide credentials during the conversation
 3. Select Create New.
 4. Select the type of authorization mechanism. 
  
-   i. Select API Key
+   i. Select Basic Auth
   
   ii. Provide a name for the Authorization Profile
  
