@@ -65,28 +65,10 @@ This method requires the end user to provide credentials during the conversation
 4. Select the type of authorization mechanism. 
  
    i. Select API Key
-    
-  ii. To fetch the required details, navigate to https://beta.api.com/ 
-     
-      i.   Navigate to profile section.
-
-      ii.  Click on View API Keys.
-
-      iii. Navigate to User → API Keys.
  
-           1. Click on Create new secret key.
+  ii. Provide a name for the authorization profile.
  
-           2. Copy the API Key.
- 
-           3. Click on API Key edit icon 
- 
-           4. Paste the API key into API key field on Kore.ai XO Platform.
-      
-      iv. Click Done.
- 
-       v. Copy https://beta.api.com/ into Kore.ai XO platform Authorization Profile.
- 
-      vi. Save Authorization Profile.
+ iii. Save Authorization Profile.
  
  5.  Click Enable.
  
