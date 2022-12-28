@@ -70,6 +70,6 @@ Kore.ai XO Platform now supports integration with Drift Agent System to handover
   
 2. You can do this by modifying the connectToAgent task on the Kore Virtual Assistant platform below.
 
-3. Enable Drift by clicking on Enable button.
+3. Enable Drift by clicking on the ‘Save’ button on Kore.ai XO Platform..
 
 </container>
