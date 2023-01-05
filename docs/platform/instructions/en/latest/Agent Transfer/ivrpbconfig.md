@@ -1,14 +1,12 @@
 ---
 title: IVR
 
-permalink: platform/instructions/en/latest/Agent Transfer/ivrpb
+permalink: platform/instructions/en/latest/Agent Transfer/ivrpbconfig
 
 ---
 
 <container>
-  
-Please visit Deploy → Channels → IVR → Configurations to enable IVR. 
-  
-After you have successfully established a connection with IVR, Kore.ai XO platform moves the IVR agent system into the configured state. No additional configuration is required.
+
+Kore.ai XO Platform uses the configuration that has been provided to establish a successful connection with IVR. No additional configuration is required
 
 </container>
