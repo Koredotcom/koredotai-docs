@@ -1,16 +1,12 @@
 ---
 title: Unblu
 
-permalink: platform/instructions/en/latest/Agent Transfer/unblupb
+permalink: platform/instructions/en/latest/Agent Transfer/unblupbconfig
 
 ---
 
 <container>
 
-Kore.ai XO Platform supports integration with Unblu Agent System to handover the conversations without having to use the BotKit.
-  
-Please visit Deploy → Channels → Unblu → Configurations to manage Unblu. 
-  
-After you have successfully established a connection with Unblu, Kore.ai XO platform moves the Unblu agent system into the configured state. No additional configuration is required.
+Kore.ai XO Platform uses the configuration that has been provided to establish a successful connection with Unblu. No additional configuration is required to enable the Unblu Agent system.
 
 </container>
