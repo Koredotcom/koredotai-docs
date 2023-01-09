@@ -52,8 +52,6 @@ To connect to a client's Zendesk account, Kore.ai uses Basic Auth. The developer
  
       i. Copy the API Token available in the admin center under Apss & Integrations → Zendesk API → Settings onto the Kore.ai XO Platform.
  
- ![gif](/koredotai-docs/images/Home%20_%20Loom%20-%2019%20December%202022.gif)
- 
  
  **OAuth - System**
  
