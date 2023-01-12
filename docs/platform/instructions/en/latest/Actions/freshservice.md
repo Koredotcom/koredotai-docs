@@ -1,7 +1,7 @@
 ---
 title: Freshservice
 
-permalink: platform/instructions/en/latest/Actions/Freshservice
+permalink: platform/instructions/en/latest/Actions/freshservice
 
 ---
 
