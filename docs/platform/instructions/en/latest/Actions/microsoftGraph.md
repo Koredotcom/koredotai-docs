@@ -72,8 +72,9 @@ To connect to a Microsoft Graph account, Kore.ai uses OAuth 2.0 authentication. 
       2. refresh_token 
  
       3. offline_access 
+ 
   
-    ix.  Copy Refresh Token URL (https://login.microsoftonline.com/common/oauth2/v2.0/token).
+   ix.  Copy Refresh Token URL (https://login.microsoftonline.com/common/oauth2/v2.0/token).
  
 5. Save Authorization Profile.
 6. Select the created Authorization Profile to complete integration.
