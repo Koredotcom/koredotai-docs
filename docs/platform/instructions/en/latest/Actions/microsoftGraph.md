@@ -112,7 +112,7 @@ This method requires the end user to provide credentials during the conversation
  
  **OAuth - Custom**
  
- You can create your authorization profile to obtain an access token and use it to complete integration without using Kore.ai's Salesforce app for authorization.
+You can create your authorization profile to obtain an access token and use it to complete integration without using Kore.ai's Salesforce app for authorization.
  
 1. Select Custom.
 2. Click Select Authorization.
