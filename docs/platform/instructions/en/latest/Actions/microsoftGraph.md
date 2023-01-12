@@ -67,12 +67,25 @@ To connect to a Microsoft Graph account, Kore.ai uses OAuth 2.0 authentication. 
  
   viii.  Add below scopes
  
-      1. full
+      1. email
  
-      2. refresh_token 
+      2. Mail.ReadWrite 
  
-      3. offline_access 
+      3. Mail.Send
  
+      4. offline_access
+ 
+      5. openid
+ 
+      6. profile
+ 
+      7. User.Read
+ 
+      8. Tasks.ReadWrite 
+ 
+      9. Calendars.ReadWrite
+ 
+     10. MailboxSettings.Read
   
    ix.  Copy Refresh Token URL (https://login.microsoftonline.com/common/oauth2/v2.0/token).
  
@@ -122,11 +135,25 @@ This method requires the end user to provide credentials during the conversation
  
   viii.  Add below scopes
  
-      1. full
+      1. email
  
-      2. refresh_token 
+      2. Mail.ReadWrite 
  
-      3. offline_access 
+      3. Mail.Send
+ 
+      4. offline_access
+ 
+      5. openid
+ 
+      6. profile
+ 
+      7. User.Read
+ 
+      8. Tasks.ReadWrite 
+ 
+      9. Calendars.ReadWrite
+ 
+     10. MailboxSettings.Read
   
     ix.  Copy Refresh Token URL (https://login.microsoftonline.com/common/oauth2/v2.0/token).
  
