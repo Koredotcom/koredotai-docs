@@ -155,7 +155,7 @@ This method requires the end user to provide credentials during the conversation
  
      10. MailboxSettings.Read
   
-    ix.  Copy Refresh Token URL (https://login.microsoftonline.com/common/oauth2/v2.0/token).
+   ix.  Copy Refresh Token URL (https://login.microsoftonline.com/common/oauth2/v2.0/token).
  
 5. Save Authorization Profile.
 6. Select the created Authorization Profile to complete integration.
@@ -180,5 +180,3 @@ The Kore.ai XO Platform supports all common actions on Microsoft Graph objects w
 |Send a Mail       |Send an email from a user's account|
 
 </container>
-
-
