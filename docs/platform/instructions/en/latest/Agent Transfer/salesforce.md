@@ -58,7 +58,7 @@ Kore.ai XO Platform now supports integration with Salesforce Agent System to han
 
 <container>
  
-**Step 4:Retrieving the Deployment ID**
+**Step 4: Retrieving the Deployment ID**
  
 1. Log in to your Salesforce account.
  
