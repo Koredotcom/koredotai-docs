@@ -1,7 +1,7 @@
 ---
 title: Weights
 
-permalink: searchassist/topic-guide/en/latest/weights
+permalink: searchassist/topic-guide/en/latest//search-settings/weights
 
 ---
 <!--#### Topic Guide
