@@ -30,7 +30,7 @@ Kore.ai XO Platform now supports integration with Helpshift Agent System to hand
  
 **Step 3: Retrieve the default API Key**
  
-1. You can obtain the default API key from the API section of the Helpshift dashboard as seen in the image below:
+1. You can obtain the default API key from the API section of the Helpshift dashboard.
   
 2. Paste the API key under the API Key in the configuration tab.
 
