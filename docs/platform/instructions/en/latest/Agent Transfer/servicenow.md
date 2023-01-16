@@ -8,7 +8,7 @@ Kore.ai XO Platform now supports integration with ServiceNow Agent System to han
 
 <container>
 
-**Step 1 : Retrieve Host URL, User ID & Password**
+**Step 1 : Retrieve Host URL, User name & Password**
 
 1. Log in to your ServiceNow account.
    
@@ -20,11 +20,9 @@ Kore.ai XO Platform now supports integration with ServiceNow Agent System to han
    
 5. In the REST Message form, you will find the Host URL in the "Endpoint" field.
    
-6. To retrieve your User ID and password, click on the "System Web Services > Outbound > REST Messages" from the left menu.
+6. Provide your user name under User Name field in the Configurations tab.
    
-7. In the REST Messages page, click on the "New" button to create a new REST Message.
-   
-8. In the "New REST Message" form, you will find the User ID and password in the "User Name" and "Password" fields, respectively.
+7. Provide your password under Password field in the Configurations tab.
 
 </container>
 
