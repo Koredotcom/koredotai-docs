@@ -1,7 +1,7 @@
 ---
 title: Small Talk
 
-permalink: searchassist/topic-guide/en/latest/Small Talk
+permalink: searchassist/topic-guide/en/latest//search-settings/small_talk
 
 ---
 #### Topic Guide
