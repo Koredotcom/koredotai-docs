@@ -1,7 +1,7 @@
 ---
 title: synonyms
 
-permalink: searchassist/topic-guide/en/latest/synonyms
+permalink: searchassist/topic-guide/en/latest//search-settings/synonyms
 
 ---
 <!--#### Topic Guide
