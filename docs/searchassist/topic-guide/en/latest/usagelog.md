@@ -1,7 +1,7 @@
 ---
 title: usageLog
 
-permalink: searchassist/topic-guide/en/latest//pricing/usageLog
+permalink: searchassist/topic-guide/en/latest/usageLog
 
 ---
 <!--#### Topic Guide
