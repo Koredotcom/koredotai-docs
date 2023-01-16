@@ -1,7 +1,7 @@
 ---
 title: Content
 
-permalink: searchassist/topic-guide/en/latest/bot_actions
+permalink: searchassist/topic-guide/en/latest//search-settings/bot_actions
 
 ---
 <!--#### Topic Guide
