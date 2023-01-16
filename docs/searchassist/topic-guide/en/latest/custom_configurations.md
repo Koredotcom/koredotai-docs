@@ -1,7 +1,7 @@
 ---
 title: Content
 
-permalink: searchassist/topic-guide/en/latest/custom_configurations
+permalink: searchassist/topic-guide/en/latest//search-settings/custom_configurations
 
 ---
 <!--#### Topic Guide
