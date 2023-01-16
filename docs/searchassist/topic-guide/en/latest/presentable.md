@@ -16,7 +16,7 @@ permalink: searchassist/topic-guide/en/latest//search-settings/presentable
   
    [![Fields](images/VideoCoverImage.png)](https://player.vimeo.com/video/751565610?h=2562dda9ac&amp)
 
-  ##### Fields
+  ##### Presentable
   Watch this short video to know how to Configure Fields.
 
 </details>
