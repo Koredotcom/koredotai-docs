@@ -1,11 +1,12 @@
 ---
 title: Content
 
-permalink: searchassist/topic-guide/en/latest/presentable
+permalink: searchassist/topic-guide/en/latest//search-settings/presentable
+
 
 ---
 <!--#### Topic Guide
-###### Fields-->
+###### Presentable-->
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Configuring Fields.
 
