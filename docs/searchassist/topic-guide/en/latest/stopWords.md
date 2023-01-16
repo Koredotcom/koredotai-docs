@@ -1,7 +1,7 @@
 ---
 title: stopWords
 
-permalink: searchassist/topic-guide/en/latest/stopWords
+permalink: searchassist/topic-guide/en/latest//search-settings/stop_words
 
 ---
 <!--#### Topic Guide
