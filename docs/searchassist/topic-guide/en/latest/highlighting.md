@@ -1,7 +1,7 @@
 ---
 title: Content
 
-permalink: searchassist/topic-guide/en/latest/highlighting
+permalink: searchassist/topic-guide/en/latest//search-settings/highlighting
 
 ---
 <!--#### Topic Guide
