@@ -14,7 +14,7 @@ Kore.ai XO Platform now supports integration with Salesforce Agent System to han
  
 2. From the main menu on the top, navigate to Setup > Customize > Live Agent > Settings. 
  
-   Make sure you switch to Classic view, the Live Agent settings do not come up under the Lightning Experience view. Click [here] (https://help.salesforce.com/s/articleView?language=en_US&id=live_agent_intro.htm) for detailed instructions on setting up Live Agent.
+   Make sure you switch to Classic view, the Live Agent settings do not come up under the Lightning Experience view. Click (https://help.salesforce.com/s/articleView?language=en_US&id=live_agent_intro.htm) for detailed instructions on setting up Live Agent.
  
 3. Find the Live Agent section under ‘Build > Customize > Chat > Chat Agent Configurations’.
  
