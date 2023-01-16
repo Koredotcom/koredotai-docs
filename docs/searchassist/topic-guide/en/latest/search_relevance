@@ -4,19 +4,19 @@ title: Content
 permalink: searchassist/topic-guide/en/latest//search-settings/search_relevance
 
 ---
-<!--#### Topic Guide
-###### Fields-->
+<!--#### Topic Guide 
+###### Connectors-->
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Configuring Fields.
+  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Connectors.
 
 <details class="introduction-video" open>
   <summary>Video
   </summary>
   
-   [![Fields](images/VideoCoverImage.png)](https://player.vimeo.com/video/751565610?h=2562dda9ac&amp)
+   [![Connectors](images/VideoCoverImage.png)](https://player.vimeo.com/video/784486217?h=5d9b35336a&badge=0&autopause=0&player_id=0&app_id=58479/embed" allow="autoplay)
 
-  ##### Fields
-  Watch this short video to know how to Configure Fields.
+  ##### Introduction to Connectors 
+  Watch this short video to know how to add content to your application using Connectors.
 
 </details>
 
@@ -24,28 +24,27 @@ permalink: searchassist/topic-guide/en/latest//search-settings/search_relevance
   <summary>FAQs
   </summary>
 
-  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-indices/configuring-search-fields/">
+  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-content/connectors/#Introduction_to_Connectors">
  
-  What are fields in SearchAssist ?
+  What are Connectors?
 
 </a>
 
- <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-indices/configuring-search-fields/">
+ <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-content/connectors/">
  
-  How do I add custom fields?
+  How to ingest content and synchronize Connectors?
 
 </a>
  
 
 </details>
 
-
-<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-indices/configuring-search-fields/">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-content/connectors/">
  
 
 | Frontmatter | Required? |
 |-------------|-------------|
-| ![alt text](images/SA_Documentation.svg "Title") | **Documentation**  <br /> Check out our in depth documentation articles on Configuring Fields | 
+| ![alt text](images/SA_Documentation.svg "Title") | **Documentation**  <br /> Check out our in depth documentation articles on Connectors. | 
 
 
 </a>
