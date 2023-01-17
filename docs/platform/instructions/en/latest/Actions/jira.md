@@ -159,7 +159,7 @@ This method requires the end user to provide credentials during the conversation
   
       6. offline_access
   
-  ix.   Copy Refresh Token URL (https://auth.atlassian.com/oauth/token).
+   ix.   Copy Refresh Token URL (https://auth.atlassian.com/oauth/token).
  
 5. Save Authorization Profile.
  
