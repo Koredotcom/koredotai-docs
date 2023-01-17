@@ -58,10 +58,14 @@ To connect to a client's Zendesk account, Kore.ai uses Basic Auth. The developer
  Enable the integration using Kore.ai's preconfigured Zendesk app. 
  
 1. Select System.
+ 
 2. Click Authorize.
+ 
 3. It will redirect you to the Zendesk login page.
+ 
 4. Provide your subdomain & credentials to connect with your Zendesk account.
    Please note that you are allowing Kore.ai’s app to fetch the access token to complete the authorization.
+ 
 5. Click Enable.
  
 **OAuth - Custom**
