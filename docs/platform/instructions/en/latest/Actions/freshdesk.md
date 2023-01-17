@@ -5,6 +5,7 @@ permalink: platform/instructions/en/latest/Actions/freshdesk
 
 ---
 
+<base target="_blank">
 <container>
 
 **Overview**
