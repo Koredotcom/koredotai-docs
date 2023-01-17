@@ -38,10 +38,14 @@ To connect to a client's Salesforce account, Kore.ai uses OAuth 2.0 authenticati
  Enable the integration using Kore.ai's preconfigured Salesforce app. 
  
 1. Select System.
+ 
 2. Click Authorize.
-3. It will redirect you to the Salesforce login page login.salesfore.com. 
+ 
+3. It will redirect you to the Salesforce login page login.salesfore.com.
+ 
 4. Provide your credentials to connect with your Salesforce account.
    Please note that you are allowing Kore.ai’s app to fetch the access token to complete the authorization.
+ 
 5. Click Enable.
  
  ![gif](/koredotai-docs/images/Salesforce%20video%20for%20GIF.gif)
@@ -51,8 +55,11 @@ To connect to a client's Salesforce account, Kore.ai uses OAuth 2.0 authenticati
  You can create your authorization profile to obtain an access token and use it to complete integration without using Kore.ai's Salesforce app for authorization.
  
 1. Select Custom.
+ 
 2. Click Select Authorization.
+ 
 3. Select Create New.
+ 
 4. Select the type of authorization mechanism. 
  
     i.  Select oAuth v2.
@@ -79,11 +86,16 @@ To connect to a client's Salesforce account, Kore.ai uses OAuth 2.0 authenticati
       3. offline_access 
  
 5. Save Authorization Profile.
+ 
 6. Select the created Authorization Profile to complete integration.
+ 
 7. Click Authorize.
-8. It will redirect you to the Salesforce login page login.salesfore.com. 
+ 
+8. It will redirect you to the Salesforce login page login.salesfore.com.
+ 
 9. Provide your credentials to connect with your Salesforce account. 
    Please note that you are allowing your custom app to fetch the access token to complete the authorization and not using Kore.ai’s Salesforce app for the same.
+ 
 10. Click Enable.
  
  
@@ -96,7 +108,9 @@ This method requires the end user to provide credentials during the conversation
  This authorization process involves requesting permission for Kore.ai's Salesforce app to access an access token at runtime.
  
 1. Select System.
+ 
 2. Click Enable.
+ 
 3. Please note that a link will be sent to the end-user during the conversation to grant access to Kore.ai’s app to fetch the access token.
  
  **OAuth - Custom**
@@ -104,8 +118,11 @@ This method requires the end user to provide credentials during the conversation
  You can create your authorization profile to obtain an access token and use it to complete integration without using Kore.ai's Salesforce app for authorization.
  
 1. Select Custom.
+ 
 2. Click Select Authorization.
+ 
 3. Select Create New.
+ 
 4. Select the type of authorization mechanism. 
  
    i.  Select oAuth v2.
@@ -131,7 +148,9 @@ viii.  Add below scopes
       3. offline_access 
  
 5. Save Authorization Profile.
+ 
 6. Select the created Authorization Profile to complete integration.
+ 
 6. Click Enable.
  
 </container>
