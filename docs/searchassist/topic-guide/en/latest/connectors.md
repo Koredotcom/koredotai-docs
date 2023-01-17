@@ -1,7 +1,7 @@
 ---
 title: Experiments
 
-permalink: searchassist/topic-guide/en/latest/experiments
+permalink: searchassist/topic-guide/en/latest/connectors
 
 ---
 <!--#### Topic Guide
