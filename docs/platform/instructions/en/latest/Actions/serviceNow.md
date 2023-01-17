@@ -67,9 +67,9 @@ This method requires the end user to provide credentials during the conversation
  
 4. Select the type of authorization mechanism. 
  
-   i. Select Basic Auth. 
+   i.  Select Basic Auth. 
  
-  ii. Provide a name for the authorization profile. 
+   ii.  Provide a name for the authorization profile. 
  
 5. Save Authorization Profile.
  
