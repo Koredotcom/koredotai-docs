@@ -5,7 +5,7 @@ permalink: platform/instructions/en/latest/Actions/zendesk
 
 ---
 
-
+<base target="_blank">
 <container>
 
 **Overview**
