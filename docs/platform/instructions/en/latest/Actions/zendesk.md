@@ -134,6 +134,7 @@ This method requires the end user to provide credentials during the conversation
  Enable the integration using Kore.ai's preconfigured Zendesk app. 
  
 1. Select System.
+ 
 2. Click Enable.
  
 **OAuth - Custom**
