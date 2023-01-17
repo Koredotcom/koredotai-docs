@@ -38,10 +38,14 @@ To connect to a Jira account, Kore.ai uses OAuth 2.0 authentication. The user ca
  Enable the integration using Kore.ai's preconfigured Jira app. 
  
 1. Select System.
+ 
 2. Click Authorize.
+ 
 3. It will redirect you to the Jira login page. 
+ 
 4. Provide your credentials to connect with your Jira account.
    Please note that you are allowing Kore.ai’s app to fetch the access token to complete the authorization.
+ 
 5. Click Enable.
  
  
@@ -50,25 +54,28 @@ To connect to a Jira account, Kore.ai uses OAuth 2.0 authentication. The user ca
  You can create your authorization profile to obtain an access token and use it to complete integration without using Kore.ai's Jira app for authorization.
  
 1. Select Custom.
+ 
 2. Click Select Authorization.
+ 
 3. Select Create New.
+ 
 4. Select the type of authorization mechanism. 
  
-   i.  Select oAuth v2.
+   i.   Select oAuth v2.
  
-  ii.  Navigate to https://auth.atlassian.com/ and log in.
+   ii.   Navigate to https://auth.atlassian.com/ and log in.
  
-  iii. Navigate to Settings 
+   iii.  Navigate to Settings 
  
-  iv.  Copy Client Id from Jira into Client Id field to Kore.ai platform.
+   iv.   Copy Client Id from Jira into Client Id field to Kore.ai platform.
  
-   v.  Copy Client secret from Jira into Client Secret field to Kore.ai platform.
+   v.   Copy Client secret from Jira into Client Secret field to Kore.ai platform.
  
-  vi.  Copy Authorization URL (https://auth.atlassian.com/authorize?audience=api.atlassian.com).
+   vi.   Copy Authorization URL (https://auth.atlassian.com/authorize?audience=api.atlassian.com).
  
-  vii. Copy Token URL (https://auth.atlassian.com/oauth/token).
+   vii.  Copy Token URL (https://auth.atlassian.com/oauth/token).
  
-viii.  Add below scopes
+   viii.   Add below scopes
  
       1. write:jira-work 
  
@@ -82,14 +89,19 @@ viii.  Add below scopes
   
       6. offline_access
   
-  ix.  Copy Refresh Token URL (https://auth.atlassian.com/oauth/token).
+   ix.   Copy Refresh Token URL (https://auth.atlassian.com/oauth/token).
  
 5. Save Authorization Profile.
+ 
 6. Select the created Authorization Profile to complete integration.
+ 
 7. Click Authorize.
+ 
 8. It will redirect you to the Jira login page.
+ 
 9. Provide your credentials to connect with your Jira account. 
    Please note that you are allowing your custom app to fetch the access token to complete the authorization and not using Kore.ai’s Jira app for the same.
+ 
 10. Click Enable.
  
  
@@ -102,7 +114,9 @@ This method requires the end user to provide credentials during the conversation
  This authorization process involves requesting permission for Kore.ai's Jira app to access an access token at runtime.
  
 1. Select System.
+ 
 2. Click Enable.
+ 
 3. Please note that a link will be sent to the end-user during the conversation to grant access to Kore.ai’s app to fetch the access token.
  
  **OAuth - Custom**
@@ -110,25 +124,28 @@ This method requires the end user to provide credentials during the conversation
  You can create your authorization profile to obtain an access token and use it to complete integration without using Kore.ai's Salesforce app for authorization.
  
 1. Select Custom.
+ 
 2. Click Select Authorization.
+ 
 3. Select Create New.
+ 
 4. Select the type of authorization mechanism. 
  
-   i.  Select oAuth v2.
+   i.   Select oAuth v2.
  
-  ii.  Navigate to https://auth.atlassian.com/ and log in.
+   ii.   Navigate to https://auth.atlassian.com/ and log in.
  
-  iii. Navigate to Settings 
+   iii.  Navigate to Settings 
  
-  iv.  Copy Client Id from Jira into Client Id field to Kore.ai platform.
+   iv.   Copy Client Id from Jira into Client Id field to Kore.ai platform.
  
-   v.  Copy Client secret from Jira into Client Secret field to Kore.ai platform.
+    v.   Copy Client secret from Jira into Client Secret field to Kore.ai platform.
  
-  vi.  Copy Authorization URL (https://auth.atlassian.com/authorize?audience=api.atlassian.com).
+   vi.   Copy Authorization URL (https://auth.atlassian.com/authorize?audience=api.atlassian.com).
  
-  vii. Copy Token URL (https://auth.atlassian.com/oauth/token).
+   vii.  Copy Token URL (https://auth.atlassian.com/oauth/token).
  
-viii.  Add below scopes
+   viii.   Add below scopes
  
       1. write:jira-work 
  
@@ -142,11 +159,13 @@ viii.  Add below scopes
   
       6. offline_access
   
-  ix.  Copy Refresh Token URL (https://auth.atlassian.com/oauth/token).
+  ix.   Copy Refresh Token URL (https://auth.atlassian.com/oauth/token).
  
 5. Save Authorization Profile.
+ 
 6. Select the created Authorization Profile to complete integration.
-6. Click Enable.
+ 
+7. Click Enable.
  
 </container>
 
