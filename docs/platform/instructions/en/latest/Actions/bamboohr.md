@@ -5,7 +5,7 @@ permalink: platform/instructions/en/latest/Actions/bamboohr
 
 ---
 
-
+<base target="_blank">
 <container>
 
 **Overview**
