@@ -168,7 +168,7 @@ This method requires the end user to provide credentials during the conversation
           Replace subdomain with your Zendesk's instance subdomain.
  
    ix.  Scopes: You can request read, write, or impersonate access to all resources or to specific resources.
-        Refer https://support.zendesk.com/hc/en-us/articles/4408845965210#topic_pbc_cdl_1l.
+        Refer [https://support.zendesk.com/hc/en-us/articles/4408845965210#topic_pbc_cdl_1l](https://support.zendesk.com/hc/en-us/articles/4408845965210#topic_pbc_cdl_1l)
  
 5. Save Authorization Profile.
  
