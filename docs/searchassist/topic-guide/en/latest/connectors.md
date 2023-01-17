@@ -1,11 +1,11 @@
 ---
-title: Content
+title: Experiments
 
-permalink: searchassist/topic-guide/en/latest/connectors
+permalink: searchassist/topic-guide/en/latest/experiments
 
 ---
 <!--#### Topic Guide
-######  FAQs-->
+###### Connectors-->
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Connectors.
 
@@ -13,7 +13,7 @@ permalink: searchassist/topic-guide/en/latest/connectors
   <summary>Video
   </summary>
   
-  [![FAQs](images/VideoCoverImage.png)](https://player.vimeo.com/video/784486217?h=5d9b35336a&badge=0&autopause=0&player_id=0&app_id=58479/embed" allow="autoplay)
+   [![Experiments](images/VideoCoverImage.png)](https://player.vimeo.com/video/784486217?h=5d9b35336a&badge=0&autopause=0&player_id=0&app_id=58479/embed" allow="autoplay)
 
   ##### Introduction to Connectors
   Watch this short video to know how to add content to your application using Connectors.
@@ -24,25 +24,22 @@ permalink: searchassist/topic-guide/en/latest/connectors
   <summary>FAQs
   </summary>
 
-
- <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-content/connectors/">
+  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-content/connectors/">
  
   What are Connectors?
 
-</a>
- 
-  
-<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-content/connectors/#Ingesting_Content_and_Synchronization">
 
+</a>
+
+ <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-content/connectors/#Ingesting_Content_and_Synchronization">
+ 
   How to ingest content and synchronize Connectors?
 
-</a>
-    
+
+
 </details>
 
-
 <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-content/connectors/">
- 
 
 | Frontmatter | Required? |
 |-------------|-------------|
