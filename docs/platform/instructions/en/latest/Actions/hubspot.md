@@ -126,25 +126,42 @@ This method requires the end user to provide credentials during the conversation
 3. Select **Create New**.
  
 4. Select the type of authorization mechanism. 
-   i.  Select oAuth v2
-  ii.  Navigate to app.hubspot.com and log in 
-  iii. Navigate to Apps → select the app → Click on Auth
-  iv.  Copy Client Id from Hubspot into Client Id to Kore.ai platform
-   v.  Copy Client secret from Hubspot into Client Secret to Kore.ai platform
-  vi.  Copy Authorization URL (https://app.hubspot.com/oauth/authorize)
-  vii. Copy Token URL (https://api.hubapi.com/oauth/v1/token)
-viii.  Add below scopes 
-      1. crm.objects.deals.read
-      2. crm.objects.deals.write 
-      3. crm.objects.contacts.read 
-      4. Crm.objects.contacts.write
-   ix. Copy Refresh Token URL (https://api.hubapi.com/oauth/v1/token)
+ 
+    i.  Select oAuth v2
+ 
+   ii.  Navigate to **app.hubspot.com** and log in 
+ 
+   iii.  Navigate to Apps → select the app → Click on Auth
+ 
+   iv.  Copy Client Id from Hubspot into Client Id to Kore.ai platform
+ 
+    v.  Copy Client secret from Hubspot into Client Secret to Kore.ai platform
+ 
+   vi.  Copy Authorization URL (https://app.hubspot.com/oauth/authorize)
+ 
+   vii. Copy Token URL (https://api.hubapi.com/oauth/v1/token)
+ 
+   viii.  Add below scopes 
+ 
+         1. crm.objects.deals.read
+ 
+         2. crm.objects.deals.write 
+ 
+         3. crm.objects.contacts.read 
+  
+         4. Crm.objects.contacts.write
+ 
+    ix. Copy Refresh Token URL (https://api.hubapi.com/oauth/v1/token)
  
 5. Save **Authorization Profile**.
  
 6. Select the created Authorization Profile to complete integration.
  
 7. Click **Enable**.
+ 
+</container>
+
+<container>
 
 **What can be achieved by integrating Hubspot CRM with the Kore.ai XO Platform?**
  
