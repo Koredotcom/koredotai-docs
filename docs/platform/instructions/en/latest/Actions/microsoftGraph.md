@@ -168,7 +168,7 @@ You can create your authorization profile to obtain an access token and use it t
 
 **What can be achieved by integrating Microsoft Graph with the Kore.ai XO Platform?**
  
-The Kore.ai XO Platform supports all common actions on Microsoft Graph objects with pre-built dialog templates that are ready to use. Click Explore Templates. Learn More.
+The Kore.ai XO Platform supports all common actions on Microsoft Graph objects with pre-built dialog templates that are ready to use.
  
 **Templates Supported**
 
