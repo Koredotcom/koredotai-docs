@@ -1,7 +1,7 @@
 ---
 title: Freshservice
 
-permalink:docs/platform/instructions/ko/latest/Actions/freshservice
+permalink:platform/instructions/ko//latest/Actions/freshservice
 
 ---
 

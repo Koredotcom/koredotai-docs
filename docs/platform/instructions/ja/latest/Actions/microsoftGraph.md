@@ -1,7 +1,7 @@
 ---
 title: Microsoft Graph
 
-permalink:docs/platform/instructions/ja/latest/Actions/microsoftGraph
+permalink:platform/instructions/ja//latest/Actions/microsoftGraph
 
 ---
 

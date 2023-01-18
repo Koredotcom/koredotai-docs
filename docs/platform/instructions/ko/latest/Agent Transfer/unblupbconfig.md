@@ -1,7 +1,7 @@
 ---
 title: Unblu
 
-permalink:docs/platform/instructions/ko/latest/Agent Transfer/unblupbconfig
+permalink:platform/instructions/ko//latest/Agent Transfer/unblupbconfig
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Stripe
 
-permalink:docs/platform/instructions/ko/latest/Actions/stripe
+permalink:platform/instructions/ko//latest/Actions/stripe
 
 ---
 

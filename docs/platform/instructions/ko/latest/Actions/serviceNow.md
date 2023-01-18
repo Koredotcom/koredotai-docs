@@ -1,7 +1,7 @@
 ---
 title: Service Now
 
-permalink:docs/platform/instructions/ko/latest/Actions/serviceNow
+permalink:platform/instructions/ko//latest/Actions/serviceNow
 
 ---
 

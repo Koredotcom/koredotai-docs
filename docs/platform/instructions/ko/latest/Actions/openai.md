@@ -1,7 +1,7 @@
 ---
 title: OpenAI
 
-permalink:docs/platform/instructions/ko/latest/Actions/openai
+permalink:platform/instructions/ko//latest/Actions/openai
 
 ---
 

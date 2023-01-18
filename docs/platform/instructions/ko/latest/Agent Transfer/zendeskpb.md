@@ -1,7 +1,7 @@
 ---
 title: Zendesk
 
-permalink:docs/platform/instructions/ko/latest/Agent Transfer/zendeskpb
+permalink:platform/instructions/ko//latest/Agent Transfer/zendeskpb
 
 ---
 

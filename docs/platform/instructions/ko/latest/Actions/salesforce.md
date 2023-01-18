@@ -1,7 +1,7 @@
 ---
 title: Salesforce
 
-permalink:docs/platform/instructions/ko/latest/Actions/salesforce
+permalink:platform/instructions/ko//latest/Actions/salesforce
 
 ---
 

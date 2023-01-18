@@ -1,7 +1,7 @@
 ---
 title: Hubspot
 
-permalink:docs/platform/instructions/ja/latest/Actions/hubspot
+permalink:platform/instructions/ja//latest/Actions/hubspot
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Jira
 
-permalink:docs/platform/instructions/ja/latest/Actions/jira
+permalink:platform/instructions/ja//latest/Actions/jira
 
 ---
 

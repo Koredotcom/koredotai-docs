@@ -1,7 +1,7 @@
 ---
 title: IVR
 
-permalink:docs/platform/instructions/ja/latest/Agent Transfer/ivrpbconfig
+permalink:platform/instructions/ja//latest/Agent Transfer/ivrpbconfig
 
 ---
 
