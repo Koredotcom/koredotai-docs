@@ -75,7 +75,7 @@ To connect to a client's Salesforce account, Kore.ai uses OAuth 2.0 authenticati
  
     vi.  Copy Authorization URL (https://login.salesforce.com/services/oauth2/authorize).
  
-   vii. Copy Token URL (https://login.salesforce.com/services/oauth2/token).
+   vii.  Copy Token URL (https://login.salesforce.com/services/oauth2/token).
  
   viii.  Add below scopes
  
@@ -159,7 +159,7 @@ viii.  Add below scopes
 
 **What can be achieved by integrating Salesforce CRM with the Kore.ai XO Platform?**
  
-The Kore.ai XO Platform supports all common actions on Salesforce objects with pre-built dialog templates that are ready to use. Click Explore Templates. Learn More.
+The Kore.ai XO Platform supports all common actions on Salesforce objects with pre-built dialog templates that are ready to use.
  
 **Templates Supported**
 
