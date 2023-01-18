@@ -1,7 +1,7 @@
 ---
 title: Salesforce
 
-permalink:platform/instructions/ja/latest/Actions/salesforce
+permalink: platform/instructions/ja/latest/Actions/salesforce
 
 ---
 

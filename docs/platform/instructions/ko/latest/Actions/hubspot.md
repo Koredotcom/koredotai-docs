@@ -1,7 +1,7 @@
 ---
 title: Hubspot
 
-permalink:platform/instructions/ko/latest/Actions/hubspot
+permalink: platform/instructions/ko/latest/Actions/hubspot
 
 ---
 

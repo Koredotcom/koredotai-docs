@@ -1,7 +1,7 @@
 ---
 title: Intercom
 
-permalink:platform/instructions/ko/latest/Agent Transfer/intercom
+permalink: platform/instructions/ko/latest/Agent Transfer/intercom
 
 ---
 Kore.ai XO Platform now supports integration with Intercom Agent System to handover the conversations without having to use the BotKit.

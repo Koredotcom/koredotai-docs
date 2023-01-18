@@ -1,7 +1,7 @@
 ---
 title: Freshdesk
 
-permalink:platform/instructions/ja/latest/Actions/freshdesk
+permalink: platform/instructions/ja/latest/Actions/freshdesk
 
 ---
 

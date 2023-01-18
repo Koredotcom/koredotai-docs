@@ -1,7 +1,7 @@
 ---
 title: OpenAI
 
-permalink:platform/instructions/ja/latest/Actions/openai
+permalink: platform/instructions/ja/latest/Actions/openai
 
 ---
 

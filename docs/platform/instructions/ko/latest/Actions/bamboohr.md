@@ -1,7 +1,7 @@
 ---
 title: BambooHR
 
-permalink:platform/instructions/ko/latest/Actions/bamboohr
+permalink: platform/instructions/ko/latest/Actions/bamboohr
 
 ---
 

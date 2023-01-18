@@ -1,7 +1,7 @@
 ---
 title: Razorpay
 
-permalink:platform/instructions/ja/latest/Actions/razorpay
+permalink: platform/instructions/ja/latest/Actions/razorpay
 
 ---
 
