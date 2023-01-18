@@ -6,6 +6,7 @@ permalink: platform/instructions/ja/latest/Actions/hubspot
 ---
 
 <base target="_blank">
+
 <container>
 
 **Overview**
