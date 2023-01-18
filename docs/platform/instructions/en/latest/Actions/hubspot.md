@@ -60,11 +60,12 @@ To connect to a Hubspot account, Kore.ai uses OAuth. The developer can use pre-a
 3. Select **Create New**.
  
 4. Select the type of authorization mechanism. 
-   i.  Select oAuth v2
  
-  ii.  Navigate to **app.hubspot.com** and log in 
+    i.  Select oAuth v2
  
-  iii. Navigate to Apps → select the app → Click on Auth
+   ii.  Navigate to **app.hubspot.com** and log in 
+ 
+  iii.  Navigate to Apps → select the app → Click on Auth
  
   iv.  Copy Client Id from Hubspot into Client Id to Kore.ai platform
  
