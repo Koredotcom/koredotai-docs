@@ -82,7 +82,7 @@ This method requires the end user to provide credentials during the conversation
 
 **What can be achieved by integrating OpenAI with the Kore.ai XO Platform?**
  
- The Kore.ai XO Platform supports all common actions on OpenAI with pre-built dialog templates that are ready to use. Click **Explore Templates**. Learn More.
+ The Kore.ai XO Platform supports all common actions on OpenAI with pre-built dialog templates that are ready to use.
  
 **Templates Supported**
 
