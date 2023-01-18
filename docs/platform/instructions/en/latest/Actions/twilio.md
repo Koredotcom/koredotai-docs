@@ -38,7 +38,6 @@ To connect to a Twilio account, Kore.ai uses Basic Auth. The developer can use p
 1. Provide Account SID & Auth Token to authorize the integration.  
 2. Follow the steps below to get the required credentials from your Twilio instance.
  
-   a.  Account SSID
  
       i. Login to your Twilio Instance.  https://console.twilio.com.
       
@@ -64,7 +63,7 @@ This method requires the end user to provide credentials during the conversation
  
    i. Select Basic Auth
   
-  ii. Provide a name for the Authorization Profile
+   ii. Provide a name for the Authorization Profile
  
 5. Save Authorization Profile.
  
