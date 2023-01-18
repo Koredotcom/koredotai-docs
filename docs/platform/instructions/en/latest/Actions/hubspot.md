@@ -61,17 +61,25 @@ To connect to a Hubspot account, Kore.ai uses OAuth. The developer can use pre-a
  
 4. Select the type of authorization mechanism. 
    i.  Select oAuth v2
+ 
   ii.  Navigate to **app.hubspot.com** and log in 
+ 
   iii. Navigate to Apps → select the app → Click on Auth
+ 
   iv.  Copy Client Id from Hubspot into Client Id to Kore.ai platform
+ 
    v.  Copy Client secret from Hubspot into Client Secret to Kore.ai platform
+ 
   vi.  Copy Authorization URL (https://app.hubspot.com/oauth/authorize)
+ 
   vii. Copy Token URL (https://api.hubapi.com/oauth/v1/token)
-viii.  Add below scopes 
-      1. crm.objects.deals.read
-      2. crm.objects.deals.write 
-      3. crm.objects.contacts.read 
-      4. Crm.objects.contacts.write
+ 
+ viii.  Add below scopes 
+        1. crm.objects.deals.read
+        2. crm.objects.deals.write 
+        3. crm.objects.contacts.read 
+        4. Crm.objects.contacts.write
+ 
    ix. Copy Refresh Token URL (https://api.hubapi.com/oauth/v1/token)
  
 5. Save **Authorization Profile**.
@@ -135,7 +143,7 @@ viii.  Add below scopes
 
 **What can be achieved by integrating Hubspot CRM with the Kore.ai XO Platform?**
  
-The Kore.ai XO Platform supports all common actions on Hubspot with pre-built dialog templates that are ready to use. Click **Explore Templates**. Learn More.
+The Kore.ai XO Platform supports all common actions on Hubspot with pre-built dialog templates that are ready to use. 
  
 **Templates Supported**
 
