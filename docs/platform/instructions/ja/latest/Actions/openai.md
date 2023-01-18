@@ -1,53 +1,95 @@
 ---
 title: OpenAI
 
-permalink: platform/instructions/ja/latest/Actions/openai
+permalink:docs/platform/instructions/ja/latest/Actions/openai
 
 ---
 
+<base target="_blank">
 <container>
 
-**About**
+**Overview**
 
-Integrate with openai Support to power your conversations to create tickets/update tickets and other actions.
-  **Action Templates**      **Description**
-    **Create Ticket**         Create a new ticket by entering the title, description and priority of your ticket.   
-    **Update Ticket**         Update the status, priority, description and title of your Zendesk ticket.
-    **View Ticket by Id**     View single/multiple ticket(s) by entering ticket id(s).
-    **List All Tickets**      Shows all your tickets.
-    **Search Ticket**         Searches all the tickets matching your keyword.
-    **Delete Ticket**         Lets you delete a ticket.
+Connect OpenAI to generate answers and extract skills to perform various other actions.
+
+The Kore.ai XO Platform allows you to integrate with OpenAI, enabling you to easily connect your OpenAI instance to fetch extract skills and generate answers as required.
 
 </container>
 
 <container>
 
-**How to Enable**
+**Authorization**
+ 
+To connect to OpenAI, Kore.ai uses basic authentication. The user can use pre-authorized credentials provided by the developer during the configuration process or their own authorization profile during the configuration process to let the end user authorize during the conversation. Learn More.
+ 
+ 
+ |Authorization Type                      | Basic |
+ |----------------------------------------|-------|
+ |Pre-authorize the Integration           |  Yes  |
+ |Allow Users to Authorize the Integration|  Yes  |
 
-To set up OpenAI Integration, the developer will need to login to Zendesk Console, setup an app and fetch the API Token as shown below.
-- - -
 
-**Step1**
+**Pre-authorize the Integration**
+ 
+ To make the integration process smoother for customers, you can pre-authorize it by providing the necessary authorization credentials to obtain the access token.
 
-  Login to Zendesk. Example: < domain>.zendesk.com.
-  
-  You will find your Zendesk domain URL in your browser's address bar. 
-- - -
-  
-  **Step2**
+**Basic**
+ 
+1. Provide API Key to authorize the integration.
+2. Follow the steps below to get the required details from your OpenAI instance.
+ 
+   a. To fetch the required details, navigate to https://beta.api.com/
+     
+      i.   Navigate to profile section.
 
-  Provide email address/user name that you use to login into Zendesk console.
-- - -
+      ii.  Click on View API Keys.
 
-**Step3**
+      iii. Navigate to User → API Keys.
+ 
+           1. Click on Create new secret key.
+ 
+           2. Copy the API Key.
+ 
+           3. Paste the API key into API key field on Kore.ai XO Platform.
+ 
+ 3. Click Enable.
+ 
+**Allow Users to Authorize the Integration**
+ 
+This method requires the end user to provide credentials during the conversation for authorization.
+ 
+**Basic**
+ 
+1. Select All Users to Authorize the Integration.
+ 
+2. Click Select Authorization.
+ 
+3. Select Create New.
+ 
+4. Select the type of authorization mechanism. 
+ 
+   i.  Select API Key
+ 
+   ii.  Provide a name for the authorization profile.
+ 
+   iii.  Save Authorization Profile.
+ 
+ 5.  Click Enable.
+ 
+ </container>
+ 
+ <container>
 
-Navigate to Apps & Integrations.
+**What can be achieved by integrating OpenAI with the Kore.ai XO Platform?**
+ 
+ The Kore.ai XO Platform supports all common actions on OpenAI with pre-built dialog templates that are ready to use.
+ 
+**Templates Supported**
 
-  Create an app in Zendesk --> Apps & Integrations --> Zendesk API
-  
-  Copy API Token into Kore.ai platform API Token field
-  <img width="878" alt="Screenshot 2022-10-07 at 1 30 47 PM" src="https://user-images.githubusercontent.com/105059896/194517725-76543d9a-4ed0-4b0a-b8ef-467044c4ef48.png">
+| Action           | Description            |
+|------------------|------------------------|
+|Extract Skills    |Identify and extract specific skills or abilities from input data|
+|Generate Answer   |Generate responses or answers based on input|
 
 </container>
-
 

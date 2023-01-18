@@ -1,10 +1,11 @@
 ---
 title: Service Now
 
-permalink: platform/instructions/ko/latest/Actions/serviceNow
+permalink:docs/platform/instructions/ko/latest/Actions/serviceNow
 
 ---
 
+<base target="_blank">
 <container>
 
 **Overview**
@@ -34,19 +35,21 @@ To connect to a client's Service Now account, Kore.ai uses basic authentication.
 
 **Basic**
  
-1. Provide Subdomain, Username, and Password to authorize the integration. 
+1. Provide Subdomain, Username, and Password to authorize the integration.
+ 
 2. Follow the steps below to get the required credentials from your Service Now developer instance.
-   a. To fetch the required details, navigate to https://developer.servicenow.com/dev.do#!/home.
+ 
+    i.    To fetch the required details, navigate to https://developer.servicenow.com/dev.do#!/home.
      
-      i.   A page with the **Request Instance** button is displayed (if no instance is  created for you.)
+   ii.    A page with the Request Instance button is displayed (if no instance is  created for you.)
 
-      ii.  Click **Request Instance**.
+   iii.   Click Request Instance.
 
-      iii. Copy the Instance URL from here to the User Subdomain field on the Kore.ai XO Platform.
- 
-      iv.  Copy the **Username** and **Password** to their respective fields on the Kore.ai XO Platform.
- 
-      v.  Click **Enable** .
+    iv.   Copy the Instance URL from here to the User Subdomain field on the Kore.ai XO Platform.
+
+     v.   Copy the Username and Password to their respective fields on the Kore.ai XO Platform.
+
+     vi.  Click Enable.
  
  ![gif](/koredotai-docs/images/Home%20_%20Loom%20-%2019%20December%202022.gif)
  
@@ -56,32 +59,47 @@ This method requires the end user to provide credentials during the conversation
  
 **Basic**
  
-1. Select **All Users to Authorize the Integration**.
-2. Click **Select Authorization**.
-3. Select **Create New**.
+1. Select All Users to Authorize the Integration.
+ 
+2. Click Select Authorization.
+ 
+3. Select Create New.
+ 
 4. Select the type of authorization mechanism. 
-5. Save **Authorization Profile**.
+ 
+   i.  Select Basic Auth. 
+ 
+   ii.  Provide a name for the authorization profile. 
+ 
+5. Save Authorization Profile.
+ 
 6. Select the created Authorization Profile to complete integration.
-7. Click **Enable**.
+ 
+7. Click Enable.
+ 
+ </container>
+ 
+ <container>
 
 **What can be achieved by integrating Service Now with the Kore.ai XO Platform?**
  
- The Kore.ai XO Platform supports all common actions on Service Now Requests & Tickets objects with pre-built dialog templates that are ready to use. Click Explore  Templates. Learn More.
+ The Kore.ai XO Platform supports all common actions on Service Now Requests & Tickets objects with pre-built dialog templates that are ready to use. 
  
 **Templates Supported**
 
 | Action           | Description            |
 |------------------|------------------------|
-|Create Incident   |------------------------|
-|Update Incident   |------------------------|
-|Find Incident     |------------------------|
-|Delete Incident   |------------------------|
-|List All Incidents|------------------------|
-|Create Request    |------------------------|
-|Update Request    |------------------------|
-|Find Request      |------------------------|
-|Delete Request    |------------------------|
-|Find All Requests |------------------------|
+|Create Incident   |Add a new incident to the system|
+|Update Incident   |Modify an existing incident|
+|Find Incident     |Find an incident using specified search criteria|
+|Delete Incident   |Remove an incident from the system|
+|List All Incidents|Display a list of all incidents in the system|
+|Set Caller of Reported/Created Incident|Set the caller for an incident that has been reported or created|
+|Create Request    |Add a new request to the system|
+|Update Request    |Modify an existing request|
+|Find Request      |Find a request using specified search criteria|
+|Delete Request    |Remove a request from the system|
+|Find All Requests |Display a list of all requests in the system|
 
 </container>
 
