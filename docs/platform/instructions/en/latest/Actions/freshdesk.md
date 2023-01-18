@@ -42,15 +42,15 @@ To connect to a Freshdesk account, Kore.ai uses Basic Auth. The developer can us
   
    b.  API Key
  
-        i. Login to the Freshdesk Instance.
+        i.  Login to the Freshdesk Instance.
       
-       ii. Click on profile picture on the and navigate to Profile Settings.
-  
-      iii. Click on View API Key.
+       ii.  Click on profile picture on the and navigate to Profile Settings.
    
-       iv. Complete the verification process.
+       iii. Click on View API Key.
+   
+        iv.  Complete the verification process.
   
-        v. Copy the API Key into Kore.ai XO Platform API Key field.
+         v.  Copy the API Key into Kore.ai XO Platform API Key field.
 
  
 **Allow Users to Authorize the Integration**
