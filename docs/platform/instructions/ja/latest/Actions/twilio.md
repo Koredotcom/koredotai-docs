@@ -1,7 +1,7 @@
 ---
 title: Twilio
 
-permalink:platform/instructions/ja//latest/Actions/twilio
+permalink:platform/instructions/ja/latest/Actions/twilio
 
 ---
 

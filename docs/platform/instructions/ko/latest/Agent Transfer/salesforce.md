@@ -1,7 +1,7 @@
 ---
 title: Salesforce
 
-permalink:platform/instructions/ko//latest/Agent Transfer/salesforce
+permalink:platform/instructions/ko/latest/Agent Transfer/salesforce
 
 ---
 Kore.ai XO Platform now supports integration with Salesforce Agent System to handover the conversations without having to use the BotKit.

@@ -1,7 +1,7 @@
 ---
 title: Zendesk
 
-permalink:platform/instructions/ja//latest/Agent Transfer/zendeskpbconfig
+permalink:platform/instructions/ja/latest/Agent Transfer/zendeskpbconfig
 
 ---
 

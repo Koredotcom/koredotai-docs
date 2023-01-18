@@ -1,7 +1,7 @@
 ---
 title: Genesys
 
-permalink:platform/instructions/ja//latest/Agent Transfer/genesys
+permalink:platform/instructions/ja/latest/Agent Transfer/genesys
 
 ---
 Kore.ai XO Platform now supports integration with Genesys Agent System to handover the conversations without having to use the BotKit.

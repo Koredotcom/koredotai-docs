@@ -1,7 +1,7 @@
 ---
 title: ServiceNow
 
-permalink:platform/instructions/ko//latest/Agent Transfer/servicenow
+permalink:platform/instructions/ko/latest/Agent Transfer/servicenow
 
 ---
 Kore.ai XO Platform now supports integration with ServiceNow Agent System to handover the conversations without having to use the BotKit. 

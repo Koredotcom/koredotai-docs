@@ -1,7 +1,7 @@
 ---
 title: Unblu
 
-permalink:platform/instructions/ja//latest/Agent Transfer/unblupbconfig
+permalink:platform/instructions/ja/latest/Agent Transfer/unblupbconfig
 
 ---
 

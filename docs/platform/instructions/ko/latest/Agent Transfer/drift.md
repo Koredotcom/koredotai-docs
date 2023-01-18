@@ -1,7 +1,7 @@
 ---
 title: Drift
 
-permalink:platform/instructions/ko//latest/Agent Transfer/drift
+permalink:platform/instructions/ko/latest/Agent Transfer/drift
 
 ---
 Kore.ai XO Platform now supports integration with Drift Agent System to handover the conversations without having to use the BotKit.

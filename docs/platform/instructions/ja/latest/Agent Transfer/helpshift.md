@@ -1,7 +1,7 @@
 ---
 title: Helpshift
 
-permalink:platform/instructions/ja//latest/Agent Transfer/helpshift
+permalink:platform/instructions/ja/latest/Agent Transfer/helpshift
 
 ---
 Kore.ai XO Platform now supports integration with Helpshift Agent System to handover the conversations without having to use the BotKit.

@@ -1,7 +1,7 @@
 ---
 title: Stripe
 
-permalink:platform/instructions/ja//latest/Actions/stripe
+permalink:platform/instructions/ja/latest/Actions/stripe
 
 ---
 
