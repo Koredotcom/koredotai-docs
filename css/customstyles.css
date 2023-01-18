@@ -130,6 +130,7 @@ table {
     max-width: 90%;
     margin-bottom: 20px;
     border: 1px solid #dedede;
+    font-size: 12px;
 }
 
 table > thead > tr > th,
