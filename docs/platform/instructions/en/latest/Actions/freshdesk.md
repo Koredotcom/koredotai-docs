@@ -40,9 +40,9 @@ To connect to a Freshdesk account, Kore.ai uses Basic Auth. The developer can us
  
    a. Domain
  
-      i.  You will find your Freshdesk domain in your browser's address bar. Example: https://{{your-domain}}.freshdesk.com
+      i. You will find your Freshdesk domain in your browser's address bar. Example: https://{{your-domain}}.freshdesk.com
  
-      ii.  Copy the URL from here to the User Domain field on the Kore.ai XO Platform.
+     ii. Copy the URL from here to the User Domain field on the Kore.ai XO Platform.
  
    b.  API Key
  
