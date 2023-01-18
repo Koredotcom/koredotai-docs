@@ -41,15 +41,15 @@ To connect to a client's Service Now account, Kore.ai uses basic authentication.
  
    a. To fetch the required details, navigate to https://developer.servicenow.com/dev.do#!/home.
      
-      i.   A page with the Request Instance button is displayed (if no instance is  created for you.)
+       i.   A page with the Request Instance button is displayed (if no instance is  created for you.)
 
-      ii.  Click Request Instance.
+       ii.  Click Request Instance.
 
-      iii. Copy the Instance URL from here to the User Subdomain field on the Kore.ai XO Platform.
- 
-      iv.  Copy the Username and Password to their respective fields on the Kore.ai XO Platform.
- 
-      v.  Click Enable.
+       iii. Copy the Instance URL from here to the User Subdomain field on the Kore.ai XO Platform.
+
+       iv.  Copy the Username and Password to their respective fields on the Kore.ai XO Platform.
+
+       v.  Click Enable.
  
  ![gif](/koredotai-docs/images/Home%20_%20Loom%20-%2019%20December%202022.gif)
  
@@ -83,7 +83,7 @@ This method requires the end user to provide credentials during the conversation
 
 **What can be achieved by integrating Service Now with the Kore.ai XO Platform?**
  
- The Kore.ai XO Platform supports all common actions on Service Now Requests & Tickets objects with pre-built dialog templates that are ready to use. Click Explore  Templates. Learn More.
+ The Kore.ai XO Platform supports all common actions on Service Now Requests & Tickets objects with pre-built dialog templates that are ready to use. 
  
 **Templates Supported**
 
