@@ -40,17 +40,17 @@ To connect to a client's Zendesk account, Kore.ai uses Basic Auth. The developer
  
    a. You will find your Zendesk domain in your browser's address bar. 
  
-      i. Example: https://<domain>.zendesk.com
- 
-     ii. Copy the URL from here to the User Domain field on the Kore.ai XO Platform.
+        i. Example: https://<domain>.zendesk.com
+
+       ii. Copy the URL from here to the User Domain field on the Kore.ai XO Platform.
  
    b. User Email
  
-      i. Please use the email you use to log into the Zendesk Instance
+        i. Please use the email you use to log into the Zendesk Instance
  
    c. API Token
  
-      i. Copy the API Token available in the admin center under Apss & Integrations → Zendesk API → Settings onto the Kore.ai XO Platform.
+        i. Copy the API Token available in the admin center under Apss & Integrations → Zendesk API → Settings onto the Kore.ai XO Platform.
  
  
  **OAuth - System**
