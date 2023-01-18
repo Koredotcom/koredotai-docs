@@ -46,7 +46,7 @@ To connect to a Freshservice account, Kore.ai uses Basic Auth. The developer can
      
        ii.  Click on profile picture and navigate to Profile Settings.
    
-      iii.  Click on View API Key.
+       iii.  Click on View API Key.
    
        iv.  Complete the verification process.
   
