@@ -38,8 +38,6 @@ To connect to a Stripe account, Kore.ai uses Basic Auth. The developer can use p
 1. Provide API Key to authorize the integration.  
 2. Follow the steps below to get the required credentials from your Stripe instance.
  
-   a.  API Key
- 
       i. Login to your Stripe Instance. https://dashboard.stripe.com/.
       
      ii. Click on Developers tab.
@@ -66,7 +64,7 @@ This method requires the end user to provide credentials during the conversation
  
    i. Select Basic Auth
   
-  ii. Provide a name for the Authorization Profile
+   ii. Provide a name for the Authorization Profile
  
 5. Save Authorization Profile.
  
@@ -81,7 +79,7 @@ This method requires the end user to provide credentials during the conversation
 
 **What can be achieved by integrating Stripe with the Kore.ai XO Platform?**
  
- The Kore.ai XO Platform supports all common actions on Stripe objects with pre-built dialog templates that are ready to use. Click Explore Templates. Learn More.
+ The Kore.ai XO Platform supports all common actions on Stripe objects with pre-built dialog templates that are ready to use. 
  
 **Templates Supported**
 
