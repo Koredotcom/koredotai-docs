@@ -40,19 +40,19 @@ To connect to a Razorpay account, Kore.ai uses Basic Auth. The developer can use
  
    a.  API Key
  
-      i. Login to your Razorpay Instance. https://dashboard.razorpay.com/.
-      
-     ii. Click on settings tab.
-  
-    iii. Click on API Keys.
-   
-     iv. Click Generate Key
-  
-      v. Copy the Key ID into Kore.ai XO Platform Key ID field.
-  
-     vi. Copy the Key Secret into Kore.ai XO Platform Key Secret field.
-  
-    vii. Click Enable.
+       i. Login to your Razorpay Instance. https://dashboard.razorpay.com/.
+
+      ii. Click on settings tab.
+
+     iii. Click on API Keys.
+
+      iv. Click Generate Key
+
+       v. Copy the Key ID into Kore.ai XO Platform Key ID field.
+
+      vi. Copy the Key Secret into Kore.ai XO Platform Key Secret field.
+
+     vii. Click Enable.
 
  
 **Allow Users to Authorize the Integration**
@@ -66,9 +66,9 @@ This method requires the end user to provide credentials during the conversation
 3. Select Create New.
 4. Select the type of authorization mechanism. 
  
-   i. Select Basic Auth
+    i. Select Basic Auth
   
-  ii. Provide a name for the Authorization Profile
+   ii. Provide a name for the Authorization Profile
  
 5. Save Authorization Profile.
  
@@ -83,7 +83,7 @@ This method requires the end user to provide credentials during the conversation
 
 **What can be achieved by integrating Razorpay with the Kore.ai XO Platform?**
  
- The Kore.ai XO Platform supports all common actions on Razorpay objects with pre-built dialog templates that are ready to use. Click Explore Templates. Learn More.
+ The Kore.ai XO Platform supports all common actions on Razorpay objects with pre-built dialog templates that are ready to use. 
  
 **Templates Supported**
 
