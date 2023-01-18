@@ -86,7 +86,7 @@ To connect to a Microsoft Graph account, Kore.ai uses OAuth 2.0 authentication. 
 
        9. Calendars.ReadWrite
 
-      10. MailboxSettings.Read
+       10. MailboxSettings.Read
   
      ix.  Copy Refresh Token URL (https://login.microsoftonline.com/common/oauth2/v2.0/token).
  
@@ -154,7 +154,7 @@ You can create your authorization profile to obtain an access token and use it t
 
        9. Calendars.ReadWrite
 
-      10. MailboxSettings.Read
+       10. MailboxSettings.Read
   
      ix.  Copy Refresh Token URL (https://login.microsoftonline.com/common/oauth2/v2.0/token).
  
