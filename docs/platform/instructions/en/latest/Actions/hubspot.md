@@ -75,7 +75,7 @@ To connect to a Hubspot account, Kore.ai uses OAuth. The developer can use pre-a
  
    vii. Copy Token URL (https://api.hubapi.com/oauth/v1/token)
  
-  viii.  Add below scopes 
+   viii.  Add below scopes 
  
          1. crm.objects.deals.read
  
@@ -85,7 +85,7 @@ To connect to a Hubspot account, Kore.ai uses OAuth. The developer can use pre-a
   
          4. Crm.objects.contacts.write
  
-   ix. Copy Refresh Token URL (https://api.hubapi.com/oauth/v1/token)
+    ix. Copy Refresh Token URL (https://api.hubapi.com/oauth/v1/token)
  
 5. Save **Authorization Profile**.
  
