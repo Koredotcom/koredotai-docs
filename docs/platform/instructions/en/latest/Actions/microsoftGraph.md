@@ -36,10 +36,14 @@ To connect to a Microsoft Graph account, Kore.ai uses OAuth 2.0 authentication. 
  Enable the integration using Kore.ai's preconfigured Microsoft Graph app. 
  
 1. Select System.
+ 
 2. Click Authorize.
+ 
 3. It will redirect you to the Microsoft Graph login page.
+ 
 4. Provide your credentials to connect with your Microsoft Graph account.
    Please note that you are allowing Kore.ai’s app to fetch the access token to complete the authorization.
+ 
 5. Click Enable.
  
  
@@ -48,8 +52,11 @@ To connect to a Microsoft Graph account, Kore.ai uses OAuth 2.0 authentication. 
  You can create your authorization profile to obtain an access token and use it to complete integration without using Kore.ai's Microsoft Graph app for      authorization.
  
 1. Select Custom.
+ 
 2. Click Select Authorization.
+ 
 3. Select Create New.
+ 
 4. Select the type of authorization mechanism. 
  
     i.   Select oAuth v2.
@@ -91,11 +98,16 @@ To connect to a Microsoft Graph account, Kore.ai uses OAuth 2.0 authentication. 
      ix.  Copy Refresh Token URL (https://login.microsoftonline.com/common/oauth2/v2.0/token).
  
 5. Save Authorization Profile.
+ 
 6. Select the created Authorization Profile to complete integration.
+ 
 7. Click Authorize.
+ 
 8. It will redirect you to the Microsoft Graph login page.
+ 
 9. Provide your credentials to connect with your Microsoft Graph account. 
-   Please note that you are allowing your custom app to fetch the access token to complete the authorization and not using Kore.ai’s Microsoft Graph app for the        same.
+   Please note that you are allowing your custom app to fetch the access token to complete the authorization and not using Kore.ai’s Microsoft Graph app for the same.
+ 
 10. Click Enable.
  
  
@@ -108,7 +120,9 @@ This method requires the end user to provide credentials during the conversation
  This authorization process involves requesting permission for Kore.ai's Microsoft Graph app to access an access token at runtime.
  
 1. Select System.
+ 
 2. Click Enable.
+ 
 3. Please note that a link will be sent to the end-user during the conversation to grant access to Kore.ai’s app to fetch the access token.
  
  **OAuth - Custom**
@@ -116,8 +130,11 @@ This method requires the end user to provide credentials during the conversation
 You can create your authorization profile to obtain an access token and use it to complete integration without using Kore.ai's Salesforce app for authorization.
  
 1. Select Custom.
+ 
 2. Click Select Authorization.
+ 
 3. Select Create New.
+ 
 4. Select the type of authorization mechanism. 
  
     i.   Select oAuth v2.
@@ -159,7 +176,9 @@ You can create your authorization profile to obtain an access token and use it t
      ix.  Copy Refresh Token URL (https://login.microsoftonline.com/common/oauth2/v2.0/token).
  
 5. Save Authorization Profile.
+ 
 6. Select the created Authorization Profile to complete integration.
+ 
 6. Click Enable.
  
 </container>
