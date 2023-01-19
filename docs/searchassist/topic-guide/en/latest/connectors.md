@@ -13,7 +13,7 @@ permalink: searchassist/topic-guide/en/latest/connectors
   <summary>Video
   </summary>
   
-   [![Experiments](images/VideoCoverImage.png)](https://player.vimeo.com/video/751566678?h=bde16d7268&badge=0&autopause=0&player_id=0&app_id=58479/embed)
+   [![Experiments](images/VideoCoverImage.png)](https://player.vimeo.com/video/751566851?h=74f63c174d&amp)
 
   ##### Experiments
   Watch this short video to know about Experiments.
