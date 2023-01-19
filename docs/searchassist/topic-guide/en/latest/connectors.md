@@ -1,13 +1,13 @@
 ---
 title: Experiments
 
-permalink: searchassist/topic-guide/en/latest/connectors
+permalink: searchassist/topic-guide/en/latest/experiments
 
 ---
 <!--#### Topic Guide
-###### Connectors-->
+###### Experiments-->
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Connectors.
+  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Experiments.
 
 <details class="introduction-video" open>
   <summary>Video
@@ -15,8 +15,8 @@ permalink: searchassist/topic-guide/en/latest/connectors
   
    [![Experiments](images/VideoCoverImage.png)](https://player.vimeo.com/video/751566678?h=bde16d7268&badge=0&autopause=0&player_id=0&app_id=58479/embed)
 
-  ##### Introduction to Connectors
-  Watch this short video to know how to add content to your application using Connectors.
+  ##### Experiments
+  Watch this short video to know about Experiments.
 
 </details>
 
@@ -24,26 +24,39 @@ permalink: searchassist/topic-guide/en/latest/connectors
   <summary>FAQs
   </summary>
 
-  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-content/connectors/">
+  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/experimenting-with-search-variants/introduction-to-experiments/">
  
-  What are Connectors?
+  What are experiments ?
 
 
 </a>
 
- <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-content/connectors/#Ingesting_Content_and_Synchronization">
+ <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/experimenting-with-search-variants/experiments/">
  
-  How to ingest content and synchronize Connectors?
+  How do I configure experiments?
 
 
+</a>
+ 
+  
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/experimenting-with-search-variants/experiments/#Getting_Insights_from_Experiments">
+
+  How to check insights after running an experiment?
+
+</a>
+  
 
 </details>
 
-<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-content/connectors/">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/experimenting-with-search-variants/introduction-to-experiments/">
 
 | Frontmatter | Required? |
 |-------------|-------------|
-| ![alt text](images/SA_Documentation.svg "Title") | **Documentation**  <br /> Check out our in depth documentation articles on Connectors. | 
+| ![alt text](images/SA_Documentation.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Experiments | 
 
 
 </a>
+
+
+
+
