@@ -38,7 +38,7 @@ To connect to OpenAI, Kore.ai uses basic authentication. The user can use pre-au
 1. Provide API Key to authorize the integration.
 2. Follow the steps below to get the required details from your OpenAI instance.
  
-   a. To fetch the required details, navigate to [https://beta.api.com/](https://beta.api.com/)
+   a. To fetch the required details, navigate to [https://beta.openai.com/](https://beta.openai.com/)
      
       i.   Navigate to profile section.
 
