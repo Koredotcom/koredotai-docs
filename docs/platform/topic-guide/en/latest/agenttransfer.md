@@ -62,7 +62,7 @@ permalink: platform/topic-guide/en/latest/Agent Transfer
 
 </details>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/sdks/botkit-sdk-tutorial-agent-transfer/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/integration/agent-transfer-integrations/">
  
 
 | Frontmatter | Required? |
