@@ -5,9 +5,9 @@ permalink: platform/topic-guide/en/latest/Knowledge Graph
 
 ---
 #### Topic Guide
-###### Knowledge Graph
+###### Knowledge AI
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Knowledge Graph.
+  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Knowledge Graph and Answer from Documents.
 
 <details class="introduction-video" open>
   <summary>Introduction
@@ -32,11 +32,11 @@ permalink: platform/topic-guide/en/latest/Knowledge Graph
   </summary>
 
  
-The Knowledge AI module of the XO Platform provides two powerful ways to build your knowledge based and answer the FAQs from the users. 
+    The Knowledge AI module of the XO Platform provides two powerful ways to build your knowledge based and answer the FAQs from the users. 
     
-Knolwedge Graph allows you to build your domain hierarchy using the key terms used in your business and add the relevant FAQs to these terms. The model qualifies the right FAQs based on the terms present in the user utterance and question similarity. You can also auto-extract FAQs from the webpages and documents, and add them to the right domain terms of your Knowledge Graph. 
+    Knolwedge Graph allows you to build your domain hierarchy using the key terms used in your business and add the relevant FAQs to these terms. The model qualifies the right FAQs based on the terms present in the user utterance and question similarity. You can also auto-extract FAQs from the webpages and documents, and add them to the right domain terms of your Knowledge Graph. 
     
-Knowledge AI allows you to answer the user queries directly from the PDF documents, without the need to extract individual FAQs from the documents. All you have to do is just upload the PDF documents that contain your knowledge base. The feature leverages LLMs hosted by Kore.ai to identify the right content for a user query and Generative AI models from OpenAI to dynamically curate the answer. The content from the documents and user utterances (after applying PII redactions) are shared with OpenAI for curating the answer.    
+    Knowledge AI allows you to answer the user queries directly from the PDF documents, without the need to extract individual FAQs from the documents. All you have to do is just upload the PDF documents that contain your knowledge base. The feature leverages LLMs hosted by Kore.ai to identify the right content for a user query and Generative AI models from OpenAI to dynamically curate the answer. The content from the documents and user utterances (after applying PII redactions) are shared with OpenAI for curating the answer.    
     
   </details>
  </a>
