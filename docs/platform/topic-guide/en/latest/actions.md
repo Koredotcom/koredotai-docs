@@ -13,7 +13,7 @@ permalink: platform/topic-guide/en/latest/Actions
 
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/action-info-task/kore-bot-action-tasks/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/integration/actions/">
  
 
 | Frontmatter | Required? |
