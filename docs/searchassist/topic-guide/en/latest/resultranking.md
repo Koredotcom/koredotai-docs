@@ -7,13 +7,13 @@ permalink: searchassist/topic-guide/en/latest/resultranking
 <!--#### Topic Guide
 ###### Results Ranking-->
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Results Rankingss.
+  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Results Rankings.
 
 <details class="introduction-video" open>
   <summary>Video
   </summary>
   
-   [![Results Ranking](images/VideoCoverImage.png)](https://player.vimeo.com/video/784493132?h=84590b3f85&badge=0&autopause=0&player_id=0&app_id=58479/embed" allow="autoplay)
+   [![Results Ranking](images/VideoCoverImage.png)](https://player.vimeo.com/video/784493132?h=84590b3f85&badge=0&autopause=0&player_id=0&app_id=58479/embed)
 
   ##### Results Ranking 
   Watch this short video to know how to configure Results Ranking.
