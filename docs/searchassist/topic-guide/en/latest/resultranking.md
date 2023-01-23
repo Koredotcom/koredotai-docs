@@ -7,7 +7,7 @@ permalink: searchassist/topic-guide/en/latest/resultranking
 <!--#### Topic Guide
 ###### Results Ranking-->
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Results Rankings.
+  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Results Ranking.
 
 <details class="introduction-video" open>
   <summary>Video
