@@ -1,13 +1,13 @@
 ---
-title: Bot Actions
+title: Custom COnfigurations
 
 permalink: searchassist/topic-guide/en/latest//search-settings/custom_configurations
 
 ---
 <!--#### Topic Guide
-###### Fields-->
+###### Custom Configurations-->
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Bot Actions settings.
+  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Custom Configurations.
 
 <!-- <details class="introduction-video" open> -->
 <!--   <summary>Video -->
@@ -45,7 +45,7 @@ permalink: searchassist/topic-guide/en/latest//search-settings/custom_configurat
 
 | Frontmatter | Required? |
 |-------------|-------------|
-| ![alt text](images/SA_Documentation.svg "Title") | **Documentation**  <br /> Check out our in depth documentation articles on Bot Actions settings | 
+| ![alt text](images/SA_Documentation.svg "Title") | **Documentation**  <br /> Check out our in depth documentation articles on Custom Configurations | 
 
 
 </a>
