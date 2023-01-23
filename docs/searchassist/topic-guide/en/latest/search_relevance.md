@@ -1,50 +1,51 @@
 ---
-title: Content
+title: Search Relevance
 
 permalink: searchassist/topic-guide/en/latest//search-settings/search_relevance
 
 ---
-<!--#### Topic Guide 
-###### Connectors-->
+<!--#### Topic Guide
+###### Spell Correnction-->
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Connectors.
+  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Search Relevance.
 
-<details class="introduction-video" open>
-  <summary>Video
-  </summary>
+<!-- <details class="introduction-video" open> -->
+<!--   <summary>Video -->
+<!--   </summary> -->
   
-   [![Connectors](images/VideoCoverImage.png)](https://player.vimeo.com/video/784486217?h=5d9b35336a&badge=0&autopause=0&player_id=0&app_id=58479/embed" allow="autoplay)
+<!--    [![Fields](images/VideoCoverImage.png)](https://player.vimeo.com/video/751565610?h=2562dda9ac&amp) -->
 
-  ##### Introduction to Connectors 
-  Watch this short video to know how to add content to your application using Connectors.
+<!--   ##### Bot Actions -->
+<!--   Watch this short video to know about Bot Actions settings. -->
 
-</details>
+<!-- </details> -->
 
-<details>
-  <summary>FAQs
-  </summary>
+<!-- <details> -->
+<!--   <summary>FAQs -->
+<!--   </summary> -->
 
-  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-content/connectors/#Introduction_to_Connectors">
+<!--   <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-indices/configuring-search-fields/"> -->
  
-  What are Connectors?
+<!--   What are fields in SearchAssist ? -->
 
-</a>
+<!-- </a> -->
 
- <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-content/connectors/">
+<!--  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-indices/configuring-search-fields/"> -->
  
-  How to ingest content and synchronize Connectors?
+<!--   How do I add custom fields? -->
 
-</a>
+<!-- </a> -->
  
 
-</details>
+<!-- </details> -->
 
-<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-content/connectors/">
+
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-indices/introduction-to-indices/">
  
 
 | Frontmatter | Required? |
 |-------------|-------------|
-| ![alt text](images/SA_Documentation.svg "Title") | **Documentation**  <br /> Check out our in depth documentation articles on Connectors. | 
+| ![alt text](images/SA_Documentation.svg "Title") | **Documentation**  <br /> Check out our in depth documentation articles on Search Relevance | 
 
 
 </a>
