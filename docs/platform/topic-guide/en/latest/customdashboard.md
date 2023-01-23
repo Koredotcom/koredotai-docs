@@ -144,6 +144,40 @@ You can aggregate the data to get summary information of a dataset. Aggregation 
   </details>
  </a>
  
+ <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/custom-dashboard/#Messages">
+ 
+  <details class="nested-details">
+ 
+  <summary>How is Advanced mode different from Query mode while writing queries?
+  </summary>
+
+
+ 
+   Yes, if a query is written in advanced mode it will viewable in 
+
+
+  </details>
+ </a>
+
+
+
+
+<a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/custom-dashboard/#Messages">
+ 
+  <details class="nested-details">
+ 
+  <summary>Can I add a custom filter which will filter the data for all the widgets in the custom dashboard?
+  </summary>
+
+
+ 
+   Yes, you can create a custom filter by choosing drop-down, textbox or numeric textbox control. You need to choose a datasource and field name while configuring the a filter.
+
+
+  </details>
+ </a>
+
+ 
  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/how-tos/how-to-create-custom-dashboard/">
  
 
