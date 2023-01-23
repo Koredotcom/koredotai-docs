@@ -61,23 +61,23 @@ permalink: searchassist/topic-guide/en/latest//search-settings/small_talk
 
 
 
-<a class="doc-link" target="_blank" href="https://academy.kore.ai/learningpath/course-110---introduction-to-small-talk">
+<!-- <a class="doc-link" target="_blank" href="https://academy.kore.ai/learningpath/course-110---introduction-to-small-talk"> -->
+ 
+
+<!-- | Frontmatter | Required? | -->
+<!-- |-------------|-------------| -->
+<!-- | ![alt text](images/SA_Documentation.svg "Title") | **Academy**  <br /> Access the Kore Academy course 110 - Introduction to small talk |  -->
+
+
+<!-- </a> -->
+
+
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/administration/managing-channels-2/#Small_Talk">
  
 
 | Frontmatter | Required? |
 |-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Academy**  <br /> Access the Kore Academy course 110 - Introduction to small talk | 
-
-
-</a>
-
-
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#">
- 
-
-| Frontmatter | Required? |
-|-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Small Talk | 
+| ![alt text](images/SA_Documentation.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Small Talk | 
 
 
 </a>
