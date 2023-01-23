@@ -129,6 +129,21 @@ You can aggregate the data to get summary information of a dataset. Aggregation 
   </details>
  </a>
 
+ <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/custom-dashboard/#Messages">
+ 
+  <details class="nested-details">
+ 
+  <summary>How is Advanced mode different from Query mode while writing queries?
+  </summary>
+
+
+ 
+   When working with query mode, you should be familiar with the fields, custom tags, and various aggregate functions that can be used in SQL queries. In contrast, when using Advanced mode, the platform will provide suggestions for fields (for selected dataset), custom tags, aggregate functions, and other elements that are needed to formulate a query.
+
+
+  </details>
+ </a>
+ 
  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/how-tos/how-to-create-custom-dashboard/">
  
 
