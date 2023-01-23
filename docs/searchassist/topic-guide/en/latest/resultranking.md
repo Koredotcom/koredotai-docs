@@ -1,5 +1,5 @@
 ---
-title: resultranking
+title: Results Ranking
 
 permalink: searchassist/topic-guide/en/latest/resultranking
 
@@ -32,35 +32,33 @@ permalink: searchassist/topic-guide/en/latest/resultranking
 
  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/personalizing-results/personalizing-results-ranking/#Adding_Personalizations">
  
-   How can you simulate your search Application?
+ How can you simulate your search Application?
 
 </a>
  
   
-<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/personalizing-results/personalizing-results-ranking/#Reset_Customization">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/personalizing-results/personalizing-results-ranking/#Adding_Personalizations">
 
   How to customize my results?
-
 
 </a>
   
   <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/personalizing-results/personalizing-results-ranking/#Reset_Customization">
  
-  How to edit or delete result customization?
-    
-</a>
+  How to customize my results?
 
+</a>
 
 
 </details>
 
 
 <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/personalizing-results/personalizing-results-ranking/">
- 
+
 
 | Frontmatter | Required? |
 |-------------|-------------|
-| ![alt text](images/SA_Documentation.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Results Ranking. | 
+| ![alt text](images/SA_Documentation.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Results Ranking | 
 
 
 </a>
