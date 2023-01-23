@@ -148,12 +148,12 @@ You can aggregate the data to get summary information of a dataset. Aggregation 
  
   <details class="nested-details">
  
-  <summary>How is Advanced mode different from Query mode while writing queries?
+  <summary>If a query is written using the Advanced mode, will I be able to view the same query in Query Mode as well?
   </summary>
 
 
  
-   Yes, if a query is written in advanced mode it will viewable in 
+   Yes, you can switch between viewing a widget on a custom dashboard in Advanced mode or Query mode by adding the widget and writing the query in the desired mode.
 
 
   </details>
