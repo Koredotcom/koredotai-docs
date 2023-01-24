@@ -79,7 +79,21 @@ Labels tagged to a conversation help the analyst identify the criticality and th
   </details>
 
 </a>
+
+ <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/analyzing-your-bot/">
  
+ 
+  <details class="nested-details">
+ 
+  <summary>What are filter views?
+  </summary>
+
+Views are a collection of filters that can be utilized to sort conversations for more efficient and detailed analysis. Multiple views can be saved to improve understanding of the bot's capabilities and user behavior. Alternatively, you will be provided with a bunch of prebuilt filters for ease of use.
+
+
+  </details>
+
+</a>
   
 
  </details>
