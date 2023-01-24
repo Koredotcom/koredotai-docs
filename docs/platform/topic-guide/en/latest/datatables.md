@@ -13,7 +13,7 @@ permalink: platform/topic-guide/en/latest/dataForm
 <details open>
   <summary>FAQs
   </summary>
- <a class="nested-accordian-link open" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/dialog-task/data-as-service/">
+ <a class="nested-accordian-link open" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/dialog-task/data-as-service">
 
   <details class="nested-details">
  
@@ -26,7 +26,7 @@ permalink: platform/topic-guide/en/latest/dataForm
   </details>
  </a>
  
- <a class="nested-accordian-link"  target="_blank" href="https://developer.kore.ai/docs/bots/advanced-topics/data-table/">
+ <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/advanced-topics/data-table">
  
   <details class="nested-details">
  
@@ -34,13 +34,13 @@ permalink: platform/topic-guide/en/latest/dataForm
   </summary>
 
  
-    Data Table for which you are the owner appear under My Tables.
+ Data Table for which you are the owner appear under My Tables.
 
 
   </details>
  </a>
  
-  <a class="nested-accordian-link"  target="_blank" href="https://developer.kore.ai/docs/bots/advanced-topics/data-table/">
+  <a class="nested-accordian-link"  target="_blank" href="https://developer.kore.ai/docs/bots/advanced-topics/data-table">
  
   <details class="nested-details">
  
@@ -48,7 +48,7 @@ permalink: platform/topic-guide/en/latest/dataForm
   </summary>
 
  
-    Data Table is automatically shared with you when any of your bots has permission to access its data.
+ Data Table is automatically shared with you when any of your bots has permission to access its data.
 
 
   </details>
@@ -62,7 +62,7 @@ permalink: platform/topic-guide/en/latest/dataForm
 
 </a>
 
-<a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/dialog-task/data-as-service/">
+<a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/dialog-task/data-as-service">
  
   <details class="nested-details">
  
@@ -146,7 +146,7 @@ permalink: platform/topic-guide/en/latest/dataForm
 
  </details>
 
- <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/advanced-topics/data-as-a-service/">
+ <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/advanced-topics/data-as-a-service">
  
 
 | Frontmatter | Required? |
