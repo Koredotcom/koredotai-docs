@@ -71,10 +71,10 @@ permalink: platform/topic-guide/en/latest/Feedback Survey
 
  There are 2 ways to create and collect customer feedback
    
-   ######Create a survey with a New Dialog
+   ###### Create a survey with a New Dialog
    A new dialog task is automatically created including the questions of the selected feedback template and any logic or branching that is needed. The dialog task created will be available under Build → Conversational Skills → Dialog Tasks
    
-   ######Create a survey without Dialog
+   ###### Create a survey without Dialog
    A survey is created but no associated dialog task is created and data will need to be pushed to the survey via an API. This option is useful for developers who want to create a survey but do not require to use it within a dialog task.
 
   </details>
@@ -89,10 +89,10 @@ permalink: platform/topic-guide/en/latest/Feedback Survey
 
  There are 2 ways to launch the survey
    
-   ######Launch after the End of the Conversation
+   ###### Launch after the End of the Conversation
    At the end of the conversation session, the feedback survey will be launched and will be presented to the end user. If you do not wish to launch a survey at the end of the conversation, please navigate to Build → Intelligence → Events → End of Task and update.
    
-   ######I will decide how to launch
+   ###### I will decide how to launch
    You can manually initiate the feedback survey at any time by using the associated dialog task in the Kore.ai XO platform. A dialog task will be made available under Build → Conversational Skills. This allows you to control when the survey is launched and gather feedback at your own convenience.
 
   </details>
