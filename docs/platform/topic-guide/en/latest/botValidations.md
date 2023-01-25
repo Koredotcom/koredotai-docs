@@ -13,7 +13,7 @@ permalink: platform/topic-guide/en/latest/Bot Validations
 <details open>
   <summary>FAQs
   </summary>
- <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/health-and-monitoring-dashboard/">
+ <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/virtual-assistants-health-and-monitoring/">
 
   <details class="nested-details">
  
@@ -26,7 +26,7 @@ The Health & Monitoring provides a summary of the NLP and Flow performance of th
  </a>
 
 
-  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/health-and-monitoring-dashboard/">
+  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/virtual-assistants-health-and-monitoring/">
  
   <details class="nested-details">
  
@@ -98,7 +98,7 @@ The Health & Monitoring provides a summary of the NLP and Flow performance of th
 
  </details>
 
- <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/health-and-monitoring-dashboard/">
+ <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/virtual-assistants-health-and-monitoring/">
  
 
 | Frontmatter | Required? |
