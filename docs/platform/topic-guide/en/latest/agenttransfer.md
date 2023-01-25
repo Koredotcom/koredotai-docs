@@ -56,8 +56,41 @@ permalink: platform/topic-guide/en/latest/Agent Transfer
 
 </a>
   
+<a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/integration/agent-transfer-integrations/">
 
-  
+  <details class="nested-details">
+ 
+  <summary>If the bot is on multiple channels, can I route the conversation to different agent systems based on channel of conversation?
+  </summary>
+
+ 
+Yes, you can transfer the conversation to an agent system based on the channel of the conversation. To configure, please visit Agent Transfer → Select Agent System → Confugurations → Channel Mapping.  
+  </details>
+ </a>
+ 
+ <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/integration/agent-transfer-integrations/">
+
+  <details class="nested-details">
+ 
+  <summary>What happens when a channel is not mapped? Will the conversation get transferred?
+  </summary>
+
+ 
+Channel mapping is not mandatory. By default all the channels will be mapped to a default agent system.  
+  </details>
+ </a>
+
+ <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/integration/agent-transfer-integrations/">
+
+  <details class="nested-details">
+ 
+  <summary>How is the default agent system decided? Can I change the default agent system?
+  </summary>
+
+ 
+The first agent system that is configured is the default agent system. You can change the default agent system at any point in time.  
+  </details>
+ </a>
 
 
 </details>
