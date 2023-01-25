@@ -13,7 +13,7 @@ permalink: platform/topic-guide/en/latest/Conversation Analytics
 <details open>
   <summary>FAQs
   </summary>
- <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/analyzing-your-bot/">
+ <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/conversation-history-dashboard/">
 
   <details class="nested-details">
  
@@ -26,7 +26,7 @@ Conversations History provides the list of all conversations that the virtual as
  </a>
 
 
-  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/analyzing-your-bot/">
+  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/analyzing-your-bot/conversation-history-dashboard/">
  
   <details class="nested-details">
  
@@ -38,7 +38,7 @@ The Conversation Summary on the Conversation History dashboard displays the numb
   </details>
  </a>
 
-  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/analyzing-your-bot/">
+  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/analyzing-your-bot/conversation-history-dashboard/">
  
  
   <details class="nested-details">
@@ -53,7 +53,7 @@ Conversation Events are the NLP and flow events identified during a conversation
 </a>
 
  
-  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/analyzing-your-bot/">
+  <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/analyzing-your-bot/conversation-history-dashboard/">
  
   <details class="nested-details">
  
@@ -65,7 +65,7 @@ You can look for specific conversations by applying the necessary filters like D
  </a>
 
  
- <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/analyzing-your-bot/">
+ <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/analyzing-your-bot/conversation-history-dashboard/">
  
  
   <details class="nested-details">
@@ -80,7 +80,7 @@ Labels tagged to a conversation help the analyst identify the criticality and th
 
 </a>
 
- <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/analyzing-your-bot/">
+ <a class="nested-accordian-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/analyzing-your-bot/conversation-history-dashboard/">
  
  
   <details class="nested-details">
@@ -98,7 +98,7 @@ Views are a collection of filters that can be utilized to sort conversations for
 
  </details>
 
- <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/analyzing-your-bot/">
+ <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/analyzing-your-bot/analyzing-your-bot/conversation-history-dashboard/">
  
 
 | Frontmatter | Required? |
