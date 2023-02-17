@@ -4,7 +4,7 @@ title: Drift
 permalink: platform/instructions/en/latest/Agent Transfer/niceincontact
 
 ---
-|Kore.ai XO Platform now supports integration with the Nice In Contact Agent System to handover the conversations without having to use the BotKit.
+Kore.ai XO Platform now supports integration with the NICE inContact Agent System to handover the conversations without having to use the BotKit.
 
 <base target="_blank">
 <container>
@@ -34,9 +34,9 @@ permalink: platform/instructions/en/latest/Agent Transfer/niceincontact
 
 <container>
  
-**Step 3: Enter details in Kore.ai XO **
+**Step 3: Enter details in Kore.ai XO**
   
-1. Navigate to Kore.ai XO Platform and onto Build → Integrations → Agent Transfer → Nice In Contact → Configurations
+1. Navigate to Kore.ai XO Platform and onto Build → Integrations → Agent Transfer → Nice inContact → Configurations
   
 2. Application Name: Enter the name of the application registered in step 1.
   
