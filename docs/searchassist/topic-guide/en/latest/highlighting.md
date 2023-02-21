@@ -9,43 +9,42 @@ permalink: searchassist/topic-guide/en/latest//search-settings/highlighting
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Highlighting.
 
-<!-- <details class="introduction-video" open> -->
-<!--   <summary>Video -->
-<!--   </summary> -->
+<!--<details class="introduction-video" open>
+  <summary>Video
+  </summary>
   
-<!--    [![Fields](images/VideoCoverImage.png)](https://player.vimeo.com/video/751565610?h=2562dda9ac&amp) -->
+   [![Highlighting](images/VideoCoverImage.png)](https://player.vimeo.com/video/784493665?h=dee7a21b33&amp)
 
-<!--   ##### Bot Actions -->
-<!--   Watch this short video to know about Bot Actions settings. -->
+  ##### Highlighting
+  Watch this short video to know how to configure Highlighting.
 
-<!-- </details> -->
+</details>-->
 
-<!-- <details> -->
-<!--   <summary>FAQs -->
-<!--   </summary> -->
+<details>
+  <summary>FAQs
+  </summary>
 
-<!--   <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-indices/configuring-search-fields/"> -->
+  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/manage-relevance/highlighting/">
  
-<!--   What are fields in SearchAssist ? -->
+  What is Highlighting?
 
-<!-- </a> -->
+</a>
 
-<!--  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-indices/configuring-search-fields/"> -->
+ <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/manage-relevance/highlighting/">
  
-<!--   How do I add custom fields? -->
-
-<!-- </a> -->
- 
-
-<!-- </details> -->
-
-
-<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-indices/introduction-to-indices/">
+  How to configure Highlighting?
+</a>
  
 
+  
+
+</details>
+
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/manage-relevance/highlighting/">
+ 
 | Frontmatter | Required? |
 |-------------|-------------|
-| ![alt text](images/SA_Documentation.svg "Title") | **Documentation**  <br /> Check out our in depth documentation articles on Highlighting | 
+| ![alt text](images/SA_Documentation.svg "Title") | **Documentation**  <br /> Check out our in depth documentation articles on Highlighting. |  
 
 
 </a>
