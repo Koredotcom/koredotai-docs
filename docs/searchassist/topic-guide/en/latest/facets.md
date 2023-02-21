@@ -24,26 +24,26 @@ permalink: searchassist/topic-guide/en/latest/facets
   <summary>FAQs
   </summary>
 
-  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-relevance/managing-relevance/#Creating_Facets">
+  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/personalize-results/facets/">
  
   What are Facets and its types in Searchassist?
 
 </a>
 
- <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-relevance/managing-relevance/#Filter_Facets">
+ <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/personalize-results/facets/">
  
  How to configure a Filter Facet?
 
 </a>
  
   
-<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-relevance/managing-relevance/#Sortable_Facets">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/personalize-results/facets/">
 
   How to configure a Sortable Facet?
 
 </a>
   
-  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-relevance/managing-relevance/#Tab_Facets">
+  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/personalize-results/facets/">
  
   How to configure a Tab Facet?
 
@@ -53,7 +53,7 @@ permalink: searchassist/topic-guide/en/latest/facets
 </details>
 
 
-<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-relevance/managing-relevance/#Creating_Facets">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/personalize-results/facets/">
 
 
 | Frontmatter | Required? |
