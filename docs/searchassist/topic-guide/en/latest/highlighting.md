@@ -24,20 +24,18 @@ permalink: searchassist/topic-guide/en/latest//search-settings/highlighting
   <summary>FAQs
   </summary>
 
-  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/manage-relevance/highlighting/">
+ <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/manage-relevance/highlighting/">
  
   What is Highlighting?
 
 </a>
 
  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/manage-relevance/highlighting/">
- 
-  How to configure Highlighting?
+   
+   How to configure Highlighting?
+   
 </a>
  
-
-  
-
 </details>
 
 <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/manage-relevance/highlighting/">
