@@ -1,13 +1,13 @@
 ---
 title: Overview
 
-permalink: searchassist/topic-guide/en/latest/summary
+permalink: searchassist/topic-guide/en/latest/summary 
 
 ---
 <!--#### Topic Guide
 ###### Overview-->
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on content.
+  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on SearchAssist Overview.
 
 <details class="introduction-video" open>
   <summary>Video
@@ -20,7 +20,7 @@ permalink: searchassist/topic-guide/en/latest/summary
 
 </details>
 
-<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/searchassist/overview/">
+<a class="doc-link" target="_blank" href="searchassist/topic-guide/en/latest/summary">
  
 
 | Frontmatter | Required? |
