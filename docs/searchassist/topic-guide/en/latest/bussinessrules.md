@@ -72,18 +72,7 @@ permalink: searchassist/topic-guide/en/latest/rules
 
 | Frontmatter | Required? |
 |-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Academy**  <br /> Access the Kore Academy course 110 - Introduction to Business Rules | 
-
-
-</a>
-
-
-<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/personalize-results/contextual-rules/">
-
-
-| Frontmatter | Required? |
-|-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Business Rules | 
+| ![alt text](images/SA_Documentation.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Business Rules | 
 
 
 </a>
