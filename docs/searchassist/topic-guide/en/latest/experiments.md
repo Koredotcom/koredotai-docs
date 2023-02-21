@@ -24,14 +24,14 @@ permalink: searchassist/topic-guide/en/latest/experiments
   <summary>FAQs
   </summary>
 
-  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/experimenting-with-search-variants/introduction-to-experiments/">
+  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/experiment-with-search-variants/introduction-to-experiments/">
  
   What are experiments ?
 
 
 </a>
 
- <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/experimenting-with-search-variants/experiments/">
+ <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/experiment-with-search-variants/experiments/">
  
   How do I configure experiments?
 
@@ -39,7 +39,7 @@ permalink: searchassist/topic-guide/en/latest/experiments
 </a>
  
   
-<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/experimenting-with-search-variants/experiments/#Getting_Insights_from_Experiments">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/experiment-with-search-variants/experiments/">
 
   How to check insights after running an experiment?
 
@@ -48,7 +48,7 @@ permalink: searchassist/topic-guide/en/latest/experiments
 
 </details>
 
-<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/experimenting-with-search-variants/introduction-to-experiments/">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/experiment-with-search-variants/introduction-to-experiments/">
 
 | Frontmatter | Required? |
 |-------------|-------------|
