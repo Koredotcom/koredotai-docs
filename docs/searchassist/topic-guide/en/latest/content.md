@@ -38,20 +38,20 @@ Watch this short video to know how to Add Document to your application.
   <summary>FAQs
   </summary>
 
-  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-content/crawling-web-pages/">
+  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/manage-content-sources/managing-web-content/">
  
   How to add content from your website by crawling?
 
 </a>
 
- <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-content/crawling-web-pages/">
+ <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/manage-content-sources/managing-web-content/">
  
    How to schedule Auto-Crawl for your website?
 
 </a>
  
   
-<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-content/crawling-web-pages/">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/manage-content-sources/managing-data-from-files/">
 
   How to upload files as content to your Application?
 
@@ -61,7 +61,7 @@ Watch this short video to know how to Add Document to your application.
 
 </details>
 
-<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-content/introduction-to-content-sources/">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/manage-content-sources/content-overview/">
  
 
 | Frontmatter | Required? |
