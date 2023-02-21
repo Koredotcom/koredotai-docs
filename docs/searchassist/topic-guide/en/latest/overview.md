@@ -20,7 +20,7 @@ permalink: searchassist/topic-guide/en/latest/summary
 
 </details>
 
-<a class="doc-link" target="_blank" href="searchassist/topic-guide/en/latest/summary">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/">
  
 
 | Frontmatter | Required? |
