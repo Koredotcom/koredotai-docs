@@ -9,7 +9,7 @@ permalink: searchassist/topic-guide/en/latest/FieldManagementComponent
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Configuring Fields.
 
-<details class="introduction-video" open>
+<!--<details class="introduction-video" open>
   <summary>Video
   </summary>
   
@@ -18,29 +18,44 @@ permalink: searchassist/topic-guide/en/latest/FieldManagementComponent
   ##### Fields
   Watch this short video to know how to Configure Fields.
 
-</details>
+</details>-->
 
 <details>
   <summary>FAQs
   </summary>
 
-  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-indices/configuring-search-fields/">
+  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/manage-indices/index-fields/">
  
   What are fields in SearchAssist ?
 
 </a>
 
- <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-indices/configuring-search-fields/">
+ <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/manage-indices/index-fields/">
  
   How do I add custom fields?
 
 </a>
+  
+  
+ <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/manage-indices/index-fields/">
+ 
+  What is Searchable?
+
+</a>
+  
+ 
+ <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/manage-indices/index-fields/">
+ 
+  What is Auto suggest?
+
+</a>
  
 
+  
 </details>
 
 
-<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-indices/configuring-search-fields/">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/manage-indices/index-fields/">
  
 
 | Frontmatter | Required? |
