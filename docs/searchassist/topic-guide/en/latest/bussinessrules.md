@@ -41,24 +41,23 @@ permalink: searchassist/topic-guide/en/latest/rules
 
   What are contexts in Contextual Rules?
 
-
 </a>
   
   <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/personalize-results/contextual-rules/">
- 
-  How do I edit or delete Contextual Rules?
+    
+    How do I edit or delete Contextual Rules?
     
   </a>
   
-    <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/personalize-results/nlp-rules/">
- 
-  What are NLP rules?
+  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/personalize-results/nlp-rules/">
+    
+    What are NLP rules?
     
   </a>
   
-    <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/personalize-results/nlp-rules/">
- 
-  How to Add, Edit or Modify NLP rules?
+  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/personalize-results/nlp-rules/">
+    
+    How to Add, Edit or Modify NLP rules?
     
   </a>
   
