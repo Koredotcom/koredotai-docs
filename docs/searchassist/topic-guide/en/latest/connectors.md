@@ -1,7 +1,8 @@
 ---
 title: Connectors
 
-permalink: searchassist/topic-guide/en/latest/connectors
+permalink: searchassist/topic-guide/en/latest//connectors
+
 
 ---
 <!--#### Topic Guide
