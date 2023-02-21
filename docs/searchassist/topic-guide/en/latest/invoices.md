@@ -9,7 +9,7 @@ permalink: searchassist/topic-guide/en/latest/invoices
 
   Check out our explanatory documentation links on Orders & Invoices.
 
-<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/managing-searchassist-apps/viewing-billing-and-usage/#Invoices">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/billing-and-usage/order-and-invoices/">
  
 
 | Frontmatter | Required? |
