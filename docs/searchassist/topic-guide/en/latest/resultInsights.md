@@ -24,14 +24,14 @@ permalink: searchassist/topic-guide/en/latest/resultInsights
   <summary>FAQs
   </summary>
 
-  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/analyzing-performance/analyzing-search-performance/#Getting_Insights_from_Results">
+  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/search-analytics/result-insights/">
  
   What are the metrics that can be tracked as a part of Result Insights?
 
 
 </a>
 
- <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/analyzing-performance/analyzing-search-performance/#Getting_Insights_from_Results">
+ <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/search-analytics/result-insights/">
  
   When do I see metrics for Result Insights?
 
@@ -42,7 +42,7 @@ permalink: searchassist/topic-guide/en/latest/resultInsights
 </details>
 
 
-<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/analyzing-performance/analyzing-search-performance/#Getting_Insights_from_Results">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/search-analytics/result-insights/">
  
 
 | Frontmatter | Required? |
