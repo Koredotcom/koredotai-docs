@@ -49,11 +49,15 @@ permalink: searchassist/topic-guide/en/latest/rules
     
   </a>
   
+
+  
   <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/personalize-results/nlp-rules/">
     
     What are NLP rules?
     
   </a>
+  
+
   
   <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/personalize-results/nlp-rules/">
     
