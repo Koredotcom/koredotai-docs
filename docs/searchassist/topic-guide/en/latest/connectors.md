@@ -13,7 +13,7 @@ permalink: searchassist/topic-guide/en/latest/connectors
   <summary>Video
   </summary>
   
-   [![Experiments](images/VideoCoverImage.png)](https://player.vimeo.com/video/751566851?h=74f63c174d&amp)
+   [![Connectors](images/VideoCoverImage.png)](https://player.vimeo.com/video/751566851?h=74f63c174d&amp)
 
   ##### Connectors
   Watch this short video to know how to configure Connectors.
@@ -36,7 +36,7 @@ permalink: searchassist/topic-guide/en/latest/connectors
 
 </a>
  
-
+  
 </details>
 
 <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/manage-content-sources/connectors/introduction-to-connectors/">
@@ -47,5 +47,3 @@ permalink: searchassist/topic-guide/en/latest/connectors
 
 
 </a>
-
-
