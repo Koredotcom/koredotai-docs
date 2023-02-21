@@ -1,28 +1,28 @@
 ---
-title: Content
+title: Index Settings
 
 permalink: searchassist/topic-guide/en/latest/index-configuration-settings
 
 ---
 <!--#### Topic Guide
-######  Actions-->
+######  Index Settings-->
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Actions.
+  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Index Settings.
 
 
 <details>
   <summary>FAQs
   </summary>
 
-  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-content/linking-your-virtual-assistant/#Integrating_Virtual_Assistant_With_Your_SearchAssist_App">
+  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/manage-indices/index-languages/">
  
-  How do I integrate a Virtual Assistant with the application?
+  What is Index Languages?
 
 </a>
 
- <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-content/linking-your-virtual-assistant/#Managing_Virtual_Assistant_Actions">
+ <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/manage-indices/index-languages/">
  
-  How to manage Virtual Assistant actions?
+  How do I configure Index Languages?
 
 </a>
  
@@ -31,12 +31,12 @@ permalink: searchassist/topic-guide/en/latest/index-configuration-settings
 </details>
 
 
-<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-content/linking-your-virtual-assistant/">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/manage-indices/index-languages/">
  
 
 | Frontmatter | Required? | 
 |-------------|-------------|
-| ![alt text](images/SA_Documentation.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Actions | 
+| ![alt text](images/SA_Documentation.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Index Settings | 
 
 
 </a>
