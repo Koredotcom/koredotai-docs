@@ -24,31 +24,44 @@ permalink: searchassist/topic-guide/en/latest/rules
   <summary>FAQs
   </summary>
 
-  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/personalizing-results/personalizing-results-ranking/#Configuring_Business_Rules">
+  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/personalize-results/contextual-rules/">
  
-  What are Business Rules ?
+  What are Contextual Rules ?
 
 </a>
 
- <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/personalizing-results/personalizing-results-ranking/#Configuring_Business_Rules">
+ <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/personalize-results/contextual-rules/">
  
   How to add conditions and define an outcome?
 
 </a>
  
   
-<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/personalizing-results/personalizing-results-ranking/#Configuring_Business_Rules">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/personalize-results/contextual-rules/">
 
-  What are contexts in Business Rules?
+  What are contexts in Contextual Rules?
 
 
 </a>
   
-  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/personalizing-results/personalizing-results-ranking/#Configuring_Business_Rules">
+  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/personalize-results/contextual-rules/">
  
-  How do I edit or delete Business Rules?
+  How do I edit or delete Contextual Rules?
     
   </a>
+  
+    <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/personalize-results/nlp-rules/">
+ 
+  What are NLP rules?
+    
+  </a>
+  
+    <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/personalize-results/nlp-rules/">
+ 
+  How to Add, Edit or Modify NLP rules?
+    
+  </a>
+  
 
 </details>
 
