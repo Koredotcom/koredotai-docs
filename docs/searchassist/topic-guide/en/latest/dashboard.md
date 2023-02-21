@@ -14,7 +14,7 @@ permalink: searchassist/topic-guide/en/latest/dashboard
   <summary>FAQs
   </summary>
 
-  <a class="doc-link" target="_blank" href="=d">
+  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/search-analytics/dashboard-2/">
  
   How do I check metrics for a particular date range?
 
