@@ -24,33 +24,33 @@ permalink: searchassist/topic-guide/en/latest//search-settings/small_talk
   <summary>FAQs
   </summary>
 
-  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/">
+  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/user-engagement/small-talk/">
  
   What is Small Talk?
 
 </a>
 
- <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#Creation">
+ <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/user-engagement/small-talk/">
  
   How to create Small Talk?
 
 </a>
  
   
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#Terminology">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/user-engagement/small-talk/">
 
   What are Small Talk groups?
 
 </a>
   
-  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#Default_Small_Talk">
+  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/user-engagement/small-talk/">
  
   What are the default greetings supported?
 
 </a>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/nlp/additional-notes-nlp-settings-guidelines/#Patterns">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/user-engagement/small-talk/">
 
   What are the guidelines for defining patterns for Small Talk?
 
@@ -72,7 +72,7 @@ permalink: searchassist/topic-guide/en/latest//search-settings/small_talk
 <!-- </a> -->
 
 
-<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/administration/managing-channels-2/#Small_Talk">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/user-engagement/small-talk/">
  
 
 | Frontmatter | Required? |
