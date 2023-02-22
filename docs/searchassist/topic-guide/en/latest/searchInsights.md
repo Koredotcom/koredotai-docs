@@ -24,20 +24,20 @@ permalink: searchassist/topic-guide/en/latest/searchInsights
   <summary>FAQs
   </summary>
 
-  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/analyzing-performance/analyzing-search-performance/#Getting_Insights_from_Search_Queries">
+  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/search-analytics/search-insights-2/">
  
   How can I use my search insights to improve relevance?
 
 </a>
 
- <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/analyzing-performance/analyzing-search-performance/#Getting_Insights_from_Search_Queries">
+ <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/search-analytics/search-insights-2/">
  
   What are positive and negative feedback metrics?
 
 </a>
  
   
-<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/analyzing-performance/analyzing-search-performance/#Getting_Insights_from_Search_Queries">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/search-analytics/search-insights-2/">
 
   How do I enable or disable user feedback for search?
 
@@ -49,7 +49,7 @@ permalink: searchassist/topic-guide/en/latest/searchInsights
 
 
 
-<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/analyzing-performance/analyzing-search-performance/#Getting_Insights_from_Search_Queries">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/search-analytics/search-insights-2/">
  
 
 | Frontmatter | Required? |
