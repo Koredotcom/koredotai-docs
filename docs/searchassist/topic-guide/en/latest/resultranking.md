@@ -24,26 +24,26 @@ permalink: searchassist/topic-guide/en/latest/resultranking
   <summary>FAQs
   </summary>
 
-  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/personalizing-results/personalizing-results-ranking/">
+  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/personalize-results/result-ranking/">
  
   What is Results Ranking ?
 
 </a>
 
- <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/personalizing-results/personalizing-results-ranking/#Adding_Personalizations">
+ <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/personalize-results/result-ranking/">
  
  How can you simulate your search Application?
 
 </a>
  
   
-<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/personalizing-results/personalizing-results-ranking/#Adding_Personalizations">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/personalize-results/result-ranking/">
 
   How to customize my results?
 
 </a>
   
-  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/personalizing-results/personalizing-results-ranking/#Reset_Customization">
+  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/personalize-results/result-ranking/">
  
   How to customize my results?
 
@@ -53,7 +53,7 @@ permalink: searchassist/topic-guide/en/latest/resultranking
 </details>
 
 
-<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/personalizing-results/personalizing-results-ranking/">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/personalize-results/result-ranking/">
 
 
 | Frontmatter | Required? |
