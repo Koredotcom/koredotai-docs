@@ -4,8 +4,8 @@ title: Small Talk
 permalink: searchassist/topic-guide/en/latest//search-settings/small_talk
 
 ---
-#### Topic Guide
-###### Small Talk
+<!--#### Topic Guide
+###### Small Talk-->
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Small Talk.
 
