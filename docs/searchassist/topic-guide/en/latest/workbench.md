@@ -44,7 +44,7 @@ Watch this short video to know about AI Workbench Stages.
 
 </a>
 
- <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-indices/managing-index-pipeline/s">
+ <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-indices/managing-index-pipeline/">
  
   What are the different pipelines stages available in the workbench?
 
