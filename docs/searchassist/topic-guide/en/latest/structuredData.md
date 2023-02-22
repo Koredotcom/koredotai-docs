@@ -24,13 +24,13 @@ permalink: searchassist/topic-guide/en/latest/structuredData
   <summary>FAQs
   </summary>
 
-  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-content/adding-structured-data/">
+  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/manage-content-sources/managing-structured-data/">
  
   How to import structured data from a CSV or JSON file?
 
 </a>
 
- <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-content/adding-structured-data/#Manually_Adding_Structured_Data">
+ <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/manage-content-sources/managing-structured-data/">
  
   How to add Structured data manually?
 
@@ -40,7 +40,7 @@ permalink: searchassist/topic-guide/en/latest/structuredData
 </details>
 
 
-<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-content/adding-structured-data/#Manually_Adding_Structured_Data">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/manage-content-sources/managing-structured-data/">
  
 
 | Frontmatter | Required? |
