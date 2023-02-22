@@ -24,14 +24,14 @@ permalink: searchassist/topic-guide/en/latest/userEngagement
   <summary>FAQs
   </summary>
 
-  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/analyzing-performance/analyzing-search-performance/#Getting_User_Engagement_Metrics">
+  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/search-analytics/user-engagement-2/">
  
   What metrics can I track as a part of measuring User Engagement ?
 
 
 </a>
 
- <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/analyzing-performance/analyzing-search-performance/#Getting_User_Engagement_Metrics">
+ <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/search-analytics/user-engagement-2/">
  
   When do I see metrics for user engagement?
 
@@ -42,7 +42,7 @@ permalink: searchassist/topic-guide/en/latest/userEngagement
 
 
 
-<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/analyzing-performance/analyzing-search-performance/#Getting_User_Engagement_Metrics">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/search-analytics/user-engagement-2/">
  
 
 | Frontmatter | Required? |
