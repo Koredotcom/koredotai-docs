@@ -25,13 +25,13 @@ permalink: searchassist/topic-guide/en/latest//search-settings/weights
   <summary>FAQs
   </summary>
 
-  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-relevance/managing-relevance/#Adding_Weights">
+  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/manage-relevance/weights-2/">
  
   What are weights?
 
 </a>
 
- <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-relevance/managing-relevance/#Adding_Weights">
+ <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/manage-relevance/weights-2/">
  
   How do I configure weights?
 
@@ -41,7 +41,7 @@ permalink: searchassist/topic-guide/en/latest//search-settings/weights
 </details>
 
 
-<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-relevance/managing-relevance/#Adding_Weights">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/manage-relevance/weights-2/">
  
 
 | Frontmatter | Required? |
