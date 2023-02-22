@@ -14,13 +14,13 @@ permalink: searchassist/topic-guide/en/latest/botActions
   <summary>FAQs
   </summary>
 
-  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-content/linking-your-virtual-assistant/#Integrating_Virtual_Assistant_With_Your_SearchAssist_App">
+  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/manage-content-sources/linking-your-virtual-assistant/">
  
   How do I integrate a Virtual Assistant with the application?
 
 </a>
 
- <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-content/linking-your-virtual-assistant/#Managing_Virtual_Assistant_Actions">
+ <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/manage-content-sources/linking-your-virtual-assistant/">
  
   How to manage Virtual Assistant actions?
 
@@ -31,7 +31,7 @@ permalink: searchassist/topic-guide/en/latest/botActions
 </details>
 
 
-<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-content/linking-your-virtual-assistant/">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/manage-content-sources/linking-your-virtual-assistant/">
  
 
 | Frontmatter | Required? | 
