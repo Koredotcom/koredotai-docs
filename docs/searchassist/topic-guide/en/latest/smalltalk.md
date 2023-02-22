@@ -10,7 +10,7 @@ permalink: searchassist/topic-guide/en/latest//search-settings/small_talk
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Small Talk.
 
 <details class="introduction-video" open>
-  <summary>Introduction
+  <summary>Video
   </summary>
   
    [![Introduction to Small Talk](images/VideoCoverImage.png)](https://drive.google.com/file/d/1ohhg7dfgPL0pWVzr8i2kjKveUwO9qy_o/preview)
