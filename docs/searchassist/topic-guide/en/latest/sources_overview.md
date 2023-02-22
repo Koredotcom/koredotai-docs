@@ -25,41 +25,41 @@ permalink: searchassist/topic-guide/en/latest/sources
   </summary>
 
 
- <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-content/adding-faqs/#Extracting_FAQs_From_Files">
+ <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/manage-content-sources/content-overview/">
  
   How to extract FAQs from a PDF file?
 
 </a>
  
   
-<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-content/adding-faqs/#Annotating_Extracting_FAQs">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/manage-content-sources/content-overview/">
 
   What is annotate & extract FAQs ?
 
 </a>
   
-  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-content/adding-faqs/#Extracting_FAQs_from_a_URL">
+  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/manage-content-sources/content-overview/">
  
   How to extract FAQs from a URL?
 
 </a>
 
 
-<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-content/adding-faqs/#Adding_FAQs_Manually">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/manage-content-sources/content-overview/">
 
   How to add FAQs manually?
 
 </a>
 
   
-<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-content/adding-faqs/#Managing_Conditional_Responses">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/manage-content-sources/content-overview/">
 
   How to add conditional responses to FAQs?
 
 </a>
   
   
-  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-content/adding-faqs/#FAQ_Review_Workflow">
+  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/manage-content-sources/content-overview/">
 
   What is a FAQ workflow and how does it work?
 
@@ -68,7 +68,7 @@ permalink: searchassist/topic-guide/en/latest/sources
 </details>
 
 
-<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-content/adding-faqs/">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/manage-content-sources/content-overview/">
  
 
 | Frontmatter | Required? |
