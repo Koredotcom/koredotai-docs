@@ -9,7 +9,7 @@ permalink: searchassist/topic-guide/en/latest//search-settings/search_relevance
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Search Relevance.
 
-<details class="introduction-video" open>
+<!--<details class="introduction-video" open>
   <summary>Video
   </summary>
   
@@ -18,7 +18,7 @@ permalink: searchassist/topic-guide/en/latest//search-settings/search_relevance
   ##### Search Relevance 
   Watch this short video to know about Search Relevance
 
-</details>
+</details>-->
 
 <details>
   <summary>FAQs
