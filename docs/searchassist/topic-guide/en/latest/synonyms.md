@@ -24,14 +24,14 @@ permalink: searchassist/topic-guide/en/latest//search-settings/synonyms
   <summary>FAQs
   </summary>
 
-  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-relevance/managing-relevance/#Adding_Synonyms">
+  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/manage-relevance/synonyms-2/">
  
   What are Synonyms and their types?
 
 
 </a>
 
- <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-relevance/managing-relevance/#Adding_Synonyms">
+ <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/manage-relevance/synonyms-2/">
  
   How do I add Synonyms?
 
@@ -41,7 +41,7 @@ permalink: searchassist/topic-guide/en/latest//search-settings/synonyms
 </details>
 
 
-<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-relevance/managing-relevance/#Adding_Synonyms">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/manage-relevance/synonyms-2/">
  
 | Frontmatter | Required? |
 |-------------|-------------|
