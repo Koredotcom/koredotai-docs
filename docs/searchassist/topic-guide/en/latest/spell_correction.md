@@ -7,7 +7,7 @@ permalink: searchassist/topic-guide/en/latest//search-settings/spell_correction
 <!--#### Topic Guide
 ###### Spell Correction-->
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Spell Correction.
+  Check out our explanatory FAQs and Documentation links on Spell Correction.
 
 <!--<details class="introduction-video" open>
   <summary>Video
