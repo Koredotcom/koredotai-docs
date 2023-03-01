@@ -7,7 +7,7 @@ permalink: searchassist/topic-guide/en/latest/searchInsights
 <!--#### Topic Guide
 ###### Search Insights-->
 
-  Check out our explanatory videos, FAQs and documentation links on Search Insights.
+  Check out our explanatory Video, FAQs and Documentation links on Search Insights.
 
 <details class="introduction-video" open>
   <summary>Video
