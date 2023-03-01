@@ -7,7 +7,7 @@ permalink: searchassist/topic-guide/en/latest/summary
 <!--#### Topic Guide
 ###### Overview-->
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on SearchAssist Overview.
+  Check out our explanatory Video, FAQs and Documentation links on SearchAssist Overview.
 
 <details class="introduction-video" open>
   <summary>Video
