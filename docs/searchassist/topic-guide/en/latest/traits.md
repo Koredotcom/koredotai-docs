@@ -7,7 +7,7 @@ permalink: searchassist/topic-guide/en/latest/traits
 <!--#### Topic Guide
 ###### Traits-->
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Traits.
+  Check out our explanatory Video, FAQs and documentation links on Traits.
 
 <details class="introduction-video" open>
   <summary>Video
