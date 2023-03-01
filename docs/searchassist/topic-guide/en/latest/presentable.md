@@ -7,7 +7,7 @@ permalink: searchassist/topic-guide/en/latest///search-settings/presentable
 <!--#### Topic Guide
 ###### Presentable-->
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Presentable.
+  Check out our explanatory FAQs and Documentation links on Presentable.
 
 <!--<details class="introduction-video" open>
   <summary>Video
