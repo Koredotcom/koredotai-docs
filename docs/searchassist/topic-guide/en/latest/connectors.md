@@ -1,11 +1,11 @@
 ---
-title: Facets
+title: Connectors
 
 permalink: searchassist/topic-guide/en/latest/connectors
 
 ---
 <!--#### Topic Guide
-###### Facets-->
+###### COnnectors-->
 
   Check out our explanatory videos, FAQs and documentation links on Connectors.
 
