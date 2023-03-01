@@ -7,7 +7,7 @@ permalink: searchassist/topic-guide/en/latest//search-settings/synonyms
 <!--#### Topic Guide
 ###### Synonyms-->
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Synonyms.
+  Check out our explanatory Video, FAQs and Documentation links on Synonyms.
 
 <details class="introduction-video" open>
   <summary>Video
