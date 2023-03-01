@@ -7,7 +7,7 @@ permalink: searchassist/topic-guide/en/latest/index
 <!--#### Topic Guide
 ###### Workbench-->
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Workbench.
+  Check out our explanatory Videos, FAQs and Documentation links on Workbench.
 
 <details open>
  <summary>Video
