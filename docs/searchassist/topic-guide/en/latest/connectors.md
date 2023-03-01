@@ -9,15 +9,14 @@ permalink: searchassist/topic-guide/en/latest/connectors
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Connectors.
 
-
 <details class="introduction-video" open>
   <summary>Video
   </summary>
   
-   [![Facets](images/VideoCoverImage.png)](https://player.vimeo.com/video/751567200?h=726ce44ad2&badge=0&autopause=0&player_id=0&app_id=58479/embed)
+   [![Connectors](images/VideoCoverImage.png)](https://player.vimeo.com/video/784486217?h=5d9b35336a&badge=0&autopause=0&player_id=0&app_id=58479/embed" allow="autoplay)
 
-  ##### Facets 
-  Watch this short video to know how to configure Facets.
+  ##### Introduction to Connectors 
+  Watch this short video to know how to add content to your application using Connectors.
 
 </details>
 
