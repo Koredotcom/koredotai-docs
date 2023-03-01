@@ -7,7 +7,7 @@ permalink: searchassist/topic-guide/en/latest/facets
 <!--#### Topic Guide
 ###### Facets-->
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Facets.
+  Check out our explanatory Video, FAQs and Documentation links on Facets.
 
 <details class="introduction-video" open>
   <summary>Video
@@ -58,7 +58,7 @@ permalink: searchassist/topic-guide/en/latest/facets
 
 | Frontmatter | Required? |
 |-------------|-------------|
-| ![alt text](images/SA_Documentation.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Facets | 
+| ![alt text](images/SA_Documentation.svg "Title") | **Documentation**  <br /> Check out our in depth documentation articles on Facets | 
 
 
 </a>
