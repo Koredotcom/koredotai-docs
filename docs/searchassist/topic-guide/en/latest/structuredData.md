@@ -13,7 +13,7 @@ permalink: searchassist/topic-guide/en/latest/structuredData
   <summary>Video
   </summary>
    
-   [![Structured Data](images/VideoCoverImage.png)](https://player.vimeo.com/video/751565088?h=1a7375cec5&badge=0&autopause=0&player_id=0&app_id=58479/embed)
+   [![Structured Data](images/VideoCoverImage.png)](https://player.vimeo.com/video/751565088?h=1a7375cec5&amp)
 
   ##### Structured Data 
   Watch this short video to known how to add structured data to your application.
