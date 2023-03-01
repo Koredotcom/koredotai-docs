@@ -7,7 +7,7 @@ permalink: searchassist/topic-guide/en/latest/botActions
 <!--#### Topic Guide
 ######  Actions-->
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Actions.
+  Check out our explanatory FAQs and documentation links on Actions.
 
 
 <details>
