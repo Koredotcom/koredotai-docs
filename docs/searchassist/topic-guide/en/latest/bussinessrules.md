@@ -7,7 +7,7 @@ permalink: searchassist/topic-guide/en/latest/rules
 <!--#### Topic Guide
 ###### Bussiness Rules-->
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Business Rules.
+  Check out our explanatory Video, FAQs and documentation links on Business Rules.
 
 <details class="introduction-video" open>
   <summary>Video
