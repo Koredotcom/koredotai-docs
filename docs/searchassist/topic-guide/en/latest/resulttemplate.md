@@ -7,7 +7,7 @@ permalink: searchassist/topic-guide/en/latest/resultTemplate
 <!--#### Topic Guide
 ###### Result Templates-->
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Result Templates.
+  Check out our explanatory Video, FAQs and documentation links on Result Templates.
 
 <details class="introduction-video" open>
   <summary>Video
