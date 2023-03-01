@@ -11,7 +11,7 @@ permalink: searchassist/topic-guide/en/latest/content
  Check out our explanatory videos, FAQs and documentation links on Content. 
 
   <details open>
- <summary>Video
+ <summary>Videos
  </summary>
 
   <details-video>
