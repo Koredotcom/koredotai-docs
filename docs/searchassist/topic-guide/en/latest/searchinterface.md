@@ -7,7 +7,7 @@ permalink: searchassist/topic-guide/en/latest/search-experience
 <!--#### Topic Guide
 ###### Search Interface-->
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Search Interface.
+  Check out our explanatory Video, FAQs and documentation links on Search Interface.
 
 <details class="introduction-video" open>
   <summary>Video
