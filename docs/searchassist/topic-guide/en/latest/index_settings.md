@@ -7,7 +7,7 @@ permalink: searchassist/topic-guide/en/latest/index-configuration-settings
 <!--#### Topic Guide
 ######  Index Settings-->
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Index Settings.
+  Check out our explanatory FAQs and Documentation links on Index Settings.
 
 
 <details>
