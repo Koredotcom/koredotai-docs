@@ -7,7 +7,7 @@ permalink: searchassist/topic-guide/en/latest//search-settings/weights
 <!--#### Topic Guide
 ###### Weights-->
 
-   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Weights.
+   Check out our explanatory Video, FAQs and Documentation links on Weights.
 
      
 <details class="introduction-video" open>
