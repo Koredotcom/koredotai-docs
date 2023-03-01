@@ -7,7 +7,7 @@ permalink: searchassist/topic-guide/en/latest//search-settings/search_relevance
 <!--#### Topic Guide
 ###### Results Insights-->
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Search Relevance.
+  Check out our explanatory FAQs and Documentation links on Search Relevance.
 
 <!--<details class="introduction-video" open>
   <summary>Video
