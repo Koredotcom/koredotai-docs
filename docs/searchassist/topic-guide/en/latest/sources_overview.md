@@ -1,5 +1,5 @@
 ---
-title: Content
+title: Sources Overview
 
 permalink: searchassist/topic-guide/en/latest/sources
 
@@ -7,20 +7,9 @@ permalink: searchassist/topic-guide/en/latest/sources
 <!--#### Topic Guide
 ######  FAQs-->
 
-  Check out our explanatory Video, FAQs and documentation links on FAQs.
+  Check out our explanatory Documentation on Sources Overview.
 
-<details class="introduction-video" open>
-  <summary>Video
-  </summary>
-  
-  [![FAQs](images/VideoCoverImage.png)](https://player.vimeo.com/video/783541165?h=de85d834ef&amp)
-
-  ##### Adding FAQs 
-  Watch this short video to know how to add FAQs to your application.
-
-</details>
-
-<details>
+<!--<details>
   <summary>FAQs
   </summary>
 
@@ -31,41 +20,8 @@ permalink: searchassist/topic-guide/en/latest/sources
 
 </a>
  
-  
-<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/manage-content-sources/content-overview/">
 
-  What is annotate & extract FAQs ?
-
-</a>
-  
-  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/manage-content-sources/content-overview/">
- 
-  How to extract FAQs from a URL?
-
-</a>
-
-
-<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/manage-content-sources/content-overview/">
-
-  How to add FAQs manually?
-
-</a>
-
-  
-<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/manage-content-sources/content-overview/">
-
-  How to add conditional responses to FAQs?
-
-</a>
-  
-  
-  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/manage-content-sources/content-overview/">
-
-  What is a FAQ workflow and how does it work?
-
-</a>
-
-</details>
+</details>-->
 
 
 <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/manage-content-sources/content-overview/">
