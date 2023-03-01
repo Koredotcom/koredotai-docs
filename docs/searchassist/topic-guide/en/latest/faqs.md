@@ -7,7 +7,7 @@ permalink: searchassist/topic-guide/en/latest/faqs
 <!--#### Topic Guide
 ######  FAQs-->
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on FAQs.
+  Check out our explanatory Video, FAQs and Documentation links on FAQs.
 
 <details class="introduction-video" open>
   <summary>Video
@@ -15,7 +15,7 @@ permalink: searchassist/topic-guide/en/latest/faqs
   
   [![FAQs](images/VideoCoverImage.png)](https://player.vimeo.com/video/783541165?h=de85d834ef&amp)
 
-  ##### Adding FAQs 
+  ##### FAQs 
   Watch this short video to know how to add FAQs to your application.
 
 </details>
