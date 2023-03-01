@@ -7,7 +7,7 @@ permalink: searchassist/topic-guide/en/latest//search-settings/bot_actions
 <!--#### Topic Guide
 ###### Fields-->
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Bot Actions settings.
+  Check out our explanatory Documentation on Bot Actions settings.
 
 <!-- <details class="introduction-video" open> -->
 <!--   <summary>Video -->
