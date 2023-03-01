@@ -7,7 +7,7 @@ permalink: searchassist/topic-guide/en/latest//search-settings/highlighting
 <!--#### Topic Guide
 ###### Highlighting-->
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Highlighting.
+  Check out our explanatory Video, FAQs and Documentation links on Highlighting.
 
 <!--<details class="introduction-video" open>
   <summary>Video
