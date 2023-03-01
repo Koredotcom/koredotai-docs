@@ -7,7 +7,7 @@ permalink: searchassist/topic-guide/en/latest/connectors
 <!--#### Topic Guide
 ###### Facets-->
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Connectors.
+  Check out our explanatory videos, FAQs and documentation links on Connectors.
 
 <details class="introduction-video" open>
   <summary>Video
