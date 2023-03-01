@@ -7,7 +7,7 @@ permalink: searchassist/topic-guide/en/latest//search-settings/stop_words
 <!--#### Topic Guide
 ###### Stop Words-->
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Stop Words.
+  Check out our explanatory Video, FAQs and Documentation links on Stop Words.
 
 <details class="introduction-video" open>
   <summary>Video
