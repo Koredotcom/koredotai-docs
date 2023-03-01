@@ -4,18 +4,18 @@ title: Bussinessrules
 permalink: searchassist/topic-guide/en/latest/rules
 
 ---
-#### Topic Guide
-###### Bussiness Rules
+<!--#### Topic Guide
+###### Bussiness Rules-->
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Business Rules.
 
 <details class="introduction-video" open>
-  <summary>Introduction
+  <summary>Video
   </summary>
 
    [![Business Rules](images/VideoCoverImage.png)](https://player.vimeo.com/video/784493665?h=dee7a21b33&amp)
 
-  ##### Introduction to Business Rules 
+  ##### Business Rules 
   Watch this short video to know how to configure Business Rules.
 
 </details>
@@ -24,7 +24,7 @@ permalink: searchassist/topic-guide/en/latest/rules
   <summary>FAQs
   </summary>
 
-  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/personalize-results/contextual-rules/">
+  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/personalize-results/introduction-3/">
 
   What are Business rules ?
 
@@ -32,7 +32,7 @@ permalink: searchassist/topic-guide/en/latest/rules
 
  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/personalize-results/contextual-rules/">
 
-  ow to add conditions and define an outcome?
+  How to add conditions and define an outcome?
 
 </a>
 
@@ -67,7 +67,7 @@ permalink: searchassist/topic-guide/en/latest/rules
 
 
 
-<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/personalize-results/contextual-rules/">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/personalize-results/introduction-3/">
 
 
 | Frontmatter | Required? |
