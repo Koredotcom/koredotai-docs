@@ -1,7 +1,7 @@
 ---
 title: Facets
 
-permalink: searchassist/topic-guide/en/latest/abc
+permalink: searchassist/topic-guide/en/latest/connectors
 
 ---
 <!--#### Topic Guide
