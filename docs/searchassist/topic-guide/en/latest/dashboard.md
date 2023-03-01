@@ -7,7 +7,7 @@ permalink: searchassist/topic-guide/en/latest/dashboard
 <!--#### Topic Guide
 ###### Dashboard-->
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Dashboard.
+  Check out our explanatory FAQs and Documentation links on Dashboard.
 
 
 <details>
@@ -33,7 +33,7 @@ permalink: searchassist/topic-guide/en/latest/dashboard
  
 | Frontmatter | Required? |
 |-------------|-------------|
-| ![alt text](images/SA_Documentation.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Dashboard | 
+| ![alt text](images/SA_Documentation.svg "Title") | **Documentation**  <br /> Check out our in depth documentation articles on Dashboard | 
 
 
 </a>
