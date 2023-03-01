@@ -1,5 +1,5 @@
 ---
-title: content
+title: Content
 
 permalink: searchassist/topic-guide/en/latest/content
 
@@ -8,7 +8,7 @@ permalink: searchassist/topic-guide/en/latest/content
 ###### Content-->
 
 
- Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Content. 
+ Check out our explanatory videos, FAQs and documentation links on Content. 
 
   <details open>
  <summary>Video
