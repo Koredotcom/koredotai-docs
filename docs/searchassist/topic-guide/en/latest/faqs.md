@@ -1,7 +1,7 @@
 ---
 title: Content
 
-permalink: searchassist/topic-guide/en/latest/connectors
+permalink: searchassist/topic-guide/en/latest/faq
 
 ---
 <!--#### Topic Guide
