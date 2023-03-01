@@ -7,7 +7,7 @@ permalink: searchassist/topic-guide/en/latest/sources
 <!--#### Topic Guide
 ######  FAQs-->
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on FAQs.
+  Check out our explanatory Video, FAQs and documentation links on FAQs.
 
 <details class="introduction-video" open>
   <summary>Video
