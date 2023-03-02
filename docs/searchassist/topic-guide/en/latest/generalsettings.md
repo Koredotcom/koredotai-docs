@@ -10,7 +10,7 @@ permalink: searchassist/topic-guide/en/latest/generalSettings
   Check out our explanatory documentation link on General Settings.
 
 
-<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/administration/managing-channels-2/">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/administration/general-settings-2/">
  
 
 | Frontmatter | Required? |

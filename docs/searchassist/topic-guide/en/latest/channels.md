@@ -7,7 +7,7 @@ permalink: searchassist/topic-guide/en/latest/settings
 <!--#### Topic Guide 
 ###### Channels-->
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Channels.
+  Check out our explanatory FAQs and documentation links on Channels.
 
 <details>
   <summary>FAQs

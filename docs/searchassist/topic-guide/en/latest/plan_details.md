@@ -14,13 +14,13 @@ permalink: searchassist/topic-guide/en/latest/pricing
   <summary>FAQs
   </summary>
 
-  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/managing-searchassist-apps/viewing-billing-and-usage/#Plan_Details">
+  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/billing-and-usage/plan-details/">
  
   How do I upgrade my current plan?
 
 </a>
 
- <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/managing-searchassist-apps/viewing-billing-and-usage/#Plan_Details">
+ <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/billing-and-usage/plan-details/">
  
   How do I cancel my current subscription?
 
@@ -31,7 +31,7 @@ permalink: searchassist/topic-guide/en/latest/pricing
 </details>
 
 
-<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/managing-searchassist-apps/viewing-billing-and-usage/#Plan_Details">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/billing-and-usage/plan-details/">
  
 
 | Frontmatter | Required? | 

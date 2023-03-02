@@ -7,7 +7,7 @@ permalink: searchassist/topic-guide/en/latest/credentials-list
 <!--#### Topic Guide
 ###### Credentials--> 
 
- Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Managinig Credentials.
+ Check out our explanatory FAQs and Documentation links on Managinig Credentials.
 
 
 <details>
@@ -23,7 +23,7 @@ permalink: searchassist/topic-guide/en/latest/credentials-list
 </details>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/small-talk/#">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/administration/managing-credentials/">
  
 
 | Frontmatter | Required? |

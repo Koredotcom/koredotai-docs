@@ -1,13 +1,13 @@
 ---
 title: stopWords
 
-permalink: searchassist/topic-guide/en/latest/stopWords
+permalink: searchassist/topic-guide/en/latest//search-settings/stop_words
 
 ---
 <!--#### Topic Guide
 ###### Stop Words-->
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Stop Words.
+  Check out our explanatory Video, FAQs and Documentation links on Stop Words.
 
 <details class="introduction-video" open>
   <summary>Video
@@ -24,20 +24,20 @@ permalink: searchassist/topic-guide/en/latest/stopWords
   <summary>FAQs
   </summary>
 
-  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-relevance/managing-relevance/#Adding_Stop_Words">
+  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/manage-relevance/stop-words-2/">
  
   What are Stop Words?
 
 </a>
 
- <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-relevance/managing-relevance/#Adding_Stop_Words">
+ <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/manage-relevance/stop-words-2/">
  
   How do I add custom Stop Words?
 
 </a>
  
   
-<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-relevance/managing-relevance/#Adding_Stop_Words">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/manage-relevance/stop-words-2/">
 
   How do I disable stop Words ?
 
@@ -49,7 +49,7 @@ permalink: searchassist/topic-guide/en/latest/stopWords
 
 
 
-<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/managing-relevance/managing-relevance/#Adding_Stop_Words">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/manage-relevance/stop-words-2/">
  
 
 | Frontmatter | Required? |

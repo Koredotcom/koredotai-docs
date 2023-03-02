@@ -7,11 +7,11 @@ permalink: searchassist/topic-guide/en/latest/usageLog
 <!--#### Topic Guide
 ###### Usage log-->
 
-  Check out our explanatory documentation link on Usage Log.
+  Check out our explanatory documentation link on Usage Log. 
 
 
 
-<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/managing-searchassist-apps/viewing-billing-and-usage/#Usage_Log">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/billing-and-usage/usage-logs/">
  
 
 | Frontmatter | Required? |

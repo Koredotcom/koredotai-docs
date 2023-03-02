@@ -7,7 +7,7 @@ permalink: searchassist/topic-guide/en/latest/search-experience
 <!--#### Topic Guide
 ###### Search Interface-->
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Search Interface.
+  Check out our explanatory Video, FAQs and documentation links on Search Interface.
 
 <details class="introduction-video" open>
   <summary>Video
@@ -24,13 +24,13 @@ permalink: searchassist/topic-guide/en/latest/search-experience
   <summary>FAQs
   </summary>
 
-  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/designing-search-experience/designing-search-experience/">
+  <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/search-experience/interface/">
  
  How to customize search Experience?
 
 </a>
 
- <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/designing-search-experience/designing-search-experience/">
+ <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/search-experience/interface/">
  
  What is the Search bar and Assistant experience?
 
@@ -38,7 +38,7 @@ permalink: searchassist/topic-guide/en/latest/search-experience
 </a>
  
   
-<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/designing-search-experience/designing-search-experience/">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/search-experience/interface/">
 
   How to design my search bar experience?
 
@@ -47,7 +47,7 @@ permalink: searchassist/topic-guide/en/latest/search-experience
 </details>
 
 
-<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/concepts/designing-search-experience/designing-search-experience/">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/search-experience/interface/">
  
 
 | Frontmatter | Required? |
