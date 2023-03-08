@@ -1,5 +1,5 @@
 ---
-title: Azure
+title: Azure OpenAI
 
 permalink: platform/instructions/en/latest/Actions/azure
 
@@ -10,9 +10,7 @@ permalink: platform/instructions/en/latest/Actions/azure
 
 **Overview**
 
-Connect Azure to generate answers and extract skills to perform various other actions.
-
-The Kore.ai XO Platform allows you to integrate with Azure, enabling you to easily connect your Azure instance to fetch extract skills and generate answers as required.
+The Kore.ai XO Platform allows you to easily connect your Azure OpenAI instance to find answers for your general queries.
 
 </container>
 
@@ -20,7 +18,7 @@ The Kore.ai XO Platform allows you to integrate with Azure, enabling you to easi
 
 **Authorization**
  
-To connect to Azure, Kore.ai uses basic authentication. The user can use pre-authorized credentials provided by the developer during the configuration process or their own authorization profile during the configuration process to let the end user authorize during the conversation. Learn More.
+To connect to Azure OpenAI, Kore.ai uses basic authentication. The end-user can use pre-authorized credentials provided by the developer during the configuration process or their own authorization profile during the configuration process to let the end user authorize during the conversation. Learn More.
  
  
  |Authorization Type                      | Basic |
@@ -35,24 +33,23 @@ To connect to Azure, Kore.ai uses basic authentication. The user can use pre-aut
 
 **Basic**
  
-1. Provide API Key to authorize the integration.
-2. Follow the steps below to get the required details from your Azure instance.
+1. There are a few pre-requisites before you can setup the integration.
  
-   a. To fetch the required details, navigate to [https://oai.azure.com/](https://oai.azure.com/)
-     
-      i.   Navigate to profile section.
-
-      ii.  Click on View API Keys.
-
-      iii. Navigate to User → API Keys.
+   a. An Azure subscription
  
-           1. Click on Create new secret key.
+   b. Access granted to Azure OpenAI in the desired Azure subscription
  
-           2. Copy the API Key.
+   c. An Azure OpenAI resource with a model deployed.
  
-           3. Paste the API key into API key field on Kore.ai XO Platform.
+2. Following details are required to enable the integration.
  
- 3. Click Enable.
+   a. ENDPOINT : This value can be found in the Keys & Endpoint section when examining your resource from the Azure portal. Alternatively, you can find the value in       Azure OpenAI Studio > Playground > Code View. An example endpoint is: https://docs-test-001.openai.azure.com/
+  
+   b. API-KEY : This value can be found in the Keys & Endpoint section when examining your resource from the Azure portal. You can use either KEY1 or KEY2.
+ 
+   c. DEPLOYMENT-NAME : This value will correspond to the custom name you chose for your deployment when you deployed a model. This value can be found under Resource       Management > Deployments in the Azure portal or alternatively under Management > Deployments in Azure OpenAI Studio. 
+ 
+   Note: You can also refer to the Azure documentation for [more details]. (https://learn.microsoft.com/en-us/azure/cognitive-services/openai/quickstart?pivots=rest-api)
  
 **Allow Users to Authorize the Integration**
  
@@ -88,8 +85,7 @@ This method requires the end user to provide credentials during the conversation
 
 | Action           | Description            |
 |------------------|------------------------|
-|Extract Skills    |Identify and extract specific skills or abilities from input data|
-|Generate Answer   |Generate responses or answers based on input|
+|General Query     |Use OpenAI to answer generic user queries|
 
 </container>
 
