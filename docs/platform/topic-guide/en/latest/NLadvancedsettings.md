@@ -1,5 +1,5 @@
 ---
-title: NL Advanced Settings
+title: Advanced NLU Settings
 
 permalink: platform/topic-guide/en/latest/Advanced Settings
 
