@@ -27,7 +27,7 @@ Kore.ai XO Platform now supports integration with the NICE inContact Agent Syste
  
 **Step 2: Set up Chat within Nice InContact**
   
-1. Check out https://help.nice-incontact.com/content/acd/chat/setupchat.htm?Highlight=chat for detailed instructions.
+1. Check out https://help.nice-incontact.com/content/acd/channels/chat/setupchat.htm for detailed instructions.
  
   
 </container>
