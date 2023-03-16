@@ -1,7 +1,7 @@
 ---
 title: Azure OpenAI
 
-permalink: platform/instructions/en/latest/Actions/azure
+permalink: platform/instructions/ko/latest/Actions/azure
 
 ---
 
