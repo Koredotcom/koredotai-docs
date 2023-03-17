@@ -6,7 +6,7 @@ permalink: platform/topic-guide/ko/latest/Advanced Settings
 ---
 
 #### Topic Guide
-###### NL Advanced Settings
+###### 고급 NLU 설정
 
   Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on NL Advanced Settings.
 
@@ -59,7 +59,7 @@ permalink: platform/topic-guide/ko/latest/Advanced Settings
 
 | Frontmatter | Required? |
 |-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on NL Advanced Settings | 
+| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on NLU Advanced Settings | 
 
 
 </a>
