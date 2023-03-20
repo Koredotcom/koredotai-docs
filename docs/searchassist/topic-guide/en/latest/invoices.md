@@ -1,7 +1,7 @@
 ---
 title: orders & Invoices
 
-permalink: searchassist/topic-guide/en/latest/invoices
+permalink: searchassist/topic-guide/en/latest//pricing/invoices
 
 ---
 <!--#### Topic Guide
