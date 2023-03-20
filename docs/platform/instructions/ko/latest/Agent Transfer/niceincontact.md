@@ -1,7 +1,7 @@
 ---
 title: Drift
 
-permalink: platform/instructions/en/latest/Agent Transfer/niceincontact
+permalink: platform/instructions/ko/latest/Agent Transfer/niceincontact
 
 ---
 Kore.ai XO Platform now supports integration with the NICE inContact Agent System to handover the conversations without having to use the BotKit.
