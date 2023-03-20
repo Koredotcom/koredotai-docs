@@ -1,7 +1,7 @@
 ---
 title: Genesys (prebuilt)
 
-permalink: platform/instructions/en/latest/Agent Transfer/genesyspb
+permalink: platform/instructions/ja/latest/Agent Transfer/genesyspb
 
 ---
 
