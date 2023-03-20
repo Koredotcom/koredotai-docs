@@ -49,7 +49,7 @@ To connect to Azure OpenAI, Kore.ai uses basic authentication. The end-user can 
  
    c. DEPLOYMENT-NAME : This value will correspond to the custom name you chose for your deployment when you deployed a model. This value can be found under Resource       Management > Deployments in the Azure portal or alternatively under Management > Deployments in Azure OpenAI Studio. 
  
-   Note: You can also refer to the Azure documentation for [more details]. (https://learn.microsoft.com/en-us/azure/cognitive-services/openai/quickstart?pivots=rest-api)
+   Note: You can also refer to the Azure documentation for [more details](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/quickstart?pivots=rest-api).
  
 **Allow Users to Authorize the Integration**
  
