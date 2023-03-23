@@ -13,7 +13,7 @@ permalink: searchassist/topic-guide/en/latest/FieldManagementComponent
   <summary>Video
   </summary>
   
-   [![Fields](images/VideoCoverImage.png)](https://player.vimeo.com/video/751565610?h=2562dda9ac&amp)
+   [![Fields](images/VideoCoverImage.png)](https://vimeo.com/806077097/a13eb5bf21)
 
   ##### Fields
   Watch this short video to know how to Configure Fields.
