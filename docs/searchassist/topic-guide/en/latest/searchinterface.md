@@ -13,7 +13,7 @@ permalink: searchassist/topic-guide/en/latest/search-experience
   <summary>Video
   </summary>
   
-   [![Search Interface](images/VideoCoverImage.png)](https://player.vimeo.com/video/751566591?h=7092eefd06&badge=0&autopause=0&player_id=0&app_id=58479/embed)
+   [![Search Interface](images/VideoCoverImage.png)](https://player.vimeo.com/video/806077147?h=8313d31138&amp)
 
   ##### Search Interface
   Watch this short video to know how to configure Search Interface.
