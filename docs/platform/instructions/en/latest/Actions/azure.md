@@ -43,7 +43,7 @@ To connect to Azure OpenAI, Kore.ai uses basic authentication. The end-user can 
  
 2. Following details are required to enable the integration.
  
-   a. ENDPOINT : This value can be found in the Keys & Endpoint section when examining your resource from the Azure portal. Alternatively, you can find the value in       Azure OpenAI Studio > Playground > Code View. An example endpoint is: https://docs-test-001.openai.azure.com/
+   a. ENDPOINT : This value can be found in the Keys & Endpoint section when examining your resource from the Azure portal. Alternatively, you can find the value in       Azure OpenAI Studio > Playground > Code View. An example endpoint is: docs-test-001.openai.azure.com
   
    b. API-KEY : This value can be found in the Keys & Endpoint section when examining your resource from the Azure portal. You can use either KEY1 or KEY2.
  
