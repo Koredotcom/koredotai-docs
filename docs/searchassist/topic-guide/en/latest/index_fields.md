@@ -9,16 +9,16 @@ permalink: searchassist/topic-guide/en/latest/FieldManagementComponent
 
   Check out our explanatory FAQs and Documentation links on Configuring Fields.
 
-<!--<details class="introduction-video" open>
+<details class="introduction-video" open>
   <summary>Video
   </summary>
   
-   [![Fields](images/VideoCoverImage.png)](https://vimeo.com/806077097/a13eb5bf21)
+   [![Fields](images/VideoCoverImage.png)](https://player.vimeo.com/video/806077097?h=a13eb5bf21&badge=0&autopause=0&player_id=0&app_id=58479/embed)
 
   ##### Fields
   Watch this short video to know how to Configure Fields.
 
-</details>-->
+</details>
 
 <details>
   <summary>FAQs
