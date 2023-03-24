@@ -14,7 +14,7 @@ permalink: searchassist/topic-guide/en/latest//search-settings/weights
   <summary>Video
   </summary>
   
-   [![Weights](images/VideoCoverImage.png)](https://player.vimeo.com/video/751567509?h=c0a2fddd2a&amp)
+   [![Weights](images/VideoCoverImage.png)](https://player.vimeo.com/video/806077179?h=44d15db4a1&ampp)
 
   ##### Introduction to Weights
   Watch this short video to know how to configure Weights.
