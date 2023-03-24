@@ -13,7 +13,7 @@ permalink: searchassist/topic-guide/en/latest/facets
   <summary>Video
   </summary>
   
-   [![Facets](images/VideoCoverImage.png)](https://player.vimeo.com/video/751567200?h=726ce44ad2&badge=0&autopause=0&player_id=0&app_id=58479/embed)
+   [![Facets](images/VideoCoverImage.png)](https://player.vimeo.com/video/806077243?h=7257973a20&amp)
 
   ##### Facets 
   Watch this short video to know how to configure Facets.
