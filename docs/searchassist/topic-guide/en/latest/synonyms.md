@@ -13,7 +13,7 @@ permalink: searchassist/topic-guide/en/latest//search-settings/synonyms
   <summary>Video
   </summary>
   
-   [![Synonyms](images/VideoCoverImage.png)](https://player.vimeo.com/video/751567450?h=40c1e869d7&badge=0&autopause=0&player_id=0&app_id=58479/embed)
+   [![Synonyms](images/VideoCoverImage.png)](https://player.vimeo.com/video/806077068?h=3fef9b3379&amp)
 
   ##### Introduction to Synonyms
   Watch this short video to know how to configure Synonyms.

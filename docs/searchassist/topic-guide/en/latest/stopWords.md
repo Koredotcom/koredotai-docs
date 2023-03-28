@@ -13,7 +13,7 @@ permalink: searchassist/topic-guide/en/latest//search-settings/stop_words
   <summary>Video
   </summary>
   
-   [![Stop Words](images/VideoCoverImage.png)](https://player.vimeo.com/video/751567353?h=064a6672d7&amp)
+   [![Stop Words](images/VideoCoverImage.png)](https://player.vimeo.com/video/806077026?h=4c8946d6da&badge=0&autopause=0&player_id=0&app_id=58479/embed)
 
   ##### Stop Words
   Watch this short video to know how to configure Stop Words.

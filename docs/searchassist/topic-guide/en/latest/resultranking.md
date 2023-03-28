@@ -13,7 +13,7 @@ permalink: searchassist/topic-guide/en/latest/resultranking
   <summary>Video
   </summary>
   
-   [![Results Ranking](images/VideoCoverImage.png)](https://player.vimeo.com/video/784493132?h=84590b3f85&badge=0&autopause=0&player_id=0&app_id=58479/embed)
+   [![Results Ranking](images/VideoCoverImage.png)](https://player.vimeo.com/video/806076935?h=fa436a2924&badge=0&autopause=0&player_id=0&app_id=58479/embed)
 
   ##### Results Ranking 
   Watch this short video to know how to configure Results Ranking.
