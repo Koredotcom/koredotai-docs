@@ -4,47 +4,40 @@ title: Nice In Contact (UserHub)
 permalink: platform/instructions/en/latest/Agent Transfer/niceincontactuserhub
 
 ---
-Kore.ai XO Platform now supports integration with the NICE inContact Agent System to handover the conversations without having to use the BotKit.
+Kore.ai XO Platform provides built-in integration with the NICE inContact (UserHub) Agent System to seamlessly handover the conversations from a virtual assistant to live agents.
 
 <base target="_blank">
 <container>
 
-**Step 1: Retrieving an API token**
+**Step 1: Retrieving Details from NiceInContact (UserHub)**
 
-1. In order to retrieve an API token, you must register your application. 
+1. Generate AccessKeyId and AccessKeySecret from User Profile, to make a token request (generated in the CXone interface on the Employees Page for Userhub and Users Page for Central). Ref - https://help.nice-incontact.com/content/admin/security/manageaccesskeys.htm?tocpath=Admin%7CAdmin%7CRoles%20and%20Security%7C_____3 
   
-2. You can do this on the NICE inContact Central website, under the ACD →  ACD Configuration →  API Applications menu.
+2. Register your application.
+   a. Go to the Application Registration page on the developer portal for detailed instructions.
+      https://developer.niceincontact.com/Documentation/ApplicationRegistration?Length=13 
+      Most of the terms in the registration form are self-explanatory. However, please provide the following specific information:
+      i. Tenancy of the application: (Single Tenant)
+      ii. Authentication method: (client_secret_basic)
+      iii. CXone ACD API scopes required: (PatronApi)
+      iv. Type of application being registered: (Back-end)
+   b. When you register your application, you will receive a client_id and client_secret.
 
-3. When registering your application, you must specify a Vendor Name and an Application Name. 
-  
-4. Select Vendor Name ‘Kore’ and a relevant Application Name like ‘Kore.ai XO Integration’.
-  
-5. Under API scope, select Patron API and click on Create API application to save progress.
 
+3. Create Point of contact, using https://help.nice-incontact.com/content/acd/channels/chat/setupchat.htm  
+  
 </container>
 
 <container>
  
-**Step 2: Set up Chat within Nice InContact**
+**Step 2: Enter details in Kore.ai XO**
   
-1. Check out https://help.nice-incontact.com/content/acd/channels/chat/setupchat.htm for detailed instructions.
- 
-  
-</container>
-
-<container>
- 
-**Step 3: Enter details in Kore.ai XO**
-  
-1. Navigate to Kore.ai XO Platform and onto Build → Integrations → Agent Transfer → Nice inContact → Configurations
-  
-2. Application Name: Enter the name of the application registered in step 1.
-  
-3. Vendor Name: Enter the name of the vendor registered in step 1.
-
-4. Application Secret: Enter the application secret for your registered application. You can find this by clicking on the Application Name under ACD → ACD Configuration → API Applications
-
-5. Point of Contact: Enter the Point of Contact added in Step 2.
+1. Navigate to Kore.ai XO Platform and onto Build → Integrations → Agent Transfer → Nice inContact (UserHub) → Configurations
+2. Access Key Id: from User Profile (Ref in step 1).
+3. Access Key Secret: from User Profile (Ref in step 1).
+4. Client Id: from Application (Ref in step 2).
+5. Client Secret: from Application (Ref in step 2).
+6. Point of Contact: Enter the Point of Contact added in Step 3.
 
 </container>
 
