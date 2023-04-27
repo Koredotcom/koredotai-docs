@@ -14,14 +14,14 @@ Kore.ai XO Platform provides built-in integration with the NICE inContact (UserH
 1. Generate AccessKeyId and AccessKeySecret from User Profile, to make a token request (generated in the CXone interface on the Employees Page for Userhub and Users Page for Central). Ref - https://help.nice-incontact.com/content/admin/security/manageaccesskeys.htm?tocpath=Admin%7CAdmin%7CRoles%20and%20Security%7C_____3 
   
 2. Register your application.
-   a. Go to the Application Registration page on the developer portal for detailed instructions.
+   a.  Go to the Application Registration page on the developer portal for detailed instructions.
       https://developer.niceincontact.com/Documentation/ApplicationRegistration?Length=13 
       Most of the terms in the registration form are self-explanatory. However, please provide the following specific information:
-      i. Tenancy of the application: (Single Tenant)
-      ii. Authentication method: (client_secret_basic)
-      iii. CXone ACD API scopes required: (PatronApi)
-      iv. Type of application being registered: (Back-end)
-   b. When you register your application, you will receive a client_id and client_secret.
+       i.   Tenancy of the application: (Single Tenant)
+       ii.  Authentication method: (client_secret_basic)
+       iii. CXone ACD API scopes required: (PatronApi)
+       iv.  Type of application being registered: (Back-end)
+   b.  When you register your application, you will receive a client_id and client_secret.
 
 
 3. Create Point of contact, using https://help.nice-incontact.com/content/acd/channels/chat/setupchat.htm  
