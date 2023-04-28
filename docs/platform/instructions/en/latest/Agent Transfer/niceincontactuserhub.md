@@ -17,7 +17,7 @@ Kore.ai XO Platform provides built-in integration with the NICE inContact (UserH
 2. Register your application.
    
    a. Go to the Application Registration page on the developer portal for detailed instructions 
-      [here](https://developer.niceincontact.com/Documentation/ApplicationRegistration?Length=13). Most of the terms in the registration form are self-   explanatory. However, please provide the following specific information:
+      [here](https://developer.niceincontact.com/Documentation/ApplicationRegistration?Length=13). Most of the terms in the registration form are self-           explanatory. However, please provide the following specific information:
    
       i.   Tenancy of the application: (Single Tenant)
    
