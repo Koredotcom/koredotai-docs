@@ -1,7 +1,7 @@
 ---
 title: Google Map
 
-permalink: platform/instructions/en/latest/Actions/googlemap
+permalink: platform/instructions/en/latest/Actions/googleMaps
 
 ---
 
