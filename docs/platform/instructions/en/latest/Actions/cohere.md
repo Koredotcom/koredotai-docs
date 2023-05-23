@@ -10,7 +10,9 @@ permalink: platform/instructions/en/latest/Actions/cohere
 
 **Overview**
 
-The Kore.ai XO Platform allows you to easily connect your Cohere instance to find answers for your general queries.
+Cohere is a powerful natural language processing (NLP) platform that provides developers with easy access to state-of-the-art AI models. It allows developers to generate training and test utterances, complete prompts, and handle conversations, enabling the creation of intelligent and interactive applications with advanced language capabilities.
+ 
+The Kore.ai XO Platform allows you to easily connect your Cohere models that can used across different Generative AI features in the platform.
 
 </container>
 
@@ -18,13 +20,7 @@ The Kore.ai XO Platform allows you to easily connect your Cohere instance to fin
 
 **Authorization**
  
-To connect to Azure OpenAI, Kore.ai uses basic authentication. The end-user can use pre-authorized credentials provided by the developer during the configuration process or their own authorization profile during the configuration process to let the end user authorize during the conversation. Learn More.
- 
- 
- |Authorization Type                      | Basic |
- |----------------------------------------|-------|
- |Pre-authorize the Integration           |  Yes  |
- |Allow Users to Authorize the Integration|  Yes  |
+Cohere uses API key-based authentication for authorization. When connecting to the Cohere API, developers need to include their API key as part of the authentication process. This key serves as a unique identifier and allows Cohere to verify the authenticity and permissions of the user making the API requests. By securely providing the API key during initialization or API calls, developers can access and utilize Cohere's NLP capabilities within their applications.
 
 
 **Pre-authorize the Integration**
