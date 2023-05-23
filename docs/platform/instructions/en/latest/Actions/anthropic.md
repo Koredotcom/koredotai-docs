@@ -9,8 +9,10 @@ permalink: platform/instructions/en/latest/Actions/anthropic
 <container>
 
 **Overview**
-
-The Kore.ai XO Platform allows you to easily connect your Anthropic instance to find answers for your general queries.
+ 
+Claude by Anthropic is an advanced language model designed to assist developers in generating high-quality text. Developed by AI researchers, Claude provides a strong foundation for natural language understanding and generation, enabling innovative applications and advancements in AI language technology
+ 
+The Kore.ai XO Platform allows you to easily connect your Anthropic models that can be used across Generative AI features in the platform.
 
 </container>
 
@@ -18,14 +20,7 @@ The Kore.ai XO Platform allows you to easily connect your Anthropic instance to 
 
 **Authorization**
  
-To connect to Azure OpenAI, Kore.ai uses basic authentication. The end-user can use pre-authorized credentials provided by the developer during the configuration process or their own authorization profile during the configuration process to let the end user authorize during the conversation. Learn More.
- 
- 
- |Authorization Type                      | Basic |
- |----------------------------------------|-------|
- |Pre-authorize the Integration           |  Yes  |
- |Allow Users to Authorize the Integration|  Yes  |
-
+To connect to Anthropic, Kore.ai uses basic authentication. The end-user can use pre-authorized credentials provided by the developer during the configuration process. API requests require that an API key be passed in an X-API-Key header. New API keys can be generated via the console. Both of Anthropic's SDKs accept an API key when you instantiate the client object.
 
 **Pre-authorize the Integration**
  
