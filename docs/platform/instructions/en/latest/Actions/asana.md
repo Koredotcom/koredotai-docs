@@ -29,11 +29,20 @@ To connect to Asana, Kore.ai uses basic authentication. The end-user can use pre
 
 **Pre-authorize the Integration**
  
- To make the integration process smoother for customers, you can pre-authorize it by providing the necessary authorization credentials to obtain the access token.
+ To make the integration process smoother for customers, you can pre-authorize it by providing the necessary authorization credentials.
 
 **Basic**
  
-1. TBD
+1. Navigate to https://app.asana.com/0/my-apps
+ 
+2. Click on create new token
+ 
+    i. Enter the token name
+ 
+    ii. Click on the “Create Token” button
+ 
+3. Copy generated token and paste it into Kore.ai XO Platform API key field and click Enable
+
  
 **Allow Users to Authorize the Integration**
  
