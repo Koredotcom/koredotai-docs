@@ -1,7 +1,7 @@
 ---
 title: Integrations
 
-permalink: searchassist/topic-guide/en/latest//integrations
+permalink: searchassist/topic-guide/en/latest//integrations 
 
 ---
 <!--#### Topic Guide
