@@ -1,7 +1,7 @@
 ---
 title: Content
 
-permalink: searchassist/topic-guide/en/latest/index
+permalink: searchassist/topic-guide/en/latest/workbenchnew
 
 ---
 <!--#### Topic Guide
