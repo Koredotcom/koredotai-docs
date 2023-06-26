@@ -7,7 +7,7 @@ permalink: searchassist/topic-guide/en/latest//answerSnippet
 <!--#### Topic Guide
 ###### Orders & Invoices-->
 
-  Check out our explanatory documentation links on Answer Snippets.
+  Check out our explanatory documentation links on Answer Snippets. 
 
 <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/personalize-results/answer-snippets/">
  
