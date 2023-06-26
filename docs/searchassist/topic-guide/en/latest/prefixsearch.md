@@ -1,7 +1,7 @@
 ---
 title: Highlighting
 
-permalink: searchassist/topic-guide/en/latest//search-settings/highlighting
+permalink: searchassist/topic-guide/en/latest//search-settings/prefix_search
 
 ---
 <!--#### Topic Guide
