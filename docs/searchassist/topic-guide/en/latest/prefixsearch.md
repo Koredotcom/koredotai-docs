@@ -1,7 +1,7 @@
 ---
 title: Prefix Search
 
-permalink: searchassist/topic-guide/en/latest//search-settings/prefix_search
+permalink: /searchassist/topic-guide/en/latest//search-settings/prefix_search
 
 ---
 <!--#### Topic Guide
