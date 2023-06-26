@@ -17,4 +17,4 @@ permalink: searchassist/topic-guide/en/latest//search-settings/prefix_search
 | ![alt text](images/SA_Documentation.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Prefix Search | 
 
 
-</a>
+</a> 
