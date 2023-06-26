@@ -1,4 +1,4 @@
---- 
+---
 title: Prefix Search
 
 permalink: searchassist/topic-guide/en/latest//search-settings/prefix_search
