@@ -567,6 +567,7 @@ details .doc-link.tour-guide:after{
     color: #5F6368;
     line-height: 20px;
     margin: 0;
-    padding-left: 35px;
-    padding-bottom: 10px;
+    padding: 0 0 10px 35px;
+    /* padding-left: 35px;
+    padding-bottom: 10px; */
 }
