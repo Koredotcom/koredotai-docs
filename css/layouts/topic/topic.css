@@ -561,3 +561,12 @@ details .doc-link.tour-guide:after{
 .doc-link p{
     padding-left: 25px !important;
 }
+#tg-sb-content details .nested-accordian-link .nested-details p{
+    font-weight: 400;
+    font-size: 13px;
+    color: #5F6368;
+    line-height: 20px;
+    margin: 0;
+    padding-left: 35px;
+    padding-bottom: 10px;
+}
