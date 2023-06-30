@@ -54,7 +54,7 @@ permalink: platform/topic-guide/en/latest/Advanced Settings
 
 </details>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/nlp/advanced-nlp-configurations/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/nlp/llm-and-generative-ai/">
  
 
 | Frontmatter | Required? |
