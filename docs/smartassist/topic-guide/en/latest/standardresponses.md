@@ -7,19 +7,6 @@ permalink: smartassist/topic-guide/en/latest/Standard Responses
 #### Topic Guide
 ###### Standard Responses
 
-  Check out our explanatory videos, FAQs, Kore Academy courses and documentation links on Standard responses.
-
-<details class="introduction-video" open>
-  <summary>Introduction
-  </summary>
-  
-   [![Introduction to Standard Responses](images/VideoCoverImage.png)](https://drive.google.com/file/d/1VYKdzJ7lrzimjfbvsDr6Tic4NmJFtbBy/preview)
-
-  ##### Introduction to Standard Responses
-  Watch this video on the standard responses when the assistant doesn't understand the user query
-
-</details>
-
 <details>
   <summary>FAQs
   </summary>

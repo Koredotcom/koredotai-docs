@@ -7,11 +7,7 @@ permalink: smartassist/topic-guide/en/latest/Agent Console
 #### Topic Guide
 ###### Agent Console
 
-   Check out our explanatory videos and documentation on Agent Console
-    
-
 <a class="doc-link" target="_blank" href="https://docs.kore.ai/smartassist/agent-console/agent-assist/#Accessing_the_Console">
- 
 
 | Frontmatter | Required? |
 |-------------|-------------|
