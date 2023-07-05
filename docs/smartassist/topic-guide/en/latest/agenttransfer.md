@@ -12,11 +12,7 @@ permalink: smartassist/topic-guide/en/latest/Agent Transfer
 
 #### Voice Agent Transfer
 
-  Check out our explanatory videos and documentation on Voice Agent Transfer.
-
-
 <a class="doc-link" target="_blank" href="https://docs.kore.ai/smartassist/configuration/voice-agent-transfer/">
- 
 
 | Frontmatter | Required? |
 |-------------|-------------|
@@ -29,11 +25,7 @@ permalink: smartassist/topic-guide/en/latest/Agent Transfer
 
 #### Chat Agent Transfer
 
-  Check out our explanatory videos and documentation on Chat Agent Transfer.
-
-
 <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/sdks/botkit-sdk-tutorial-agent-transfer/">
- 
 
 | Frontmatter | Required? |
 |-------------|-------------|
