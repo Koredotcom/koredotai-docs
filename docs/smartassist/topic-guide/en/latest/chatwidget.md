@@ -7,6 +7,9 @@ permalink: smartassist/topic-guide/en/latest/Chat Widget
 #### Topic Guide
 ###### Chat Widget
 
+<br>
+<br>
+<br>
 
 <a class="doc-link" target="_blank" href="https://docs.kore.ai/smartassist/settings/chat-widget/">
 

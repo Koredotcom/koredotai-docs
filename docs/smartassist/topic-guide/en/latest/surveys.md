@@ -7,6 +7,10 @@ permalink: smartassist/topic-guide/en/latest/Surveys
 #### Topic Guide
 ###### Surveys
 
+<br>
+<br>
+<br>
+
 <a class="doc-link" target="_blank" href="https://docs.kore.ai/smartassist/surveys/surveys/">
 
 | Frontmatter | Required? |

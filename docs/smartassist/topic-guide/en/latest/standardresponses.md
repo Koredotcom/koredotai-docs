@@ -7,6 +7,10 @@ permalink: smartassist/topic-guide/en/latest/Standard Responses
 #### Topic Guide
 ###### Standard Responses
 
+<br>
+<br>
+<br>
+
 <details>
   <summary>FAQs
   </summary>
