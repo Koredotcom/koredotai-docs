@@ -1,7 +1,7 @@
 ---
 title: File Upload
 
-permalink: searchassist/topic-guide/en/latest//fileUpload
+permalink: searchassist/topic-guide/en/latest//file-upload
 
 ---
 <!--#### Topic Guide
