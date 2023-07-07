@@ -7,6 +7,10 @@ permalink: smartassist/topic-guide/en/latest/Agents
 #### Topic Guide
 ###### Agents
 
+<br>
+<br>
+<br>
+
 <a class="doc-link" target="_blank" href="https://docs.kore.ai/smartassist/getting-started/agent-management/">
 
 | Frontmatter | Required? |
