@@ -143,6 +143,6 @@ This method requires the end user to provide credentials during the conversation
 
 | Action           | Description            |
 |------------------|------------------------|
-|Get All Pages     |Retrieves all pages from a specified space in Confluence|
+|Create Content    |Creates content in the Confluence space.|
 
 </container>
