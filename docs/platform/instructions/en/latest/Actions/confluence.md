@@ -137,12 +137,12 @@ This method requires the end user to provide credentials during the conversation
 
 **What can be achieved by integrating Confluence with the Kore.ai XO Platform?**
  
- The Kore.ai XO Platform supports all common actions on Confluence with pre-built dialog templates that are ready to use
+ The Kore.ai XO Platform supports all common actions on Confluence with pre-built dialog templates that are ready to use.
  
 **Templates Supported**
 
 | Action           | Description            |
 |------------------|------------------------|
-|Get All Pages     |Retrieves all pages from a specified space in Confluence|
+|Create Content    |Creates content in the Confluence space.|
 
 </container>
