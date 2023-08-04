@@ -1,7 +1,7 @@
 ---
 title: Zoom Contact Center (prebuilt)
 
-permalink: platform/instructions/en/latest/Agent Transfer/zoomcontactcenterpb
+permalink: platform/instructions/en/latest/Agent Transfer/zoompb
 
 ---
 
