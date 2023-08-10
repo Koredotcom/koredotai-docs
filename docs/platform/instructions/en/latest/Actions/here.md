@@ -40,7 +40,7 @@ To connect to Here, Kore.ai uses API Key authentication. The end-user can use pr
 5. Provide the App Name and Description. Then, choose the relevant project from the dropdown menu for which the access needs to be granted and click on Register.
 6. You will be navigated to the App details screen on successful registration of the app.
 7. Navigate to the Credentials tab and select the option labeled "API keys". From there, click on "Create API Key".
-8. Copy the generated API Key and provide it in  the configurations tab of this page.
+8. Copy the generated API Key and provide it in the Authorization tab of this page.
  
 **Allow Users to Authorize the Integration**
  
