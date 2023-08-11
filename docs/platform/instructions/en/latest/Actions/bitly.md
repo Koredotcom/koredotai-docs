@@ -46,11 +46,12 @@ This method requires the end user to provide credentials during the conversation
 1. Select All Users to Authorize the Integration.
 2. Click Select Authorization.
 3. Select Create New.
-4. Select the type of authorization mechanism. 
+4. Select the type of authorization mechanism.
+    
    i.  Select API Key
    ii.  Provide a name for the authorization profile.
    iii.  Save Authorization Profile.
- 5.  Click Enable.
+ 6.  Click Enable.
  
  </container>
  
