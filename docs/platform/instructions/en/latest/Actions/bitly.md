@@ -33,12 +33,17 @@ To connect to Bitly, Kore.ai uses API Key authentication. The end-user can use p
 **Steps to obtain the API Key**
 
 1. Create an account on the Bitly https://bitly.com/
+
 2. Log into Bitly and navigate to the "Your Connections Platform" page.
+
 3. From the left navigation menu, select "Settings" to navigate to the "Your Settings" page.
+
 4. Select the "API" option available under the "Developer Settings" and navigate to the API page.
+
 5. Enter your Bitly account password in the "Enter Password" field displayed under the "Access Token" section and click on the "Generate Token" button.
+
 6. Copy the generated Access token and provide it in the Authorization tab of this page.
- 
+
 **Allow Users to Authorize the Integration**
  
 This method requires the end user to provide credentials during the conversation for authorization.
@@ -48,8 +53,10 @@ This method requires the end user to provide credentials during the conversation
 3. Select Create New.
 4. Select the type of authorization mechanism.
     
-   i.  Select API Key
+   i.  Select API Key.
+   
    ii.  Provide a name for the authorization profile.
+   
    iii.  Save Authorization Profile.
  6.  Click Enable.
  
