@@ -12,7 +12,7 @@ permalink: platform/instructions/en/latest/Actions/anthropic
  
 Anthropic is an advanced language model developed by AI researchers, the LLM provides a strong foundation for natural language understanding and generation, enabling innovative applications and advancements in AI language technology.
 
-The Kore.ai XO Platform allows you to connect to both the Anthropic models, **Claude** that can be used across Generative AI features in the platform.
+The Kore.ai XO Platform allows you to connect to both the Anthropic models, **Claude** and **Claude Instant** that can be used across Generative AI features in the platform.
 
 </container>
 
