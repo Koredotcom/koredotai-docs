@@ -26,7 +26,7 @@ permalink: searchassist/topic-guide/en/latest/rules
 
   <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/personalize-results/introduction-3/">
 
-  What are Business rules ?
+  What are Business Rules ?
 
 </a>
 
@@ -39,13 +39,13 @@ permalink: searchassist/topic-guide/en/latest/rules
 
 <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/personalize-results/contextual-rules/">
 
-  What are contexts in Business rules?
+  What are contexts in Business Rules?
 
 </a>
 
   <a class="doc-link" target="_blank" href="https://docs.kore.ai/searchassist/personalize-results/contextual-rules/">
 
-  How do I edit or delete Business rules?
+  How do I edit or delete Business Rules?
 
 </a>
 
