@@ -53,6 +53,16 @@ The following instructions are relevant for Utah and Vancouver Instances of Serv
 </container>
 
 <container>
+
+**Step 3 WIP. Retrieve the Instance URL**
+
+1. From the ServiceNow Instance Home Screen, Select “All” and navigate to System Definition → Plugins.
+   
+2. Copy the InstanceURL from the URL and paste it into the Configurations tab of this page.
+    
+</container>
+
+<container>
  
 **Step 3.   Install the required Plugins**
  
