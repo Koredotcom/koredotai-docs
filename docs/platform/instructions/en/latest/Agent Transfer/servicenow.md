@@ -54,11 +54,20 @@ The following instructions are relevant for Utah and Vancouver Instances of Serv
 
 <container>
 
-**Step 3 WIP. Retrieve the Instance URL**
+**Step 3. Install the required Plugins**
 
 1. From the ServiceNow Instance Home Screen, Select “All” and navigate to System Definition → Plugins.
    
 2. Copy the InstanceURL from the URL and paste it into the Configurations tab of this page.
+
+3. Search for the “Advanced Work Assignment” plugin and install it.
+
+4. Search for the “Customer Service Management” plugin and install it.
+
+5. Search for the “Glide Virtual Agent” plugin and install it.
+
+6. Search for the “Virtual Agent API” plugin and install it.
+   
     
 </container>
 
