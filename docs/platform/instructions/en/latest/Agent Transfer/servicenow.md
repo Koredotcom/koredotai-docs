@@ -124,4 +124,18 @@ The following instructions are relevant for Utah and Vancouver Instances of Serv
     
 </container>
 
+<container>
+
+**Step 7. Displaying the Agent Name in the Conversation[This step is optional]**
+
+1. From the ServiceNow Instance Home Screen, Select “All” and navigate to "Conversational Interfaces"→"Home" screen.
+   
+2. Select "Settings" and navigate to the "General Settings" Screen.
+
+3. Select "Agent Chat" from the left navigation menu and navigate to the "Agent Chat" screen.
+
+4. Under "User Experience"→"Chat settings", turn on the "Agent names and avatars" option and save.
+
+    
+</container>
 
