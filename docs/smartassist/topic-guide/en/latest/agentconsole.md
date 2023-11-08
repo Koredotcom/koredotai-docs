@@ -11,7 +11,7 @@ permalink: smartassist/topic-guide/en/latest/Agent Console
 <br>
 <br>
 
-<a class="doc-link" target="_blank" href="https://docs.kore.ai/smartassist/agent-console/agent-assist/#Accessing_the_Console">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/smartassist/console/agent-console-introduction">
 
 | Frontmatter | Required? |
 |-------------|-------------|
