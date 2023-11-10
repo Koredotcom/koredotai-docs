@@ -1,0 +1,21 @@
+---
+title: Agent Group
+
+permalink: smartassist/topic-guide/en/latest/Agent Group     
+
+---
+#### Topic Guide
+###### Agent Group
+
+<br>
+<br>
+<br>
+
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/smartassist/agent/agent-group/agent-groups">
+
+| Frontmatter | Required? |
+|-------------|-------------|
+| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Agent Group | 
+
+
+</a>

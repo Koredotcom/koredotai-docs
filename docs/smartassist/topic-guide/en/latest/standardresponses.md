@@ -57,7 +57,7 @@ permalink: smartassist/topic-guide/en/latest/Standard Responses
 </a>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-intelligence/default-standard-responses/">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/smartassist/configuration/standard-responses/standard-responses>
  
 
 | Frontmatter | Required? |
