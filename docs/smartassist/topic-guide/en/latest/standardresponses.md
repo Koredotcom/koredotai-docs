@@ -46,18 +46,7 @@ permalink: smartassist/topic-guide/en/latest/Standard Responses
 
 
 
-<a class="doc-link" target="_blank" href="https://academy.kore.ai/learningpath/course-133---the-default-dialog---when-the-bot-doesnt-understand">
- 
-
-| Frontmatter | Required? |
-|-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Academy**  <br /> Access the Kore Academy course 133 - Default dialog when the bot doesn't understand | 
-
-
-</a>
-
-
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-intelligence/default-standard-responses/">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/smartassist/configuration/standard-responses/standard-responses>
  
 
 | Frontmatter | Required? |
