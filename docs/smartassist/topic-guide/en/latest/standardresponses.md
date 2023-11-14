@@ -44,9 +44,7 @@ permalink: smartassist/topic-guide/en/latest/Standard Responses
 
 </details>
 
-
-
-<a class="doc-link" target="_blank" href="https://docs.kore.ai/smartassist/configuration/standard-responses/standard-responses>
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/bot-creation/storyboard/">
  
 
 | Frontmatter | Required? |
@@ -55,3 +53,4 @@ permalink: smartassist/topic-guide/en/latest/Standard Responses
 
 
 </a>
+
