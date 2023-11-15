@@ -18,7 +18,7 @@ The Kore.ai XO Platform allows you to easily connect your Azure OpenAI instance 
 
 **Authorization**
  
-To connect to Azure OpenAI, Kore.ai uses basic authentication. The end-user can use pre-authorized credentials provided by the developer during the configuration process or their own authorization profile during the configuration process to let the end user authorize during the conversation. Learn More.
+To connect to Azure OpenAI, Kore.ai uses basic authentication. The end-user can use pre-authorized credentials provided by the developer during the configuration process or their own authorization profile during the configuration process to let the end user authorize during the conversation. [Learn More](https://learn.microsoft.com/en-us/azure/ai-services/multi-service-resource?tabs=windows&pivots=azportal#get-the-keys-for-your-resource)
  
  
  |Authorization Type                      | Basic |
