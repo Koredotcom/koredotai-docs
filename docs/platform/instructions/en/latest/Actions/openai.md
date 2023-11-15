@@ -20,7 +20,7 @@ The Kore.ai XO Platform allows you to integrate with OpenAI, enabling you to eas
 
 **Authorization**
  
-To connect to OpenAI, Kore.ai uses basic authentication. The user can use pre-authorized credentials provided by the developer during the configuration process or their own authorization profile during the configuration process to let the end user authorize during the conversation. Learn More.
+To connect to OpenAI, Kore.ai uses basic authentication. The user can use pre-authorized credentials provided by the developer during the configuration process or their own authorization profile during the configuration process to let the end user authorize during the conversation. [Learn More.](https://platform.openai.com/docs/api-reference)
  
  
  |Authorization Type                      | Basic |
