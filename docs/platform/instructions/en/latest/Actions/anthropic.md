@@ -20,7 +20,7 @@ The Kore.ai XO Platform allows you to connect to both the Anthropic models, **Cl
 
 **Authorization**
  
-To connect to Anthropic, Kore.ai uses API Key authentication. The end-user can use pre-authorized credentials provided by the developer during the configuration process. API requests require an API key to be passed in an X-API-Key header. 
+To connect to Anthropic, Kore.ai uses API Key authentication. The end-user can use pre-authorized credentials provided by the developer during the configuration process. API requests require an API key to be passed in an API-Key header. 
 
 **Pre-authorize the Integration**
  
@@ -36,4 +36,3 @@ To connect to Anthropic, Kore.ai uses API Key authentication. The end-user can u
 4. Click Save.
 
 </container>
-
