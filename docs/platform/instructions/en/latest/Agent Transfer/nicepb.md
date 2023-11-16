@@ -11,6 +11,6 @@ Kore.ai XO Platform supports integration with the Nice inContact Agent System to
 
 Please visit Deploy → Channels → Nice inContact → Configurations to manage Nice inContact.
 
-After you have successfully established a connection with Zoom Contact Center, the Kore.ai XO platform moves the Nice inContact agent system into the configured state. No additional configuration is required.
+After you have successfully established a connection with Nice inContact, the Kore.ai XO platform moves the Nice inContact agent system into the configured state. No additional configuration is required.
 
 </container>
