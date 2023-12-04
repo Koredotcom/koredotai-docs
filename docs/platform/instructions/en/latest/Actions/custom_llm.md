@@ -1,7 +1,7 @@
 ---
 title: Custom LLM
 
-permalink: docs/platform/instructions/en/latest/Actions/custom_llm.md
+permalink: docs/platform/instructions/en/latest/Actions/custom_llm
 
 ---
 
