@@ -1,7 +1,7 @@
 ---
 title: Kore Agent
 
-permalink: platform/instructions/en/latest/Agent Transfer/KoreAgent
+permalink: platform/instructions/en/latest/Agent Transfer/koreAgent
 
 ---
 
