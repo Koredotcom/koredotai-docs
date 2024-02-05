@@ -18,6 +18,4 @@ Viverra in amet sed sit est risus egestas donec. Arcu purus sed molestie odio ru
 - Pellentesque viverra tellus purus, nec ornare dui scelerisque eget.
 
 
-<imgs-preview>
 ![](https://pandao.github.io/editor.md/examples/images/4.jpg)
-</imgs-preview>
