@@ -107,7 +107,13 @@ defaults:
     scope:
       path: "docs/smartassist/instructions"
     values:
-      layout: "instructions"        
+      layout: "instructions"      
+
+  -
+    scope:
+      path: "docs/platform/marketplace"
+    values:
+      layout: "marketplace"          
 
 
 

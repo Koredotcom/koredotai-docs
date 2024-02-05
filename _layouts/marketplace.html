@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    {% include head.html %}
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.perfect-scrollbar/1.5.5/css/perfect-scrollbar.min.css" />
+  
+    <link rel="stylesheet" href="css/layouts/topic/topic.css">
+    <link rel="stylesheet" href="css/layouts/marketplace/marketplace.css">
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.perfect-scrollbar/1.5.5/perfect-scrollbar.min.js"></script>
+
+   
+    <script>
+        $(function () {
+            $('[data-toggle="tooltip"]').tooltip()
+        })
+    </script>
+    <script>
+        $(document).ready(function() {
+
+            function textColorCallback(ind, ele){
+
+                $(ele).css('color', this);
+                
+            }
+       
+
+         $('container').each(function(index, ele){
+             var bgColor = $(ele).attr('bg-color');
+             var textColor =  $(ele).attr('text-color');
+             if(bgColor){
+                 $(ele).css('background-color', bgColor);
+             }
+           
+             if(textColor){
+                 $(ele).find('read-more-paragraph').each(textColorCallback.bind(textColor));
+                $(ele).find('read-more-lines').each(textColorCallback.bind(textColor));
+
+                $(ele).find('p').each(textColorCallback.bind(textColor));
+
+             }
+         });
+
+          var containerReadMore =   $('container read-more');
+
+          containerReadMore.on('click', readMoreToggle);
+          var containerReadLess ;
+             containerReadLess = $('<read-less>...less</read-less>');
+             containerReadLess.on('click', readMoreToggle);
+
+        function readMoreToggle(e){
+            
+            if(e.currentTarget.nodeName == 'READ-MORE'){
+              $(e.currentTarget).hide();
+            }
+             var nextEle = $(e.currentTarget).next();
+             if(nextEle.length && nextEle[0].nodeName == 'READ-MORE-CONTENT'){
+                if(nextEle.find('read-less').length == 0){
+                 nextEle.append(containerReadLess.clone(true, true));
+                }
+                if($(e.currentTarget).parent()[0].nodeName == 'READ-MORE-PARAGRAPH'){
+                     if(nextEle.css('display') == 'none'){
+                    nextEle.css('display', 'inline');
+                    }else{
+                        nextEle.css('display', 'inline');
+                    }
+                }else{
+                    nextEle.toggle();
+                }
+               
+                  
+             }
+             
+             if(e.currentTarget.nodeName == 'READ-LESS'){
+                $(e.currentTarget).parent().toggle();
+                $(e.currentTarget).parent().prev().show();
+             }
+           
+
+            console.log(e);
+        }
+
+                var readMore = $("<read-more>more</read-more>");
+         var readLess = $('<read-less>...less</read-less>');
+        function lineClamp(e){
+                   
+                    if(e.currentTarget.nodeName == 'READ-MORE'){
+                         $(e.currentTarget).prev().toggleClass('line-clamp');
+                      $(e.currentTarget).prev().append(readLess.clone(true, true));
+                    }else{
+                         $($(e.currentTarget).parent()[0]).toggleClass('line-clamp');
+                           $($(e.currentTarget).parent()[0]).after(readMore.clone(true, true));
+                    }
+                    $(e.currentTarget).remove();
+                  
+                   
+        }
+
+         
+        readMore.on('click', lineClamp);
+        readLess.on('click', lineClamp);
+
+        $('read-more-lines').each(function(i, ele){
+             var numberOfLines = $(ele).attr('display-lines');
+              $(ele).toggleClass('line-clamp');
+             if(numberOfLines){
+                 $(ele).css('-webkit-line-clamp', numberOfLines);
+             }
+             
+           
+            $(ele).after(readMore.clone(true, true));
+        });
+
+
+        $('read-more-paragraph[display-length]').each(function(i, ele){
+            var dispalyLength = $(ele).attr('display-length');
+            var fullText =  $(ele).text();
+            var displayText = fullText.substring(0, dispalyLength);
+            var moreText = fullText.substring(dispalyLength, fullText.length);
+            $(ele).html(displayText);
+            $(ele).append('<read-more>...more</read-more>');
+            $(ele).append('<read-more-content>'+ moreText +'</read-more-content>');
+
+        });
+
+        var readMorePara = $('read-more-paragraph read-more');
+         readMorePara.on('click', readMoreToggle);
+  
+            var payloadObj = { 
+                    action: 'videoModal',
+                    selector: 'topicGuide',
+                    payload:{url:""}
+                    };
+            $("#tg-sb-link").click(function() {
+                $("#tg-sb-sidebar").toggle();
+                $("#tg-sb-content").toggleClass('col-md-9');
+                $("#tg-sb-content").toggleClass('col-md-12');
+                $("#tg-sb-icon").toggleClass('fa-toggle-on');
+                $("#tg-sb-icon").toggleClass('fa-toggle-off');
+            });
+
+
+var span = document.querySelector('nested-details p');
+
+$('.nested-details summary').on('click', function (e) {
+    //console.log(e);
+    if ((e.offsetX > $(this).width())) {
+        $(e.currentTarget).closest('.nested-details').find('p:first').click();
+        e.preventDefault();
+    } 
+});
+            function videoCallback(e){
+                e.preventDefault();
+                payloadObj.payload.url = e.currentTarget.href;
+                payloadObj.payload.title = e.currentTarget.firstChild.getAttribute('alt');
+                 var description =  $(e.currentTarget).closest('details.introduction-video').find('p:last-child').text()
+                if(description){
+
+                payloadObj.payload.description  = description;
+                }else{
+                  payloadObj.payload.description  =  $(e.currentTarget).closest('details-video').find('p:last-child').text();
+                }
+                window.parent.postMessage(payloadObj, '*'); 
+
+
+            }
+            $('.introduction-video a').on('click',videoCallback);
+
+
+            $('details-video a').on('click',videoCallback);
+
+            $('a.tour-guide[topic-id]').on('click', function(e){
+                 e.preventDefault();
+                  window.parent.postMessage({
+                                      action: 'guidedTour',
+                                      selector: 'topicGuide',
+                                       payload:{topicId:e.currentTarget.getAttribute('topic-id')}
+                                      }, '*');
+            });
+
+            $('a.doc-link').on('click', function(e){
+                console.log(e);
+                 var payloadObj = { 
+                    action: '',
+                    selector: 'topicGuide',
+                    payload:{
+                        topicName:''
+                       
+                    }
+                    };
+                if($(e.currentTarget).find('table').length){
+                    payloadObj.action =  $(e.currentTarget).find('table td strong').text();
+                    if(payloadObj.action == 'Academy'){
+                        payloadObj.payload.courseName =  $(e.currentTarget).find('table td ').text().replace('Academy', '').trim();
+                    }else{
+                        payloadObj.payload.docUrl = $(e.currentTarget).attr('href');
+                    }
+
+
+                }else{
+                         payloadObj.action = 'faq';
+                        payloadObj.payload.faqName = $(e.currentTarget).text();
+
+                    }
+                    
+                 window.parent.postMessage(payloadObj, '*');
+                 });
+
+                 $('a.nested-accordian-link.no-doc-ext-link details').on('toggle', function(e){
+                     if($(e.currentTarget).attr('open')){
+                      var payloadData = { 
+                        action: '',
+                        selector: 'topicGuide',
+                        payload:{
+                            topicName:''
+                        
+                        }
+                    };
+
+                     payloadData.action = 'faq';
+                        payloadData.payload.faqName = $(e.currentTarget).find('summary').text();
+                         payloadData.payload.faqDescription = $(e.currentTarget).find('p').text();
+                   
+                      window.parent.postMessage(payloadData, '*');
+                      }
+                 })
+
+   
+
+          function numberTransFormTwoDegit (n) {
+                 return n > 9 ? "" + n : "0" + n;
+                }
+            $('details').each((el, n)=>{
+                if($(n).find('summary').first().text().trim() == "FAQs") {
+
+                    $(n).find('summary').first().append("<span class='count'>("+ numberTransFormTwoDegit(+(($(n).find('a.doc-link').length) + ($(n).find('a.nested-accordian-link').length))) +")</span>")
+                } else if($(n).find('summary').first().text().trim() == "Videos") {
+
+                    $(n).find('summary').first().append("<span class='count'>("+ numberTransFormTwoDegit(+(($(n).find('details-video').length))) +  ")</span>")
+                }
+            });
+
+  
+         //  $('body').perfectScrollbar();
+            new PerfectScrollbar('body');
+               window.parent.postMessage({
+                frameStatus:'loaded',
+                action:'guidedTour'
+               }, '*');
+        
+        });
+    </script>
+   
+    {% if page.datatable == true %}
+    <!-- Include the standard DataTables bits -->
+    <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.13/css/jquery.dataTables.css">
+    <script type="text/javascript" charset="utf8" src="//cdn.datatables.net/1.10.13/js/jquery.dataTables.js"></script>
+    <!-- First, this walks through the tables that occur between ...-begin
+         and ...-end and add the "datatable" class to them.
+         Then it invokes DataTable's standard initializer
+         Credit here: http://www.beardedhacker.com/blog/2015/08/28/add-class-attribute-to-markdown-table/
+      -->
+    <script>
+      $(document).ready(function(){
+          $('div.datatable-begin').nextUntil('div.datatable-end', 'table').addClass('display');
+          $('table.display').DataTable( {
+              paging: true,
+              stateSave: true,
+              searching: true
+          });
+       });
+    </script>
+    {% endif %}
+
+</head>
+<body>
+
+<!-- Page Content -->
+<div class="instruction-container">
+  <div id="main">
+    <!-- Content Row -->
+    <div class="row">
+        {% assign content_col_size = "col-md-12" %}
+
+
+        <!-- Content Column -->
+        <div class="{{content_col_size}}" id="tg-sb-content">
+            {{content}}
+        </div>
+    <!-- /.row -->
+</div>
+<!-- /.container -->
+</div>
+<!-- /#main -->
+    </div>
+
+</body>
+
+</html>
+
