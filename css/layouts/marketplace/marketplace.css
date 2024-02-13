@@ -1,14 +1,18 @@
-h3{
+.market-container h3{
     color: #101828;
+    font-size: 100%;
+    font-weight:600;
 }
-
+.market-container ul{
+    color: #344054;
+    padding-left:26px;
+}
 p{
     color: #344054;
 }
 
 .market-container {
-    /* padding: 0 !important; */
-    padding: 0 48px 30px 30px !important;
+    padding: 0 !important;
 }
 .market-container #tg-sb-content{
     padding: 0;
