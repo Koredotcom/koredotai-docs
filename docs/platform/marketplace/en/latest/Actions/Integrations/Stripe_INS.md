@@ -60,9 +60,3 @@ This method requires the end user to provide credentials during the conversation
 7. Click Enable.
 
  
-
-
-**What can be achieved by integrating Stripe with the Kore.ai XO Platform?**
- 
- The Kore.ai XO Platform supports all common actions on Stripe objects with pre-built dialog templates that are ready to use. 
-
