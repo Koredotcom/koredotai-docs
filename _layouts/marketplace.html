@@ -253,7 +253,7 @@ $('.nested-details summary').on('click', function (e) {
         var message = {
             action: "dom-size-update",
             payload: {
-                width: document.getElementsByTagName('body')[0].scrollHeight,
+                width: document.getElementsByTagName('body')[0].scrollWidth,
                 height: document.getElementsByTagName('body')[0].scrollHeight
             }
         }
