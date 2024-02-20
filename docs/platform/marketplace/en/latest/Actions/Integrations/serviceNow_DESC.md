@@ -1,7 +1,7 @@
 ---
 title: ServiceNow
 
-permalink: platform/marketplace/en/latest/Actions/Integrations/servicenow_DESC
+permalink: platform/marketplace/en/latest/Actions/Integrations/serviceNow_DESC
 
 ---
 
