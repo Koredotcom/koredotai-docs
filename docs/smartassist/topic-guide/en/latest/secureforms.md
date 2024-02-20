@@ -5,7 +5,7 @@ permalink: smartassist/topic-guide/en/latest/Secure Forms
 
 ---
 #### Topic Guide
-###### Secure Forms
+###### Agent Forms
 
 <br>
 <br>
@@ -15,7 +15,7 @@ permalink: smartassist/topic-guide/en/latest/Secure Forms
 
 | Frontmatter | Required? |
 |-------------|-------------|
-| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Secure Forms | 
+| ![alt text](images/docIcon.svg "Title") | **Documentation**  <br /> Check out our indepth documentation articles on Agent Forms | 
 
 
 </a>
