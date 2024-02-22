@@ -140,9 +140,7 @@ This method requires the end user to provide credentials during the conversation
 4. Select the type of authorization mechanism. 
  
    i.  Select oAuth v2.
- 
-   ii.  Provide a name for your authorization profile.
- 
+    
    iii.  Login to Zendesk admin console, navigate to Apps & Integrations -> Zendesk API -> OAuth Clients 
        
    iv.  Add a new OAuth Client and Save. You will see Client Secret generated. 
@@ -160,8 +158,8 @@ This method requires the end user to provide credentials during the conversation
    ix.  Scopes: You can request read, write, or impersonate access to all resources or to specific resources.
         Refer [https://support.zendesk.com/hc/en-us/articles/4408845965210#topic_pbc_cdl_1l](https://support.zendesk.com/hc/en-us/articles/4408845965210#topic_pbc_cdl_1l)
  
-5. Save Authorization Profile.
+6. Save Authorization Profile.
  
-6. Select the created Authorization Profile to complete integration.
+7. Select the created Authorization Profile to complete integration.
  
-7. Click Enable. 
+8. Click Enable. 
