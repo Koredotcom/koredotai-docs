@@ -124,7 +124,7 @@ read-more-paragraph{
     -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
 }
-#tg-sb-content p:nth-child(3){
+.market-container #tg-sb-content p:nth-child(3){
     font-weight: revert !important;
     font-size: 15px !important;
     line-height: 18px !important;
