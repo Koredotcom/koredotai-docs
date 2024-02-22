@@ -70,9 +70,7 @@ To connect to a client's Zendesk account, Kore.ai uses Basic Auth. The developer
 4. Select the type of authorization mechanism. 
  
    i.   Select oAuth v2.
- 
-   ii.  Provide a name for your authorization profile.
- 
+   ii.  Provide a name for your authorization profile. 
    iii. Login to Zendesk admin console, navigate to Apps & Integrations -> Zendesk API -> OAuth Clients 
        
     iv. Add a new OAuth Client and Save. 
@@ -91,13 +89,13 @@ To connect to a client's Zendesk account, Kore.ai uses Basic Auth. The developer
      ix.Scopes: You can request read, write, or impersonate access to all resources or to specific resources.
         Refer https://support.zendesk.com/hc/en-us/articles/4408845965210#topic_pbc_cdl_1l.
  
-5. Save Authorization Profile.
-6. Select the created Authorization Profile to complete integration.
-7. Click Authorize.
-8. It will redirect you to the Zendesk login page.
-9. Provide your credentials to connect with your Zendesk account. 
+6. Save Authorization Profile.
+7. Select the created Authorization Profile to complete integration.
+8. Click Authorize.
+9. It will redirect you to the Zendesk login page.
+10. Provide your credentials to connect with your Zendesk account. 
    Please note that you are allowing your custom app to fetch the access token to complete the authorization and not using Kore.ai’s Zendesk app for the same.
-10. Click Enable. 
+11. Click Enable. 
  
 **Allow Users to Authorize the Integration**
  
