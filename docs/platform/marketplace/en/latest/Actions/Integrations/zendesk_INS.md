@@ -167,5 +167,3 @@ This method requires the end user to provide credentials during the conversation
 6. Select the created Authorization Profile to complete integration.
  
 7. Click Enable. 
- 
-
