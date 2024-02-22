@@ -133,8 +133,8 @@
                     };
             $("#tg-sb-link").click(function() {
                 $("#tg-sb-sidebar").toggle();
-                $("#tg-sb-content").toggleClass('col-md-9');
-                $("#tg-sb-content").toggleClass('col-md-12');
+                $("#tg-sb-content-data").toggleClass('col-md-9');
+                $("#tg-sb-content-data").toggleClass('col-md-12');
                 $("#tg-sb-icon").toggleClass('fa-toggle-on');
                 $("#tg-sb-icon").toggleClass('fa-toggle-off');
             });
@@ -296,7 +296,7 @@ $('.nested-details summary').on('click', function (e) {
 
 
         <!-- Content Column -->
-        <div class="{{content_col_size}}" id="tg-sb-content">
+        <div class="{{content_col_size}}" id="tg-sb-content-data">
             {{content}}
         </div>
     <!-- /.row -->
