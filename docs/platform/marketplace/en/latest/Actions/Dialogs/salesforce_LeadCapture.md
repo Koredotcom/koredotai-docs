@@ -1,7 +1,7 @@
 ---
 title: Lead Capture on Salesforce
 
-permalink: platform/marketplace/en/latest/Actions/Integrations/salesforce_LeadCapture
+permalink: platform/marketplace/en/latest/Actions/Integrations/salesforce_leadCapture
 
 ---
 
