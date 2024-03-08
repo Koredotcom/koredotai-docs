@@ -1,7 +1,7 @@
 ---
 title: Lead Capture on Hubspot
 
-permalink: platform/marketplace/en/latest/Actions/Integrations/hubspot_LeadCapture
+permalink: platform/marketplace/en/latest/Actions/Integrations/hubspot_leadCapture
 
 ---
 
