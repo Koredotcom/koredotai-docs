@@ -1,7 +1,7 @@
 ---
 title: Lead Capture
 
-permalink: platform/marketplace/en/latest/Actions/Integrations/generic_LeadCapture
+permalink: platform/marketplace/en/latest/Actions/Integrations/generic_leadCapture
 
 ---
 
