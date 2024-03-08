@@ -7,7 +7,7 @@ permalink: platform/marketplace/en/latest/Actions/Integrations/shopify_orderStat
 
 ### Description
 
-Install the Order Status template for Shopify to check the status of your order. 
+Install the Order Status template for Shopify to check the status of your order.
 
 ### Order Status highlights :
 - Allows the end user to check the status of their order
