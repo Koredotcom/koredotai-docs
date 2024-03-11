@@ -1,7 +1,7 @@
 ---
 title: Stripe Instructions
 
-permalink: platform/instructions/en/latest/Actions/Stripe_INS
+permalink: platform/instructions/en/latest/Actions/stripe_INS
 
 ---
 
