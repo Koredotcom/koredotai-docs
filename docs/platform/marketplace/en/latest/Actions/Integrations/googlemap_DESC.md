@@ -1,7 +1,7 @@
 ---
 title: Google Maps
 
-permalink: platform/marketplace/en/latest/Actions/Integrations/googlemap_DESC
+permalink: platform/marketplace/en/latest/Actions/Integrations/googleMaps_DESC
 
 ---
 
