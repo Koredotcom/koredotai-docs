@@ -1,7 +1,7 @@
 ---
 title: Microsoft Graph
 
-permalink: platform/instructions/en/latest/Actions/microsoftGraph
+permalink: platform/instructions/en/latest/Actions/microsoftGraph_INS
 
 ---
 
