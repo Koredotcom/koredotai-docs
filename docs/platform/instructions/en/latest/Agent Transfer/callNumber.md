@@ -1,5 +1,5 @@
 ---
-title: Custom Voice Phone
+title: Call Number
 
 permalink: platform/instructions/en/latest/Agent Transfer/callNumber
 
