@@ -1,7 +1,7 @@
 ---
 title: Google Calendar
 
-permalink: platform/instructions/en/latest/Actions/googlecalendar
+permalink: platform/instructions/en/latest/Actions/googleCalendar
 
 ---
 

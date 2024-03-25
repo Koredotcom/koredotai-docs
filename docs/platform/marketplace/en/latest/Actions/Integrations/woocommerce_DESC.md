@@ -1,7 +1,7 @@
 ---
 title: WooCommerce
 
-permalink: platform/marketplace/en/latest/Actions/Integrations/woocommerce_DESC
+permalink: platform/marketplace/en/latest/Actions/Integrations/wooCommerce_DESC
 
 ---
 

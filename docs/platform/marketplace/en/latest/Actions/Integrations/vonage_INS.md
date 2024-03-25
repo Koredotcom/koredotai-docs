@@ -1,13 +1,18 @@
 ---
-title: Stripe Instructions
+title: Vonage
 
-permalink: platform/marketplace/en/latest/Actions/Integrations/stripe_INS
+permalink: platform/instructions/en/latest/Actions/vonage_INS
 
 ---
 
+<base target="_blank">
+
+
+
+
 **Authorization**
  
-To connect to a Stripe account, Kore.ai uses Basic Auth. The developer can use pre-authorized credentials during the configuration process or let the end user authorize during the conversation by creating an authorization profile. Learn More.
+To connect to a Vonage account, Kore.ai uses Basic Auth. The developer can use pre-authorized credentials during the configuration process or let the end user authorize during the conversation by creating an authorization profile. Learn More.
  
  
  |Authorization Type                      | Basic |
@@ -22,20 +27,17 @@ To connect to a Stripe account, Kore.ai uses Basic Auth. The developer can use p
 
 **Basic**
  
-1. Provide API Key to authorize the integration.  
-2. Follow the steps below to get the required credentials from your Stripe instance.
+1. Provide API key and API secret to authorize the integration.  
+2. Follow the steps below to get the required credentials from your Vonage dashboard.
  
-      i. Login to your Stripe Instance. https://dashboard.stripe.com/.
+ 
+      i. Login to your Vonage account.  https://ui.idp.vonage.com/ui/auth/login.
       
-     ii. Click on Developers tab.
+     ii. Navigate to My dashboard section.
   
-    iii. Click on API Keys.
-   
-     iv. In the Standard Keys section, against the Secret Key row, click on Reveal Key.
-  
-      v. Copy the API Key into Kore.ai XO Platform API Key field.
-  
-     vi. Click Enable.
+    iii. Copy the API key and API secret into Kore.ai XO Platform.
+     
+     iv. Click Enable.
 
  
 **Allow Users to Authorize the Integration**
@@ -51,12 +53,11 @@ This method requires the end user to provide credentials during the conversation
  
    i. Select Basic Auth
   
-   ii. Provide a name for the Authorization Profile
+     ii. Provide a name for the Authorization Profile
  
 5. Save Authorization Profile.
  
 6. Select the created Authorization Profile to complete integration.
  
 7. Click Enable.
-
  
