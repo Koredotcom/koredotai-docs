@@ -124,3 +124,7 @@ read-more-paragraph{
     -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
 }
+
+.market-container #tg-sb-content p img{
+    max-width: 100%;
+}

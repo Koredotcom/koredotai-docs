@@ -1,5 +1,5 @@
 ---
-title: Lead Capture on Salesforce
+title: Lead Capture on calendly
 
 permalink: platform/marketplace/en/latest/Actions/Integrations/calendly_scheduleAnAppointment
 

@@ -25,7 +25,7 @@ permalink: platform/topic-guide/en/latest/Import & Export
 
 </details>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/sdks/botkit-sdk-tutorial-agent-transfer/">
+<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/process-apps/settings/import-export/">
  
 
 | Frontmatter | Required? |
