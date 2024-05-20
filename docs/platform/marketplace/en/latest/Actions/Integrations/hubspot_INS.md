@@ -12,7 +12,7 @@ permalink: platform/instructions/en/latest/Actions/hubspot_INS
 
 **Authorization**
  
-To connect to a Hubspot account, Kore.ai uses OAuth. The developer can use pre-authorized credentials during the configuration process or let the end user authorize during the conversation by creating an authorization profile. Learn More.
+To connect to a Hubspot account, Kore.ai uses OAuth. The developer can use pre-authorized credentials during the configuration process or let the end user authorize during the conversation by creating an authorization profile. [Learn More](https://developers.hubspot.com/docs/api/overview)
  
  |Authorization Type                      | OAuth - System | OAuth - Custom |
  |----------------------------------------|----------------|----------------|
