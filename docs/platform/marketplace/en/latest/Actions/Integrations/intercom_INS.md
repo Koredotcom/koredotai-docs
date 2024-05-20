@@ -12,7 +12,7 @@ permalink: platform/instructions/en/latest/Actions/intercom_INS
 
 **Authorization**
  
-To connect an Intercom account, Kore.ai uses OAuth 2.0 authentication. The user can use pre-authorized credentials provided by the developer during the configuration process or their own authorization profile during the configuration process to let the end user authorize during the conversation. Learn More.
+To connect an Intercom account, Kore.ai uses OAuth 2.0 authentication. The user can use pre-authorized credentials provided by the developer during the configuration process or their own authorization profile during the configuration process to let the end user authorize during the conversation.
  
  |Authorization Type                      | OAuth - System | OAuth - Custom |
  |----------------------------------------|----------------|----------------|
