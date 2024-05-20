@@ -132,7 +132,7 @@ This method requires the end user to provide credentials during the conversation
  
    viii. Add the "JIRA API" and click on Configure "JIRA API" to navigate to the Scopes screen.
 
-   ix. Click on Edit Scopes for "Jira platform REST API", select all the scopes, and save it.
+   ix. Click on Edit Scopes for "Jira platform REST API", select all the scopes. Also add the "offline_access" scope to the list of scopes and save it.
 
    x. Copy the Authorization URL (https://auth.atlassian.com/authorize?audience=api.atlassian.com) and paste it into the Authorization URL field to the Kore.ai platform.
   
