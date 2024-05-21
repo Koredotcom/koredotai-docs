@@ -12,7 +12,7 @@ permalink: platform/instructions/en/latest/Actions/jira_INS
 
 **Authorization**
  
-To connect to a Jira account, Kore.ai uses OAuth 2.0 authentication. The user can use pre-authorized credentials provided by the developer during the configuration process or their own authorization profile during the configuration process to let the end user authorize during the conversation. Learn More.
+To connect to a Jira account, Kore.ai uses OAuth 2.0 authentication. The user can use pre-authorized credentials provided by the developer during the configuration process or their own authorization profile during the configuration process to let the end user authorize during the conversation.
  
  |Authorization Type                      | OAuth - System | OAuth - Custom |
  |----------------------------------------|----------------|----------------|
@@ -69,7 +69,7 @@ To connect to a Jira account, Kore.ai uses OAuth 2.0 authentication. The user ca
  
    viii. Add the "JIRA API" and click on Configure "JIRA API" to navigate to the Scopes screen.
 
-   ix. Click on Edit Scopes for "Jira platform REST API", select all the scopes, and save it.
+   ix. Click on Edit Scopes for "Jira platform REST API", select all the scopes. Also add the "offline_access" scope to the list of scopes and save it.
 
    x. Copy the Authorization URL (https://auth.atlassian.com/authorize?audience=api.atlassian.com) and paste it into the Authorization URL field to the Kore.ai platform.
   
@@ -132,7 +132,7 @@ This method requires the end user to provide credentials during the conversation
  
    viii. Add the "JIRA API" and click on Configure "JIRA API" to navigate to the Scopes screen.
 
-   ix. Click on Edit Scopes for "Jira platform REST API", select all the scopes, and save it.
+   ix. Click on Edit Scopes for "Jira platform REST API", select all the scopes. Also add the "offline_access" scope to the list of scopes and save it.
 
    x. Copy the Authorization URL (https://auth.atlassian.com/authorize?audience=api.atlassian.com) and paste it into the Authorization URL field to the Kore.ai platform.
   

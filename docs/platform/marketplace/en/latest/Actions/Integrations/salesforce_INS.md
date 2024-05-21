@@ -12,7 +12,7 @@ permalink: platform/instructions/en/latest/Actions/salesforce_INS
 
 **Authorization**
  
-To connect to a client's Salesforce account, Kore.ai uses OAuth 2.0 authentication. The user can use pre-authorized credentials provided by the developer during the configuration process or their own authorization profile during the configuration process to let the end user authorize during the conversation. Learn More.
+To connect to a client's Salesforce account, Kore.ai uses OAuth 2.0 authentication. The user can use pre-authorized credentials provided by the developer during the configuration process or their own authorization profile during the configuration process to let the end user authorize during the conversation. [Learn More](https://developer.salesforce.com/docs/atlas.en-us.api_rest.meta/api_rest/intro_oauth_and_connected_apps.htm).
  
  |Authorization Type                      | OAuth - System | OAuth - Custom |
  |----------------------------------------|----------------|----------------|
@@ -32,7 +32,7 @@ To connect to a client's Salesforce account, Kore.ai uses OAuth 2.0 authenticati
  
 2. Click Authorize.
  
-3. It will redirect you to the Salesforce login page login.salesfore.com.
+3. It will redirect you to the Salesforce login page **login.salesfore.com**.
  
 4. Provide your credentials to connect with your Salesforce account.
    Please note that you are allowing Kore.ai’s app to fetch the access token to complete the authorization.
@@ -53,9 +53,9 @@ To connect to a client's Salesforce account, Kore.ai uses OAuth 2.0 authenticati
  
 4. Select the type of authorization mechanism. 
  
-    i.  Select oAuth v2.
+    i.  Select OAuth v2.
  
-    ii.  Navigate to login.salesforce.com and log in. 
+    ii.  Navigate to [login.salesforce.com](https://login.salesforce.com/) and log in. 
          To log in, please use credentials from a Developer, Standard, or Enterprise account. Trial accounts will not be able to access the app and the Virtual              Assistant will not function as expected.
  
     iii. Navigate to Apps → select the app → Click on Auth.
@@ -74,7 +74,9 @@ To connect to a client's Salesforce account, Kore.ai uses OAuth 2.0 authenticati
  
       2. refresh_token 
  
-      3. offline_access 
+      3. offline_access
+  
+   ix. Copy Refresh Token URL (https://login.salesforce.com/services/oauth2/token)
  
 5. Save Authorization Profile.
  
@@ -82,7 +84,7 @@ To connect to a client's Salesforce account, Kore.ai uses OAuth 2.0 authenticati
  
 7. Click Authorize.
  
-8. It will redirect you to the Salesforce login page login.salesfore.com.
+8. It will redirect you to the Salesforce login page **login.salesfore.com**.
  
 9. Provide your credentials to connect with your Salesforce account. 
    Please note that you are allowing your custom app to fetch the access token to complete the authorization and not using Kore.ai’s Salesforce app for the same.
@@ -116,9 +118,9 @@ This method requires the end user to provide credentials during the conversation
  
 4. Select the type of authorization mechanism. 
  
-    i.  Select oAuth v2.
+    i.  Select OAuth v2.
  
-    ii.  Navigate to login.salesforce.com and log in. 
+    ii.  Navigate to [login.salesforce.com](https://login.salesforce.com/) and log in. 
          To log in, please use credentials from a Developer, Standard, or Enterprise account. Trial accounts will not be able to access the app and the Virtual              Assistant will not function as expected.
  
     iii. Navigate to Apps → select the app → Click on Auth.
@@ -137,8 +139,10 @@ This method requires the end user to provide credentials during the conversation
  
       2. refresh_token 
  
-      3. offline_access 
- 
+      3. offline_access
+         
+   ix. Copy Refresh Token URL (https://login.salesforce.com/services/oauth2/token)
+
 5. Save Authorization Profile.
  
 6. Select the created Authorization Profile to complete integration.
