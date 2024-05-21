@@ -55,13 +55,21 @@ This method requires the end user to provide credentials during the conversation
  
 4. Select the type of authorization mechanism. 
  
-   i.  Select API Key
+   i.  Select API Key.
  
    ii.  Provide a name for the authorization profile.
+
+   iii. Select Subdomain as Yes, some tasks will have tenancy URLs and the user will need to provide that to successfully authenticate
+
+    iv. Add Base URL https://{tenant}.myshopify.com/admin/api/2023-01/shop.json
+   
+   v. Under Form Field(s) click "+ Add Form Field", enter the Field Title and Field key, under Advance Settings select Mandatory option as "Yes, user must enter this field".
+   
+   vi. under Authorization Field(s), click edit and select Field Type as header and Field Key as "X-Shopify-Access-Token".
+
+   vii. click Save Auth
  
-   iii.  Save Authorization Profile.
- 
- 5.  Click Enable.
+ 6.  Click Enable.
  
 
 
