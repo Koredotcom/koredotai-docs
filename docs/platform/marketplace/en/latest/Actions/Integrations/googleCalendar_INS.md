@@ -12,7 +12,7 @@ permalink: platform/instructions/en/latest/Actions/googleCalendar_INS
 
 **Authorization**
  
-To connect to Google Calendar, Kore.ai uses OAuth authentication. The developer can use pre-authorized credentials during the configuration process or let the end user authorize during the conversation by creating an authorization profile.
+To connect to Google Calendar, Kore.ai uses OAuth authentication. The developer can use pre-authorized credentials during the configuration process or let the end user authorize during the conversation by creating an authorization profile. [Learn More](https://developers.google.com/calendar/api/guides/overview)
  
  |Authorization Type                      |  OAuth - System | OAuth - Custom |
  |----------------------------------------|-----------------|----------------|
