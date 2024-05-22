@@ -140,16 +140,3 @@ This method requires the end user to provide credentials during the conversation
 7. Select the created Authorization Profile to complete integration.
  
 8. Click **Enable**.
-
-**What can be achieved by integrating Zoho CRM with the Kore.ai XO Platform?**
- 
- The Kore.ai XO Platform supports all common actions on Zoho CRM with pre-built dialog templates that are ready to use.
- 
-**Templates Supported**
-
-| Action           | Description            |
-|------------------|------------------------|
-|Create Lead     |Add a new lead to Zoho CRM|
-|Update Lead     |Modify an existing lead|
-|Get All Leads     |Display a list of all leads|
-|Get Lead (by id, phone, email)     |Retrieve a lead by its unique ID|

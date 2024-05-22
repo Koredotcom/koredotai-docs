@@ -6,16 +6,6 @@ permalink: platform/instructions/en/latest/Actions/microsoftGraph_INS
 ---
 
 <base target="_blank">
-<container>
-
-**Overview**
-
-Connect your Microsoft Graph with the Kore.ai XO Platform to enhance your conversations and enable the creation of events, lists.
-
-
-</container>
-
-<container>
 
 **Authorization**
  
@@ -180,23 +170,3 @@ You can create your authorization profile to obtain an access token and use it t
 6. Select the created Authorization Profile to complete integration.
  
 6. Click Enable.
- 
-</container>
-
-<container>
-
-**What can be achieved by integrating Microsoft Graph with the Kore.ai XO Platform?**
- 
-The Kore.ai XO Platform supports all common actions on Microsoft Graph objects with pre-built dialog templates that are ready to use.
- 
-**Templates Supported**
-
-| Action           | Description            |
-|------------------|------------------------|
-|List All Events   |Retrieves a list of all events from a user's calendar|
-|List All To do Lists |Retrieves a list of all to-do lists from a user's Microsoft To-Do account|
-|Create a To do List  |Create a new to-do list in a user's Microsoft To-Do account|
-|Create an Event     |Create a new event in a user's calendar|
-|Send a Mail       |Send an email from a user's account|
-
-</container>
