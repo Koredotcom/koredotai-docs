@@ -250,7 +250,8 @@ $('.nested-details summary').on('click', function (e) {
         
         });
         function getDimensions() {
-        var message = {
+        setTimeout(function(){
+            var message = {
             action: "dom-size-update",
             payload: {
                 width: document.getElementsByTagName('body')[0].scrollWidth,
@@ -259,6 +260,7 @@ $('.nested-details summary').on('click', function (e) {
         }
         window.parent.postMessage(message, '*');
         document.removeEventListener('DOMContentLoaded', getDimensions);
+        },500);
     }
     document.addEventListener('DOMContentLoaded', getDimensions);
     </script>
