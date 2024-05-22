@@ -7,10 +7,8 @@ permalink: platform/marketplace/en/latest/Actions/Integrations/hubspot_leadCaptu
 
 ### Description
 
-Install the Lead capture template for Hubspot to automate the capture of a lead's details on voice or chat channels. Use our wizard form to select the contact fields you would like to capture in a conversational format, and automate the creation of a contact object in Hubspot once the fields are captured. 
+Integrate your Hubspot instance with the Kore.ai XO platform to streamline Hubspot tasks within your dialog flow. Retrieve, create, update and delete leads or deals effortlessly. The Kore.ai XO platform allows you to connect with Hubspot quickly and seamlessly using OAuth2.
 
 ### Lead capture highlights :
-- Capture a lead's details on both chat and voice channels.
-- Customise the contact fields and channel experiences via the Wizard form.
-- Automatically creates a new contact in Hubspot on completion.
-
+- List, search, create, update, delete and get details of leads.
+- List, search, create, update, delete and get details of deals.

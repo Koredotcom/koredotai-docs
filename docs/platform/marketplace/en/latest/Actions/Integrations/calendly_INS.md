@@ -111,21 +111,3 @@ This method requires the end user to provide credentials during the conversation
 6. Select the created Authorization Profile to complete integration.
  
 7. Click **Enable**.
-
-
-**What can be achieved by integrating Calendly with the Kore.ai XO Platform?**
- 
-The Kore.ai XO Platform supports all common actions on Calendly with pre-built dialog templates that are ready to use. 
- 
-**Templates Supported**
-
-| Action           | Description            |
-|------------------|------------------------|
-|List Events|Displays a list of all scheduled events.|
-|Get Event Invitees |Fetch information about attendees for a scheduled event|
-|Get Event Details         |Fetch the details of a particular calendar event|
-|List Events By Predefined Range    |Displays a list of all scheduled events within the range|
-
-| Template             | Description            |
-|---------------------|------------------------|
-|Schedule an appointment            | Book an appointment|

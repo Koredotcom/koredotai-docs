@@ -1,5 +1,5 @@
 ---
-title: Lead Capture
+title: Lead Capture on generic
 
 permalink: platform/marketplace/en/latest/Actions/Integrations/generic_leadCapture
 

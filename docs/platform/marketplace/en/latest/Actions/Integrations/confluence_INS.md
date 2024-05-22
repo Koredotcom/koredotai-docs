@@ -53,28 +53,37 @@ You can create your authorization profile to obtain an access token and use it t
  
    i.   Select oAuth v2.
  
-   ii.   Navigate to https://auth.atlassian.com/ and log in.
+   ii.   Navigate to https://developer.atlassian.com/ and log in.
  
-   iii.  Navigate to Settings 
+   iii.  Create an app and navigate to the app settings. 
  
    iv.   Copy Client Id from Confluence into Client Id field to Kore.ai platform.
  
-   v.   Copy Client secret from Confluence into Client Secret field to Kore.ai platform.
+    v.   Copy Client secret from Confluence into Client Secret field to Kore.ai platform.
+
+   vi. Navigate to the Authorization tab in the app, click on Configure, Copy the callback URL from the Kore.ai platform, and paste it into the Callback URL of the Confluence app.
+   
+   vii. Click on "Add APIS" to your app displayed under "Authorization URL generator" and navigate to the permissions screen.
+
+   viii. Add the "Confluence API" and click on Configure "Confluence API" to navigate to the Scopes screen.
+   
+   ix. Click on Edit Scopes for "Confluence platform REST API", select all the scopes.
+
+   x.   Copy Authorization URL (https://auth.atlassian.com/authorize?audience=api.atlassian.com) and paste it into the Authorization URL field to the Kore.ai platform.
  
-   vi.   Copy Authorization URL (https://auth.atlassian.com/authorize?audience=api.atlassian.com).
- 
-   vii.  Copy Token URL (https://auth.atlassian.com/oauth/token).
- 
-   viii. Copy Refresh Token URL (https://auth.atlassian.com/oauth/token).
+   xi.  Copy the Token URL (https://auth.atlassian.com/oauth/token), paste it into the Token Request URL, and Refresh Token URL fields on the Kore.ai platform.
  
 5.  Save Authorization Profile.
  
- 6. Select the created Authorization Profile to complete integration.
+6. Select the created Authorization Profile to complete integration.
  
- 7. Click Authorize.
- 8. It will redirect you to the Confluence login page.
- 9. Provide your credentials to connect with your Confluence account. Please note that you are allowing your custom app to fetch the access token to complete the authorization and not using Kore.ai’s Confluence app for the same.
- 10. Click Enable.
+7. Click Authorize.
+   
+8. It will redirect you to the Confluence login page.
+
+9. Provide your credentials to connect with your Confluence account. Please note that you are allowing your custom app to fetch the access token to complete the authorization and not using Kore.ai’s Confluence app for the same.
+
+10. Click Enable.
 
 **Allow Users to Authorize the Integration**
  
@@ -104,19 +113,25 @@ This method requires the end user to provide credentials during the conversation
  
    i.   Select oAuth v2.
  
-   ii.   Navigate to https://auth.atlassian.com/ and log in.
+   ii.   Navigate to https://developer.atlassian.com/ and log in.
  
-   iii.  Navigate to Settings 
+   iii.  Create an app and navigate to the app settings.
  
-   iv.   Copy Client Id from Confluence into Client Id field to Kore.ai platform.
+   iv.   Copy the ClientId from the app and paste it into the ClientId field to the Kore.ai platform.
  
-    v.   Copy Client secret from Confluence into Client Secret field to Kore.ai platform.
- 
-   vi.   Copy Authorization URL (https://auth.atlassian.com/authorize?audience=api.atlassian.com).
- 
-   vii.  Copy Token URL (https://auth.atlassian.com/oauth/token).
- 
-   viii.   Copy Refresh Token URL (https://auth.atlassian.com/oauth/token).
+    v.   Copy the Client secret from the app and paste it into the Client Secret field to the Kore.ai platform.
+
+   vi.  Navigate to the Authorization tab in the app, click on Configure, Copy the callback URL from the Kore.ai platform, and paste it into the Callback URL of the Confluence app.
+
+   vii. Click on "Add APIS" to your app displayed under "Authorization URL generator" and navigate to the permissions screen.
+
+   viii. Add the "Confluence API" and click on Configure "Confluence API" to navigate to the Scopes screen.
+
+   ix.Click on Edit Scopes for "Confluence platform REST API", select all the scopes.
+   
+   x. Copy the Authorization URL (https://auth.atlassian.com/authorize?audience=api.atlassian.com) and paste it into the Authorization URL field to the Kore.ai platform.
+
+   xi. Copy the Token URL (https://auth.atlassian.com/oauth/token), paste it into the Token Request URL, and Refresh Token URL fields on the Kore.ai platform.
  
 5. Save Authorization Profile.
  
@@ -124,4 +139,3 @@ This method requires the end user to provide credentials during the conversation
  
 7. Click Enable.
  
-
