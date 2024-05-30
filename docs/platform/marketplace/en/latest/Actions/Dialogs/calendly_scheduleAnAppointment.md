@@ -9,7 +9,7 @@ permalink: platform/marketplace/en/latest/Actions/Integrations/calendly_schedule
 
 Introducing the Scheduling feature on the Kore XO Platform - revolutionize how your customers book appointments! Effortlessly sync with Calendly and empower your clients to schedule appointments hassle-free. 
 
-### Schedule an appointment highlights :
+### By authorizing this integration you can :
 - Enable users to conveniently schedule appointments.
 - The bot would share a unique link to a specific calendar, allowing customers to easily book appointments through Calendly.
 

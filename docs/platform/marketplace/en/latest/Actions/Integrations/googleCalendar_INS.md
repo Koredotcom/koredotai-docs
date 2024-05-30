@@ -136,21 +136,3 @@ This method requires the end user to provide credentials during the conversation
  9. Provide your credentials to connect with your Google account.
    
  10. Click **Enable**.
-
-<container>
-
-**What can be achieved by integrating Google Calendar with the Kore.ai Platform?**
- 
-The Kore.ai Platform supports all common actions on Google Calendar with pre-built dialog templates that are ready to use. 
- 
-**Templates Supported**
-
-| Action           | Description            |
-|------------------|------------------------|
-|Get Event Details|View a specific Event by ID|
-|Create Calendar Event |Create a new calendar event|
-|Get busy time slots based on Date range         |Fetch a list of events based on date: From date - to date|
-|Get busy time slots based on a Pre-defined Date range |Fetch a list of events based on the user’s input|
-|Get busy time slots based on Attendee Name      |Fetch a list of events based on the attendee name in an event|
-
-</container>
