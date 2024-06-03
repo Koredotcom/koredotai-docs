@@ -12,7 +12,7 @@ permalink: platform/instructions/en/latest/Actions/serviceNow_INS
 
 **Authorization**
  
-To connect to a client's Service Now account, Kore.ai uses basic authentication. The user can use pre-authorized credentials provided by the developer during the configuration process or their own authorization profile during the configuration process to let the end user authorize during the conversation. Learn More.
+To connect to a client's Service Now account, Kore.ai uses basic authentication. The user can use pre-authorized credentials provided by the developer during the configuration process or their own authorization profile during the configuration process to let the end user authorize during the conversation.
 
  |Authorization Type                      | Basic |
  |----------------------------------------|-------|
