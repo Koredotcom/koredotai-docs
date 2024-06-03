@@ -28,12 +28,20 @@ To connect to Here, Kore.ai uses API Key authentication. The end-user can use pr
 **Steps to obtain the API Key**
  
 1. Create an account on the Here Developer Portal at https://developer.here.com/
+
 2. Log into the Here developer portal, navigate to the Launcher menu, and select Access Manager.
+
 3. On the Access Manager page, Select the "Apps" section to navigate to the Apps page.
+
 4. Click on Register New App to create a new app.
-5. Provide the App Name and Description. Then, choose the relevant project from the dropdown menu for which the access needs to be granted and click on Register.
+
+5. Provide the App Name and Description. Then, choose the relevant project from the dropdown menu for which the     
+   access needs to be granted and click on Register.
+
 6. You will be navigated to the App details screen on successful registration of the app.
+
 7. Navigate to the Credentials tab and select the option labeled "API keys". From there, click on "Create API Key".
+
 8. Copy the generated API Key and provide it in the Authorization tab of this page.
  
 **Allow Users to Authorize the Integration**
@@ -56,4 +64,3 @@ This method requires the end user to provide credentials during the conversation
  
  5.  Click Enable.
  
-

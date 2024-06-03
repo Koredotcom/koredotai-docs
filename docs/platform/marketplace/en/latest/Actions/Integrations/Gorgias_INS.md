@@ -12,7 +12,7 @@ permalink: platform/instructions/en/latest/Actions/gorgias_INS
 
 **Authorization**
  
-To connect to a client's Gorgias account, Kore.ai uses Basic Auth. The developer can use pre-authorized credentials during the configuration process or let the end user authorize during the conversation by creating an authorization profile. Learn More.
+To connect to a client's Gorgias account, Kore.ai uses Basic Auth. The developer can use pre-authorized credentials during the configuration process or let the end user authorize during the conversation by creating an authorization profile.[Learn More](https://developers.gorgias.com/docs/access-tokens-api-keys)
  
  
  |Authorization Type                      | Basic |
@@ -22,18 +22,18 @@ To connect to a client's Gorgias account, Kore.ai uses Basic Auth. The developer
 
 **Pre-authorize the Integration**
  
- To make the integration process smoother for customers, you can pre-authorize it by providing the necessary authorization credentials to obtain the access token.
+To make the integration process smoother for customers, you can pre-authorize it by providing the necessary authorization credentials to obtain the access token.
 
 **Basic**
  
-1. Provide Company Domain, User Name, and Password (API Key) to authorize the integration.  
+1. Provide your gorgias Domain, User Name, and Password (API Key) to authorize the integration.  
 2. Follow the steps below to get the required credentials from your Gorgias instance.
  
-   a. You will find your company domain in your browser's address bar. 
+   a. You will find your gorgias domain in your browser's address bar. 
  
-        i. Example: https://<company-domain>.gorgias.com
+        i. Example: https://<domain>.gorgias.com
 
-       ii. Copy the URL from here to the User Domain field on the Kore.ai XO Platform.
+       ii. Copy the domain from here to the User Sub Domain field on the Kore.ai XO Platform.
  
    b. User Email
  
@@ -67,7 +67,7 @@ This method requires the end user to provide credentials during the conversation
 
    iv. provide the Auth Check Url.
 
-        Example:`https://<company-domain>.gorgias.com/api/account`
+        Example:`https://<domain>.gorgias.com/api/account`
    
    v. finally select the GET Method.
  
