@@ -80,20 +80,20 @@ xiii. Copy the Token URL (https://oauth.pipedrive.com/oauth/token), paste it int
 
 xiv. Copy the following scopes (leads:full,organizations:read,persons:read, users:read) into the Scope field on the Kore.ai platform.
 
-6. Save the Authorization Profile.
+5. Save the Authorization Profile.
 
-7. Select the created Authorization Profile to complete integration.
+6. Select the created Authorization Profile to complete integration.
 
-8. Click Authorize.
+7. Click Authorize.
 
-9. You will be prompted to enter the Tenant. The tenant will be present in the first part of the URL of your Pipedrive app in the format "/yourName/-sandbox". Paste the tenant on the Kore.ai platform and hit Test.
+8. You will be prompted to enter the Tenant. The tenant will be present in the first part of the URL of your Pipedrive app in the format "/yourName/-sandbox". Paste the tenant on the Kore.ai platform and hit Test.
 
-10. It will redirect you to the Pipedrive login page.
+9. It will redirect you to the Pipedrive login page.
 
-11. Provide your credentials to connect with your Pipedrive account.
+10. Provide your credentials to connect with your Pipedrive account.
 Please note that you are allowing your custom app to fetch the access token to complete the authorization and not using Kore.ai’s Pipedrive app for the same.
 
-12. Click Enable.
+11. Click Enable.
 
 
 **Allow Users to Authorize the Integration**
@@ -150,8 +150,8 @@ xiii. Copy the Token URL (https://oauth.pipedrive.com/oauth/token), paste it int
 
 xiv. Copy the following scopes (leads:full,organizations:read,persons:read, users:read) into the Scope field on the Kore.ai platform.
 
-6. Save Authorization Profile.
+5. Save Authorization Profile.
 
-7. Select the created Authorization Profile to complete integration.
+6. Select the created Authorization Profile to complete integration.
 
-8. Click Enable.
+7. Click Enable.
