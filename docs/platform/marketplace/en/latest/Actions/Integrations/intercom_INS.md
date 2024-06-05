@@ -16,8 +16,8 @@ To connect an Intercom account, Kore.ai uses OAuth 2.0 authentication. The user 
  
  |Authorization Type                      | OAuth - System | OAuth - Custom |
  |----------------------------------------|----------------|----------------|
- |Pre-authorize the Integration           |       Yes      |       Yes      |
- |Allow Users to Authorize the Integration|       Yes      |       Yes      |
+ |Pre-authorize the Integration           |       No       |       Yes      |
+ |Allow Users to Authorize the Integration|       No       |       Yes      |
 
 
 **Pre-authorize the Integration**
@@ -42,7 +42,7 @@ To connect an Intercom account, Kore.ai uses OAuth 2.0 authentication. The user 
  
 **OAuth - Custom**
  
- You can create your authorization profile to obtain an access token and use it to complete integration without using Kore.ai's Intercom app for authorization.
+ You can create your authorization profile to obtain an access token and use it to complete integration without using    Kore.ai's Intercom app for authorization.
  
 1. Select Custom.
  
@@ -56,7 +56,7 @@ To connect an Intercom account, Kore.ai uses OAuth 2.0 authentication. The user 
  
    ii.  Navigate to https://app.intercom.com/a/apps/gv65iihh/developer-hub and log in.
  
-   iii. Create an app by navigating to the https://app.intercom.com/a/apps/aqx7yrsl/developer-hub.
+   iii. Create an app by navigating to the app-store on the left toolbar, select build your own app. Then click on the "Developer Hub" in the header and click "New App".
  
    iv.  Copy the ClientId from the app under the "Basic information" tab and paste it into the ClientId field to the Kore.ai platform.
  
@@ -72,7 +72,7 @@ To connect an Intercom account, Kore.ai uses OAuth 2.0 authentication. The user 
 
    x. Make sure to insert your client id and a random phrase for the state [Ex: abc, xyz, etc....] in the Auth URL.
   
-   xi. Copy the Token Request URL (https://api.intercom.io/auth/eagle/token), paste it into the Token Request URL, and Refresh Token URL fields on the Kore.ai platform.
+5. Copy the Token Request URL (https://api.intercom.io/auth/eagle/token), paste it into the Token Request URL, and Refresh Token URL fields on the Kore.ai platform.
  
 6. Save the Authorization Profile.
  
@@ -104,7 +104,7 @@ This method requires the end user to provide credentials during the conversation
  
  **OAuth - Custom**
  
- You can create your authorization profile to obtain an access token and use it to complete integration without using Kore.ai's Intercom app for authorization.
+ You can create your authorization profile to obtain an access token and use it to complete integration without using    Kore.ai's Intercom app for authorization.
  
 1. Select Custom.
  
@@ -112,13 +112,13 @@ This method requires the end user to provide credentials during the conversation
  
 3. Select Create New.
  
-4. Select the type of authorization mechanism.
-
-    i.   Select oAuth v2.
+4. Select the type of authorization mechanism. 
+ 
+   i.   Select oAuth v2.
  
    ii.  Navigate to https://app.intercom.com/a/apps/gv65iihh/developer-hub and log in.
  
-   iii. Create an app by navigating to the https://app.intercom.com/a/apps/aqx7yrsl/developer-hub.
+   iii. Create an app by navigating to the app-store on the left toolbar, select build your own app. Then click on the "Developer Hub" in the header and click "New App".
  
    iv.  Copy the ClientId from the app under the "Basic information" tab and paste it into the ClientId field to the Kore.ai platform.
  
@@ -134,12 +134,17 @@ This method requires the end user to provide credentials during the conversation
 
    x. Make sure to insert your client id and a random phrase for the state [Ex: abc, xyz, etc....] in the Auth URL.
   
-   xi. Copy the Token Request URL (https://api.intercom.io/auth/eagle/token), paste it into the Token Request URL, and Refresh Token URL fields on the Kore.ai platform.
-  
-6. Save Authorization Profile.
+5. Copy the Token Request URL (https://api.intercom.io/auth/eagle/token), paste it into the Token Request URL, and Refresh Token URL fields on the Kore.ai platform.
+ 
+6. Save the Authorization Profile.
  
 7. Select the created Authorization Profile to complete integration.
  
-8. Click Enable.
+8. Click Authorize.
  
-
+9. It will redirect you to the Intercom login page.
+ 
+10. Provide your credentials to connect with your Intercom account. 
+   Please note that you are allowing your custom app to fetch the access token to complete the authorization and not using Kore.ai’s Intercom app for the same.
+ 
+11. Click Enable.
