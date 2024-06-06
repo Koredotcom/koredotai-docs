@@ -74,9 +74,7 @@ To connect to a WooCommerce account, Kore.ai uses Basic Auth. The developer can 
     'lastname'=>$user->last_name,
     'role'=>$user->roles
     ```
-   in data object and update the file.
-
-10. To get the tracking details for order status template install "YITH WooCommerce Order & Shipment Tracking" plugin.
+    in data object and update the file.
 
  
 **Allow Users to Authorize the Integration**
@@ -125,8 +123,4 @@ This method requires the end user to provide credentials during the conversation
      'role'=>$user->roles
      ```
     in data object and update the file.
-
-13. To get the tracking details for order status template install "YITH WooCommerce Order & Shipment Tracking" 
-    plugin.
-
  
