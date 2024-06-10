@@ -16,15 +16,7 @@ Kore.ai XO Platform supports integration with Kore live agent support
 
 <container>
   
-**Step 2: Agent Auto Suggestion**
- 
- Select whether auto suggestions should be displayed in kore agentassist
-
-</container>
-
-<container>
-  
-**Step 3:**
+**Step 2:**
  
  Click Save
 
