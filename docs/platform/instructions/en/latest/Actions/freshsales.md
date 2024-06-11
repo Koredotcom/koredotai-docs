@@ -1,7 +1,7 @@
 ---
 title: Freshsales
 
-permalink: platform/marketplace/en/latest/Actions/freshsales
+permalink: platform/instructions/en/latest/Actions/freshsales
 
 
 ---
