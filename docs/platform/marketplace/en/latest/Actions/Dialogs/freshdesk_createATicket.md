@@ -1,7 +1,7 @@
 ---
 title: Create Ticket on freshdesk
 
-permalink: platform/marketplace/en/latest/Actions/Integrations/freshdesk_createTicket
+permalink: platform/marketplace/en/latest/Actions/Integrations/freshdesk_createATicket
 
 ---
 
