@@ -1,15 +1,18 @@
 ---
 title: Pipedrive
 
-permalink: platform/instructions/en/latest/Actions/pipedrive_INS
+permalink: platform/instructions/en/latest/Actions/pipedrive
 
 ---
+<container>
+  
+**Overview**
 
-<base target="_blank">
+Connect your Pipedrive instance with the Kore.ai XO Platform to automate Pipedrive tasks within your dialog flow. Retrieve, search, create, update and delete leads. The Kore.ai XO platform allows you to connect with Pipedrive quickly and seamlessly using OAuth2.    
 
-
-
-
+</container>
+<container>
+  
 **Authorization**
 
 To connect to a Pipedrive account, Kore.ai uses OAuth 2.0 authentication. The user can use pre-authorized credentials provided by the developer during the configuration process or their own authorization profile during the configuration process to let the end user authorize during the conversation.
@@ -155,3 +158,15 @@ xiv. Copy the following scopes (leads:full,organizations:read,persons:read, user
 6. Select the created Authorization Profile to complete integration.
 
 7. Click Enable.
+</container>
+<container>
+
+**What can be achieved by integrating Pipedrive with the Kore.ai XO Platform?**
+ 
+The Kore.ai XO platform allows you to connect with Pipedrive quickly and seamlessly using OAuth2.    
+ 
+**Templates Supported**
+- List, search, create, update, delete and get details of leads.
+- List all permitted users of a particular lead.
+- Search organizations, persons and find users by name.
+</container>
