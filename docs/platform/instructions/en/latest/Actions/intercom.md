@@ -1,14 +1,23 @@
 ---
 title: Intercom
 
-permalink: platform/instructions/en/latest/Actions/intercom_INS
+permalink: platform/instructions/en/latest/Actions/intercom
 
 ---
 
 <base target="_blank">
+<container>
+
+**Overview**
+
+Connect your Intercom instance with the Kore.ai XO Platform to automate Intercom tasks within your dialog flow. Automate creation and retrieval of ticketing actions within user conversations. 
+
+The Kore.ai XO platform allows you to connect with Intercom quickly and seamlessly using OAuth2.
 
 
+</container>
 
+<container>
 
 **Authorization**
  
@@ -148,3 +157,18 @@ This method requires the end user to provide credentials during the conversation
    Please note that you are allowing your custom app to fetch the access token to complete the authorization and not using Kore.ai’s Intercom app for the same.
  
 11. Click Enable.
+ 
+</container>
+
+<container>
+
+**What can be achieved by integrating Intercom with the Kore.ai XO Platform?**
+ 
+The Kore.ai XO Platform supports common actions on Intercom objects with pre-built dialog templates that are ready to use. 
+ 
+**Templates Supported**
+
+- Create and retrieve tickets Actions.
+- With the 'Create a ticket' and ‘List all tickets’ dialog templates, you can raise and manage tickets in a conversational format and automate the creation and retrieval of tickets in Intercom.
+
+</container>
