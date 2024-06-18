@@ -13,7 +13,7 @@ Integrate your Hubspot instance with the Kore.ai XO platform to streamline Hubsp
 - List, search, create, update, delete, and get details of leads.
 - List, search, create, update, delete, and get details of deals.
 
-### Conversational Lead Capture with AI:
+### Conversational Lead Capture with Gen AI:
 The Lead Capture dialog template goes beyond simple forms. It leverages generative AI to:
 - Understand natural language responses.
 - Ask clarifying questions to ensure accuracy.
