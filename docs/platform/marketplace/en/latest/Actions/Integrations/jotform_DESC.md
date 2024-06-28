@@ -1,7 +1,7 @@
 ---
 title: User Survey on Jotform
 
-permalink: platform/marketplace/en/latest/Actions/Integrations/jotform_userSurvey
+permalink: platform/marketplace/en/latest/Actions/Integrations/jotform_DESC
 
 ---
 
