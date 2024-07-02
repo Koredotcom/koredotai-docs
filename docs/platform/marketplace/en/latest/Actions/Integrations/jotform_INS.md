@@ -45,7 +45,7 @@ This method requires the end user to provide credentials during the conversation
  
 **Basic**
  
-1. Select All Users to Authorize the Integration.
+1. Select Allow Users to Authorize the Integration.
  
 2. Click Select Authorization.
  
@@ -56,8 +56,12 @@ This method requires the end user to provide credentials during the conversation
    i.  Select API Key
  
    ii.  Provide a name for the authorization profile.
+
+   iii. Edit the "Authorization Filed" from api_key to apiKey for "Field Key".
+
+   iv. Use https://api.jotform.com/form/[your-form-id-here] as the "Authorization Check URL" and replace [your-form-id-here] with the appropriate form ID.
  
-   iii.  Save Authorization Profile.
+   v.  Save Authorization Profile.
  
- 5.  Click Enable.
+ 6.  Click Enable.
  
