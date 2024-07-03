@@ -74,7 +74,7 @@ This method requires the end user to provide credentials during the conversation
 
    iv. Add Base URL https://{tenant}.myfreshworks.com
    
-   v. under Authorization Field(s), click edit and select Field Type as header and Field Key as "Authorization" Field value as "{{key}}".
+   v. under Authorization Field(s), click edit and select Field Type as header and Field Key as "Authorization" keep the Field value as is.
    
    vi.provide Auth check Url.
         
