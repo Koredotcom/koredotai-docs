@@ -7,10 +7,10 @@ permalink: platform/marketplace/en/latest/Actions/Integrations/salesforce_leadCa
 
 ### Description
 
-Install the Lead capture template for Salesforce to automate the capture of a lead's details on voice or chat channels. Use our wizard form to select the contact fields you would like to capture in a conversational format, and automate the creation of a lead object in Salesforce once the fields are captured. 
+Integrate your Salesforce instance with the Kore.ai XO platform to streamline Salesforce tasks within your dialog flow. Retrieve, create, update and delete leads or deals effortlessly. The Kore.ai XO platform allows you to connect with Salesforce quickly and seamlessly using OAuth2.
 
-### By authorizing this integration you can :
-- Capture a lead's details on both chat and voice channels.
-- Customise the contact fields and channel experiences via the Wizard form.
-- Automatically creates a new lead in Salesforce on completion.
+### By authorizing this integration, you can:
+- List, search, create, update, delete and get details of leads.
+- List, search, create, update, delete and get details of deals.
 
+With the ‘Lead capture’ dialog template, you can capture user fields in a conversational format and automate the creation of a lead in Salesforce.
