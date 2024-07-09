@@ -241,12 +241,7 @@ $('.nested-details summary').on('click', function (e) {
             });
 
   
-         //  $('body').perfectScrollbar();
-            new PerfectScrollbar('body');
-               window.parent.postMessage({
-                frameStatus:'loaded',
-                action:'guidedTour'
-               }, '*');
+
         
         });
         function getDimensions() {
@@ -263,6 +258,12 @@ $('.nested-details summary').on('click', function (e) {
         },500);
     }
     document.addEventListener('DOMContentLoaded', getDimensions);
+         //  $('body').perfectScrollbar();
+            new PerfectScrollbar('body');
+               window.parent.postMessage({
+                frameStatus:'loaded',
+                action:'guidedTour'
+               }, '*');
     </script>
    
     {% if page.datatable == true %}

@@ -37,7 +37,7 @@ To connect to Survey Monkey, Kore.ai uses OAuth authentication. The developer ca
     
     i. Select OAuth v2
     
-    ii. Navigate to **[https://developer.monkey.com](https://developer.monkey.com)** and log in.
+    ii. Navigate to **[https://developer.surveymonkey.com](https://developer.surveymonkey.com)** and log in.
 
     iii. Anyone with a Survey Monkey account can register an app. Before the 90-day period ends, you must deploy your app as either Public or Private and upgrade your account as needed.
  [refer](https://api.surveymonkey.com/v3/docs?shell#public-apps).

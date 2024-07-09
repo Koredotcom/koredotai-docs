@@ -1,7 +1,7 @@
 ---
-title: User Survey on SurveyMonkey
+title: Survey Monkey
 
-permalink: platform/marketplace/en/latest/Actions/Integrations/surveyMonkey_userSurvey
+permalink: platform/marketplace/en/latest/Actions/Integrations/surveyMonkey_DESC
 
 ---
 
