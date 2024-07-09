@@ -21,7 +21,7 @@ The Kore.ai XO platform allows you to connect with Plaid quickly and seamlessly 
 
 **Authorization**
  
-To connect to an Plaid account, Kore.ai uses OAuth 2.0 authentication. The user can use pre-authorized credentials provided by the developer during the configuration process or their own authorization profile during the configuration process to let the end user authorize during the conversation.
+To connect to a Plaid account, Kore.ai uses OAuth 2.0 authentication. The user can use pre-authorized credentials provided by the developer during the configuration process or configure the authorization profile to let the end user authorize during the conversation.
  
  |Authorization Type                      | OAuth - System | OAuth - Custom |
  |----------------------------------------|----------------|----------------|
@@ -35,7 +35,7 @@ To connect to an Plaid account, Kore.ai uses OAuth 2.0 authentication. The user 
  
 **OAuth - Custom**
  
- You can create your authorization profile to obtain an access token and use it to complete integration without using Kore.ai for authorization.
+You can create your authorization profile to obtain an access token and use it to complete the integration without using Kore.ai for authorization. However, you need to set up the Plaid Quickstart App on your local machine and host it with a publicly accessible URL.(You can use ngrok for local testing). Follow the instructions below for more details.
  
 1. Select Custom.
 
@@ -55,13 +55,13 @@ iv. Similarly, Copy the Client secret according to the environment [Sandbox,Deve
 
 v. On the left menu, navigate to “API” under the same “Developers” list and click “Configure” beside the “Allowed redirect URI’s” label.
 
-vi. Copy the callback URL from the authorization page and click “add new URI” and paste it into the text field on the Plaid platform and save the changes.
+vi. Copy the callback URL from the authorization profile and click “add new URI” and paste it into the text field on the Plaid platform and save the changes.
 
-vii. Then on the left menu, go to “Docs” and then proceed to “Quickstart” or click https://plaid.com/docs/quickstart/#introduction. Follow the detailed Youtube video to set up the quickstart app on your local machine.
+vii.Then navigate to https://plaid.com/docs/quickstart/#introduction. Follow the detailed Youtube video to set up the quickstart app on your local machine.
 
-viii. Go to the repository - “https://github.com/NikithaPa-Kore/Plaid_Guide_Code” and replace the ‘/quickstart/frontend/src/Components/Link/index.tsx’ file’s content with the one from the repo. Also check if the Callback URL on line 44 in the file is set to the one from the Auth Profile.
+viii. Go to the repository - “https://github.com/NikithaPa-Kore/Plaid_Guide_Code” and replace the ‘/quickstart/frontend/src/Components/Link/index.tsx’ file in your Quickstart app with the file’s content from the repo. Additionally, ensure that the Callback URL on line 44 in the repo file matches the callback URL from the Auth Profile on the Kore Platform in your Quickstart App.
 
-ix. Go to the repository again and replace the ‘/quickstart/node/index.js’ file’s content with the one from the repo.
+ix.Go to the repository again and replace the ‘/quickstart/node/index.js’ file’s content in your Quickstart App with the one from the repo.
 
 x. Make sure to set your .env file with the appropriate clientId, Secret, env, products, country codes, and app port. 
 
@@ -71,7 +71,7 @@ NOTE: The following must be set -
 |----------------|----------------------------------------------------|
 |PLAID_REDIRECT_URI | The Callback URL from the AUTH profile          |
 
-5. The Authorization URL in the auth profile must be set to the frontend host URL of the quickstart app.
+5.The Authorization URL in the auth profile must be set to the frontend host URL of the quickstart app which is publicly hosted (Through ngrok [for testing purposes]).
 
 6. Then in the “Subdomain (aka Tenanancy URL) ” field, select YES and enter the base URL as “https://{tenant}.plaid.com”.
 
@@ -102,7 +102,7 @@ NOTE: The following must be set -
 
 11. Select the created Authorization Profile to complete integration. Click Authorize. It will redirect you to the Plaid Quickstart login page.
 
-12. Complete the login process by giving corresponding App permissions and you’ll be succesfully authorized to Plaid.
+12. Complete the login process by giving corresponding App permissions and you’ll be successfully authorized to Plaid.
  
 -----------------------------------------------------------------------
 
@@ -112,7 +112,7 @@ This method requires the end user to provide credentials during the conversation
  
  **OAuth - Custom**
  
- You can create your authorization profile to obtain an access token and use it to complete integration without using Kore.ai for authorization.
+You can create your authorization profile to obtain an access token and use it to complete the integration without using Kore.ai for authorization. However, you need to set up the Plaid Quickstart App on your local machine and host it with a publicly accessible URL.(You can use ngrok for local testing). Follow the instructions below for more details.
  
 1. Select Custom.
 
@@ -132,13 +132,13 @@ iv. Similarly, Copy the Client secret according to the environment [Sandbox,Deve
 
 v. On the left menu, navigate to “API” under the same “Developers” list and click “Configure” beside the “Allowed redirect URI’s” label.
 
-vi. Copy the callback URL from the authorization page and click “add new URI” and paste it into the text field on the Plaid platform and save the changes.
+vi. Copy the callback URL from the authorization profile and click “add new URI” and paste it into the text field on the Plaid platform and save the changes.
 
-vii. Then on the left menu, go to “Docs” and then proceed to “Quickstart” or click https://plaid.com/docs/quickstart/#introduction. Follow the detailed Youtube video to set up the quickstart app on your local machine.
+vii. Then navigate to https://plaid.com/docs/quickstart/#introduction. Follow the detailed Youtube video to set up the quickstart app on your local machine.
 
-viii. Go to the repository - “https://github.com/NikithaPa-Kore/Plaid_Guide_Code” and replace the ‘/quickstart/frontend/src/Components/Link/index.tsx’ file’s content with the one from the repo. Also check if the Callback URL on line 44 in the file is set to the one from the Auth Profile.
+viii. Go to the repository - “https://github.com/NikithaPa-Kore/Plaid_Guide_Code” and replace the ‘/quickstart/frontend/src/Components/Link/index.tsx’ file in your Quickstart app with the file’s content from the repo. Additionally, ensure that the Callback URL on line 44 in the repo file matches the callback URL from the Auth Profile on the Kore Platform in your Quickstart App.
 
-ix. Go to the repository again and replace the ‘/quickstart/node/index.js’ file’s content with the one from the repo.
+ix. Go to the repository again and replace the ‘/quickstart/node/index.js’ file’s content in your Quickstart App with the one from the repo.
 
 x. Make sure to set your .env file with the appropriate clientId, Secret, env, products, country codes, and app port. 
 
@@ -148,7 +148,7 @@ NOTE: The following must be set -
 |----------------|----------------------------------------------------|
 |PLAID_REDIRECT_URI | The Callback URL from the AUTH profile          |
 
-5. The Authorization URL in the auth profile must be set to the frontend host URL of the quickstart app.
+5. The Authorization URL in the auth profile must be set to the frontend host URL of the quickstart app which is publicly hosted (Through ngrok [for testing purposes]).
 
 6. Then in the “Subdomain (aka Tenanancy URL) ” field, select YES and enter the base URL as “https://{tenant}.plaid.com”.
 
@@ -179,7 +179,7 @@ NOTE: The following must be set -
 
 11. Select the created Authorization Profile to complete integration. Click Authorize. It will redirect you to the Plaid Quickstart login page.
 
-12. Complete the login process by giving corresponding App permissions and you’ll be succesfully authorized to Plaid.
+12. Complete the login process by giving corresponding App permissions and you’ll be successfully authorized to Plaid.
 
 -----------------------------------------------------------------------
  
