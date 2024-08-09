@@ -1,6 +1,6 @@
 ---
 title: Gen AI Create Ticket on Gorgias
-permalink: platform/marketplace/en/latest/Actions/Integrations/gorgias_genaiCreateTicket
+permalink: platform/marketplace/en/latest/Actions/Integrations/gorgias_genAICreateATicket
 
 ---
 
