@@ -1,6 +1,6 @@
 ---
 title: Gen AI Create Ticket on Freshdesk
-permalink: platform/marketplace/en/latest/Actions/Integrations/freshdesk_genaiCreateTicket
+permalink: platform/marketplace/en/latest/Actions/Integrations/freshdesk_genAICreateATicket
 
 ---
 
