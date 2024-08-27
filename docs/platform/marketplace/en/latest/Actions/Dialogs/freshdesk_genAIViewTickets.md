@@ -1,4 +1,3 @@
-
 ---
 title: View Tickets on Freshdesk
 
