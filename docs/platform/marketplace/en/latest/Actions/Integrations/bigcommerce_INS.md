@@ -1,5 +1,5 @@
 ---
-title: BigCommerce 
+title: BigCommerce
 
 permalink: platform/instructions/en/latest/Actions/bigcommerce_INS
 

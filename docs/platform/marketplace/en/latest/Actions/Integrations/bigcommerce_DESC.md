@@ -7,7 +7,7 @@ permalink: platform/marketplace/en/latest/Actions/Integrations/bigcommerce_DESC
 
 ### Description
 
-Connect your BigCommerce instance with the Homepage XO Platform to automate big commerce tasks within your dialog flow. Retrieve and get details on existing orders.The Homepage XO platform allows you to connect with BigCommerce quickly and seamlessly using OAuth2.
+Connect your BigCommerce instance with the Homepage XO Platform to automate BigCommerce tasks within your dialog flow. Retrieve and get details on existing orders.The Homepage  XO platform allows you to connect with BigCommerce quickly and seamlessly using OAuth2.
 
 ### By authorizing this integration you can:
 - Fetch an order by Order ID
