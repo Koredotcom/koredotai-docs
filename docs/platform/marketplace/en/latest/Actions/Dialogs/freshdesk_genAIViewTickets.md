@@ -1,13 +1,13 @@
 ---
-title: View Tickets on Intercom
+title: View Tickets on Freshdesk
 
-permalink: platform/marketplace/en/latest/Actions/Integrations/intercom_viewTicketsGenAI
+permalink: platform/marketplace/en/latest/Actions/Integrations/freshdesk_genAIViewTickets
 
 ---
 
 ### Description
 
-Elevate your customer support experience by integrating your Intercom instance with the Kore.ai XO Platform, leveraging the power of Gen AI to automate ticket management tasks within your dialog flow. 
+Elevate your customer support experience by integrating your Freshdesk instance with the Kore.ai XO Platform, leveraging the power of generative AI to automate ticket management tasks within your dialog flow. 
 
 
 ### By authorizing this integration you can:

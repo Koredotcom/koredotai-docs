@@ -1,7 +1,7 @@
 ---
 title: Gen AI Order Status on Shopify
 
-permalink: platform/marketplace/en/latest/Actions/Integrations/shopify_genaAIOrderStatus
+permalink: platform/marketplace/en/latest/Actions/Integrations/shopify_genAIOrderStatus
 
 ---
 
