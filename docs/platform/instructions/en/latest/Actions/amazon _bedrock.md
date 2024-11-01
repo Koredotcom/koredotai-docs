@@ -1,7 +1,7 @@
 ---
 title: Amazon Bedrock
 
-permalink: platform/instructions/en/latest/Actions/Amazon_Bedrock
+permalink: platform/instructions/en/latest/Actions/amazon_bedrock
 ---
 
 <base target="_blank">
