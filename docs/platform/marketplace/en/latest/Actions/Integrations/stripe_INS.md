@@ -1,10 +1,9 @@
 ---
 title: Stripe Instructions
 
-permalink: platform/instructions/en/latest/Actions/stripe_INS
+permalink: platform/marketplace/en/latest/Actions/Integrations/stripe_INS
 
 ---
-<base target="_blank">
 
 **Authorization**
  
@@ -26,7 +25,7 @@ To connect to a Stripe account, Kore.ai uses Basic Auth. The developer can use p
 1. Provide API Key to authorize the integration.  
 2. Follow the steps below to get the required credentials from your Stripe instance.
  
-      i. Login to your Stripe Instance. [dashboard.stripe.com](https://dashboard.stripe.com/)
+      i. Login to your Stripe Instance. https://dashboard.stripe.com/.
       
      ii. Click on Developers tab.
   
