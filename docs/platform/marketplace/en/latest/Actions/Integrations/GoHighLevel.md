@@ -1,7 +1,7 @@
 ---
 title: GoHighLevel
 
-permalink: platform/marketplace/en/latest/Actions/Integrations/GoHighLevel
+permalink: platform/marketplace/en/latest/Actions/Integrations/goHighLevel_DESC
 
 ---
 
