@@ -1,7 +1,7 @@
 ---
 title: GoHighLevel
 
-permalink: platform/instructions/en/latest/Actions/gohighlevel_INS
+permalink: platform/instructions/en/latest/Actions/goHighLevel_INS
 
 ---
 
