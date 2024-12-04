@@ -15,4 +15,4 @@ Simplify lead collection, streamline user engagement, and derive growth with smo
 
 #### Note: Please ensure you use OAuth V2, as Zoho only supports this authorization type.
 
-The ‘Lead Capture’ dialog template enables you to gather user information in a conversational manner and automate the lead creation process in Zoho.
+The ‘Lead Capture’ dialog template enables you to gather user information using a chatbot and automate the lead creation process in Zoho.
