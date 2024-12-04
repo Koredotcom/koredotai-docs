@@ -11,8 +11,8 @@ Introducing seamless integration between your Zendesk instance and Kore.ai XO Pl
 
 
 ### By authorizing this integration you can:
-Provide users with the ability to effortlessly track tickets they've submitted by simply talking to the AI chatbot. 
-Enhance efficiency and diminish the necessity for manual intervention by automating repetitive tasks.
+- Provide users with the ability to effortlessly track tickets they've submitted by simply talking to the AI chatbot. 
+- Enhance efficiency and diminish the necessity for manual intervention by automating repetitive tasks.
 
 #### Note: Please ensure you are using OAuth V2, as Zendesk will discontinue API Key authorization mechanism after December 31, 2025. If you haven’t yet migrated from API Key to OAuth, please do so to maintain uninterrupted access. For more information, refer to the full documentation [here](https://support.zendesk.com/hc/en-us/articles/7386291855386-Announcing-the-deprecation-of-password-access-for-APIs).
 
