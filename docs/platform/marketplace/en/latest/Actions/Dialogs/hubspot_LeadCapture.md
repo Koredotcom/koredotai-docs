@@ -15,4 +15,4 @@ Simplify lead collection, streamline user engagement, and derive growth with smo
 
 #### Note: Please ensure you use OAuth V2, as HubSpot only supports this authorization type.
 
-With the ‘Lead capture’ dialog template, you can capture user fields in a conversational format and automate the creation of a lead in Hubspot.
+With the ‘Lead capture’ dialog template, you can capture user fields using a chatbot and automate the creation of a lead in Hubspot.
