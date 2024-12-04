@@ -15,4 +15,4 @@ Simplify lead collection, streamline user engagement, and derive growth with smo
 
 #### Note: Both the User Sub Domain and API Key are required for Freshsales to connect successfully.
 
-With the ‘Lead capture’ dialog template, you can capture user fields in a conversational format and automate the creation of a lead in Freshsales.
+With the ‘Lead capture’ dialog template, you can capture user fields using a chatbot and automate the creation of a lead in Freshsales.
