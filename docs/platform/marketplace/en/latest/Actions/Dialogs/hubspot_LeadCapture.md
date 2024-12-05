@@ -13,6 +13,6 @@ Simplify lead collection, streamline user engagement, and derive growth with smo
 - Teach your chatbot to greet customers and ask tailored questions to generate leads in HubSpot. 
 - Enhance lead nurturing and automate customer interactions without complex integrations. 
 
-#### Note: Please ensure you use OAuth V2, as HubSpot only supports this authorization type.
+**Note: Please ensure you use OAuth V2, as HubSpot only supports this authorization type.**
 
 With the ‘Lead capture’ dialog template, you can capture user fields using a chatbot and automate the creation of a lead in Hubspot.
