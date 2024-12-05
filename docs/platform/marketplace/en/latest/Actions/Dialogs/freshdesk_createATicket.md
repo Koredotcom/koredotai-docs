@@ -18,6 +18,6 @@ Say goodbye to friction and hello to a seamless experience with Kore.ai's XO Pla
 - Automate ticket creation - freeing up your agents to focus on complex issues.
 - Pre-populate tickets with relevant information from the conversation, speeding up resolution times.
 
-#### Note: Both the Sub Domain and API Key are required for Freshdesk to connect successfully.
+**Note: Both the Sub Domain and API Key are required for Freshdesk to connect successfully.**
 
 Empower your team, and elevate your customer experience. Integrate Kore.ai with Freshdesk today!
