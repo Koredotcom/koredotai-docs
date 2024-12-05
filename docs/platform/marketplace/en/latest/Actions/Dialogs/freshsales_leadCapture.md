@@ -13,6 +13,6 @@ Simplify lead collection, streamline user engagement, and derive growth with smo
 - Teach your chatbot to greet customers and ask tailored questions to generate leads in Freshsales. 
 - Enhance lead nurturing and automate customer interactions without complex integrations
 
-#### Note: Both the User Sub Domain and API Key are required for Freshsales to connect successfully.
+**Note: Both the User Sub Domain and API Key are required for Freshsales to connect successfully.**
 
 With the ‘Lead capture’ dialog template, you can capture user fields using a chatbot and automate the creation of a lead in Freshsales.
