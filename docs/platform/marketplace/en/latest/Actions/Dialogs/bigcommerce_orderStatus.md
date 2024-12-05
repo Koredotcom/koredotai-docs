@@ -13,6 +13,6 @@ Connect your Big Commerce account and empower your customers to effortlessly tra
 - Handle hassle-free order status inquiries of your customers.
 - Utilize the 'Order Status' dialog template to offer personalized assistance and scale your business effectively.
 
-#### Note: Both the Store Hash and API Key are required for Big Commerce to connect successfully.
+**Note: Both the Store Hash and API Key are required for Big Commerce to connect successfully.**
 
 Don't miss out on enhancing customer satisfaction and streamlining your Big Commerce processes. Get started with the Order Status feature today!
