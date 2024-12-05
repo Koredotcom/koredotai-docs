@@ -13,6 +13,6 @@ Connect your Shopify account and empower your customers to effortlessly track th
 - Handle hassle-free order status inquiries of your customers.
 - Leverage the 'Order Status' dialog template for personalized support, freeing up your agents to focus on more critical tasks.
 
-#### Note: Both the sub-domain and API Key are required for Shopify to connect successfully.
+**Note: Both the Sub Domain and API Key are required for Shopify to connect successfully.**
 
 Don't miss out on enhancing customer satisfaction and streamlining your Shopify processes. Get started with the Order Status feature today!
