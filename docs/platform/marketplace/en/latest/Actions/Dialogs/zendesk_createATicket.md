@@ -4,6 +4,7 @@ title: Create Ticket on zendesk
 permalink: platform/marketplace/en/latest/Actions/Integrations/zendesk_createATicket
 
 ---
+<base target="_blank">
 
 ### Description
 
