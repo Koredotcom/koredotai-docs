@@ -4,6 +4,7 @@ title: Ticket Details on Zendesk
 permalink: platform/marketplace/en/latest/Actions/Integrations/zendesk_ticketDetails
 
 ---
+<base target="_blank">
 
 ### Description
 
