@@ -4,6 +4,7 @@ title: View Tickets on intercom
 permalink: platform/marketplace/en/latest/Actions/Integrations/intercom_viewTickets
 
 ---
+<base target="_blank">
 
 ### Description
 
