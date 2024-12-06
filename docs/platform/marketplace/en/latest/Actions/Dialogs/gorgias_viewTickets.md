@@ -4,6 +4,7 @@ title: View Tickets on gorgias
 permalink: platform/marketplace/en/latest/Actions/Integrations/gorgias_viewTickets
 
 ---
+<base target="_blank">
 
 ### Description
 
