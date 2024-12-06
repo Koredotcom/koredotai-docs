@@ -4,6 +4,7 @@ title: View Tickets on freshdesk
 permalink: platform/marketplace/en/latest/Actions/Integrations/freshdesk_viewTickets
 
 ---
+<base target="_blank">
 
 ### Description
 
