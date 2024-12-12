@@ -12,7 +12,7 @@ permalink: platform/instructions/en/latest/Actions/goHighLevel_INS
 
 **Authorization**
  
-To connect to a GoHighLevel account, Kore.ai uses OAuth. The developer can use pre-authorized credentials during the configuration process or let the end user authorize during the conversation by creating an authorization profile. [Learn More](https://highlevel.stoplight.io/docs/integrations/0443d7d1a4bd0-overview)
+To connect to a HighLevel account, Kore.ai uses OAuth. The developer can use pre-authorized credentials during the configuration process or let the end user authorize during the conversation by creating an authorization profile. [Learn More](https://highlevel.stoplight.io/docs/integrations/0443d7d1a4bd0-overview)
  
  |Authorization Type                      | OAuth - System | OAuth - Custom |
  |----------------------------------------|----------------|----------------|
@@ -26,7 +26,7 @@ To connect to a GoHighLevel account, Kore.ai uses OAuth. The developer can use p
 
 **OAuth - Custom**
  
- You can create your authorization profile to obtain an access token and use it to complete integration without using Kore.ai's GoHighLevel app for authorization.
+ You can create your authorization profile to obtain an access token and use it to complete integration without using Kore.ai's HighLevel app for authorization.
  
 1. Select **Custom**.
  
@@ -42,9 +42,9 @@ To connect to a GoHighLevel account, Kore.ai uses OAuth. The developer can use p
  
    iii.  Navigate to My Apps → select the app → select Advanced Settings → Click on Auth
  
-   iv.  Copy Client Id from GoHighLevel into Client Id to Kore.ai platform
+   iv.  Copy Client Id from HighLevel into Client Id to Kore.ai platform
  
-    v.  Copy Client secret from GoHighLevel into Client Secret to Kore.ai platform
+    v.  Copy Client secret from HighLevel into Client Secret to Kore.ai platform
  
    vi.  Copy Authorization URL (https://marketplace.leadconnectorhq.com/oauth/chooselocation)
  
@@ -66,10 +66,10 @@ To connect to a GoHighLevel account, Kore.ai uses OAuth. The developer can use p
  
 8. Click **Authorize**.
  
-9. It will redirect you to the GoHighLevel login page **https://marketplace.leadconnectorhq.com/oauth/chooselocation**. 
+9. It will redirect you to the HighLevel login page **https://marketplace.leadconnectorhq.com/oauth/chooselocation**. 
  
-10. Provide your credentials to connect with your GoHighLevel account. 
-   Please note that you are allowing your custom app to fetch the access token to complete the authorization and not using Kore.ai’s GoHighLevel app for the same.
+10. Provide your credentials to connect with your HighLevel account. 
+   Please note that you are allowing your custom app to fetch the access token to complete the authorization and not using Kore.ai’s HighLevel app for the same.
  
 11. Click **Enable**.
  
@@ -80,7 +80,7 @@ This method requires the end user to provide credentials during the conversation
  
  **OAuth - Custom**
  
- You can create your authorization profile to obtain an access token and use it to complete integration without using Kore.ai's GoHighLevel app for authorization.
+ You can create your authorization profile to obtain an access token and use it to complete integration without using Kore.ai's HighLevel app for authorization.
  
 1. Select **Custom**.
  
@@ -96,9 +96,9 @@ This method requires the end user to provide credentials during the conversation
  
    iii.  Navigate to My Apps → select the app → select Advanced Settings → Click on Auth
  
-   iv.  Copy Client Id from GoHighLevel into Client Id to Kore.ai platform
+   iv.  Copy Client Id from HighLevel into Client Id to Kore.ai platform
  
-    v.  Copy Client secret from GoHighLevel into Client Secret to Kore.ai platform
+    v.  Copy Client secret from HighLevel into Client Secret to Kore.ai platform
  
    vi.  Copy Authorization URL (https://marketplace.leadconnectorhq.com/oauth/chooselocation)
  
