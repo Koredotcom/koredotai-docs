@@ -7,10 +7,12 @@ permalink: platform/marketplace/en/latest/Actions/Integrations/freshsales_leadCa
 
 ### Description
 
-Integrate your Freshsales instance with the Kore.ai XO platform to streamline Freshsales tasks within your dialog flow. Retrieve, create, update and delete leads or deals effortlessly. The Kore.ai XO platform allows you to connect with Freshsales quickly and seamlessly.
+Simplify lead collection, streamline user engagement, and derive growth with smooth, high-quality customer acquisition tools. Kore.ai XO platform allows you to connect with Freshsales quickly and seamlessly using API Key.
 
-### By authorizing this integration you can :
-- List, search, create, update, delete and get details of leads.
-- List, search, create, update, delete and get details of deals.
-  
-With the ‘Lead capture’ dialog template, you can capture user fields in a conversational format and automate the creation of a lead in Freshsales.
+### By authorizing this integration, you can:
+- Teach your chatbot to greet customers and ask tailored questions to generate leads in Freshsales. 
+- Enhance lead nurturing and automate customer interactions without complex integrations
+
+**Note: Both the User Sub Domain and API Key are required for Freshsales to connect successfully.**
+
+With the ‘Lead capture’ dialog template, you can capture user fields using a chatbot and automate the creation of a lead in Freshsales.

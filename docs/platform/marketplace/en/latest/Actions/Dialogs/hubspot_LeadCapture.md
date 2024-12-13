@@ -7,10 +7,12 @@ permalink: platform/marketplace/en/latest/Actions/Integrations/hubspot_leadCaptu
 
 ### Description
 
-Integrate your Hubspot instance with the Kore.ai XO platform to streamline Hubspot tasks within your dialog flow. Retrieve, create, update and delete leads or deals effortlessly. The Kore.ai XO platform allows you to connect with Hubspot quickly and seamlessly using OAuth2.
+Simplify lead collection, streamline user engagement, and derive growth with smooth, high-quality customer acquisition tools. Kore.ai XO platform allows you to connect with Hubspot quickly and seamlessly using OAuth V2. 
 
 ### By authorizing this integration, you can:
-- List, search, create, update, delete and get details of leads.
-- List, search, create, update, delete and get details of deals.
+- Teach your chatbot to greet customers and ask tailored questions to generate leads in HubSpot. 
+- Enhance lead nurturing and automate customer interactions without complex integrations. 
 
-With the ‘Lead capture’ dialog template, you can capture user fields in a conversational format and automate the creation of a lead in Hubspot.
+**Note: Please ensure you use OAuth V2, as HubSpot only supports this authorization type.**
+
+With the ‘Lead capture’ dialog template, you can capture user fields using a chatbot and automate the creation of a lead in Hubspot.

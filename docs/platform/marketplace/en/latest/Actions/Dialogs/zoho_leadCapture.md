@@ -7,10 +7,12 @@ permalink: platform/marketplace/en/latest/Actions/Integrations/zoho_leadCapture
 
 ### Description
 
-Integrate Zoho CRM for automating tasks within interactions, including creating, adding, and updating leads. The Kore.ai XO platform allows you to connect with Zoho quickly and seamlessly using OAuth2.
+Simplify lead collection, streamline user engagement, and derive growth with smooth, high-quality customer acquisition tools. Kore.ai XO platform allows you to connect with Zoho quickly and seamlessly using OAuth V2. 
 
-### By authorizing this integration you can :
-- List, search, create, update, and get details of leads.
-- List, search, create, update, and get details of deals.
+### By authorizing this integration you can:
+- Teach your chatbot to greet customers and ask tailored questions to generate leads in Zoho. 
+- Enhance lead nurturing and automate customer interactions without complex integrations. 
 
-The ‘Lead Capture’ dialog template enables you to gather user information in a conversational manner and automate the lead creation process in Zoho CRM.
+Note: Please ensure you use OAuth V2, as Zoho only supports this authorization type.
+
+The ‘Lead Capture’ dialog template enables you to gather user information using a chatbot and automate the lead creation process in Zoho.

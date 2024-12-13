@@ -7,7 +7,9 @@ permalink: platform/marketplace/en/latest/Actions/Integrations/surveyMonkey_user
 
 ### Description
 
-Ditch the Pen and Paper: Stop relying on outdated methods for user feedback. Integrate SurveyMonkey with Kore.ai XO platform and get instant and relevant feedback from your users.
+Ditch the Pen and Paper! Stop relying on outdated methods for user feedback. 
+
+Integrate SurveyMonkey with Kore.ai XO platform and get instant and relevant feedback from your users.
 
 ### By authorizing this integration you can:
 
@@ -15,6 +17,8 @@ Ditch the Pen and Paper: Stop relying on outdated methods for user feedback. Int
 - Catch users when their minds are fresh on the task they just completed to get relevant responses.
 - Get robust data analysis, with a clear understanding of user sentiment and campaign effectiveness. 
 
-Please note that currently we support multiple choice, checkbox, dropdown, image choice, open ended, date/time, and NPS (NPS stands for Net Promoter Score) type questions only.
+**Please note that currently we support multiple choice, checkbox, dropdown, image choice, open ended, date/time, and NPS (Net Promoter Score) type questions only.**
+
+**Note: Please ensure you use OAuth V2, as SurveyMonkey supports this authorization type.**
 
 Integrate SurveyMonkey with Kore.ai today and unlock the power of real-time user feedback!

@@ -7,10 +7,12 @@ permalink: platform/marketplace/en/latest/Actions/Integrations/salesforce_leadCa
 
 ### Description
 
-Integrate your Salesforce instance with the Kore.ai XO platform to streamline Salesforce tasks within your dialog flow. Retrieve, create, update and delete leads or deals effortlessly. The Kore.ai XO platform allows you to connect with Salesforce quickly and seamlessly using OAuth2.
+Simplify lead collection, streamline user engagement, and derive growth with smooth, high-quality customer acquisition tools. Kore.ai XO platform allows you to connect with Salesforce quickly and seamlessly using OAuth V2.
 
 ### By authorizing this integration, you can:
-- List, search, create, update, delete and get details of leads.
-- List, search, create, update, delete and get details of deals.
+- Teach your chatbot to greet customers and ask tailored questions to generate leads in Freshsales. 
+- Enhance lead nurturing and automate customer interactions without complex integrations
 
-With the ‘Lead capture’ dialog template, you can capture user fields in a conversational format and automate the creation of a lead in Salesforce.
+**Note: Please ensure you use OAuth V2, as Salesforce only supports this authorization type.**
+
+With the ‘Lead capture’ dialog template, you can capture user fields using a chatbot and automate the creation of a lead in Salesforce.
