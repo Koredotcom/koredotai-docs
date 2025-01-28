@@ -72,7 +72,7 @@ To connect to SurveyMonkey, Kore.ai uses OAuth authentication. The developer can
  
  9. It will redirect you to the SurveyMonkey login page. 
  
- 10. Provide your credentials to connect with your Survey Monkey account.
+ 10. Provide your credentials to connect with your SurveyMonkey account.
    
  11. Click **Enable**.
     
