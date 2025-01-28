@@ -1,5 +1,5 @@
 ---
-title: Survey Monkey
+title: SurveyMonkey
 
 permalink: platform/instructions/en/latest/Actions/surveyMonkey_INS
 
@@ -12,7 +12,7 @@ permalink: platform/instructions/en/latest/Actions/surveyMonkey_INS
 
 **Authorization**
  
-To connect to Survey Monkey, Kore.ai uses OAuth authentication. The developer can use pre-authorized credentials during the configuration process or let the end user authorize during the conversation by creating an authorization profile. [Learn More](https://api.surveymonkey.com/v3/docs?shell#SurveyMonkey-Api)
+To connect to SurveyMonkey, Kore.ai uses OAuth authentication. The developer can use pre-authorized credentials during the configuration process or let the end user authorize during the conversation by creating an authorization profile. [Learn More](https://api.surveymonkey.com/v3/docs?shell#SurveyMonkey-Api)
  
  |Authorization Type                      |  OAuth - System | OAuth - Custom |
  |----------------------------------------|-----------------|----------------|
@@ -39,7 +39,7 @@ To connect to Survey Monkey, Kore.ai uses OAuth authentication. The developer ca
     
     ii. Navigate to **[https://developer.surveymonkey.com](https://developer.surveymonkey.com)** and log in.
 
-    iii. Anyone with a Survey Monkey account can register an app. Before the 90-day period ends, you must deploy your app as either Public or Private and upgrade your account as needed.
+    iii. Anyone with a SurveyMonkey account can register an app. Before the 90-day period ends, you must deploy your app as either Public or Private and upgrade your account as needed.
  [refer](https://api.surveymonkey.com/v3/docs?shell#public-apps).
     
     iv. Enable the below scopes. [refer](https://api.surveymonkey.com/v3/docs?shell#scopes).
@@ -70,7 +70,7 @@ To connect to Survey Monkey, Kore.ai uses OAuth authentication. The developer ca
  
  8. Click **Authorize**.
  
- 9. It will redirect you to the Survey Monkey login page. 
+ 9. It will redirect you to the SurveyMonkey login page. 
  
  10. Provide your credentials to connect with your Survey Monkey account.
    
@@ -98,7 +98,7 @@ This method requires the end user to provide credentials during the conversation
     
     ii. Navigate to **[https://developer.surveymonkey.com](https://developer.surveymonkey.com)** and log in.
 
-    iii. Anyone with a Survey Monkey account can register an app. Before the 90-day period ends, you must deploy your app as either Public or Private and upgrade your account as needed.
+    iii. Anyone with a SurveyMonkey account can register an app. Before the 90-day period ends, you must deploy your app as either Public or Private and upgrade your account as needed.
  [refer](https://api.surveymonkey.com/v3/docs?shell#public-apps).
     
     iv. Enable the below scopes. [refer](https://api.surveymonkey.com/v3/docs?shell#scopes).
