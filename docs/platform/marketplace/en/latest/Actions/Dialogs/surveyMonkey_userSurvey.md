@@ -1,5 +1,5 @@
 ---
-title: User Survey on Survey Monkey
+title: User Survey on SurveyMonkey
 
 permalink: platform/marketplace/en/latest/Actions/Integrations/surveyMonkey_userSurvey
 
