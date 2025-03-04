@@ -10,7 +10,7 @@ permalink: platform/marketplace/en/latest/Actions/Integrations/salesforce_leadCa
 Simplify lead collection, streamline user engagement, and derive growth with smooth, high-quality customer acquisition tools. Kore.ai XO platform allows you to connect with Salesforce quickly and seamlessly using OAuth V2.
 
 ### By authorizing this integration, you can:
-- Teach your chatbot to greet customers and ask tailored questions to generate leads in Freshsales. 
+- Teach your chatbot to greet customers and ask tailored questions to generate leads in Salesforce. 
 - Enhance lead nurturing and automate customer interactions without complex integrations
 
 **Note: Please ensure you use OAuth V2, as Salesforce only supports this authorization type.**
