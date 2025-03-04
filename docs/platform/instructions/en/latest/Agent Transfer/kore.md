@@ -8,16 +8,16 @@ Kore.ai XO Platform supports integration with Kore live agent support
 
 <container>
   
-**Step 1: Conversation Type**
+**Step 1: Default Agent System Selection**
  
- Select Conversation type
+Select Kore as Default Agent System for all bot channels or select Channel Specific Mapping to route conversations.
 
 </container>
 
 <container>
   
-**Step 2:**
+**Step 2: Save**
  
- Click Save
-
+ You can save the changes by clicking on 'Save' button.
+ 
 </container>

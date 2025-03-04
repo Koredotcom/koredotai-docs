@@ -24,39 +24,39 @@ permalink: platform/topic-guide/en/latest/Digital Views
   <summary>FAQs
   </summary>
 
-  <a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-views/">
+  <a class="doc-link" target="_blank" href="https://docs.kore.ai/xo/automation/use-cases/digital-skills/digital-views/">
  
   What are Digital Views?
 
 </a>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-views/#Configure_Widgets">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/xo/automation/use-cases/digital-skills/digital-views/#Configure_Widgets">
  
   How to configure a Widget?
 
 </a>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-views/#Setup">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/xo/automation/use-cases/digital-skills/digital-views/#Setup">
  
   How to setup a Panel?
 
 </a>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-views/#Set_up_Panels">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/xo/automation/use-cases/digital-skills/digital-views/#Set_up_Panels">
 
   How to include Widgets into a Panel?
 
 </a>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-views/#Set_up_Panels">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/xo/automation/use-cases/digital-skills/digital-views/#Set_up_Panels">
 
   How to test Panels?
 
 </a>
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-views/#Hosting">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/xo/automation/use-cases/digital-skills/digital-views/#Hosting">
 
  How to host Digital Views?
 
@@ -77,7 +77,7 @@ permalink: platform/topic-guide/en/latest/Digital Views
 </a>
 
 
-<a class="doc-link" target="_blank" href="https://developer.kore.ai/docs/bots/bot-builder-tool/digital-views/">
+<a class="doc-link" target="_blank" href="https://docs.kore.ai/xo/automation/use-cases/digital-skills/digital-views/">
  
 
 | Frontmatter | Required? |

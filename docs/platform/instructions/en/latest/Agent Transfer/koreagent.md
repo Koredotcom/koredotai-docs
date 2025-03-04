@@ -4,5 +4,20 @@ title: Kore Agent
 permalink: platform/instructions/en/latest/Agent Transfer/koreAgent
 
 ---
+Kore.ai XO Platform supports integration with Kore live agent support
 
-Kore.ai XO platform supports integration with Kore Agent System to handover the out going calls.  
+<container>
+  
+**Step 1: Default Agent System Selection**
+ 
+Select Kore as Default Agent System for all bot channels or select Channel Specific Mapping to route conversations.
+
+</container>
+
+<container>
+  
+**Step 2: Save**
+ 
+ You can save the changes by clicking on 'Save' button.
+ 
+</container>
