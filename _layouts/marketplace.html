@@ -259,7 +259,7 @@ $('.nested-details summary').on('click', function (e) {
     }
     document.addEventListener('DOMContentLoaded', getDimensions);
          //  $('body').perfectScrollbar();
-            new PerfectScrollbar('body');
+            new PerfectScrollbar(document.querySelector('.market-container'));
                window.parent.postMessage({
                 frameStatus:'loaded',
                 action:'guidedTour'
