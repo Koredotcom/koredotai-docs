@@ -1,7 +1,7 @@
 ---
 title: Add ticket comments-Hubspot
 
-permalink: platform/marketplace/en/latest/Actions/GaleAgentTemplates/GaleTL_0027
+permalink: platform/marketplace/en/latest/Actions/GaleAgentTemplates/Tool_027
 ---
 ### Description
 

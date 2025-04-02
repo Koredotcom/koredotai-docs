@@ -1,7 +1,7 @@
 ---
 title: Add ticket tags-Hubspot
 
-permalink: platform/marketplace/en/latest/Actions/GaleAgentTemplates/GaleTL_0028
+permalink: platform/marketplace/en/latest/Actions/GaleAgentTemplates/Tool_028
 ---
 ### Description
 

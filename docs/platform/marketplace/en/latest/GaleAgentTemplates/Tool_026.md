@@ -1,7 +1,7 @@
 ---
 title: Get existing tag-Hubspot
 
-permalink: platform/marketplace/en/latest/Actions/GaleAgentTemplates/GaleTL_0026
+permalink: platform/marketplace/en/latest/Actions/GaleAgentTemplates/Tool_026
 ---
 ### Description
 
