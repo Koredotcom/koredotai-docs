@@ -1,7 +1,7 @@
 ---
 title: Get ticket details-Hubspot
 
-permalink: platform/marketplace/en/latest/Actions/GaleAgentTemplates/GaleTL_0025
+permalink: platform/marketplace/en/latest/Actions/GaleAgentTemplates/Tool_025
 ---
 ### Description
 
