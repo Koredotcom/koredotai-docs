@@ -34,9 +34,7 @@ To make the integration process smoother for customers, you can pre-authorize it
 **Basic**
  
 1. Provide API key and API secret to authorize the integration.  
-
 2. Follow the steps below to get the required credentials from your Acuity dashboard.
- 
  
       i. Login to your Acuity account at Acuity Scheduling.  https://acuityscheduling.com/
       
