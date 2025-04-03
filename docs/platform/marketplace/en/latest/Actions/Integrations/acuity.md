@@ -23,9 +23,10 @@ To connect to a Acuity account, Kore.ai uses Basic Auth. The developer can use p
 
 **Pre-authorize the Integration**
  
- To make the integration process smoother for customers, you can pre-authorize it by providing the necessary authorization credentials to obtain the access token.
+To make the integration process smoother for customers, you can pre-authorize it by providing the necessary authorization credentials to obtain the access token.
 
 **Basic**
+ **Basic**
  
 1. Provide API key and API secret to authorize the integration.  
 
