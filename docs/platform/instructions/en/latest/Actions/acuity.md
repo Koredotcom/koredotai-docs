@@ -11,6 +11,7 @@ permalink: platform/instructions/en/latest/Actions/acuity
 **Overview**
 
 Connect your Acuity Scheduling account with the Kore.ai XO Platform to streamline appointment scheduling and automation. The platform integrates with Acuity using Basic Auth, allowing you to pre-authorize the connection or enable end users to authenticate during conversations.
+
 </container>
 
 <container>
