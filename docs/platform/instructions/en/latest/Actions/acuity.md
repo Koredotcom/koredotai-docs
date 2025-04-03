@@ -11,11 +11,13 @@ permalink: platform/instructions/en/latest/Actions/acuity
 **Overview**
 
 Connect your Acuity Scheduling account with the Kore.ai XO Platform to streamline appointment scheduling and automation. The platform integrates with Acuity using Basic Auth, allowing you to pre-authorize the connection or enable end users to authenticate during conversations.
+
 </container>
 
 <container>
 
 **Authorization**
+
 To connect to a Acuity account, Kore.ai uses Basic Auth. The developer can use pre-authorized credentials during the configuration process or let the end user authorize during the conversation by creating an authorization profile. 
  
  
@@ -30,7 +32,6 @@ To connect to a Acuity account, Kore.ai uses Basic Auth. The developer can use p
 To make the integration process smoother for customers, you can pre-authorize it by providing the necessary authorization credentials to obtain the access token.
 
 **Basic**
- **Basic**
  
 1. Provide API key and API secret to authorize the integration.  
 
