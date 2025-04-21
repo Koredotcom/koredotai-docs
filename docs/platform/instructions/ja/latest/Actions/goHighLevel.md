@@ -1,14 +1,20 @@
 ---
 title: GoHighLevel
 
-permalink: platform/instructions/en/latest/Actions/goHighLevel_INS
+permalink: platform/instructions/en/latest/Actions/goHighLevel
 
 ---
 
 <base target="_blank">
+<container>
 
+**Overview**
 
+Connect your GoHighLevel account with the Kore.ai XO Platform to automate contact management within conversations. Use custom OAuth to enable secure, seamless integration for retrieving and updating contact data.
 
+</container>
+
+<container>
 
 **Authorization**
  
@@ -22,6 +28,8 @@ To connect to a HighLevel account, Kore.ai uses OAuth. The developer can use pre
 
 **Pre-authorize the Integration**
  
+ To make the integration process smoother for customers, you can pre-authorize it by providing the necessary authorization credentials to obtain the access token.
+
  To make the integration process smoother for customers, you can pre-authorize it by providing the necessary authorization credentials to obtain the access token.
 
 **OAuth - Custom**
@@ -120,3 +128,4 @@ This method requires the end user to provide credentials during the conversation
  
 8. Click **Enable**.
  
+</container>
