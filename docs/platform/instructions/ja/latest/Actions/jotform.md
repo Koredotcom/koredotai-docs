@@ -1,15 +1,20 @@
-
 ---
 title: Jotform
 
-permalink: platform/instructions/en/latest/Actions/jotform_INS
+permalink: platform/instructions/en/latest/Actions/jotform
 
 ---
 
 <base target="_blank">
+<container>
 
+**Overview**
 
+Connect your Jotform account with the Kore.ai XO Platform to automate survey data collection and management. Use OAuth to securely retrieve form responses and streamline user interactions within conversations.
 
+</container>
+
+<container>
 
 **Authorization**
  
@@ -66,3 +71,4 @@ This method requires the end user to provide credentials during the conversation
  
  6.  Click Enable.
  
+</container>
