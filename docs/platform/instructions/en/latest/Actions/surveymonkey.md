@@ -1,15 +1,20 @@
-
 ---
 title: SurveyMonkey
 
-permalink: platform/instructions/en/latest/Actions/surveyMonkey_INS
+permalink: platform/instructions/en/latest/Actions/surveyMonkey
 
 ---
 
 <base target="_blank">
+<container>
 
+**Overview**
 
+Connect your SurveyMonkey account with the Kore.ai XO Platform to automate survey distribution and response collection. Use OAuth to securely access survey data and enhance user engagement through conversational interactions.
 
+</container>
+
+<container>
 
 **Authorization**
  
@@ -129,3 +134,5 @@ This method requires the end user to provide credentials during the conversation
  7. Select the created Authorization Profile to complete integration.
  
  8. Click **Enable**.
+ 
+</container>
