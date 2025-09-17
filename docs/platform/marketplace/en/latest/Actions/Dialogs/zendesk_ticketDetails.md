@@ -17,6 +17,6 @@ Introducing seamless integration between your Zendesk instance and Kore.ai XO Pl
 
 **Note: Please ensure you are using OAuth V2, as Zendesk will discontinue API Key authorization mechanism after December 31, 2025. If you haven’t yet migrated from API Key to OAuth, please do so to maintain uninterrupted access. For more information, refer to the full documentation [here](https://support.zendesk.com/hc/en-us/articles/7386291855386-Announcing-the-deprecation-of-password-access-for-APIs).**
 
-**Also, make sure agent hand-off is set up for this template. You can find instructions on configuring agent hand-off [here](https://docs.kore.ai/xo/how-tos/build-a-banking-assistant/deploy-the-assistant/configure-an-agent-transfer/?h=agent+transfer).**
+**Also, make sure agent hand-off is set up for this template. You can find instructions on configuring agent hand-off [here](https://docs.kore.ai/xo/app-settings/integrations/agents/agent-transfer-integrations/).**
 
 Experience streamlined ticket tracking and enhanced efficiency with our integrated solution. Elevate your customer support experience today!
