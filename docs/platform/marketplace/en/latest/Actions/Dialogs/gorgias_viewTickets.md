@@ -16,6 +16,6 @@ Introducing seamless integration between your Gorgias instance and Kore.ai XO Pl
 
 **Note: User Sub Domain, Username and API Key are required for Gorgias to connect successfully.**
 
-**Please ensure that agent hand-off is configured for this template. Learn how to configure agent hand-off [here](https://docs.kore.ai/xo/how-tos/build-a-banking-assistant/deploy-the-assistant/configure-an-agent-transfer/?h=agent+transfer).**
+**Please ensure that agent hand-off is configured for this template. Learn how to configure agent hand-off [here](https://docs.kore.ai/xo/app-settings/integrations/agents/agent-transfer-integrations/).**
 
 Experience streamlined ticket tracking and enhanced efficiency with our integrated solution. Elevate your customer support experience today!
