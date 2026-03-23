@@ -19,7 +19,7 @@ Example: If your URL is `https://koreai-1234.zendesk.com`, your subdomain is `ko
 
 4. Paste this value under the **Subdomain** field in the configuration tab.
 
- ![img](/images/zendesk_subdomain.png)
+ ![img](/koredotai-docs/images/zendesk_subdomain.png)
 
 </container>
 
@@ -32,7 +32,7 @@ Example: If your URL is `https://koreai-1234.zendesk.com`, your subdomain is `ko
 3. Generate or copy the **API Key ID** and the **API Secret**.
 4. Paste these values under the **API Key** and **API Secret** fields in the configuration tab.
 
- ![img](/images/zendesk_conversations_api.png)
+ ![img](/koredotai-docs/images/zendesk_conversations_api.png)
 
 </container>
 
@@ -45,7 +45,7 @@ Example: If your URL is `https://koreai-1234.zendesk.com`, your subdomain is `ko
 3. Generate or copy the **API Token** and the **Admin Email ID**.
 4. Paste these values under the **Zendesk API Token** and **Zendesk Email** fields in the configuration tab.
 
- ![img](/images/zendesk_api_tokens.png)
+ ![img](/koredotai-docs/images/zendesk_api_tokens.png)
 
 </container>
 
@@ -66,7 +66,7 @@ Ticket field keys (labels visible to agents in the Zendesk Agent View) must be c
 - **Zendesk Label for Conversation ID** — e.g., `converzationId`
 - **Zendesk Label for Conversation Summary** — e.g., `converzationSummary`
 
- ![img](/images/zendesk_ticket_fields.png)
+ ![img](/koredotai-docs/images/zendesk_ticket_fields.png)
 </container>
 
 <container>
@@ -80,7 +80,7 @@ Ticket field keys (labels visible to agents in the Zendesk Agent View) must be c
 
 **Note:** Providing incorrect event names will prevent events from being delivered to the configured URL.
 
- ![img](/images/zendesk_webhook_subscriptions.png)
+ ![img](/koredotai-docs/images/zendesk_webhook_subscriptions.png)
 
 </container>
 
