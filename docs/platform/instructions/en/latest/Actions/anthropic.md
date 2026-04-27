@@ -15,8 +15,7 @@ Anthropic develops Claude, a family of advanced LLMs for natural language unders
 **Supported models**
 
 - Claude Opus 4.6  
-- Claude Sonnet 4.6 / 4.5  
-- Claude Opus 4.5  
+- Claude Sonnet 4.6 / 4.5    
 - Claude Haiku 4.5  
 
 </container>
