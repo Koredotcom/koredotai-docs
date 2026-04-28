@@ -18,7 +18,7 @@
 }
 .instruction-container #tg-sb-content container p{
     font-weight: 400 !important;
-    font-size: 12px !important;
+    font-size: 14px !important;
     color: #777A80 ;
     padding-top: 0 !important;
     margin: 0;
@@ -26,7 +26,7 @@
 }
 .instruction-container #tg-sb-content container p strong{
     font-weight: 600 !important;
-    font-size: 12px !important;
+    font-size: 14px !important;
     color: #121314 !important;
     margin: 0 !important;
     padding-bottom: 5px !important;
@@ -66,7 +66,7 @@
 }
 .instruction-container #tg-sb-content container p:nth-child(1) strong{
     font-weight: 600 !important;
-    font-size: 12px !important;
+    font-size: 14px !important;
     color: #121314 !important;
     margin: 0 !important;
     padding-bottom: 10px !important;
@@ -85,7 +85,7 @@
 .instruction-container #tg-sb-content container p read-more,
 .instruction-container #tg-sb-content container p read-less{
     font-weight: 500;
-    font-size: 12px;
+    font-size: 14px;
     color: #0D6EFD;
     cursor: pointer;
 }
@@ -94,7 +94,7 @@
 read-more,
 read-less{
     font-weight: 500;
-    font-size: 12px;
+    font-size: 14px;
     color: #0D6EFD;
     cursor: pointer;
 }
@@ -102,7 +102,7 @@ read-less{
 read-more-lines,
 read-more-paragraph{
     font-weight: 400;
-    font-size: 12px;
+    font-size: 14px;
     color: #121314;
     display: block;
 }
