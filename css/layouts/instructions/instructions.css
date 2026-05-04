@@ -145,6 +145,7 @@ read-more-paragraph{
       text-align: left;
       border: 1px solid #D1D3D8;
       font-size: 13px;
+        color: #121314;
     }
     .instruction-container #tg-sb-content container table td {
       padding: 8px 12px;
