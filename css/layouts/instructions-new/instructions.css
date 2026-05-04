@@ -1,0 +1,129 @@
+/*
+ * ============================================================
+ * Kore.ai Documentation CSS — Proposed Changes
+ * ============================================================
+ * File to update: (your existing documentation CSS file)
+ * Prepared for: GitHub repo update
+ * Summary of changes:
+ *   1. Body text:          12px  →  14px
+ *   2. Section headings:   12px  →  16px  (** in markdown)
+ *   3. Inline bold:        12px  →  14px  (** in markdown, inside list items)
+ *   4. New: em = 14px bold non-italic (* in markdown)
+ *   5. Read more/less:     12px  →  14px
+ *   6. Collapsible blocks: 12px  →  14px
+ *   7. Links:              12px  →  14px
+ *   8. Code badges:        11px  →  14px, padding 1px 4px → 4px 8px
+ * ============================================================
+ */
+
+
+/* ── 1. Body text: 12px → 14px ── */
+.instruction-container #tg-sb-content container p {
+    font-weight: 400 !important;
+    font-size: 14px !important;          /* was: 12px */
+    color: #777A80;
+    padding-top: 0 !important;
+    margin: 0;
+    padding-bottom: 15px !important;
+}
+
+
+/* ── 2. Inline bold (** inside list items): 12px → 14px ── */
+.instruction-container #tg-sb-content container p strong {
+    font-weight: 600 !important;
+    font-size: 14px !important;          /* was: 12px */
+    color: #121314 !important;
+    margin: 0 !important;
+}
+
+
+/* ── 3. Section titles (** as direct child of container p): 12px → 16px ── */
+/*
+ * This selector targets only standalone heading paragraphs like:
+ *   <p><strong>Authorization</strong></p>
+ * It does NOT affect inline bold inside list items.
+ */
+.instruction-container #tg-sb-content container > p > strong {
+    font-size: 16px !important;          /* was: 12px */
+    padding-bottom: 5px !important;
+    padding-top: 10px;
+    display: inline-block;
+}
+
+.instruction-container #tg-sb-content container p:nth-child(1) strong {
+    font-weight: 600 !important;
+    font-size: 16px !important;          /* was: 12px */
+    display: inline-block;
+    color: #121314 !important;
+    margin: 0 !important;
+    padding-bottom: 10px !important;
+    padding-top: 0;
+}
+
+
+/* ── 4. NEW RULE: * in markdown → <em> → 14px bold, non-italic ── */
+/*
+ * Convention:
+ *   **text** = <strong> = 16px bold  →  section headings/titles
+ *   *text*   = <em>     = 14px bold  →  inline body emphasis (not italic)
+ *
+ * Usage in markdown:
+ *   - API keys are *not stored in backend configurations*
+ *   - Keys must be provided *at runtime or via secure external mechanisms*
+ */
+.instruction-container #tg-sb-content container em {
+    font-weight: 600;
+    font-style: normal;                  /* removes default italic */
+    font-size: 14px;
+    color: #121314;
+}
+
+
+/* ── 5. Read more / Read less links: 12px → 14px ── */
+.instruction-container #tg-sb-content container p read-more,
+.instruction-container #tg-sb-content container p read-less {
+    font-weight: 500;
+    font-size: 14px;                     /* was: 12px */
+    color: #0D6EFD;
+    cursor: pointer;
+}
+
+.instruction-container #tg-sb-content read-more-paragraph read-more,
+.instruction-container #tg-sb-content read-more-paragraph read-less,
+read-more,
+read-less {
+    font-weight: 500;
+    font-size: 14px;                     /* was: 12px */
+    color: #0D6EFD;
+    cursor: pointer;
+}
+
+
+/* ── 6. Collapsible blocks: 12px → 14px ── */
+.instruction-container #tg-sb-content read-more-paragraph,
+read-more-lines,
+read-more-paragraph {
+    font-weight: 400;
+    font-size: 14px;                     /* was: 12px */
+    color: #121314;
+    display: block;
+}
+
+
+/* ── 7. Links: 12px → 14px ── */
+.instruction-container #tg-sb-content container a {
+    color: #0D6EFD;
+    text-decoration: none;
+    font-size: 14px;                     /* was: 12px */
+}
+
+
+/* ── 8. Code badges: 11px → 14px, padding increased ── */
+.instruction-container #tg-sb-content container code {
+    background: #E8EAED;
+    border-radius: 3px;
+    padding: 4px 8px;                    /* was: 1px 4px */
+    font-size: 14px;                     /* was: 11px */
+    font-family: "SFMono-Regular", Consolas, monospace;
+    color: #121314;
+}
