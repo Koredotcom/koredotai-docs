@@ -8,70 +8,83 @@
 .instruction-container .row{
     margin: 0;
 }
-.instruction-container #tg-sb-content container{
-    display: flex;
-    flex-direction: column;
-    background: #F8F9FA;
-    border-radius: 4px;
-    padding: 20px;
-    margin-bottom: 20px;
-}
-.instruction-container #tg-sb-content container p{
-    font-weight: 400 !important;
-    font-size: 12px !important;
-    color: #777A80 ;
-    padding-top: 0 !important;
-    margin: 0;
-    padding-bottom: 15px !important;
-}
-.instruction-container #tg-sb-content container p strong{
-    font-weight: 600 !important;
-    font-size: 12px !important;
-    color: #121314 !important;
-    margin: 0 !important;
-    padding-bottom: 5px !important;
-    padding-top: 10px;
-    display: inline-block;
-}
-.instruction-container #tg-sb-content container ul li p{
-    padding-bottom: 5px !important;
-}
-.instruction-container #tg-sb-content container ul li p strong{
-    padding-bottom: 0px !important;
-    padding-top: 0px !important;
-}
-.instruction-container #tg-sb-content container ul li p:nth-child(1){
-    padding-bottom: 5px !important;
-}
-.instruction-container #tg-sb-content container ul li p:nth-child(1) strong{
-    padding-bottom: 0px !important;
-    padding-top: 0px !important;
-}
-.instruction-container #tg-sb-content container ol li p:nth-child(1){
-    padding-bottom: 5px !important;
-}
-.instruction-container #tg-sb-content container ol li p:nth-child(1) strong{
-    padding-bottom: 0px !important;
-    padding-top: 0px !important;
-}
-.instruction-container #tg-sb-content container ol li p{
-    padding-bottom: 5px !important;
-}
-.instruction-container #tg-sb-content container ol li p strong{
-    padding-bottom: 0px !important;
-    padding-top: 0px !important;
-}
-.instruction-container #tg-sb-content container p:nth-child(1) {
-    color: #121314 !important;
-}
-.instruction-container #tg-sb-content container p:nth-child(1) strong{
-    font-weight: 600 !important;
-    font-size: 12px !important;
-    color: #121314 !important;
-    margin: 0 !important;
-    padding-bottom: 10px !important;
-    padding-top: 0;
-}
+ .instruction-container #tg-sb-content container {
+      display: flex;
+      flex-direction: column;
+      background: #F8F9FA;
+      border-radius: 4px;
+      padding: 20px;
+      margin-bottom: 20px;
+    }
+    .instruction-container #tg-sb-content container p {
+      font-weight: 400 !important;
+      font-size: 14px !important;
+      color: #777A80;
+      padding-top: 0 !important;
+      margin: 0;
+      padding-bottom: 15px !important;
+    }
+    .instruction-container #tg-sb-content container p strong {
+      font-weight: 600 !important;
+      font-size: 14px !important;
+      color: #121314 !important;
+      margin: 0 !important;
+    }
+    .instruction-container #tg-sb-content container > p > strong {
+      font-size: 16px !important;
+      padding-bottom: 5px !important;
+      padding-top: 10px;
+      display: inline-block;
+    }
+    .instruction-container #tg-sb-content container p:nth-child(1) {
+      color: #121314 !important;
+    }
+    .instruction-container #tg-sb-content container p:nth-child(1) strong {
+      font-weight: 600 !important;
+      font-size: 16px !important;
+      display: inline-block;
+      color: #121314 !important;
+      margin: 0 !important;
+      padding-bottom: 10px !important;
+      padding-top: 0;
+    }
+    .instruction-container #tg-sb-content container em {
+      font-weight: 600;
+      font-style: normal;
+      font-size: 14px;
+      color: #121314;
+    }
+    .instruction-container #tg-sb-content container a {
+      color: #0D6EFD;
+      text-decoration: none;
+      font-size: 14px;
+    }
+    .instruction-container #tg-sb-content container code {
+      background: #E8EAED;
+      border-radius: 3px;
+      padding: 4px 8px;
+      font-size: 13px;
+      font-family: "SFMono-Regular", Consolas, monospace;
+      color: #121314;
+      word-break: break-all;
+    }
+    .instruction-container #tg-sb-content container ul,
+    .instruction-container #tg-sb-content container ol {
+      margin: 0 0 10px 0;
+      padding-left: 20px;
+      font-size: 14px;
+      color: #777A80;
+    }
+    .instruction-container #tg-sb-content container ul li,
+    .instruction-container #tg-sb-content container ol li {
+      font-size: 14px;
+      color: #777A80;
+      margin-bottom: 6px;
+    }
+    .instruction-container #tg-sb-content container ul li ul,
+    .instruction-container #tg-sb-content container ol li ul {
+      margin-top: 6px;
+    }
 .instruction-container #tg-sb-content container p img{
     max-width: 100%;
     margin-top: 10px;
@@ -79,13 +92,13 @@
 }
 .instruction-container #tg-sb-content container hr, hr{
     margin: 5px 0 25px;
-    border-top: 1px solid #E3E4E6;
-    width: 100%;
+      border-top: 1px solid #E3E4E6;
+      width: 100%;
 }
 .instruction-container #tg-sb-content container p read-more,
 .instruction-container #tg-sb-content container p read-less{
     font-weight: 500;
-    font-size: 12px;
+    font-size: 14px;
     color: #0D6EFD;
     cursor: pointer;
 }
@@ -94,7 +107,7 @@
 read-more,
 read-less{
     font-weight: 500;
-    font-size: 12px;
+    font-size: 14px;
     color: #0D6EFD;
     cursor: pointer;
 }
@@ -102,7 +115,7 @@ read-less{
 read-more-lines,
 read-more-paragraph{
     font-weight: 400;
-    font-size: 12px;
+    font-size: 14px;
     color: #121314;
     display: block;
 }
@@ -112,3 +125,31 @@ read-more-paragraph{
     -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
 }
+
+    .instruction-container #tg-sb-content container table td code {
+      font-size: 12px;
+    }
+
+    /* Tables */
+    .instruction-container #tg-sb-content container table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 13px;
+      margin-bottom: 16px;
+      color: #121314;
+    }
+    .instruction-container #tg-sb-content container table th {
+      background: #E8EAED;
+      font-weight: 600;
+      padding: 8px 12px;
+      text-align: left;
+      border: 1px solid #D1D3D8;
+      font-size: 13px;
+    }
+    .instruction-container #tg-sb-content container table td {
+      padding: 8px 12px;
+      border: 1px solid #D1D3D8;
+      vertical-align: top;
+      font-size: 13px;
+      color: #777A80;
+    }
