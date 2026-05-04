@@ -133,10 +133,12 @@ read-more-paragraph{
     /* Tables */
     .instruction-container #tg-sb-content container table {
       width: 100%;
+      max-width: 100% !important;
       border-collapse: collapse;
       font-size: 13px;
       margin-bottom: 16px;
       color: #121314;
+      border: 0 !important;
     }
     .instruction-container #tg-sb-content container table th {
       background: #E8EAED;
