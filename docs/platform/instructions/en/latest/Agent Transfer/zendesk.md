@@ -138,6 +138,16 @@ Under the **Conversation Type** field, choose one of the following:
 
 Click **Save** to enable the Zendesk integration on the Kore.ai XO Platform.
 
+**Step 11: Agent Reply Webhook Event Authentication**
+
+Webhook events are authenticated using a shared secret before they are processed.
+
+To configure authentication, copy the **Shared secret** from the **Details** tab of the corresponding Zendesk integration and paste it into the designated input field.
+
+**Note:** Ensure that you use the shared secret associated with the **Custom Integration** being configured, rather than the secret from any other integration.
+
+![img](/koredotai-docs/images/zendesk_webhook_Authentication.png)
+
 </container>
 
 <container>
